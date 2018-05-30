@@ -19,6 +19,7 @@ public class Decode {
     public static Map<String, Set<Rule>>  nonTerminalIdentitiesRule = new HashMap<String, Set<Rule>>();
 	private static Set<String> nonTerminalsSymbols;
 	private static Map<Rule, Set<List<Rule>>> ruleSetMap;
+	private static Set<Rule> unitRules;
 
     /**
      * Implementation of a singleton pattern
@@ -38,6 +39,7 @@ public class Decode {
 			nonTerminalToRules = g.getNonTerminalToRules();
 
             ruleSetMap = g.getRuleToSources();
+            unitRules = g.getUnitRules();
 		}
 
 		return m_singDecoder;
@@ -75,28 +77,6 @@ public class Decode {
 					Index index = new Index(rule.getLHS().toString(), i + 1, i + 1,
                             rule);
 
-                    Set<List<Rule>> sources = ruleSetMap.get(rule);
-                    List<Rule> bestSource = null;
-                    double sourceProbMin;
-                    if(sources != null && sources.size() > 0)
-                    {
-                        sourceProbMin = Double.MAX_VALUE;
-                        for(List<Rule> source : sources)
-                        {
-                           double current = sourceProb(source);
-
-                           if(current < sourceProbMin)
-                           {
-                               sourceProbMin = current;
-                               bestSource = source;
-                           }
-                        }
-                    }
-                    else
-                    {
-                        sourceProbMin = 0;
-                    }
-
 					Double prob = indexMinProb.get(index);
 
 					if(prob == null || rule.getMinusLogProb() < prob)
@@ -104,57 +84,127 @@ public class Decode {
 						indexMinProb.put(index, rule.getMinusLogProb());
 
                         indexBackPointer.put(index, new BestSplit(rule, -1,
-                                bestSource));
+                                null, null));
 					}
 				}
-			}
 
+				boolean added;
+
+				do
+				{
+                    added = false;
+                    for(Rule rule : unitRules)
+                    {
+                        String left = rule.getLHS().getSymbols().get(0);
+                        String right = rule.getRHS().getSymbols().get(0);
+
+                        Index outerIndex = new Index(left, i + 1, i + 1,
+                                rule);
+
+                        Index innerIndex = new Index(right, i + 1, i + 1,
+                                rule);
+
+                        Double p1 = indexMinProb.get(innerIndex);
+
+                        if(p1 != null)
+                        {
+                            double prob = p1 + rule.getMinusLogProb();
+
+                            Double p2 = indexMinProb.get(outerIndex);
+
+                            if(p2 == null || p2 > prob)
+                            {
+                                indexMinProb.put(outerIndex, prob);
+
+                                indexBackPointer.put(outerIndex, new BestSplit(rule, -1,
+                                        null, innerIndex));
+
+                                added = true;
+                            }
+                        }
+
+                    }
+                }
+                while (added);
+			}
 		}
 
+		for(int l = 1; l < input.size(); l++) {
 
-
-
-		for(int l = 1; l < input.size(); l++)
-		{
-
-			for(int i =  1; i  < input.size(); i ++)
-			{
-				int j = i + l;
-                if(j > input.size())
-                {
-                   continue;
+            for (int i = 1; i < input.size(); i++) {
+                int j = i + l;
+                if (j > input.size()) {
+                    continue;
                 }
 
-				for(String nonTerminal : nonTerminalToRules.keySet())
-				{
-
-					Set<Index> visited = new HashSet<>();
-                    RecCkyRes  res = recCky(i, j, nonTerminal, indexMinProb, visited);
+                for (String nonTerminal : nonTerminalToRules.keySet())
+                {
 
 
-                    if(res == null)
-                    {
+
+                    Set<Index> visited = new HashSet<>();
+                    RecCkyRes res = recCky(i, j, nonTerminal, indexMinProb, visited, i == 1 && j == input.size());
+
+
+                    if (res == null) {
                         continue;
                     }
 
 
                     double prob = res.getProb();
 
-					Index index
-							= new Index(nonTerminal, i, j, res.getRule());
+                    Index index
+                            = new Index(nonTerminal, i, j, res.getRule());
 
-					Double hasProb = indexMinProb.get(index);
+                    Double hasProb = indexMinProb.get(index);
 
-					if(hasProb == null || hasProb > prob)
-					{
-						indexMinProb.put(index, prob);
+                    if (hasProb == null || hasProb > prob) {
+                        indexMinProb.put(index, prob);
 
                         indexBackPointer.put(index, new BestSplit(res.getRule(), res.getSplitPoint(),
-                                res.getSource()));
-					}
-				}
-			}
-		}
+                                res.getSource(), null));
+                    }
+                }
+
+                boolean added;
+
+                do {
+                    added = false;
+
+                    for (Rule rule : unitRules) {
+
+                        Index outerIndex = new Index(rule.getLHS().getSymbols().get(0), i, j, null);
+
+
+                        double ruleProb = rule.getMinusLogProb();
+
+                        Index innerIndex = new Index(rule.getRHS().getSymbols().get(0),
+                                i, j, rule);
+
+                        Double p1 = indexMinProb.get(innerIndex);
+
+                        BestSplit innerSplit = indexBackPointer.get(innerIndex);
+
+                        if (p1 != null) {
+                            double pp = ruleProb + p1;
+                            Double currentProb = indexMinProb.get(outerIndex);
+
+                            if (currentProb == null || currentProb > pp) {
+                                indexMinProb.put(outerIndex, pp);
+                                indexBackPointer.put(outerIndex, new BestSplit(rule,
+                                        innerSplit.getSplitPoint(), null, innerIndex));
+
+                                added = true;
+                            }
+
+                        } else {
+                            System.out.println("dd");
+                        }
+                    }
+                }
+                while (added);
+            }
+        }
 
         Index bestAll = null;
         Double bestAllProb = null;
@@ -176,11 +226,11 @@ public class Decode {
         }
 
 
-        Tree t = new Tree(new Node("TOP"));
-        Node preTerminal = new Node("S");
-        t.getRoot().addDaughter(preTerminal);
+        Node top = new Node("TOP");
+        Tree t = new Tree(top);
 
-        buildTRee(bestAll, preTerminal, input, indexBackPointer);
+
+        buildTRee(bestAll, top, input, indexBackPointer);
 
         String x1 = t.toString();
 
@@ -211,19 +261,29 @@ public class Decode {
         {
             BestSplit split1 = indexBackPointer.get(index);
 
-            String word = input.get(index.getStartIndex()-1);
-            Set<Rule> rules = m_mapLexicalRules.get(word);
-
-            for(Rule rule : rules)
+            Node myParent = parent;
+            do
             {
-                if(rule.getLHS().toString().equals(index.getRuleLeftSide()))
-                {
-                   System.out.println("sss");
-                }
-            }
+                Node right = new Node(split1.getRule().getRHS().getSymbols().get(1));
+                myParent.addDaughter(right);
+                myParent = right;
 
+                if(split1.getSourceIndex() != null)
+                {
+                    split1 = indexBackPointer.get(split1.getSourceIndex());
+                }
+                else
+                {
+                    split1 = null;
+                }
+
+            }
+            while (split1 != null);
+
+            String word = input.get(index.getStartIndex()-1);
             Terminal terminal = new Terminal(word);
-            parent.addDaughter(terminal);
+
+            myParent.addDaughter(terminal);
         }
         else
         {
@@ -261,15 +321,28 @@ public class Decode {
             if(sources != null && sources.size() > 0)
             {
                 besrSourceProb = Double.MAX_VALUE;
-                double current = 0;
+                double current;
                 for(List<Rule> ruleSource : sources)
                 {
-                    current = sourceProb(ruleSource);
-                }
+                    if(ruleSource.size() == 0)
+                    {
+                        current = 0;
+                    }
+                    else if(Collections.disjoint(ruleSource, used))
+                    {
+                        List<Rule>  currentUsed = new ArrayList<>(used);
+                        currentUsed.addAll(ruleSource);
+                        current = sourceProb(ruleSource, currentUsed);
+                    }
+                    else
+                    {
+                        current = Double.MAX_VALUE;
+                    }
 
-                if(current < besrSourceProb)
-                {
-                    besrSourceProb = current;
+                    if(current < besrSourceProb)
+                    {
+                        besrSourceProb = current;
+                    }
                 }
             }
             else
@@ -283,7 +356,7 @@ public class Decode {
         return prob;
     }
 
-	private RecCkyRes recCky(int startIndex, int endIndex, String rule, Map<Index, Double> indexMinProb, Set<Index> visited)
+	private RecCkyRes recCky(int startIndex, int endIndex, String rule, Map<Index, Double> indexMinProb, Set<Index> visited, boolean isTop)
 	{
 		Index index = new Index(rule, startIndex, endIndex, null);
 		visited.add(index);
@@ -307,6 +380,15 @@ public class Decode {
 				{
 					for(Rule rule1 : matchedRules)
 					{
+
+					    if(isTop)
+                        {
+                            if(!rule1.isTop())
+                            {
+                                continue;
+                            }
+                        }
+
 						if(rule1.isLexical())
 						{
 							continue;
@@ -344,28 +426,30 @@ public class Decode {
 
 							double ruleProb = rule1.getMinusLogProb();
 
-                            Set<List<Rule>> sources = ruleSetMap.get(rule1);
+//                            Set<List<Rule>> sources = ruleSetMap.get(rule1);
+//
+//                            double sourceProb = 0;
+//                            List<Rule> bestSource = null;
+//                            if(sources != null && sources.size() > 0)
+//                            {
+//                                double minFound = Double.MAX_VALUE;
+//                                for (List<Rule> source : sources)
+//                                {
+//                                  List<Rule> sourceUsed =  new ArrayList<Rule>();
+//                                  sourceUsed.add(rule1);
+//                                  double currentMin = sourceProb(source, sourceUsed);
+//
+//                                  if(minFound > currentMin)
+//                                  {
+//                                      minFound = currentMin;
+//                                      bestSource = source;
+//                                  }
+//
+//                                }
+//                            }
 
-                            double sourceProb = 0;
-                            List<Rule> bestSource = null;
-                            if(sources != null && sources.size() > 0)
-                            {
-                                double minFound = Double.MAX_VALUE;
-                                for (List<Rule> source : sources)
-                                {
-                                  double currentMin = sourceProb(source);
 
-                                  if(minFound > currentMin)
-                                  {
-                                      minFound = currentMin;
-                                      bestSource = source;
-                                  }
-
-                                }
-                            }
-
-
-                            double dupProb = leftRes + rightRes + ruleProb + sourceProb;
+                            double dupProb = leftRes + rightRes + ruleProb; //+ sourceProb;
 
                             if(minProbFound == null || minProbFound > dupProb)
                             {
@@ -373,7 +457,7 @@ public class Decode {
 
                                 bestRule = rule1;
                                 splitIndex = runningIndex;
-                                bestSourceGlob = bestSource;
+                                //bestSourceGlob = bestSource;
                             }
 						}
 

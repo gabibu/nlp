@@ -25,6 +25,7 @@ public class Grammar {
 	protected Set<String> m_setStartSymbols = new HashSet<String>();
 	protected Set<String> m_setTerminalSymbols = new HashSet<String>();
 	protected Set<String> m_setNonTerminalSymbols = new HashSet<String>();
+	private Set<Rule> unitRules;
 
 	protected Set<Rule> m_setSyntacticRules = new HashSet<Rule>();
 	protected Set<Rule> m_setLexicalRules = new HashSet<Rule>();
@@ -44,7 +45,14 @@ public class Grammar {
 
 	protected Map<String, Set<Rule>> nonTerminalToRules = new HashMap<String, Set<Rule>>();
 
-		
+	public Set<Rule> getUnitRules() {
+		return unitRules;
+	}
+
+	public void setUnitRules(Set<Rule> unitRules) {
+		this.unitRules = unitRules;
+	}
+
 	public Grammar() {
 		super();
 	}

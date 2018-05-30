@@ -97,13 +97,23 @@ public class Train {
 			}
 		}
 
-        Pair<List<Rule>, Map<Rule, Set<List<Rule>>>> pair = fixUnitRules(binarizedRules);
-        List<Rule> cnfRules = pair.getKey();
-        Map<Rule, Set<List<Rule>>> ruleToSources = pair.getValue();
+        //Pair<List<Rule>, Map<Rule, Set<List<Rule>>>> pair = fixUnitRules(binarizedRules);
+        //List<Rule> cnfRules = pair.getKey();
+        //Map<Rule, Set<List<Rule>>> ruleToSources = pair.getValue();
 
-        binarizedGrammar.setRuleToSources(ruleToSources);
-        binarizedGrammar.addAll(cnfRules);
-		setLogProb(binarizedGrammar);
+        //binarizedGrammar.setRuleToSources(binarizedRules);
+
+        binarizedGrammar.addAll(binarizedRules);
+        setLogProb(binarizedGrammar);
+
+
+
+        Pair<Set<Rule>, Map<Rule, Set<List<Rule>>>> pair = computeUnitPairs(binarizedRules);
+
+        Set<Rule> unitRules = pair.getKey();
+        binarizedGrammar.setUnitRules(unitRules);
+        binarizedGrammar.setRuleToSources(pair.getValue());
+
 		return binarizedGrammar;
 	}
 
@@ -147,93 +157,93 @@ public class Train {
 
 
 
-    private Pair<List<Rule>, Map<Rule, Set<List<Rule>>>>  fixUnitRules(List<Rule> binarizedRules)
-    {
-        Pair<Set<Rule>, Map<Rule, Set<List<Rule>>>>
-        pair = computeUnitPairs(binarizedRules);
-        Set<Rule> unitRules = pair.getKey();
-
-        Map<Rule, Set<List<Rule>>> ruleToSource = pair.getValue();
-
-
-        List<Rule> fixed = new ArrayList<>(binarizedRules);
-
-        while(fixed.removeAll(unitRules))
-        {
-          System.out.println("removing");
-        }
-
-
-        Map<String, List<Rule>> nonTerminalules = mapRules(fixed);
-
-        for(Rule rule : unitRules)
-        {
-            List<Rule> rightRules
-                    =  nonTerminalules.get(rule.getRHS().toString());
-
-            if(rightRules != null && rightRules.size() > 0)
-            {
-                for(Rule rule1 : rightRules)
-                {
-                    List<Rule> source = new ArrayList<>();
-
-                    if(rule.getSource().size() > 0)
-                    {
-                        source.addAll(source);
-                    }
-                    else
-                    {
-                        source.add(rule);
-                    }
-
-                    if(rule1.getSource().size() > 0)
-                    {
-                        source.addAll(rule1.getSource());
-                    }
-                    else
-                    {
-                        source.add(rule1);
-                    }
-
-
-                    Rule dupRule = new Rule(rule.getLHS(), rule1.getRHS(),
-                            rule, rule1, source);
-
-                    Set<List<Rule>> sources = ruleToSource.get(dupRule);
-
-                    if(sources == null)
-                    {
-                        sources = new HashSet<>();
-                        ruleToSource.put(dupRule, sources);
-                    }
-
-                    sources.add(source);
-
-                    dupRule.setLexical(rule1.isLexical());
-                    dupRule.setTop(rule1.isTop());
-                    fixed.add(dupRule);
-                }
-
-            }
-            else
-            {
-                System.out.println("empty");
-            }
-        }
-
-        for(Rule rule : binarizedRules)
-        {
-            Set<List<Rule>> sources = ruleToSource.get(rule);
-
-            if(sources != null && sources.size() > 0)
-            {
-                sources.add(new ArrayList<Rule>());
-            }
-        }
-
-        return new Pair<>(fixed, ruleToSource);
-
-    }
+//    private Pair<List<Rule>, Map<Rule, Set<List<Rule>>>>  fixUnitRules(List<Rule> binarizedRules)
+//    {
+//        Pair<Set<Rule>, Map<Rule, Set<List<Rule>>>>
+//        pair = computeUnitPairs(binarizedRules);
+//        Set<Rule> unitRules = pair.getKey();
+//
+//        Map<Rule, Set<List<Rule>>> ruleToSource = pair.getValue();
+//
+//
+//        List<Rule> fixed = new ArrayList<>(binarizedRules);
+//
+//        while(fixed.removeAll(unitRules))
+//        {
+//          System.out.println("removing");
+//        }
+//
+//
+//        Map<String, List<Rule>> nonTerminalules = mapRules(fixed);
+//
+//        for(Rule rule : unitRules)
+//        {
+//            List<Rule> rightRules
+//                    =  nonTerminalules.get(rule.getRHS().toString());
+//
+//            if(rightRules != null && rightRules.size() > 0)
+//            {
+//                for(Rule rule1 : rightRules)
+//                {
+//                    List<Rule> source = new ArrayList<>();
+//
+//                    if(rule.getSource().size() > 0)
+//                    {
+//                        source.addAll(source);
+//                    }
+//                    else
+//                    {
+//                        source.add(rule);
+//                    }
+//
+//                    if(rule1.getSource().size() > 0)
+//                    {
+//                        source.addAll(rule1.getSource());
+//                    }
+//                    else
+//                    {
+//                        source.add(rule1);
+//                    }
+//
+//
+//                    Rule dupRule = new Rule(rule.getLHS(), rule1.getRHS(),
+//                            rule, rule1, source);
+//
+//                    Set<List<Rule>> sources = ruleToSource.get(dupRule);
+//
+//                    if(sources == null)
+//                    {
+//                        sources = new HashSet<>();
+//                        ruleToSource.put(dupRule, sources);
+//                    }
+//
+//                    sources.add(source);
+//
+//                    dupRule.setLexical(rule1.isLexical());
+//                    dupRule.setTop(rule1.isTop());
+//                    fixed.add(dupRule);
+//                }
+//
+//            }
+//            else
+//            {
+//                System.out.println("empty");
+//            }
+//        }
+//
+//        for(Rule rule : binarizedRules)
+//        {
+//            Set<List<Rule>> sources = ruleToSource.get(rule);
+//
+//            if(sources != null && sources.size() > 0)
+//            {
+//                sources.add(new ArrayList<Rule>());
+//            }
+//        }
+//
+//        return new Pair<>(fixed, ruleToSource);
+//
+//    }
 
     private Map<String, List<Rule>> mapRules(List<Rule> rules)
     {
@@ -302,7 +312,8 @@ public class Train {
         {
           old = new HashSet<>(unitRules);
           Map<String, Set<Rule>> map = mapRulesUnique(unitRules);
-          Set<Rule> next = new HashSet<>();
+          //Set<Rule> next = new HashSet<>();
+          Map<Rule, Double> ruleProb = new HashMap<>();
 
           for(Rule rule : unitRules)
           {
@@ -347,6 +358,8 @@ public class Train {
                           Rule nextOne = new Rule(rule.getLHS(), toRule.getRHS(),
                                   rule, toRule,  source);
 
+                          nextOne.setMinusLogProb(rule.getMinusLogProb()
+                                  + toRule.getMinusLogProb());
 
 
                           Set<List<Rule>> sources = ruleToSources.get(nextOne);
@@ -360,7 +373,14 @@ public class Train {
 
                           sources.add(source);
 
-                          next.add(nextOne);
+                          Double d =ruleProb.get(nextOne);
+
+                          if(d == null || d >nextOne.getMinusLogProb() )
+                          {
+                             ruleProb.put(nextOne, nextOne.getMinusLogProb());;
+                          }
+
+
                       }
                       else
                       {
@@ -371,7 +391,7 @@ public class Train {
               }
           }
 
-          unitRules.addAll(next);
+          unitRules.addAll(ruleProb.keySet());
         }
         while (!unitRules.equals(old));
 
@@ -610,7 +630,9 @@ public class Train {
 
 			String generaedFixed = generatedSymbols.deleteCharAt(generatedSymbols.length()-1).toString();
 			Rule replacedRule = new Rule(rule.getLHS(), new Event(generaedFixed));
+            replacedRule.setTop(rule.isTop());
 			rules.add(replacedRule);;
+
 
             if(replacedRule.toString().equals("PP-->PP"))
             {
@@ -710,6 +732,7 @@ public class Train {
 
 			Rule left1 = new Rule(new Event(prevRightSide), new Event(rightEvent));
 			left1.setLexical(isLexical);
+			left1.setTop(rule.isTop());
 			rules.add(left1);
 
             if(left1.toString().equals("PP-->PP"))
@@ -794,8 +817,11 @@ public class Train {
 				Rule theRule = new Rule(eLHS, eRHS);
 				if (myNode.isPreTerminal())
 					theRule.setLexical(true);
-				if (myNode.isRoot())
-					theRule.setTop(true);
+
+				//if (myNode.isRoot())
+				//	theRule.setTop(true);
+
+                theRule.setTop(j == 1);
 
                 if(theRule.toString().equals("PP-->PP"))
                 {

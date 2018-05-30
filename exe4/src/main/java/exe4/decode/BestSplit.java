@@ -13,12 +13,18 @@ public class BestSplit
     private Rule rule;
     private int splitPoint;
     private List<Rule> source;
+    private Index sourceIndex;
 
-    public BestSplit(Rule rule, int splitPoint, List<Rule> source)
+    public BestSplit(Rule rule, int splitPoint, List<Rule> source,Index sourceIndex)
     {
         this.rule = rule;
         this.splitPoint = splitPoint;
         this.source = source;
+        this.sourceIndex = sourceIndex;
+    }
+
+    public Index getSourceIndex() {
+        return sourceIndex;
     }
 
     public Rule getRule() {
