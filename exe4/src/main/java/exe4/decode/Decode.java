@@ -1,5 +1,6 @@
 package exe4.decode;
 
+import exe4.grammar.Event;
 import exe4.grammar.Grammar;
 import exe4.grammar.Rule;
 import exe4.tree.Node;
@@ -70,7 +71,21 @@ public class Decode {
 			String word = input.get(i);
 			Set<Rule> rules = m_mapLexicalRules.get(word);
 
-			if(rules != null)
+			if(rules == null)
+            {
+                Rule g1 = new Rule( new Event("NN"), new Event(word));
+                g1.setLexical(true);
+                g1.setMinusLogProb(-Math.log(1));
+
+                Index index = new Index("NN", i + 1, i + 1, g1);
+
+                indexMinProb.put(index, -Math.log(1));
+
+                indexBackPointer.put(index, new BestSplit(g1, -1,
+                        null, null));
+            }
+
+			else
 			{
 				for(Rule rule : rules)
 				{
@@ -87,46 +102,46 @@ public class Decode {
                                 null, null));
 					}
 				}
-
-				boolean added;
-
-				do
-				{
-                    added = false;
-                    for(Rule rule : unitRules)
-                    {
-                        String left = rule.getLHS().getSymbols().get(0);
-                        String right = rule.getRHS().getSymbols().get(0);
-
-                        Index outerIndex = new Index(left, i + 1, i + 1,
-                                rule);
-
-                        Index innerIndex = new Index(right, i + 1, i + 1,
-                                rule);
-
-                        Double p1 = indexMinProb.get(innerIndex);
-
-                        if(p1 != null)
-                        {
-                            double prob = p1 + rule.getMinusLogProb();
-
-                            Double p2 = indexMinProb.get(outerIndex);
-
-                            if(p2 == null || p2 > prob)
-                            {
-                                indexMinProb.put(outerIndex, prob);
-
-                                indexBackPointer.put(outerIndex, new BestSplit(rule, -1,
-                                        null, innerIndex));
-
-                                added = true;
-                            }
-                        }
-
-                    }
-                }
-                while (added);
 			}
+
+            boolean added;
+
+            do
+            {
+                added = false;
+                for(Rule rule : unitRules)
+                {
+                    String left = rule.getLHS().getSymbols().get(0);
+                    String right = rule.getRHS().getSymbols().get(0);
+
+                    Index outerIndex = new Index(left, i + 1, i + 1,
+                            rule);
+
+                    Index innerIndex = new Index(right, i + 1, i + 1,
+                            rule);
+
+                    Double p1 = indexMinProb.get(innerIndex);
+
+                    if(p1 != null)
+                    {
+                        double prob = p1 + rule.getMinusLogProb();
+
+                        Double p2 = indexMinProb.get(outerIndex);
+
+                        if(p2 == null || p2 > prob)
+                        {
+                            indexMinProb.put(outerIndex, prob);
+
+                            indexBackPointer.put(outerIndex, new BestSplit(rule, -1,
+                                    null, innerIndex));
+
+                            added = true;
+                        }
+                    }
+
+                }
+            }
+            while (added);
 		}
 
 		for(int l = 1; l < input.size(); l++) {
@@ -139,9 +154,6 @@ public class Decode {
 
                 for (String nonTerminal : nonTerminalToRules.keySet())
                 {
-
-
-
                     Set<Index> visited = new HashSet<>();
                     RecCkyRes res = recCky(i, j, nonTerminal, indexMinProb, visited, i == 1 && j == input.size());
 
@@ -197,9 +209,10 @@ public class Decode {
                                 added = true;
                             }
 
-                        } else {
-                            System.out.println("dd");
                         }
+//                        else {
+//                            System.out.println("dd");
+//                        }
                     }
                 }
                 while (added);
@@ -229,13 +242,18 @@ public class Decode {
         Node top = new Node("TOP");
         Tree t = new Tree(top);
 
+        BestSplit split = indexBackPointer.get(bestAll);
+        Rule r = split.getRule();
 
-        buildTRee(bestAll, top, input, indexBackPointer);
+        Node single = new Node(r.getLHS().getSymbols().get(0));
+        top.addDaughter(single);
 
-        String x1 = t.toString();
+        Node cleanedParent = r.getOrgLeft() != null ? single : null;
 
 
-		return null;
+        buildTRee(bestAll, single, input, indexBackPointer, cleanedParent);
+
+            return t;
 	}
 
 
@@ -255,55 +273,129 @@ public class Decode {
         }
     }
 
-	private void buildTRee(Index index, Node parent, List<String> input, Map<Index, BestSplit> indexBackPointer)
+	private void buildTRee(Index index, Node parent, List<String> input, Map<Index, BestSplit> indexBackPointer, Node cleanedParent)
     {
         if(index.getStartIndex() == index.getEndINdex())
         {
             BestSplit split1 = indexBackPointer.get(index);
 
             Node myParent = parent;
-            do
+            if(split1 != null)
             {
-                Node right = new Node(split1.getRule().getRHS().getSymbols().get(1));
-                myParent.addDaughter(right);
-                myParent = right;
-
-                if(split1.getSourceIndex() != null)
+                do
                 {
-                    split1 = indexBackPointer.get(split1.getSourceIndex());
-                }
-                else
-                {
-                    split1 = null;
-                }
+                    Node right = new Node(split1.getRule().getRHS().getSymbols().get(0));
+                    myParent.addDaughter(right);
+                    myParent = right;
 
+                    if(split1.getSourceIndex() != null)
+                    {
+                        split1 = indexBackPointer.get(split1.getSourceIndex());
+                    }
+                    else
+                    {
+                        split1 = null;
+                    }
+
+                }
+                while (split1 != null);
             }
-            while (split1 != null);
 
-            String word = input.get(index.getStartIndex()-1);
-            Terminal terminal = new Terminal(word);
+            else
+            {
+                String word = input.get(index.getStartIndex()-1);
+                Terminal terminal = new Terminal(word);
 
-            myParent.addDaughter(terminal);
+                myParent.addDaughter(terminal);
+            }
         }
         else
         {
             int upperEnd = index.getEndINdex();
             int upperStart = index.getStartIndex();
             BestSplit split = indexBackPointer.get(index);
-            Rule r = split.getRule();
+
+
             int splitPoint = split.getSplitPoint();
+            BestSplit splitToTake = split;
+            Rule r;
+            Node updatedParent = parent;
+            do
+             {
+                 r = splitToTake.getRule();
 
-            Node left = new Node(r .getRHS().getSymbols().get(0));
-            parent.addDaughter(left);
+                 if(splitToTake.getSourceIndex() != null)
+                 {
+                     Node single = new Node(r.getRHS().getSymbols().get(0));
+                     updatedParent.addDaughter(single);
+                     updatedParent = single;
+                     splitToTake =indexBackPointer.get(split.getSourceIndex());
+                 }
+                 else
+                 {
+                     break;
+                 }
+            }
+            while (true);
 
-            Node right = new Node(r .getRHS().getSymbols().get(1));
-            parent.addDaughter(right);
 
-            buildTRee(new Index(r .getRHS().getSymbols().get(0),
-                    upperStart, splitPoint, null), left, input, indexBackPointer);
+            boolean originalValidParent = false;
 
-            buildTRee(new Index(r.getRHS().getSymbols().get(1),
-                    splitPoint+1, upperEnd, null), right, input, indexBackPointer);
+            if(cleanedParent != null &&  r.getOrgLeft() != null && r.getOrgLeft().equals(cleanedParent.getIdentifier()))
+            {
+                originalValidParent = true;
+            }
+            else if(r.getOrgLeft() != null)
+            {
+                cleanedParent = updatedParent;
+                originalValidParent=  true;
+            }
+
+
+            Node left = new Node(r.getRHS().getSymbols().get(0));
+            if(originalValidParent)
+            {
+                if(!left.getIdentifier().equals("**START**")) {
+                    cleanedParent.addDaughter(left);
+                }
+            }
+            else
+            {
+                if(!left.getIdentifier().equals("**START**"))
+                {
+                    updatedParent.addDaughter(left);
+                }
+            }
+
+            if(!left.getIdentifier().equals("**START**"))
+            {
+                buildTRee(new Index(r .getRHS().getSymbols().get(0),
+                        upperStart, splitPoint, null), left, input, indexBackPointer, null);
+            }
+
+
+            Node right = new Node(r.getRHS().getSymbols().get(1));
+
+            if(originalValidParent && !r.isLast())
+            {
+                right = cleanedParent;
+                //System.out.println("clean");
+                //cleanedParent.addDaughter(right);
+            }
+            else
+            {
+                if(!right.getIdentifier().equals("**END**"))
+                {
+                    updatedParent.addDaughter(right);
+                }
+            }
+
+            if(!right.getIdentifier().equals("**END**"))
+            {
+                buildTRee(new Index(r.getRHS().getSymbols().get(1),
+                        splitPoint+1, upperEnd, null), right, input, indexBackPointer, cleanedParent);
+            }
+
         }
 
     }
@@ -381,13 +473,13 @@ public class Decode {
 					for(Rule rule1 : matchedRules)
 					{
 
-					    if(isTop)
-                        {
-                            if(!rule1.isTop())
-                            {
-                                continue;
-                            }
-                        }
+//					    if(isTop)
+//                        {
+//                            if(!rule1.isTop())
+//                            {
+//                                continue;
+//                            }
+//                        }
 
 						if(rule1.isLexical())
 						{

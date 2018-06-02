@@ -32,6 +32,7 @@ public class Rule {
 
 	private Rule sourceUnit;
     private Rule sourceRule;
+	private String orgLeft;
     private List<Rule> source = new ArrayList<>();
 
 	public double getMinusLogProb() {
@@ -40,6 +41,10 @@ public class Rule {
 
 	public void setMinusLogProb(double m_dMinusLogProb) {
 		this.m_dMinusLogProb = m_dMinusLogProb;
+	}
+
+	public boolean isLast() {
+		return isLast;
 	}
 
 	public Rule(String s1, String s2){
@@ -63,6 +68,14 @@ public class Rule {
 	public Rule(Event e1, Event e2) {
 		setLHS(e1);
 		setRHS(e2);
+	}
+
+	private boolean isLast;
+	public Rule(Event e1, Event e2, String orgLeft, boolean isLast) {
+		setLHS(e1);
+		setRHS(e2);
+		this. orgLeft =  orgLeft;
+		this.isLast = isLast;
 	}
 
     public Rule(Event e1, Event e2, Rule sourceUnit, Rule sourceRule, List<Rule> source) {
@@ -91,7 +104,12 @@ public class Rule {
 	public void setTop(boolean m_bTop) {
 		this.m_bTop = m_bTop;
 	}
-	
+
+
+	public String getOrgLeft() {
+		return orgLeft;
+	}
+
 	/**
 	 * @param args
 	 */

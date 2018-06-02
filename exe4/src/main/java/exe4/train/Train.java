@@ -62,10 +62,10 @@ public class Train {
 
 			for(Rule rule : theRules)
             {
-                if(rule.toString().equals("PP-->PP"))
-                {
-                    System.out.println("found");
-                }
+//                if(rule.toString().equals("PP-->PP"))
+//                {
+//                    System.out.println("found");
+//                }
 
                 if(isIdentityToItself(rule))
                 {
@@ -82,10 +82,10 @@ public class Train {
 		Map<String, Rule> generatedTerminalsRules = new HashMap<>();
 		for(Rule rule : allRules)
 		{
-            if(rule.toString().equals("PP-->PP"))
-            {
-                System.out.println("found");
-            }
+//            if(rule.toString().equals("PP-->PP"))
+//            {
+//                System.out.println("found");
+//            }
 
 			List<Rule> rulesNoMix = replaceTerminals(rule, myGrammar.getTerminalSymbols(),
 					generatedTerminalsRules, myGrammar.getLexicalEntries());
@@ -382,10 +382,10 @@ public class Train {
 
 
                       }
-                      else
-                      {
-                          System.out.println("equal");
-                      }
+//                      else
+//                      {
+//                          System.out.println("equal");
+//                      }
                   }
 
               }
@@ -576,10 +576,10 @@ public class Train {
 	private List<Rule> replaceTerminals(Rule rule, Set<String> terminals, Map<String, Rule> generatedTerminalsRules,
 										Map<String, Set<Rule>> lexicalEntries)
 	{
-        if(rule.toString().equals("PP-->PP"))
-        {
-            System.out.println("found");
-        }
+//        if(rule.toString().equals("PP-->PP"))
+//        {
+//            System.out.println("found");
+//        }
 
 		if(rule.isLexical())
 		{
@@ -599,7 +599,7 @@ public class Train {
 		{
 			StringBuilder generatedSymbols = new StringBuilder();
 
-			for(String element : symbols)
+			for(String element : rule.getRHS().getSymbols())
 			{
 				if(lexicalEntries.get(element) == null
 						&& terminals.contains(element))
@@ -634,19 +634,19 @@ public class Train {
 			rules.add(replacedRule);;
 
 
-            if(replacedRule.toString().equals("PP-->PP"))
-            {
-                System.out.println("found");
-            }
+//            if(replacedRule.toString().equals("PP-->PP"))
+//            {
+//                System.out.println("found");
+//            }
 		}
 		else
 		{
 			rules.add(rule);
 
-            if(rule.toString().equals("PP-->PP"))
-            {
-                System.out.println("found");
-            }
+//            if(rule.toString().equals("PP-->PP"))
+//            {
+//                System.out.println("found");
+//            }
 		}
 
 		return rules;
@@ -682,10 +682,10 @@ public class Train {
 	private List<Rule> toCNF(Rule rule,int remember, Set<String> terminals)
 	{
 
-        if(rule.toString().equals("PP-->PP"))
-        {
-            System.out.println("found");
-        }
+//        if(rule.toString().equals("PP-->PP"))
+//        {
+//            System.out.println("found");
+//        }
 
 		Event right = rule.getRHS();
 		List<String> symbols = right.getSymbols();
@@ -699,6 +699,7 @@ public class Train {
 		List<Rule> rules = new LinkedList<Rule>();
 		List<String> seenSiblings = new LinkedList<String>();
 		String prevRightSide = leftSide;
+		String orgSymbol = leftSide;
 		while (symbols.size() > 0)
 		{
 			String first = symbols.get(0);
@@ -720,25 +721,28 @@ public class Train {
 				isLexical = terminals.contains(first) && symbols.size() == 1;
 			}
 
+			boolean isLast;
 			String rightEvent;
 			if(rightSideSir != null)
 			{
 				rightEvent = first + " "+ rightSideSir;
+                isLast = false;
 			}
 			else
 			{
 				rightEvent = first +" " + symbols.get(1);
+                isLast = true;
 			}
 
-			Rule left1 = new Rule(new Event(prevRightSide), new Event(rightEvent));
+			Rule left1 = new Rule(new Event(prevRightSide), new Event(rightEvent), orgSymbol, isLast);
 			left1.setLexical(isLexical);
 			left1.setTop(rule.isTop());
 			rules.add(left1);
 
-            if(left1.toString().equals("PP-->PP"))
-            {
-                System.out.println("found");
-            }
+//            if(left1.toString().equals("PP-->PP"))
+//            {
+//                System.out.println("found");
+//            }
 
 			prevRightSide = rightSideSir;
 			symbols = others;
@@ -823,10 +827,10 @@ public class Train {
 
                 theRule.setTop(j == 1);
 
-                if(theRule.toString().equals("PP-->PP"))
-                {
-                    System.out.println("found");
-                }
+//                if(theRule.toString().equals("PP-->PP"))
+//                {
+//                    System.out.println("found");
+//                }
 
 				theRules.add(theRule);
 			}	

@@ -5,6 +5,7 @@ import exe4.decode.Decode;
 import exe4.grammar.Grammar;
 import exe4.grammar.Rule;
 import exe4.train.Train;
+import exe4.tree.Node;
 import exe4.tree.Tree;
 import exe4.treebank.Treebank;
 import exe4.utils.LineWriter;
@@ -40,8 +41,11 @@ public class Parse {
 		}
 		
 		// 1. read input
-		Treebank myGoldTreebank = TreebankReader.getInstance().read(true, args[0]);
-		Treebank myTrainTreebank = TreebankReader.getInstance().read(true, args[1]);
+		String goldFile = args[0];
+		String trainFile = args[1];
+
+		Treebank myGoldTreebank = TreebankReader.getInstance().read(true, goldFile);
+		Treebank myTrainTreebank = TreebankReader.getInstance().read(true, trainFile);
 		 int remember = 1;
 
 		// 2. transform trees
@@ -55,6 +59,7 @@ public class Parse {
 
 		for (int i = 0; i < myGoldTreebank.size(); i++)
 		{
+			System.out.println("decoding index " + i +" from -> " +  myGoldTreebank.size());
 			List<String> mySentence = myGoldTreebank.getAnalyses().get(i).getYield();
 			Tree myParseTree = Decode.getInstance(myGrammar).decode(mySentence);
 			myParseTrees.add(myParseTree);
@@ -62,11 +67,16 @@ public class Parse {
 		
 		// 5. de-transform trees
 		// TODO
-		
+
+//		for(Tree tree : myParseTrees)
+//		{
+//
+//		}
 		// 6. write output
 		writeOutput(args[2], myGrammar, myParseTrees);	
 	}
-	
+
+
 	
 	/**
 	 * Writes output to files:

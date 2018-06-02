@@ -9,6 +9,12 @@ import java.util.*;
 
 public class TreebankReader   {
 
+
+	  public static  String END_TAG ="**END**";
+	  public static  String END_VAL ="||END||";
+	public static  String START_TAG ="**START**";
+	public static  String START_VAL ="||START||";
+
 	    /**
 	     * Implementation of a singleton pattern
 	     * Avoids redundant instances in memory 
@@ -145,22 +151,206 @@ public class TreebankReader   {
 	}
 		
 	return read(lineBreak, myPath, splits[splits.length-1], "", -1,-1);
-    } 
+    }
 
-    public Treebank read(boolean lineBreak, String path, String file, String dir, int startDir, int endDir) 
+
+//	public Treebank read(boolean lineBreak, String path, String file, String dir, int startDir, int endDir)
+//	{
+//		Treebank tb = new Treebank();
+//		String input = "";
+//		int iLine = 1;
+//		int iProcessed = 0;
+//		ArrayList<String> files = new ArrayList<String>();
+//
+//		if(file.length() > 0)
+//		{
+//			input = path + "/" + file;
+//			files.add(input);
+//		}
+//
+//		else if(dir.length() > 0)
+//			files = getDirectoryFiles(path, dir);
+//		else if (startDir != -1 && endDir != -1)
+//		{
+//			for(int d = startDir; d <= endDir; d++)
+//			{
+//				String subDir = "";
+//
+//				if(d < 10)
+//					subDir = "0" + d;
+//				else
+//					subDir = d + "";
+//
+//				files.addAll(getDirectoryFiles(path, "" + subDir));
+//			}
+//		}
+//
+//		//	System.out.print("Reading off the treebank trees ");
+//
+//
+//
+//		for(int f = 0; f < files.size(); f++)
+//		{
+//			LineReader lrTreebank =  new LineReader(files.get(f));
+//			String sLine = lrTreebank.readLine();
+//
+//			StringBuffer sb = new StringBuffer();
+//
+//
+//			while (sLine != null)
+//			{
+//				int startIndex = sLine.indexOf("(TOP") + 4;
+//				boolean lookForEnd = false;
+//				int startEnterPLace = -1;
+//
+//				for(int i = startIndex; i <sLine.length(); i++)
+//				{
+//					if(sLine.charAt(i) == '(')
+//					{
+//						startEnterPLace = i;
+//						break;
+//					}
+//				}
+//
+//
+//
+//				String originalStart = sLine.substring(0, startEnterPLace);
+//
+//				StringBuilder stringBuilder = new StringBuilder(originalStart);
+//
+//				stringBuilder.append("(");
+//				stringBuilder.append(START_TAG);
+//				stringBuilder.append(" ");
+//				stringBuilder.append(START_VAL);
+//				stringBuilder.append(") ");
+//				stringBuilder.append(sLine.substring(startEnterPLace, sLine.length()));
+//
+//				sLine = stringBuilder.toString();
+//
+//
+//
+//				int fromEndCounter = 0;
+//				int enterPlace = -1;
+//				for(int i = sLine.length()-1; i>=0; i--)
+//				{
+//					if(sLine.charAt(i) == ')')
+//					{
+//						fromEndCounter++;
+//
+//						if(fromEndCounter == 2)
+//						{
+//							enterPlace = i+1;
+//							break;
+//						}
+//					}
+//				}
+//
+//
+//				String originalEnd = sLine.substring(enterPlace, sLine.length());
+//
+//
+//				StringBuilder withEnd =new StringBuilder(sLine.substring(0, enterPlace));
+//
+//				withEnd.append(" (").append (END_TAG).append(" ").append(END_VAL).append(")").toString();
+//
+//				withEnd.append(originalEnd);
+//
+//				sLine = withEnd.toString();
+//
+//
+//				try
+//				{
+//
+//					Tree pt = null;
+//
+//					if(!lineBreak)
+//					{
+//						if(sLine != null && sLine.equals(""))
+//						{
+//							sLine = lrTreebank.readLine();
+//						}
+//
+//						if (sLine != null && sLine.startsWith("("))
+//						{
+//							sb.append(sLine);
+//							sLine = lrTreebank.readLine();
+//						}
+//
+//						while( sLine != null && !sLine.equals("") && !sLine.startsWith("("))
+//						{
+//							sb.append(sLine);
+//							sLine = lrTreebank.readLine();
+//						}
+//
+//						if(sb.length() > 0)
+//						{
+//							if(sb.toString().startsWith("("))
+//							{
+//								pt = (Tree) TreeReader.getInstance().read(sb.toString());
+//							}
+//
+//							sb = new StringBuffer();
+//
+//							tb.add(pt);
+//							iProcessed++;
+//							//System.out.print(".");
+//						}
+//					}
+//
+//					if(pt == null && sLine != null)
+//					{
+//						if(sLine.startsWith("("))
+//						{
+//							pt = (Tree) TreeReader.getInstance().read(sLine);
+//						}
+//
+//						tb.add(pt);
+//						iProcessed++;
+//						//System.out.print(".");
+//
+//						sLine = lrTreebank.readLine();
+//					}
+//
+//
+//				}
+//
+//				catch (Exception e)
+//				{
+//					System.out.print("Error... Tree " + iLine + " failed to upload.");
+//					System.out.print(e.getMessage());
+//					e.printStackTrace();
+//					System.out.print(sLine);
+//				}
+//				iLine++;
+//			}
+//			iLine--;
+//		}
+//
+//		// -- End and Report
+//		if (iProcessed != iLine)
+//		{
+//			System.out.print("Finished!\nRead off " + iProcessed + " trees out of " + iLine+".\n");
+//
+//		}
+//		System.out.print("Finished!\nRead off " + iLine + " trees.\n");
+//
+//		return tb;
+//	}
+
+    public Treebank read(boolean lineBreak, String path, String file, String dir, int startDir, int endDir)
     {
 	Treebank tb = new Treebank();
 	String input = "";
 	int iLine = 1;
 	int iProcessed = 0;
 	ArrayList<String> files = new ArrayList<String>();
-	
+
 	if(file.length() > 0)
-        { 
+        {
 	    input = path + "/" + file;
 	    files.add(input);
 	}
-	
+
 	else if(dir.length() > 0)
 	    files = getDirectoryFiles(path, dir);
 	else if (startDir != -1 && endDir != -1)
@@ -168,84 +358,158 @@ public class TreebankReader   {
 		for(int d = startDir; d <= endDir; d++)
 		{
 		    String subDir = "";
-		    
+
 		    if(d < 10)
 			subDir = "0" + d;
-		    else 
+		    else
 			subDir = d + "";
-		    
+
 		    files.addAll(getDirectoryFiles(path, "" + subDir));
 		}
 	     }
 
 	//	System.out.print("Reading off the treebank trees ");
-	
+
+
+
 	for(int f = 0; f < files.size(); f++)
 	{
 	    LineReader lrTreebank =  new LineReader(files.get(f));
 	    String sLine = lrTreebank.readLine();
-	  
+
 	    StringBuffer sb = new StringBuffer();
-	    
+
+
 	    while (sLine != null)
-	    {
-	
+		 {
+			 int startIndex = sLine.indexOf("(TOP") + 4;
+			 boolean lookForEnd = false;
+			 int startEnterPLace = -1;
+
+			 for(int i = startIndex; i <sLine.length(); i++)
+			 {
+				 if(sLine.charAt(i) != '(' && sLine.charAt(i) != ' ')
+				 {
+					 lookForEnd = true;
+				 }
+				 else if(lookForEnd)
+				 {
+					 startEnterPLace = i;
+					 break;
+				 }
+			 }
+
+			 String originalStart = sLine.substring(0, startEnterPLace);
+			 StringBuilder stringBuilder = new StringBuilder(originalStart);
+			 stringBuilder.append(" ");
+			 stringBuilder.append("(");
+			 stringBuilder.append(START_TAG);
+			 stringBuilder.append(" ");
+			 stringBuilder.append(START_VAL);
+			 stringBuilder.append(")");
+			 stringBuilder.append(sLine.substring(startEnterPLace, sLine.length()));
+
+			 sLine = stringBuilder.toString();
+
+
+			 int enterPlace = -1;
+			 int startSymbolsCounter = 1;
+			 for(int i = startIndex; i <sLine.length(); i++)
+			 {
+				 if(sLine.charAt(i) != '(' && sLine.charAt(i) != ' ')
+				 {
+					 break;
+				 }
+				 else if(sLine.charAt(i) == '(')
+				 {
+					 startSymbolsCounter++;
+				 }
+			 }
+
+			 int fromEndCounter = 0;
+			 for(int i = sLine.length()-1; i>=0; i--)
+			 {
+				 if(sLine.charAt(i) == ')')
+				 {
+					 fromEndCounter++;
+
+					 if(fromEndCounter == startSymbolsCounter)
+					 {
+						 enterPlace = i;
+						 break;
+					 }
+				 }
+			 }
+
+
+			String originalEnd = sLine.substring(enterPlace, sLine.length());
+
+
+			StringBuilder withEnd =new StringBuilder(sLine.substring(0, enterPlace));
+
+			withEnd.append(" (").append (END_TAG).append(" ").append(END_VAL).append(") ").toString();
+
+			withEnd.append(originalEnd);
+
+			sLine = withEnd.toString();
+
+
 		try
-		{ 
-		  
+		{
+
 		    Tree pt = null;
-		    
+
 		    if(!lineBreak)
 		    {
 			if(sLine != null && sLine.equals(""))
 			{
 			    sLine = lrTreebank.readLine();
 			}
-			
+
 			if (sLine != null && sLine.startsWith("("))
 			{
 			    sb.append(sLine);
 			    sLine = lrTreebank.readLine();
 			}
-		     
+
 			while( sLine != null && !sLine.equals("") && !sLine.startsWith("("))
 			{
 			    sb.append(sLine);
 			    sLine = lrTreebank.readLine();
 			}
-		    
+
 			if(sb.length() > 0)
 			{
 			    if(sb.toString().startsWith("("))
 			    {
 				pt = (Tree) TreeReader.getInstance().read(sb.toString());
 			    }
-			    
+
 			    sb = new StringBuffer();
-			    
+
 			    tb.add(pt);
 			    iProcessed++;
 			    //System.out.print(".");
 			}
 		    }
-		    		
+
 		    if(pt == null && sLine != null)
 		    {
 			if(sLine.startsWith("("))
 			{
 			    pt = (Tree) TreeReader.getInstance().read(sLine);
 			}
-			
+
 			 tb.add(pt);
 			 iProcessed++;
 			 //System.out.print(".");
-			
+
 			sLine = lrTreebank.readLine();
 		    }
-		
-		   
+
+
 		}
-	
+
 		catch (Exception e)
 		{
 		    System.out.print("Error... Tree " + iLine + " failed to upload.");
@@ -256,16 +520,19 @@ public class TreebankReader   {
 		iLine++;
 	    }
 	    iLine--;
-	}   
-	
-	// -- End and Report 
+	}
+
+	// -- End and Report
 	if (iProcessed != iLine)
 	{
 	    System.out.print("Finished!\nRead off " + iProcessed + " trees out of " + iLine+".\n");
-            
+
 	}
-	System.out.print("Finished!\nRead off " + iLine + " trees.\n"); 
-	
+	System.out.print("Finished!\nRead off " + iLine + " trees.\n");
+
 	return tb;
     }
+
+
+
 }

@@ -1,15527 +1,15624 @@
-RQMT	NNT Infinity 
-HTXZQH	VB Infinity 
-CINIT	JJ Infinity 
-XIWNIIM	JJ Infinity 
-JKNWLWGIH	NN Infinity 
-IBWJL	VB Infinity 
-IWTM	NNP Infinity 
-NPALI	NN Infinity 
-DIWNIH	NN Infinity 
-IWTR	RBR Infinity 
-RQMW	VB Infinity 
-IXWIB	VB Infinity 
-QCINIM	NN Infinity 
-HTXZQW	VB Infinity 
-EIRIWT	NN Infinity 
-HWZMN	VB Infinity 
-IWSH	NNP Infinity 
-NIMWQ	NN Infinity 
-TWRT	NNT Infinity 
-BCD	IN Infinity 
-NIMWS	NN Infinity 
-MPGRT	VB Infinity 
-TWRQ	NNP Infinity 
-IWSI	NNP Infinity 
-MCANW	VB Infinity 
-IWSP	NNP Infinity 
-BCL	NN Infinity 
-IWSR	VB Infinity 
-0	CD Infinity 
-10.6	CD Infinity 
-BQIAIH	NN Infinity 
-1	CD Infinity 
-2	CDT Infinity JJ Infinity CD Infinity 
-3	JJ Infinity CD Infinity 
-10.3	CD Infinity 
-4	CD Infinity 
-5	CD Infinity CDT Infinity JJ Infinity 
-6	CD Infinity JJ Infinity 
-MITAR	NN Infinity 
-7	CD Infinity CDT Infinity 
-8	CD Infinity JJ Infinity 
-9	CD Infinity JJ Infinity 
-AIZWR	NN Infinity 
-RQMH	NN Infinity 
-AIZWN	NN Infinity 
-HWLDTW	NN Infinity 
-A	NNP Infinity 
-B	ZVL Infinity NNP Infinity IN Infinity 
-NECR	VB Infinity 
-D	NNP Infinity NN Infinity 
-NIKRIM	JJ Infinity 
-E	NNP Infinity 
-F	REL Infinity NN Infinity NNP Infinity COM Infinity 
-BDI	NNT Infinity 
-G	NNP Infinity 
-H	REL Infinity HAM Infinity NNP Infinity H Infinity COM Infinity ZVL Infinity 
-I	NNP Infinity 
-K	IN Infinity NN Infinity MOD Infinity 
-L	IN Infinity NNP Infinity 
-M	NNP Infinity NN Infinity IN Infinity CD Infinity ZVL Infinity 
-IBWLW	NN Infinity 
-N	NNP Infinity 
-BDQ	NNT Infinity VB Infinity 
-O	NN Infinity NNP Infinity 
-HTQFR	VB Infinity 
-P	NNP Infinity 
-Q	NNP Infinity 
-R	NN Infinity 
-S	NNP Infinity 
-LNGRT	ZVL Infinity 
-AMBWLNS	NN Infinity 
-W	CC Infinity REL Infinity NNP Infinity COM Infinity ZVL Infinity 
-X	NN Infinity 
-TWSST	JJ Infinity 
-HTQFH	VB Infinity 
-31.3.90	CD Infinity 
-JKNWLWGIIT	NNT Infinity 
-BED	IN Infinity 
-DRWZIM	NN Infinity JJ Infinity 
-BEJ	VB Infinity 
-BEL	NN Infinity NNT Infinity 
-IWUR	NN Infinity NNT Infinity 
-MCWIINIM	JJ Infinity 
-CEDW	NN Infinity 
-CEDT	NNT Infinity 
-BET	NN Infinity IN Infinity 
-MRGIFIM	VB Infinity 
-DIWNIM	NN Infinity 
-XISLW	VB Infinity 
-CEDI	NNT Infinity 
-XWDRWT	VB Infinity 
-SRJNI	NNT Infinity 
-XIZWRIW	NN Infinity 
-TWTXNIM	NN Infinity 
-BECLTIIM	RB Infinity 
-XISLH	VB Infinity 
-IMWNH	VB Infinity 
-LHWJH	VB Infinity 
-BFL	IN Infinity JJ Infinity 
-XWZRWT	JJ Infinity 
-WWRIIRS	NNP Infinity 
-HRKBW	NN Infinity 
-HRKBT	NNT Infinity 
-BFR	NN Infinity NNT Infinity 
-EFWIWT	VB Infinity JJ Infinity 
-ASWPT	NNT Infinity 
-MBCE	NN Infinity NNT Infinity 
-NRXBIM	JJ Infinity 
-HRKBI	NNP Infinity 
-LHRXIB	VB Infinity 
-SRJIM	NN Infinity 
-HRKBH	NN Infinity 
-NEFH	VB Infinity NN Infinity 
-BGD	VB Infinity 
-NEDR	JJT Infinity 
-IWTIR	VB Infinity 
-NKTBW	VB Infinity 
-LBDWQ	VB Infinity 
-LHRXIQ	VB Infinity 
-IWWN	NNP Infinity 
-BGR	VB Infinity 
-ZIWPIM	NN Infinity 
-GIWRA	NNP Infinity 
-TWWK	NN Infinity 
-ZAPJWT	NN Infinity 
-MEWDKNIM	JJ Infinity 
-IXLIJW	VB Infinity 
-XTIRTH	NN Infinity 
-HWZRQ	VB Infinity 
-ALPIIM	CD Infinity 
-HTQIM	VB Infinity 
-AIKLSW	VB Infinity 
-LNGWE	VB Infinity 
-SIPRH	VB Infinity 
-BI.	NNP Infinity 
-TQCIBI	NNT Infinity JJ Infinity 
-SIPRW	VB Infinity 
-LMDTI	VB Infinity 
-2371	CD Infinity 
-MBED	IN Infinity 
-MFJRTIT	JJ Infinity 
-NKTBH	VB Infinity 
-SIPQW	VB Infinity 
-TQCIBW	NN Infinity 
-BIB	NNT Infinity 
-QNQN	NNT Infinity NN Infinity 
-MFJXI	NNT Infinity 
-CLWLH	JJ Infinity 
-BIH	RB Infinity 
-BIL	NNP Infinity 
-BIN	MOD Infinity IN Infinity 
-AXRIWTW	NN Infinity 
-BIR	NNP Infinity 
-MWECWT	NN Infinity 
-BIT	NNT Infinity NNP Infinity NN Infinity 
-NEFW	VB Infinity 
-RGLIIM	NN Infinity 
-MTKWWNWT	VB Infinity 
-ZHIM	JJ Infinity 
-MEIZIM	VB Infinity 
-TWSPT	NN Infinity NNT Infinity 
-IWTNW	VB Infinity 
-MNCSJR	NNP Infinity 
-QWDRI	NNP Infinity 
-RGLIHM	NN Infinity 
-2391	CD Infinity 
-MPTIEWT	VB Infinity 
-BJX	RB Infinity 
-HIDALGW	NNP Infinity 
-NQLEIM	VB Infinity 
-CEIR	JJ Infinity NN Infinity 
-PILIPS	NNP Infinity 
-TFALW	VB Infinity 
-FWBTIM	NN Infinity 
-FNTI	JJ Infinity 
-HIQNW	VB Infinity 
-JRIWWIALIWT	NN Infinity 
-BKI	NN Infinity NNT Infinity 
-FAPTNWT	NN Infinity 
-IMWQM	VB Infinity 
-BKR	NNP Infinity 
-XISWL	NNT Infinity 
-SWLWDR	NNP Infinity 
-IPANIWT	JJ Infinity 
-BLA	IN Infinity 
-AXDWT	JJ Infinity NNT Infinity 
-MTKWWNIM	VB Infinity 
-MITIT	JJ Infinity 
-BLI	IN Infinity 
-DWQJWR	NN Infinity 
-NEIM	NNP Infinity VB Infinity 
-BLM	VB Infinity NN Infinity NNT Infinity 
-GIWWN	NN Infinity 
-BLS	NNP Infinity 
-MBIA	VB Infinity 
-LXDWR	VB Infinity 
-BLW	NN Infinity 
-NELI	NNT Infinity 
-BHQDM	RB Infinity 
-MBIK	JJ Infinity 
-WWADI	NN Infinity 
-MBIE	VB Infinity 
-HTQNT	NNT Infinity 
-SNJIANH	NNP Infinity 
-TBWDD	VB Infinity 
-MBIF	JJ Infinity 
-BMH	NN Infinity 
-NELM	VB Infinity 
-MBIN	VB Infinity IN Infinity 
-HTQPI	JJ Infinity 
-QRWIP	NNP Infinity 
-QWRSIM	NN Infinity 
-HTQPH	NN Infinity 
-BRNAR	NNP Infinity 
-FNTW	NN Infinity 
-SPWNSRIM	NN Infinity 
-BMW	IN Infinity 
-CPIRWT	NNT Infinity NN Infinity 
-HIQPW	NN Infinity 
-HIQPI	NNT Infinity 
-TBWCE	VB Infinity 
-PEWLH	NN Infinity 
-HIQPN	NN Infinity 
-BNI	NNT Infinity NNP Infinity NN Infinity 
-MCATI	VB Infinity 
-BNH	VB Infinity NN Infinity 
-ASWMN	NNP Infinity 
-QRWBH	JJ Infinity 
-BNM	NN Infinity 
-QRWBI	NNT Infinity 
-FNWT	NNT Infinity 
-BNQ	NN Infinity NNT Infinity 
-DWNALD	NNP Infinity 
-BNW	VB Infinity NN Infinity 
-MCLMWT	NN Infinity 
-MRKZIWTW	NN Infinity 
-NENH	VB Infinity 
-QWDMW	NN Infinity 
-HTQPT	NNT Infinity 
-BJXWNH	NN Infinity 
-QWDMT	JJ Infinity 
-SIPWQ	NNT Infinity NN Infinity 
-PLJWT	NN Infinity 
-SIPWR	NNT Infinity NN Infinity 
-BBLI	NNP Infinity 
-NELW	VB Infinity 
-SLZAR	NNP Infinity 
-MBJA	VB Infinity NN Infinity 
-QJLNIT	JJ Infinity 
-NWBEWT	VB Infinity 
-XBIB	JJ Infinity 
-FWWQIM	NN Infinity 
-HTQRB	VB Infinity 
-BWDPFJ	NNP Infinity 
-SIPWX	NN Infinity 
-EIRIIT	NNT Infinity 
-FNWA	JJ Infinity 
-MBJL	VB Infinity 
-034,000	CD Infinity 
-BHSTMK	IN Infinity 
-LPNIM	RB Infinity 
-FNWI	JJ Infinity 
-MWSMKT	VB Infinity 
-XBIT	NN Infinity NNT Infinity 
-FNWN	JJ Infinity 
-JWNIM	NN Infinity 
-MILIMJR	NN Infinity 
-PWFEIM	NN Infinity 
-NAWMW	NN Infinity 
-MMWSDT	JJ Infinity 
-HTWWDE	VB Infinity 
-QLABRIH	NNP Infinity 
-NAWMI	NNT Infinity 
-ZHRH	NNP Infinity 
-XBLH	NN Infinity 
-MEMDIT	JJ Infinity 
-MTXMQT	VB Infinity 
-EIRIIH	NN Infinity 
-IXDF	VB Infinity 
-NMFKWT	VB Infinity 
-AIJIIM	JJ Infinity 
-AMPIRIT	JJ Infinity 
-HQHIL	VB Infinity 
-NALCIM	VB Infinity 
-CEQN	JJ Infinity 
-NENW	VB Infinity 
-LHKBID	VB Infinity 
-REILIM	JJ Infinity 
-NHIRIM	JJ Infinity 
-HIRRKIH	NN Infinity 
-BRD	NNP Infinity 
-MBLI	IN Infinity 
-BRI	JJ Infinity 
-BRL	NNP Infinity NN Infinity 
-XWLIIT	NNT Infinity 
-BRQ	NNP Infinity 
-MSQNH	NN Infinity 
-XMNIIH	NNP Infinity 
-BIBLIWGRAPIT	JJ Infinity 
-NERH	NN Infinity 
-NERI	NNT Infinity 
-MPELWT	NNT Infinity 
-BRZ	NN Infinity 
-NERC	JJ Infinity 
-HTBWNNWT	NN Infinity 
-SPWJNIQ	NNP Infinity 
-NERK	VB Infinity 
-NTNIH	NNP Infinity 
-NALCWT	VB Infinity 
-MTQBLWT	VB Infinity 
-HWZMNW	VB Infinity 
-MWFGIM	NN Infinity 
-EKWR	JJ Infinity 
-MFKIT	NN Infinity 
-MRWWAN	NNP Infinity 
-JKNWLWGIWT	NN Infinity 
-LHWWT	VB Infinity 
-MBNH	NNT Infinity NN Infinity 
-TXDL	VB Infinity 
-JIPWSI	JJ Infinity 
-HTIIXSW	VB Infinity NN Infinity 
-HTRGLW	VB Infinity 
-MITRI	NNT Infinity 
-HTIIXST	VB Infinity 
-MBNI	NNT Infinity 
-NIILWN	NN Infinity 
-BTI	NNT Infinity 
-BTH	NN Infinity 
-GRIPIN	NNP Infinity 
-HPEIL	VB Infinity 
-RCIXWT	NN Infinity 
-SINNTI	VB Infinity 
-LHAFIM	VB Infinity 
-LIZWM	VB Infinity 
-MGNIM	VB Infinity 
-NWCRIIM	JJ Infinity 
-4,000	CDT Infinity CD Infinity 
-AWRNIM	NN Infinity 
-MBQF	VB Infinity 
-MJWSI	NNT Infinity 
-MBQR	NN Infinity 
-GRBR	NNP Infinity 
-MBWSST	JJ Infinity VB Infinity 
-RCIXTW	NN Infinity 
-LHWFIJ	VB Infinity 
-HPELH	NN Infinity 
-JWRNIRIM	NN Infinity 
-LEWLMIM	RB Infinity 
-LHWFIE	VB Infinity 
-BSIWNI	NNP Infinity 
-ITKNS	VB Infinity 
-HWZMNH	VB Infinity 
-DHWA	NNP Infinity 
-SKWMI	NNT Infinity 
-SMKWTIWT	NN Infinity 
-DHWI	JJ Infinity 
-TPAWRWT	NNT Infinity 
-MJWRP	NN Infinity 
-HTLHBWT	NN Infinity 
-PWNQCIH	NN Infinity 
-PEWLT	NNT Infinity 
-MSQRN	JJ Infinity 
-TXIH	NN Infinity NNP Infinity 
-XBRT	NNT Infinity 
-NLWWH	VB Infinity 
-XBRW	NN Infinity 
-XBRI	NNT Infinity 
-XBRH	VB Infinity NN Infinity 
-XBRK	NN Infinity 
-BWA	NNT Infinity VB Infinity 
-BWC	NNP Infinity 
-BWF	NNP Infinity 
-QIIZRSLAWJRN	NNP Infinity 
-AIBRIM	NN Infinity 
-BWL	NN Infinity 
-BWN	NNP Infinity 
-HPELT	NNT Infinity 
-MWDAGT	JJ Infinity VB Infinity 
-BWR	NNT Infinity 
-TXWFH	NN Infinity 
-BWQ	NNP Infinity 
-ZHWT	NN Infinity JJ Infinity 
-BWZ	NN Infinity 
-DINGIAW	NNP Infinity 
-IXID	JJ Infinity NN Infinity 
-TXWFT	NNT Infinity 
-AWBIIQJ	NNT Infinity 
-NISIWN	NN Infinity 
-MBRQ	NN Infinity 
-BXN	VB Infinity 
-TMWHH	JJ Infinity 
-PWLIWWINIL	NN Infinity 
-BXR	VB Infinity 
-NISITI	VB Infinity 
-XWZRIM	NN Infinity JJ Infinity VB Infinity 
-WWRQRS	NNP Infinity 
-HARWWI	NNP Infinity 
-TIJWL	VB Infinity 
-NRXBWT	JJ Infinity 
-KIWWNI	NNT Infinity 
-KIWWNH	VB Infinity 
-MENIINIM	JJ Infinity 
-HTBGRWTW	NN Infinity 
-IXLW	VB Infinity 
-PTAWM	RB Infinity 
-ZIGWG	NN Infinity 
-NXZWR	VB Infinity 
-NMHRWT	JJ Infinity 
-AHWBH	NN Infinity 
-MWEDIM	NN Infinity VB Infinity 
-MMWQMIM	VB Infinity 
-HKXDH	NN Infinity 
-XIPFNW	VB Infinity 
-NEWC	VB Infinity 
-ZWHRIM	JJ Infinity 
-GANAJH	NNP Infinity 
-MINWIIM	NN Infinity 
-NEWT	VB Infinity 
-NPALIM	NN Infinity 
-AWRTWDWQSIT	JJ Infinity 
-LMEFH	RB Infinity 
-BZQ	NNP Infinity NN Infinity 
-XIWNIWT	NN Infinity 
-AWRTWDWQSIH	NN Infinity 
-ABDNW	NN Infinity 
-TFWBWT	NN Infinity 
-PLAJ	NNP Infinity 
-TBWSH	NN Infinity 
-TMWRT	IN Infinity 
-NEZR	VB Infinity 
-ANGLH	NNP Infinity 
-ANGLI	JJ Infinity 
-IQBLW	VB Infinity 
-ABDIH	NNP Infinity 
-LHCLIX	VB Infinity 
-TXNH	NN Infinity 
-QWMIQAI	NN Infinity 
-MRWWIX	VB Infinity 
-LWBIC	NNP Infinity 
-PNQSK	NN Infinity 
-LMELH	RB Infinity RBR Infinity 
-TMWTH	NN Infinity 
-LABJX	VB Infinity 
-MWNJRIAWL	NNP Infinity 
-AWJWMJ	NN Infinity 
-BHTXFB	IN Infinity 
-MILIWN	CD Infinity 
-IXPF	VB Infinity 
-BWLGRI	JJ Infinity 
-MITWS	NN Infinity 
-HDBQH	NN Infinity 
-LWBFI	NNT Infinity 
-MITWN	NN Infinity 
-MFKNH	NN Infinity 
-MFKNE	JJ Infinity 
-FIEMWM	NN Infinity 
-QWNCRJIM	NN Infinity 
-EMMIT	JJ Infinity 
-SKWUM	NN Infinity 
-BDRIAN	NNP Infinity 
-MDEIT	JJ Infinity 
-TKWNWTIW	NN Infinity 
-MCWMCM	JJ Infinity 
-CEIRWT	JJ Infinity 
-MBXR	NNT Infinity NN Infinity 
-AXDIM	CD Infinity JJ Infinity 
-TXNT	NNT Infinity 
-GRIM	VB Infinity 
-MBXN	NNT Infinity NN Infinity 
-FPREM	NNP Infinity 
-TMWRH	NN Infinity 
-MPTXWT	NNT Infinity 
-GRIN	NN Infinity 
-LWBFT	VB Infinity 
-HTRAH	NN Infinity 
-PSJIBL	NNT Infinity 
-LFQWD	VB Infinity 
-ANGLS	NNP Infinity 
-LFQWL	VB Infinity 
-ANGLW	JJ Infinity 
-XFMWNAIM	NNP Infinity 
-PWJRIM	VB Infinity 
-HTRBW	VB Infinity 
-HKXIF	VB Infinity 
-TBWNT	NNT Infinity 
-SNAJWR	NN Infinity 
-MGNWM	NNP Infinity 
-NISINW	VB Infinity 
-AMINWT	NN Infinity NNT Infinity 
-MBZH	VB Infinity 
-MAIIMIM	VB Infinity 
-FWKNWT	VB Infinity 
-DIBR	VB Infinity 
-HIRCW	VB Infinity 
-MWEDPT	JJ Infinity 
-MCLMIM	VB Infinity NN Infinity 
-CBA	NN Infinity NNT Infinity 
-MPELIM	NN Infinity 
-TXSR	VB Infinity 
-NFAL	VB Infinity 
-CBE	NN Infinity 
-DIEH	NN Infinity 
-NFAW	VB Infinity 
-CBI	NNP Infinity 
-AWJWBIWGRAPI	JJ Infinity 
-LHERIK	VB Infinity 
-MCBIM	NN Infinity 
-NTQBLH	VB Infinity 
-NFAR	VB Infinity 
-LENWD	VB Infinity 
-QIBWCI	JJ Infinity 
-CBR	VB Infinity NN Infinity 
-TWTIR	VB Infinity 
-TMWMF	VB Infinity 
-MCBIE	VB Infinity 
-LHPRID	VB Infinity 
-HTBJAWT	NN Infinity 
-MPELIT	JJ Infinity 
-ENPIM	NN Infinity 
-LENWT	VB Infinity 
-MTRXFIM	VB Infinity 
-CNWEWT	JJ Infinity 
-NFBE	VB Infinity 
-345,000	CD Infinity 
-SNDINISJI	JJ Infinity 
-TXWMI	NNT Infinity 
-IXSI	NNT Infinity NN Infinity 
-GRMH	VB Infinity 
-IXSR	VB Infinity 
-MARJIN	NNP Infinity 
-LPNWT	IN Infinity VB Infinity 
-NWBEIM	VB Infinity 
-GRMW	VB Infinity 
-TXWMW	NN Infinity 
-CCW	VB Infinity 
-HTREH	NN Infinity 
-FAPTNIT	JJ Infinity 
-PLGI	NNT Infinity 
-TMWNH	NN Infinity VB Infinity 
-NTQBLW	VB Infinity 
-IISWRIM	NN Infinity 
-MSGIRIM	VB Infinity 
-MQRNIM	NN Infinity 
-ADWMWT	JJ Infinity 
-CDI	NNT Infinity 
-CDN	NN Infinity 
-CDM	NN Infinity 
-AINDWNZIH	NNP Infinity 
-CDQ	NN Infinity VB Infinity 
-FMALIT	JJ Infinity 
-REIWNWTIHM	NN Infinity 
-MSLQIM	VB Infinity 
-CDW	NN Infinity 
-IXWF	VB Infinity 
-BJXWN	NN Infinity 
-CED	VB Infinity NN Infinity 
-PLIQS	NNP Infinity 
-MZHIRIM	VB Infinity 
-ELIH	NN Infinity 
-NHIRH	NN Infinity JJ Infinity 
-LHWDWT	VB Infinity 
-NFBW	VB Infinity 
-FERIM	NN Infinity 
-CEQ	VB Infinity 
-MWEDWN	NN Infinity NNT Infinity 
-CER	NN Infinity 
-ELIT	NN Infinity 
-PLIJ	NN Infinity 
-PLII	NNP Infinity 
-PIRZWL	NN Infinity 
-TWRTW	NN Infinity 
-NHIRT	NNT Infinity 
-HXLJWTIW	NN Infinity 
-MCBM	NN Infinity 
-MCBN	NN Infinity 
-FKBWT	NNT Infinity NN Infinity 
-DIIL	NNP Infinity 
-NTLTH	VB Infinity 
-DIIN	NNP Infinity 
-DIIBI	NNP Infinity 
-MCBT	NNT Infinity 
-DIIQ	VB Infinity 
-MCBW	NN Infinity 
-LPLWJ	VB Infinity 
-GRRW	VB Infinity 
-AXRITW	NN Infinity 
-NRFMT	VB Infinity 
-KWFRM	NN Infinity 
-NRFMW	VB Infinity 
-LELWT	VB Infinity 
-ANIIT	NNT Infinity 
-NILSN	NNP Infinity 
-3791	CD Infinity 
-WSJRIS	NNP Infinity 
-MCAW	VB Infinity 
-NRFMH	VB Infinity 
-DWRIT	NNP Infinity 
-XCAI	NNT Infinity 
-TXWM	NN Infinity NNT Infinity 
-TCLWMI	NNT Infinity 
-PLILI	NN Infinity JJ Infinity 
-IXZQ	VB Infinity 
-EIBWD	NNT Infinity NN Infinity 
-NSIWN	NN Infinity 
-TAILNDIT	JJ Infinity 
-KWABIM	JJ Infinity VB Infinity 
-XBRWTM	NN Infinity 
-AWJWBWS	NN Infinity NNT Infinity 
-PLILT	JJ Infinity 
-MFIXH	NN Infinity 
-CID	NN Infinity NNT Infinity 
-MFIXI	JJ Infinity 
-MWRKBT	VB Infinity JJ Infinity 
-GRSI	NNP Infinity 
-ZIID	NNP Infinity 
-GRSH	NN Infinity 
-1151	CD Infinity 
-CIR	NNT Infinity NN Infinity 
-GRST	NNT Infinity 
-IIAPFRW	VB Infinity 
-DRBWN	NN Infinity 
-FKBTI	JJ Infinity 
-TWRPH	NN Infinity 
-MWGDLIM	JJ Infinity 
-MZLGWT	NN Infinity 
-ZIIN	NNP Infinity 
-MCDH	NNP Infinity 
-KIKRWT	NN Infinity 
-LHFTBC	VB Infinity 
-DWRFI	NNT Infinity 
-NFIT	JJ Infinity 
-XDFIMIFNIM	JJ Infinity 
-EWDPIM	NN Infinity JJ Infinity 
-DWRFT	VB Infinity 
-PWINJ	NNP Infinity 
-HWZLWT	NN Infinity 
-HRJBT	NNT Infinity 
-IRIDWT	NNT Infinity NN Infinity 
-GRWE	JJ Infinity 
-MIWTMIM	RB Infinity 
-GRWF	NN Infinity 
-BIQFTI	VB Infinity 
-TWRMT	VB Infinity 
-DINH	NNP Infinity 
-MTBCEWT	VB Infinity 
-DIBRTI	VB Infinity 
-QCINI	NNT Infinity 
-NFIA	NNT Infinity NN Infinity 
-KWBEIM	NN Infinity 
-NFIM	VB Infinity NN Infinity 
-GFMIM	NN Infinity 
-CLE	NN Infinity 
-CLH	NN Infinity 
-FINIIM	NN Infinity 
-NXFLWT	NN Infinity 
-NFKX	VB Infinity 
-MILWWQI	NNP Infinity 
-EIIPWT	NN Infinity 
-MCIG	VB Infinity 
-HTPJR	VB Infinity 
-MCIE	VB Infinity 
-ZINQ	VB Infinity 
-RBWEIM	JJ Infinity 
-NFLL	VB Infinity 
-MCIL	VB Infinity 
-ZIMH	NN Infinity 
-MRFIMIM	JJ Infinity 
-PINNSI	JJ Infinity 
-GRWN	NN Infinity NNT Infinity 
-DINM	NN Infinity 
-GRWS	NNP Infinity 
-CMR	NN Infinity 
-CEIRIM	JJ Infinity NN Infinity 
-CMW	NNP Infinity 
-DINW	NN Infinity 
-CMX	VB Infinity 
-QNIWT	NN Infinity 
-QNIWN	NN Infinity 
-ZIMN	VB Infinity 
-ALBWM	NN Infinity 
-NFKR	JJ Infinity 
-CNE	NN Infinity 
-QLGSIW	NN Infinity 
-MPTXIM	VB Infinity 
-DIQN	NNT Infinity 
-AIGWDIM	NN Infinity 
-RPIWN	NN Infinity 
-NJIFTW	NN Infinity 
-HTPLL	VB Infinity 
-DIRH	NN Infinity 
-SIJWACIWT	NN Infinity 
-NFLX	VB Infinity 
-3,825	CD Infinity 
-SBWRIM	VB Infinity 
-XCIH	NN Infinity 
-PLFTINAIIM	JJ Infinity 
-REIWN	NNT Infinity NN Infinity 
-XQIIN	NN Infinity 
-LMCWT	VB Infinity 
-KHNISJIM	NN Infinity 
-PIIBWRIJ	JJ Infinity 
-TIIRT	NN Infinity 
-NFME	VB Infinity 
-NFMH	NN Infinity 
-NFMR	VB Infinity 
-CPH	VB Infinity 
-ELTH	VB Infinity 
-GRZI	NNP Infinity 
-BHDGFH	RB Infinity 
-CPI	NN Infinity 
-GRZN	NN Infinity 
-LMCWA	VB Infinity 
-TWRWT	NN Infinity 
-CPT	NNP Infinity 
-MGRFIM	NN Infinity 
-NKSIW	NN Infinity 
-RFLNIT	JJ Infinity 
-CPW	VB Infinity 
-MIFXQI	NNT Infinity 
-ZIRH	NN Infinity 
-IWBNJWS	NNP Infinity 
-ELWB	NN Infinity 
-PSIKWLWG	NN Infinity 
-CNWEIM	JJ Infinity NN Infinity 
-MTWKNN	VB Infinity 
-NFPK	VB Infinity 
-IFTKNE	VB Infinity 
-FWLPIM	VB Infinity 
-ZIRT	NNT Infinity 
-ELWL	VB Infinity 
-ELWN	NNT Infinity NN Infinity 
-ZIRW	NNP Infinity 
-LHCJRP	VB Infinity 
-DIRT	NNT Infinity 
-ZIQH	NN Infinity 
-NKSIM	NN Infinity 
-CRH	NN Infinity JJ Infinity 
-FWAPIM	VB Infinity 
-AWPIINIWT	JJ Infinity 
-SGIRT	NNT Infinity 
-MISIM	NN Infinity 
-JMPRJWRH	NN Infinity 
-AWPIIM	NN Infinity 
-CRW	VB Infinity 
-MAWXDIM	VB Infinity 
-PWBLICISJIQH	NN Infinity 
-LEMEM	VB Infinity 
-WWLSJWN	NNP Infinity 
-ARGNJINAI	JJ Infinity 
-BHRBH	MOD Infinity 
-TARIKIM	NN Infinity 
-SGIRH	NN Infinity 
-15716281	CD Infinity 
-NFRW	VB Infinity 
-QNITI	VB Infinity 
-MRINWB	NNP Infinity 
-MISJR	NN Infinity 
-ELWT	NN Infinity NNT Infinity 
-MISJI	JJ Infinity 
-LHWDIE	VB Infinity 
-HTPRC	VB Infinity 
-RAFWNIWT	JJ Infinity 
-NFQM	NN Infinity 
-LIWBWFIC	NNP Infinity 
-ADRIKLWT	NN Infinity 
-PLWR	NNP Infinity 
-NFQP	VB Infinity 
-MDBIQH	VB Infinity 
-DIWR	NN Infinity 
-AFRAI	NN Infinity 
-01	CDT Infinity CD Infinity JJ Infinity 
-02	JJ Infinity CD Infinity 
-03	CD Infinity 
-04	CD Infinity 
-05	CD Infinity 
-06	JJ Infinity CD Infinity 
-NISWIIT	JJ Infinity 
-07	CD Infinity 
-08	CD Infinity 
-XLWMWTIW	NN Infinity 
-09	CD Infinity 
-JIWLIM	NN Infinity 
-SRJNIM	NN Infinity 
-MWPIEIM	VB Infinity 
-NISWIIM	NN Infinity 
-PLFTINI	JJ Infinity 
-10	CD Infinity CDT Infinity 
-11	CD Infinity 
-12	CD Infinity JJ Infinity 
-13	CDT Infinity CD Infinity 
-HFLKWTIHN	NN Infinity 
-14	CD Infinity 
-15	CD Infinity 
-16	JJ Infinity CD Infinity CDT Infinity 
-17	CD Infinity 
-18	JJ Infinity CD Infinity 
-19	CD Infinity 
-MCPH	VB Infinity 
-LHWEID	VB Infinity 
-MSIIEIM	VB Infinity 
-AZKWR	NN Infinity 
-HFTXRRH	VB Infinity 
-DIWN	NN Infinity 
-20	CD Infinity 
-21	CD Infinity JJ Infinity 
-DIWQ	NN Infinity 
-PSNTRN	NN Infinity 
-22	CD Infinity 
-23	CD Infinity JJ Infinity 
-24	CD Infinity 
-25	CD Infinity 
-26	CD Infinity 
-27	CD Infinity 
-28	CD Infinity 
-29	CD Infinity 
-MGMGM	JJ Infinity 
-XQIRT	NNT Infinity 
-FRIDIM	NN Infinity 
-HTPTX	VB Infinity 
-XQIRH	NN Infinity 
-HEDIP	VB Infinity 
-30	CD Infinity 
-31	CD Infinity JJ Infinity 
-CWR	NN Infinity NNP Infinity 
-32	CD Infinity 
-33	CD Infinity JJ Infinity 
-34	CD Infinity JJ Infinity 
-36	JJ Infinity CD Infinity 
-37	CD Infinity 
-38	CD Infinity 
-MCRI	JJ Infinity 
-MHPKH	NN Infinity 
-CXI	NNP Infinity 
-MSPIQ	DT Infinity MOD Infinity RB Infinity VB Infinity 
-XQIQH	NN Infinity 
-CXQ	VB Infinity 
-41	CD Infinity JJ Infinity 
-42	CD Infinity JJ Infinity 
-43	CD Infinity 
-44	CD Infinity 
-45	CD Infinity JJ Infinity 
-46	CD Infinity 
-MJWRPWT	JJ Infinity 
-47	JJ Infinity CD Infinity 
-ITNHGW	VB Infinity 
-DLQWT	NN Infinity 
-49	CD Infinity 
-BGNWT	IN Infinity 
-ZIKRWNWTIW	NN Infinity 
-LHFTTP	VB Infinity 
-NFXQ	VB Infinity 
-HBRPLD	NNP Infinity 
-NTMKH	VB Infinity 
-50	CD Infinity 
-51	CD Infinity CDT Infinity 
-52	CD Infinity CDT Infinity 
-MCUX	NNP Infinity 
-53	CD Infinity 
-54	CD Infinity 
-55	CD Infinity 
-56	CD Infinity 
-57	CD Infinity 
-58	CD Infinity 
-59	CD Infinity 
-APWSJRWP	NNP Infinity 
-XFIPT	NNT Infinity 
-XFIPH	NN Infinity 
-TLMWDIT	JJ Infinity 
-MXWIBWTW	NN Infinity 
-LHBHIR	VB Infinity 
-NFWI	NN Infinity 
-NFWT	NNT Infinity 
-MFQIEH	VB Infinity 
-MIDRDR	VB Infinity 
-61	CD Infinity JJ Infinity 
-62	CD Infinity CDT Infinity 
-63	CD Infinity 
-64	CD Infinity 
-65	CD Infinity 
-66	CD Infinity 
-67	CD Infinity JJ Infinity 
-68	JJ Infinity CD Infinity 
-MCWA	NN Infinity 
-IFAIR	VB Infinity 
-BWDHISJIT	JJ Infinity 
-MPGEI	NNT Infinity 
-MCWI	VB Infinity JJ Infinity 
-KWABWT	JJ Infinity 
-QPDN	JJ Infinity 
-MCWR	NN Infinity 
-70	CD Infinity 
-71	CD Infinity 
-72	CD Infinity JJ Infinity 
-73	CD Infinity 
-74	CD Infinity 
-75	CD Infinity JJ Infinity 
-76	CD Infinity 
-77	CD Infinity 
-MPRSMIM	VB Infinity 
-78	CD Infinity 
-79	CD Infinity 
-QPCH	VB Infinity 
-MDRXWB	NNT Infinity 
-XIRWT	NN Infinity 
-MJBEWT	NN Infinity 
-XIRWM	NN Infinity 
-MNWKRT	JJ Infinity 
-QPCW	VB Infinity 
-80	CD Infinity 
-81	CD Infinity 
-82	CD Infinity 
-83	CD Infinity JJ Infinity 
-84	CD Infinity 
-85	CD Infinity 
-86	CD Infinity 
-87	CD Infinity JJ Infinity 
-88	CD Infinity JJ Infinity 
-89	CD Infinity 
-ZRIQWT	NNT Infinity 
-HEDPH	NN Infinity 
-AWPIINIIM	JJ Infinity 
-EMDH	NN Infinity VB Infinity 
-LHZNIX	VB Infinity 
-QWLQJIWWIT	JJ Infinity 
-NWZLIM	NN Infinity 
-MISWI	NNT Infinity NN Infinity 
-90	CD Infinity CDT Infinity 
-EMDT	NNT Infinity 
-91	JJ Infinity CD Infinity 
-92	CD Infinity 
-93	JJ Infinity CD Infinity 
-94	CD Infinity 
-MISWD	NNT Infinity 
-QARSWN	NNP Infinity 
-EMDW	VB Infinity 
-95	CD Infinity 
-96	CD Infinity 
-IRDNI	JJ Infinity 
-IRDNH	NNP Infinity 
-98	CD Infinity 
-RFMIT	JJ Infinity RB Infinity 
-99	CD Infinity 
-XCWT	NN Infinity 
-MCXH	NN Infinity 
-RFMIW	NN Infinity 
-34.90	CD Infinity 
-PLAJINI	NNP Infinity 
-DWUXWT	NN Infinity NNT Infinity 
-MTNDBIM	NN Infinity 
-MFQIPIM	NN Infinity 
-HFGTH	NN Infinity 
-IBWAN	NN Infinity 
-IBWAW	VB Infinity 
-HNHLTH	NN Infinity 
-LFPWJ	VB Infinity 
-HEDPT	NNT Infinity 
-NIMNI	NNP Infinity 
-QDMNI	NNP Infinity 
-MSPRM	NN Infinity 
-MPGIF	VB Infinity 
-MSPRT	VB Infinity 
-DNWWR	NNP Infinity 
-BITWR	NN Infinity 
-MXFBIM	NN Infinity 
-HWCIAH	VB Infinity 
-XWWITI	VB Infinity 
-MSPQT	VB Infinity JJ Infinity 
-DAG	VB Infinity 
-FRWIH	VB Infinity 
-HWCIAW	VB Infinity 
-DAL	NNP Infinity 
-ALBIJ	NNP Infinity 
-IRDNW	VB Infinity 
-WWLWNJARI	JJ Infinity 
-MTGBFIM	JJ Infinity 
-DAZ	MOD Infinity 
-NFDDH	VB Infinity 
-LHFTLJ	VB Infinity 
-QPJN	NNT Infinity 
-LHFTLB	VB Infinity 
-MFQWLAIM	NN Infinity 
-MFJRT	NNT Infinity 
-LEMWD	VB Infinity 
-BITUR	NNP Infinity 
-AMRIQN	NNP Infinity 
-MAWXDWT	VB Infinity 
-DBQ	NN Infinity NNT Infinity 
-LHPQID	VB Infinity 
-DBR	NN Infinity NNT Infinity 
-LHPQIE	VB Infinity 
-AIJIWT	NNT Infinity 
-RFWMWT	VB Infinity 
-MFJRH	NN Infinity 
-NGBH	NNP Infinity 
-TWSIP	VB Infinity 
-LHFTMF	VB Infinity 
-HFGXH	NN Infinity 
-FRIRWTIT	JJ Infinity 
-XWWIWT	NN Infinity NNT Infinity 
-EDINIM	JJ Infinity 
-LMDNW	VB Infinity 
-CWWTI	NNT Infinity 
-PWQDWT	VB Infinity 
-FWAPWT	VB Infinity 
-QPLN	NNP Infinity 
-DDI	NNP Infinity 
-HTMXTH	VB Infinity 
-ADWMIM	NN Infinity NNP Infinity JJ Infinity 
-HWZKR	VB Infinity 
-HTLWNNW	VB Infinity 
-HTQBL	VB Infinity 
-HTQBC	VB Infinity 
-NGDI	JJ Infinity 
-BIHMUF	NN Infinity 
-MWPIEWT	VB Infinity 
-ARKIJQJIT	JJ Infinity NN Infinity 
-MQPIDH	VB Infinity 
-ANRCIH	NN Infinity 
-EMID	JJ Infinity 
-ARTWR	NNP Infinity 
-DEH	NN Infinity 
-FPLH	NN Infinity 
-MGMTW	NN Infinity 
-NGBW	VB Infinity 
-AWBDN	NNT Infinity 
-EMIM	NN Infinity 
-AINPLCIWNI	JJ Infinity 
-EMIR	NNP Infinity 
-DET	NN Infinity NNT Infinity 
-EMIT	NNP Infinity 
-AMRIQH	NNP Infinity 
-LHFTKR	VB Infinity 
-BJWXH	JJ Infinity 
-DFA	NN Infinity 
-HTLWNNH	VB Infinity 
-CWWTW	NN Infinity 
-HIKRWT	NN Infinity 
-MDBR	NN Infinity VB Infinity 
-WINGIIJ	NNP Infinity 
-EMLH	NN Infinity 
-2551	CD Infinity 
-IRIETK	NN Infinity 
-FWTPWIWT	NN Infinity 
-A.	NNP Infinity 
-NGEW	VB Infinity 
-EMLT	NNT Infinity 
-QILWMJR	NN Infinity 
-EMLW	VB Infinity 
-AXWZIM	NN Infinity 
-IQCWR	VB Infinity 
-AB	NN Infinity 
-DGF	NN Infinity 
-AD	NNP Infinity 
-KLBIHM	NN Infinity 
-REIWNWTIH	NN Infinity 
-AF	NN Infinity 
-DGL	NN Infinity NNT Infinity 
-AI	NNP Infinity RB Infinity NN Infinity NNT Infinity MOD Infinity 
-AK	MOD Infinity CC Infinity 
-LMFWK	VB Infinity 
-AL	IN Infinity NN Infinity RB Infinity VB Infinity NNP Infinity 
-DGM	NNT Infinity NN Infinity 
-AM	IN Infinity NN Infinity MOD Infinity HAM Infinity NNP Infinity 
-SIRWS	NNT Infinity 
-AN	NNP Infinity 
-SIRWT	NNT Infinity 
-ZWRNL	NNP Infinity 
-AP	NN Infinity DT Infinity RB Infinity MOD Infinity IN Infinity NNP Infinity 
-FXCNWT	NN Infinity 
-AS	NNP Infinity 
-AT	PRP Infinity AT Infinity IN Infinity 
-FWWIICRIIM	JJ Infinity 
-REIWNWTIW	NN Infinity 
-AW	NNP Infinity CC Infinity 
-AX	NN Infinity 
-RDIPT	NNT Infinity 
-AZ	RB Infinity 
-TQCIB	NNT Infinity NN Infinity 
-GLAZGW	NNP Infinity 
-BA	NNT Infinity VB Infinity JJ Infinity 
-BD	NNT Infinity NN Infinity 
-BF	NNP Infinity 
-CRKNIT	NN Infinity NNT Infinity 
-BI	NNP Infinity 
-MQLXT	NN Infinity 
-BK	NNP Infinity 
-BL	RB Infinity NNP Infinity 
-PWLXN	NN Infinity 
-C.	NNP Infinity 
-BN	NN Infinity IN Infinity NNT Infinity NNP Infinity 
-SNQCIWT	NN Infinity 
-CRKNIM	NN Infinity 
-BQ	NNP Infinity 
-BR	JJT Infinity NNP Infinity 
-LHPTIE	VB Infinity 
-MFLXT	NN Infinity NNT Infinity 
-EMNW	NN Infinity 
-BS	NNP Infinity 
-BT	NNT Infinity NN Infinity 
-LABD	VB Infinity 
-TGFIM	VB Infinity 
-ACJLH	NN Infinity 
-EWMDT	VB Infinity 
-MDEI	JJ Infinity NNT Infinity 
-CD	NN Infinity NNT Infinity 
-DIH	MOD Infinity 
-HGMFT	NNT Infinity 
-CH	NNP Infinity 
-DII	NNP Infinity 
-MQLWT	JJ Infinity NNT Infinity 
-DIN	NNP Infinity NN Infinity NNT Infinity 
-CL	NN Infinity 
-DIR	NNP Infinity 
-IIMCA	VB Infinity 
-CBINSQH	NNP Infinity 
-DIQ	NNP Infinity 
-CR	VB Infinity JJ Infinity 
-DIS	NNP Infinity 
-CWWTIM	NN Infinity 
-CW	NNT Infinity NN Infinity 
-DA	NNP Infinity 
-SXWRWT	NN Infinity 
-DB	NN Infinity NNP Infinity 
-TSIIE	VB Infinity 
-DH	NNP Infinity NN Infinity 
-DI	NNP Infinity RB Infinity DT Infinity MOD Infinity 
-XDFH	JJ Infinity 
-DL	JJ Infinity JJT Infinity 
-DM	NN Infinity NNT Infinity 
-DN	VB Infinity NNP Infinity 
-DQ	JJ Infinity ZVL Infinity 
-DR	NNT Infinity 
-HSPIQ	VB Infinity 
-DT	NN Infinity NNT Infinity 
-DW	MOD Infinity 
-IIMFK	VB Infinity 
-IRIEWT	NNT Infinity 
-MTPTLT	JJ Infinity 
-MDGM	NN Infinity 
-EC	NNT Infinity NN Infinity 
-ED	NNT Infinity NN Infinity IN Infinity 
-HFERWT	NN Infinity 
-QIRBTM	NN Infinity 
-MDEN	NN Infinity 
-EL	IN Infinity NNP Infinity NN Infinity 
-EM	IN Infinity NN Infinity NNT Infinity 
-SLIMZIANWB	NNP Infinity 
-TKNNTM	VB Infinity 
-ER	VB Infinity 
-BFMIM	NN Infinity 
-ET	NNT Infinity NN Infinity 
-MIICGT	VB Infinity 
-NGID	NNT Infinity NN Infinity VB Infinity 
-NGIE	VB Infinity 
-EZ	JJ Infinity 
-RDIPWT	NN Infinity 
-FB	VB Infinity 
-FD	NNT Infinity NN Infinity 
-FF	CDT Infinity CD Infinity 
-DLH	JJ Infinity 
-HFTLMWT	NN Infinity 
-FI	NNP Infinity 
-EICWB	NNT Infinity NN Infinity 
-FL	ZVL Infinity POS Infinity IN Infinity 
-FM	NNT Infinity NN Infinity RB Infinity VB Infinity 
-G.	NNP Infinity 
-DLQ	NN Infinity 
-LXFWP	VB Infinity 
-FQ	NN Infinity NNT Infinity 
-FR	NN Infinity VB Infinity NNT Infinity 
-NGIXH	NN Infinity 
-DLT	NNT Infinity NN Infinity 
-KWKBIM	NN Infinity 
-MRPAH	NN Infinity 
-LXFWF	VB Infinity 
-DWMINNJIT	JJ Infinity 
-AWNRWWUA	NNP Infinity 
-MNFNGLDBAK	NNP Infinity 
-HTIIBFWT	NN Infinity 
-NECRW	VB Infinity 
-GB	NN Infinity NNT Infinity 
-LXFWB	VB Infinity 
-GD	NNP Infinity 
-DMH	NN Infinity 
-EMSI	NNP Infinity 
-LXFWD	VB Infinity 
-MDIM	NN Infinity 
-GG	NN Infinity NNT Infinity 
-DMI	NNT Infinity 
-FPTM	NN Infinity 
-FLFWT	NN Infinity 
-XSRIM	VB Infinity 
-GL	NNT Infinity NNP Infinity NN Infinity 
-DMM	NN Infinity 
-GM	RB Infinity MOD Infinity 
-GN	NNT Infinity NN Infinity 
-FLFWM	RB Infinity 
-GSWT	NN Infinity NNT Infinity 
-QWSMJIQH	NN Infinity 
-14.3.89	CD Infinity 
-FLFWL	NN Infinity 
-MBQIEIM	VB Infinity 
-FPTW	NN Infinity 
-DMW	NN Infinity MOD Infinity 
-XIIQIN	NNP Infinity 
-GW	NNP Infinity 
-SSGWNIT	JJ Infinity 
-GZ	NN Infinity 
-THIIH	AUX Infinity 
-DNI	JJ Infinity NNP Infinity 
-HTREWT	NN Infinity 
-DNH	VB Infinity 
-FPWP	JJ Infinity 
-DIPLWMJI	JJ Infinity 
-MIICBT	VB Infinity 
-HM	AGR Infinity PRP Infinity 
-I.	NNP Infinity 
-HN	PRP Infinity AGR Infinity MOD Infinity 
-FPWT	NN Infinity 
-GIDWLIM	NN Infinity 
-HR	NNT Infinity NNP Infinity 
-HS	NNP Infinity 
-DNW	VB Infinity 
-FBWIIM	NN Infinity 
-HWLNDIIM	JJ Infinity 
-HWZKRW	VB Infinity 
-ID	NN Infinity NNT Infinity 
-FPXH	NN Infinity 
-IF	VB Infinity 
-XDIF	JJ Infinity 
-BRAFIT	RB Infinity 
-LAFR	VB Infinity 
-IM	NNT Infinity NN Infinity 
-XBRTIT	JJ Infinity 
-IN	NN Infinity 
-MFMEI	JJ Infinity 
-IS	NNP Infinity 
-XSRWT	JJT Infinity VB Infinity 
-IHIRWTH	NN Infinity 
-JWPIQ	NNP Infinity 
-ITMID	VB Infinity 
-AQHWIZ	NNP Infinity 
-GRSTH	NN Infinity 
-THIWT	NN Infinity 
-AGWCNJRI	JJ Infinity 
-PICWI	NN Infinity 
-PICWL	NN Infinity 
-XDIM	JJ Infinity 
-MWGZMIM	JJ Infinity 
-XDIR	JJ Infinity 
-DPI	NNT Infinity 
-NGML	VB Infinity 
-FPWI	JJ Infinity 
-JI	NNP Infinity 
-MTNUSIM	NN Infinity 
-XDLH	VB Infinity 
-JL	NNP Infinity 
-ITMKW	VB Infinity 
-NIPCW	VB Infinity 
-WWITWR	NN Infinity 
-GRSTW	NN Infinity 
-IIMLJ	VB Infinity 
-DHIINW	RB Infinity MOD Infinity 
-MAPFRT	VB Infinity 
-JWPLW	VB Infinity 
-EMWD	NNT Infinity 
-KC	NNP Infinity 
-DQH	JJ Infinity NN Infinity 
-HQJIN	VB Infinity 
-KF	IN Infinity COM Infinity 
-KH	RB Infinity MOD Infinity 
-KI	COM Infinity MOD Infinity IN Infinity 
-IIMFKW	VB Infinity 
-KK	RB Infinity PRP Infinity NNP Infinity 
-KL	DT Infinity 
-PLSJIQ	NN Infinity 
-KN	MOD Infinity PRP Infinity RB Infinity 
-JWPLH	VB Infinity 
-DQR	VB Infinity 
-KP	NN Infinity 
-DQT	NNT Infinity 
-FPXT	NNT Infinity 
-KR	NNT Infinity 
-KS	NNT Infinity 
-KT	NN Infinity 
-KW	RB Infinity 
-KX	NNT Infinity 
-TILXM	VB Infinity 
-IIMKR	VB Infinity 
-LA	RB Infinity MOD Infinity 
-PNSIM	NN Infinity 
-LB	NNP Infinity NNT Infinity NN Infinity 
-10000	CD Infinity 
-PNSIH	NN Infinity 
-DRG	NN Infinity NNT Infinity 
-DRF	VB Infinity 
-LF	NNP Infinity 
-DRK	NNT Infinity IN Infinity VB Infinity NN Infinity 
-LH	NNP Infinity 
-PWMBI	NN Infinity 
-LK	VB Infinity 
-CECWE	NN Infinity 
-LM	NNP Infinity 
-LN	VB Infinity NN Infinity 
-XDFIM	JJ Infinity 
-SWBL	NNP Infinity VB Infinity 
-LW	IN Infinity RB Infinity 
-HTREMW	VB Infinity 
-LX	JJ Infinity 
-NWQFWTW	NN Infinity 
-HWCA	VB Infinity 
-LALC	VB Infinity 
-NGRM	VB Infinity 
-HWCG	VB Infinity 
-IKRIEW	VB Infinity 
-HWCE	VB Infinity 
-SQIRH	NN Infinity 
-MWTNIT	VB Infinity 
-MF	IN Infinity 
-HTRXFWTM	NN Infinity 
-MH	QW Infinity 
-MI	QW Infinity NNT Infinity 
-NGRS	VB Infinity 
-MN	IN Infinity 
-EMWQ	JJ Infinity 
-EMWS	NNP Infinity 
-MR	JJ Infinity NNP Infinity NN Infinity 
-PWGFIM	VB Infinity 
-MS	NNT Infinity NN Infinity 
-MT	JJ Infinity VB Infinity 
-GRSWT	NN Infinity 
-HWBA	VB Infinity 
-HFTTPWTW	NN Infinity 
-MFMIE	VB Infinity 
-MFMIC	VB Infinity 
-MPRGNIM	VB Infinity 
-DTIWT	JJ Infinity 
-NA	NNP Infinity RB Infinity 
-FBITT	NNT Infinity 
-NE	VB Infinity 
-FBITH	NN Infinity 
-DTI	NN Infinity JJ Infinity 
-HTKWWNH	VB Infinity 
-TSISH	NN Infinity 
-FWMRIM	VB Infinity 
-FERIIM	NNP Infinity 
-HWDW	NN Infinity NNP Infinity VB Infinity 
-MDWIQT	JJ Infinity 
-MJMIEH	VB Infinity 
-HWDX	VB Infinity 
-EWLWT	JJ Infinity VB Infinity 
-NQ	NN Infinity 
-NR	NNT Infinity 
-NS	NNT Infinity NN Infinity 
-BRIAWTI	JJ Infinity 
-NW	RB Infinity 
-HTQBLW	VB Infinity 
-CNCNWT	NN Infinity 
-SWDI	JJ Infinity 
-EWBDTIT	JJ Infinity 
-RDIWS	NN Infinity 
-MFMEW	NN Infinity 
-HWENQW	VB Infinity 
-FMIRT	NNT Infinity 
-HFTTPWTM	NN Infinity 
-MFMET	NN Infinity 
-P.	NNP Infinity 
-HMWNIWT	JJ Infinity 
-DUR	NN Infinity 
-PNIWTIHN	NN Infinity 
-HWCT	VB Infinity 
-LALW	NNP Infinity 
-HDDIT	JJ Infinity 
-FMIRH	NN Infinity 
-LAMC	VB Infinity 
-TWBEIM	NN Infinity 
-HGDIRW	VB Infinity 
-HWDH	VB Infinity 
-MXLQIM	VB Infinity 
-TPEWLH	NN Infinity 
-HWDI	JJ Infinity 
-PG	VB Infinity 
-BDQW	VB Infinity 
-PH	RB Infinity NN Infinity 
-PI	NNP Infinity NN Infinity MOD Infinity NNT Infinity 
-NGSW	VB Infinity 
-HWDP	NNT Infinity 
-LAMR	VB Infinity 
-FBIRH	NN Infinity 
-HTQBLH	VB Infinity 
-HQJNT	NNT Infinity 
-MENIQH	VB Infinity 
-MFMFT	VB Infinity 
-NAMDIM	VB Infinity 
-Q.	NNP Infinity 
-PN	NN Infinity 
-LAMT	VB Infinity 
-ZIKRWNW	NN Infinity 
-AWPJIT	JJ Infinity 
-BEIWT	NN Infinity NNT Infinity 
-MCJIIN	JJ Infinity VB Infinity NN Infinity 
-PS	NNP Infinity NNT Infinity 
-PT	NNP Infinity 
-QWNWJCIWT	NN Infinity 
-MCJIIR	VB Infinity 
-XDRI	NNT Infinity 
-PIQWDI	JJ Infinity 
-MEJIM	JJ Infinity NN Infinity 
-XDRH	NNP Infinity 
-HWGF	VB Infinity 
-MTPTXT	VB Infinity 
-BEIJWT	NN Infinity NNT Infinity 
-DWD	NN Infinity NNP Infinity 
-MFPIEH	VB Infinity 
-FQAF	NNP Infinity 
-HWGH	NN Infinity 
-QC	NN Infinity 
-HWGI	NNT Infinity 
-HCJRPH	VB Infinity 
-HWGN	JJ Infinity 
-QF	NN Infinity 
-DWL	NNP Infinity 
-XDRW	NN Infinity 
-LHJBIE	VB Infinity 
-DWN	NNP Infinity 
-QL	RB Infinity JJ Infinity VB Infinity 
-DWM	NNT Infinity 
-PIQWDW	NN Infinity 
-R.	NNP Infinity 
-QM	VB Infinity 
-CIRWPH	NN Infinity 
-FQAR	NNP Infinity 
-DWR	NN Infinity 
-DWQ	NN Infinity NNP Infinity 
-QR	JJ Infinity 
-HZDHW	VB Infinity 
-QT	NNT Infinity 
-DWX	VB Infinity 
-HPGNH	NN Infinity 
-QW	NNT Infinity NN Infinity 
-GWRIWN	NNP Infinity 
-DAQWWRT	NNP Infinity 
-PLIMWT	NNP Infinity 
-EIWWRT	JJ Infinity 
-PRIJIM	NN Infinity 
-RB	JJT Infinity NN Infinity NNT Infinity MOD Infinity JJ Infinity 
-RC	VB Infinity NNP Infinity 
-HWFG	VB Infinity 
-RE	JJ Infinity NN Infinity 
-IZIN	VB Infinity 
-DXH	VB Infinity 
-SWER	JJ Infinity 
-RH	MOD Infinity 
-MDLIIT	NNT Infinity 
-HWFR	VB Infinity 
-RK	JJ Infinity 
-ITMQD	VB Infinity 
-HCLXTW	NN Infinity 
-S.	NNP Infinity 
-CPCPH	NN Infinity 
-RM	NNP Infinity 
-DXQ	VB Infinity 
-DXP	VB Infinity 
-RQ	RB Infinity MOD Infinity 
-GWAIF	NNP Infinity 
-RS	NNP Infinity 
-DXW	VB Infinity 
-TZKH	VB Infinity 
-RX	NNT Infinity NN Infinity 
-MDUA	NNP Infinity 
-RZ	NNP Infinity 
-SWHR	NN Infinity NNP Infinity 
-XWLFWT	NNT Infinity 
-SISLI	NNP Infinity 
-LARI	NNP Infinity 
-SJWDIW	NNP Infinity 
-SD	NN Infinity 
-SE	NNP Infinity 
-HCLXWT	NN Infinity 
-SI	NNP Infinity NN Infinity 
-SJ	NNP Infinity 
-SK	NN Infinity NNT Infinity 
-LARX	VB Infinity 
-LSIRWGIN	RB Infinity 
-SL	NN Infinity NNT Infinity 
-SM	NN Infinity NNT Infinity NNP Infinity 
-SN	NNP Infinity 
-SP	NNT Infinity 
-IBZBZ	VB Infinity 
-SR	NN Infinity 
-HWNHGH	VB Infinity 
-SWGI	NNT Infinity 
-FWWRCMN	NNP Infinity 
-FMINI	JJ Infinity 
-MNIETH	NN Infinity 
-NGWE	VB Infinity 
-HCJRPW	VB Infinity 
-SWGR	NNT Infinity VB Infinity 
-WWEIDH	NN Infinity 
-IIMSR	VB Infinity 
-FERWT	NNT Infinity 
-IZKH	VB Infinity 
-DIALWG	NN Infinity 
-SWGM	NN Infinity 
-HWNHGW	VB Infinity 
-MZWWDWT	NN Infinity 
-SWGW	NN Infinity 
-TQCWB	NNT Infinity 
-MWZKRIM	VB Infinity 
-ZIKRWNI	NN Infinity 
-TL	NN Infinity NNT Infinity 
-TM	JJ Infinity VB Infinity 
-DIIRI	NNT Infinity 
-TT	MOD Infinity 
-TZMN	VB Infinity 
-MDWE	QW Infinity 
-TW	NNP Infinity NNT Infinity RB Infinity 
-HISJWRIT	JJ Infinity 
-HISJWRIH	NN Infinity 
-PRWSWT	NN Infinity 
-FQWEH	VB Infinity 
-MRPST	NNT Infinity 
-LATR	VB Infinity 
-HWKN	VB Infinity 
-ZRWEWTIH	NN Infinity 
-JLPWN	NN Infinity 
-NGZR	VB Infinity 
-QWNDSI	JJ Infinity 
-MDWR	NN Infinity 
-MDLILH	NNP Infinity 
-HWKW	VB Infinity 
-MWFEIM	JJ Infinity 
-HWKX	VB Infinity 
-WIRFWBSQI	NNP Infinity 
-AWWRJWN	NNP Infinity 
-IZMH	VB Infinity 
-HWJL	VB Infinity 
-HZDMN	VB Infinity 
-WWSJHAM	NNP Infinity 
-W.	NNP Infinity 
-IZMW	VB Infinity 
-EISQIIM	NN Infinity JJ Infinity 
-ECRWT	NN Infinity 
-FMIKH	NN Infinity 
-SWLM	NN Infinity NNT Infinity 
-TFLWMIM	NN Infinity 
-SWLL	NN Infinity 
-BEIQR	MOD Infinity RB Infinity 
-MSTEPT	VB Infinity 
-SWLR	NN Infinity 
-HFKBTI	VB Infinity 
-DWRWN	NNP Infinity 
-WI	NNP Infinity NN Infinity 
-WL	ZVL Infinity 
-ESQIWT	JJ Infinity 
-WN	NNP Infinity 
-AIMTNI	JJ Infinity 
-MFWTPIM	JJ Infinity VB Infinity 
-DWRWT	NN Infinity 
-WS	NNP Infinity 
-WW	NNP Infinity 
-SWKN	NNT Infinity 
-60,000	CD Infinity 
-XDWT	JJ Infinity 
-SWKM	VB Infinity 
-HBJXTW	NN Infinity 
-HWLK	VB Infinity 
-XD	MOD Infinity JJ Infinity 
-98891	CD Infinity 
-XF	VB Infinity 
-MENIIN	VB Infinity JJ Infinity 
-XG	NNT Infinity NN Infinity 
-MDGIF	VB Infinity 
-XI	NN Infinity VB Infinity JJ Infinity 
-EWLMW	NN Infinity 
-HWLM	JJ Infinity NN Infinity 
-SJNDRJI	JJ Infinity 
-XM	JJ Infinity 
-XN	NNP Infinity NN Infinity 
-KSPIIM	JJ Infinity 
-FMIIM	NN Infinity 
-HDWRIM	JJ Infinity 
-ITMWK	VB Infinity 
-EWLMH	NN Infinity 
-LAXD	NNP Infinity 
-EWLMI	JJ Infinity 
-ECRTI	VB Infinity 
-LAXR	IN Infinity 
-DIILT	NN Infinity 
-EWLMN	NN Infinity 
-FQIM	NN Infinity 
-HWENFW	VB Infinity 
-EWLMM	NN Infinity 
-MZGNI	NNT Infinity 
-MGPWN	NN Infinity 
-FQIT	NN Infinity 
-HZDRZ	VB Infinity 
-LKAWRH	RB Infinity 
-SQIRWT	NN Infinity 
-IPANI	JJ Infinity 
-LHFWWT	VB Infinity 
-SWMN	VB Infinity 
-SWMK	VB Infinity NNP Infinity 
-DWGLIM	NN Infinity 
-MXLQWT	NN Infinity 
-ZH	RB Infinity AGR Infinity NN Infinity MOD Infinity PRP Infinity JJ Infinity 
-SGNWNWT	NNT Infinity NN Infinity 
-BIJWII	NNT Infinity 
-LAWR	IN Infinity 
-ZKAI	NNT Infinity VB Infinity 
-IFTMFW	VB Infinity 
-MAWFPZIM	VB Infinity 
-ZR	JJ Infinity NN Infinity NNT Infinity 
-HWNW	NN Infinity 
-SWNG	NNP Infinity 
-HWNX	VB Infinity 
-ZW	JJ Infinity AGR Infinity PRP Infinity 
-MCBRIM	NN Infinity 
-ZZ	VB Infinity 
-SWPR	NNT Infinity NN Infinity 
-CRIKH	NN Infinity VB Infinity 
-MNDIM	VB Infinity 
-EBD	NNP Infinity VB Infinity 
-SWGIHM	NN Infinity 
-MFMRT	NN Infinity 
-HWQL	VB Infinity 
-HWQM	VB Infinity 
-MCDIQ	VB Infinity 
-EBH	JJ Infinity 
-LAZN	VB Infinity 
-SWPX	VB Infinity 
-EICBH	VB Infinity 
-SWPW	NN Infinity 
-KSPIWT	JJ Infinity 
-NHAR	NNP Infinity 
-ZMINIM	JJ Infinity 
-EBR	VB Infinity NN Infinity 
-NTPST	VB Infinity 
-IXZIR	VB Infinity 
-IXZIQ	VB Infinity 
-HWPC	VB Infinity 
-NWPLIM	VB Infinity 
-BEINH	RB Infinity MOD Infinity 
-BEINI	IN Infinity 
-ECB	NN Infinity 
-CBIETW	NN Infinity 
-HWPK	AUX Infinity VB Infinity 
-IAWFR	VB Infinity 
-MFJXIM	NN Infinity 
-ECI	NNT Infinity 
-ZWRXT	VB Infinity 
-NTPSH	VB Infinity 
-SWRIIM	JJ Infinity 
-ECM	NN Infinity NNT Infinity 
-HWPQ	VB Infinity 
-ECR	VB Infinity 
-FWXRRW	VB Infinity 
-MEJPH	NN Infinity 
-DTIIM	NN Infinity JJ Infinity 
-SWPI	NNP Infinity JJ Infinity 
-SWPH	NN Infinity 
-SWGIIT	NNT Infinity 
-PWRNWGRAPIIM	JJ Infinity 
-SWRR	JJ Infinity 
-SWRQ	NNP Infinity 
-LNJWE	VB Infinity 
-PNIK	NN Infinity 
-LHCNIE	VB Infinity 
-PNIM	NNT Infinity NN Infinity 
-AINJLQJWALI	JJ Infinity 
-EDH	VB Infinity NN Infinity 
-PNIW	NN Infinity 
-REIITW	NN Infinity 
-EDI	NNT Infinity NNP Infinity 
-EWLIM	JJ Infinity VB Infinity NN Infinity 
-EDN	NNP Infinity 
-MFMXT	VB Infinity 
-SISMT	NNT Infinity 
-BRISJWL	NNP Infinity 
-EDT	NNT Infinity 
-SWCIALISJIM	NN Infinity 
-MTWAR	VB Infinity 
-HWRG	NN Infinity 
-HWRH	VB Infinity 
-ENII	NNT Infinity 
-SISMH	NN Infinity 
-ENIN	NN Infinity 
-HTARGNWT	NN Infinity 
-DIIGW	NNP Infinity 
-MIWCR	VB Infinity 
-HWRW	VB Infinity 
-PNIH	NN Infinity 
-SWCIALISJIT	JJ Infinity 
-SAWTHMPJWN	NNP Infinity 
-HWWARD	NNP Infinity 
-EFH	VB Infinity 
-BEIIH	NN Infinity 
-MEBR	NN Infinity IN Infinity NNT Infinity 
-EFN	NN Infinity 
-ASPIRIN	NNP Infinity 
-XDFWT	NN Infinity NNT Infinity JJ Infinity 
-EFR	CD Infinity CDT Infinity 
-PRWSPR	NNP Infinity 
-BEIIT	NNT Infinity 
-EFW	VB Infinity 
-HISPANI	JJ Infinity 
-MWTNWT	VB Infinity 
-ZWRMIM	JJ Infinity 
-DIDAQJI	JJ Infinity 
-AXRIWT	NN Infinity 
-FQWPH	JJ Infinity 
-XWLFTW	NN Infinity 
-BEIJH	NN Infinity 
-AWLIMPIADT	NNT Infinity 
-FWMRWN	NNP Infinity 
-NHDR	JJ Infinity 
-HWTR	RB Infinity 
-ESISIT	JJ Infinity 
-RMDAN	NN Infinity 
-BECM	MOD Infinity RB Infinity 
-BEIJT	NNT Infinity 
-IZWZ	VB Infinity 
-ABIGDWR	NNP Infinity 
-TIMFK	VB Infinity 
-DMWTH	NN Infinity 
-HWWH	NN Infinity 
-NHGT	VB Infinity 
-PWLNIIH	JJ Infinity 
-JWRNIR	NNT Infinity NN Infinity 
-LNHWG	VB Infinity 
-DMWTK	NN Infinity 
-SPRWTIT	JJ Infinity 
-JIEWN	NN Infinity 
-MZERI	JJ Infinity 
-ARWXH	NN Infinity 
-CRKIH	NN Infinity 
-NHGW	VB Infinity 
-MEDW	VB Infinity 
-01,050	CD Infinity 
-SIMNIM	NN Infinity 
-AIJLQI	JJ Infinity 
-0007	CD Infinity 
-DMWTW	NN Infinity 
-HTRFM	VB Infinity 
-HMFKIM	NN Infinity 
-0003	CD Infinity 
-LHPSID	VB Infinity 
-0001	CD Infinity 
-TTKNS	VB Infinity 
-SIPWRI	NN Infinity NNT Infinity 
-QRISTN	NN Infinity 
-BIZBWZ	NN Infinity 
-SIPWRH	NN Infinity 
-MECR	NN Infinity 
-EIN	NNT Infinity NNP Infinity NN Infinity 
-LHPSIQ	VB Infinity 
-TKLITW	NN Infinity 
-MTNHLIM	VB Infinity 
-SIPWRW	NN Infinity 
-EIR	NN Infinity NNT Infinity 
-TKLITH	NN Infinity 
-MSMRIM	NN Infinity 
-LQRAT	IN Infinity 
-CRKIM	NN Infinity 
-NHGI	NNT Infinity 
-ZKIH	NN Infinity 
-AWQJWBR	NNP Infinity 
-CRKIW	NN Infinity 
-DXWSH	JJ Infinity 
-HIDBRWT	NN Infinity 
-LZKWR	VB Infinity 
-ENPI	NNT Infinity 
-BIJXWNW	NN Infinity 
-LZKWT	VB Infinity IN Infinity 
-EJI	NNP Infinity 
-MXWKMIM	JJ Infinity 
-LBCR	VB Infinity 
-HTPJRWT	NNT Infinity 
-BIJXWNM	NN Infinity 
-LHTPLSP	VB Infinity 
-SJLINISJIT	JJ Infinity 
-PWJNCIAL	NNT Infinity NN Infinity 
-DBWRH	NNP Infinity 
-EJW	NN Infinity 
-AGWZI	NNT Infinity 
-EWNFM	NN Infinity 
-EWNFW	NN Infinity 
-MEGL	NNT Infinity NN Infinity 
-LBDH	MOD Infinity 
-FQRH	NNP Infinity 
-HWXL	VB Infinity 
-SIQWR	NNT Infinity 
-PWGEIM	VB Infinity 
-EWNFI	NNT Infinity 
-ABDW	VB Infinity 
-PWREIM	NN Infinity 
-MSXRIT	JJ Infinity 
-EKW	NNP Infinity 
-HIEDRWT	NN Infinity 
-TIKNN	VB Infinity 
-BIJXWNI	JJ Infinity 
-RAWIWT	VB Infinity 
-ABDN	NNT Infinity 
-MSWGLIM	VB Infinity 
-SWXR	NN Infinity NNT Infinity 
-LBCE	VB Infinity 
-ABDH	NN Infinity 
-SWXP	JJ Infinity 
-HTRIE	VB Infinity 
-RIBEWWI	NNP Infinity 
-NHIH	VB Infinity AUX Infinity 
-MEFH	NNT Infinity NN Infinity 
-HWXDRH	VB Infinity 
-MEFI	NNT Infinity 
-ELH	NNT Infinity VB Infinity 
-5.6.67	CD Infinity 
-ELI	IN Infinity NNT Infinity NNP Infinity 
-SIQRN	VB Infinity 
-PNQS	NNP Infinity 
-HFIBH	VB Infinity 
-LHXLF	VB Infinity 
-RIWZI	NNP Infinity 
-MKIWWN	IN Infinity 
-JBRIH	NNP Infinity 
-NMCAWT	VB Infinity 
-ELT	NN Infinity 
-MTPLLIM	NN Infinity 
-ELW	VB Infinity 
-MEID	VB Infinity 
-AFTQD	RB Infinity 
-MEIN	IN Infinity MOD Infinity 
-DXWPH	JJ Infinity 
-EMD	VB Infinity 
-EMI	NN Infinity NNT Infinity 
-ENQI	JJ Infinity 
-IKRIE	VB Infinity 
-EML	NNP Infinity 
-209,000	CD Infinity 
-EMQ	NN Infinity NNT Infinity 
-BIWTR	RB Infinity MOD Infinity 
-PRINCIP	NN Infinity 
-LBDW	RB Infinity 
-EMR	NNP Infinity 
-ZNWWH	NNP Infinity 
-AMWTIHM	NN Infinity 
-EMW	NN Infinity 
-TLBWFWT	NN Infinity 
-BEIT	NNT Infinity 
-DWQJWRAJ	NN Infinity 
-SWZI	NNP Infinity 
-MRGIEIM	JJ Infinity VB Infinity 
-MDEWT	NN Infinity 
-QLEIM	NN Infinity 
-MLKWTI	JJ Infinity 
-MLKWTW	NN Infinity 
-BEIH	NN Infinity 
-ENH	VB Infinity 
-IBXRW	VB Infinity 
-DIAMNJ	NNP Infinity 
-FQWL	VB Infinity 
-TWQPIM	NN Infinity 
-GLRIWT	NN Infinity 
-FQWP	NN Infinity JJ Infinity 
-ENP	NN Infinity NNT Infinity 
-PNSW	NNP Infinity 
-RXBEM	NNP Infinity 
-ENQ	NN Infinity JJ Infinity 
-RKILWT	NN Infinity 
-MBKRIM	VB Infinity 
-ENT	NNP Infinity 
-MEKB	VB Infinity 
-MWQEWT	VB Infinity 
-BEJW	VB Infinity 
-NHNH	VB Infinity 
-IPHPIH	JJ Infinity 
-HTMWJJ	VB Infinity 
-PNTH	VB Infinity 
-TWTQP	VB Infinity 
-RJWRIQH	NN Infinity 
-MSRBT	VB Infinity 
-LHXIWT	VB Infinity 
-HISJRIH	NN Infinity 
-BELH	NN Infinity 
-LBFW	VB Infinity 
-ABIB	NN Infinity 
-SWEDIM	NN Infinity 
-AGWUI	NNP Infinity 
-MEJH	NN Infinity JJ Infinity 
-ABHR	NNP Infinity 
-ENTH	VB Infinity 
-GIXWK	NN Infinity 
-AQDMIWT	JJ Infinity 
-EIDWD	NNT Infinity NN Infinity 
-ZKRM	NN Infinity 
-MEMD	NNT Infinity NN Infinity 
-LBJA	VB Infinity 
-TIKWN	JJ Infinity NNP Infinity NN Infinity 
-ABIW	NN Infinity 
-NHPK	AUX Infinity 
-NEBWD	VB Infinity 
-BELT	NNT Infinity 
-MQWMIIM	JJ Infinity NN Infinity 
-FXIIH	NN Infinity 
-IFIMWN	NN Infinity 
-HTMWDD	VB Infinity 
-EQB	IN Infinity VB Infinity 
-ABIN	VB Infinity 
-QICWNI	JJ Infinity NN Infinity 
-AIJLIH	NNP Infinity 
-LBJL	VB Infinity 
-ZKRW	NN Infinity 
-ABIH	NN Infinity 
-BELI	NNT Infinity 
-PASIWN	NN Infinity 
-MIIBAT	VB Infinity 
-NHNW	VB Infinity 
-DBRIHM	NN Infinity 
-HFIGW	NN Infinity VB Infinity 
-BRQIN	NNP Infinity 
-MELH	NNT Infinity RB Infinity VB Infinity 
-ERB	NN Infinity NNT Infinity NNP Infinity 
-LHTDIIN	VB Infinity 
-HSRJWT	NN Infinity 
-ARWNW	NN Infinity 
-ERD	NNP Infinity 
-NMCAIM	VB Infinity 
-LBIN	IN Infinity 
-ERF	NNT Infinity 
-HFIGH	VB Infinity 
-MFLBT	VB Infinity 
-ANDWQRINWLWGIH	NN Infinity 
-ERI	NNT Infinity 
-ERK	NN Infinity NNT Infinity VB Infinity 
-MENW	NN Infinity 
-NHRG	VB Infinity 
-HWNGRIH	NNP Infinity 
-BTWLI	NNT Infinity 
-ZKTH	VB Infinity 
-10117	CD Infinity 
-PNXS	NNP Infinity 
-IXWLLW	VB Infinity 
-HCLXNW	VB Infinity 
-DWGLWT	VB Infinity 
-ESQ	VB Infinity NN Infinity NNT Infinity 
-MRGFIM	VB Infinity 
-HWCAWTIHM	NN Infinity 
-NWXIM	JJ Infinity 
-PALAS	NNP Infinity 
-XIWBIWT	JJ Infinity 
-PNWI	JJ Infinity 
-MENG	VB Infinity 
-TQBLW	VB Infinity 
-ETH	RB Infinity 
-PQISJAN	NNP Infinity 
-LBKM	NN Infinity 
-DMWIT	JJT Infinity 
-ABLM	NN Infinity 
-FWFIQ	NNP Infinity 
-ETQ	NN Infinity 
-RWBRJS	NNP Infinity 
-ANWFIIM	JJ Infinity 
-MEQB	NN Infinity 
-RAWIIM	VB Infinity 
-IHIIH	VB Infinity 
-ISIIE	VB Infinity 
-CIWNIIM	JJ Infinity 
-EUC	NNP Infinity 
-LBNH	JJ Infinity NN Infinity 
-ARWKT	JJT Infinity 
-ADIFWT	NN Infinity 
-AWDWT	IN Infinity 
-EUI	IN Infinity 
-ARWKH	JJ Infinity 
-LBNW	NN Infinity 
-EUM	NN Infinity 
-MZRXIT	JJ Infinity 
-LBNT	NNP Infinity 
-HTQIIMW	VB Infinity 
-EUP	IN Infinity 
-CHUL	NNP Infinity 
-SJWDNJIM	NN Infinity 
-BERK	MOD Infinity 
-EUR	NN Infinity NNP Infinity 
-GILIWN	NNT Infinity NN Infinity 
-TIKTB	VB Infinity 
-MEIDH	VB Infinity NN Infinity 
-HTQIIMH	VB Infinity 
-RWBRJW	NNP Infinity 
-ABNR	NNP Infinity 
-XITTW	NN Infinity 
-ARWJI	JJ Infinity 
-PINLND	NNP Infinity 
-MXIIBT	VB Infinity 
-GILITI	VB Infinity 
-MTAIMH	JJ Infinity VB Infinity 
-SIEWDI	JJ Infinity 
-BWDQIM	VB Infinity 
-EWD	IN Infinity RB Infinity MOD Infinity 
-ZIKIWN	NN Infinity 
-EWL	NNT Infinity 
-FWFLT	NNT Infinity 
-EWR	NN Infinity NNT Infinity NNP Infinity 
-HFIMW	VB Infinity 
-ZKWT	NN Infinity NNT Infinity 
-ZKWR	NN Infinity VB Infinity 
-HQIMH	VB Infinity 
-EWZ	NNP Infinity 
-NLXMW	VB Infinity 
-MERB	NN Infinity NNT Infinity 
-CHWB	NNT Infinity JJ Infinity NN Infinity 
-MWRIDH	VB Infinity 
-MSMRWT	NN Infinity 
-NIBWLI	NNT Infinity 
-MSRIM	NN Infinity 
-MERK	NNT Infinity NNP Infinity NN Infinity 
-SJWDNJ	NN Infinity 
-MAWPIINT	VB Infinity 
-QRBH	NN Infinity VB Infinity 
-MEUC	NNP Infinity 
-LCIID	VB Infinity 
-BEUM	NN Infinity 
-MQLJI	NNT Infinity 
-ABRI	NNP Infinity 
-MWSLMI	JJ Infinity 
-QRBN	NN Infinity 
-FWFNH	NNP Infinity 
-LBRK	VB Infinity 
-FXIQH	NN Infinity 
-QRBJ	NNP Infinity 
-LCIIT	VB Infinity 
-MEUM	NN Infinity 
-QRBT	NNT Infinity 
-LBRR	VB Infinity 
-HQIMW	VB Infinity 
-FXIQT	NNT Infinity 
-LCIIN	VB Infinity 
-NHLIM	NN Infinity 
-LSXWP	VB Infinity 
-LNIHN	NNP Infinity 
-IPHPIIH	JJ Infinity 
-METH	RB Infinity 
-LBQF	VB Infinity 
-EZB	VB Infinity 
-QRAH	VB Infinity 
-HTRXB	VB Infinity 
-NHWG	VB Infinity 
-TTMWDD	VB Infinity 
-QRAW	VB Infinity 
-EZH	JJ Infinity NNP Infinity 
-QRAT	VB Infinity 
-LBQR	VB Infinity 
-RXBWT	JJ Infinity NNT Infinity 
-NQIFTIWT	NN Infinity 
-MGWWNT	VB Infinity 
-RAIWNWT	NN Infinity 
-EZR	VB Infinity NN Infinity 
-XIIQWL	NNP Infinity 
-KAILW	IN Infinity RB Infinity 
-JRIBIWN	NNP Infinity 
-MCWIRWT	JJ Infinity 
-MEWN	NN Infinity 
-BIIRWT	NNP Infinity 
-BEWD	IN Infinity 
-22051	CD Infinity 
-EFWIIM	JJ Infinity VB Infinity 
-JIFJF	VB Infinity 
-MEWZ	NNT Infinity NN Infinity 
-MTELMIM	VB Infinity 
-MFLIM	NN Infinity VB Infinity 
-QBIEH	NN Infinity 
-LBSS	VB Infinity 
-FRDW	VB Infinity 
-GZIRH	NN Infinity 
-AGWDH	NN Infinity 
-PNWIIM	JJ Infinity 
-HSTPQH	VB Infinity 
-PWPWLRI	JJ Infinity 
-AGRWNWM	NN Infinity 
-RMBUM	NNP Infinity 
-ZIHWI	NNT Infinity NN Infinity 
-ABWT	NN Infinity 
-LFRWP	VB Infinity 
-LQRWA	VB Infinity 
-SIRBW	VB Infinity 
-EWMRI	NNP Infinity 
-MLKWDT	NN Infinity 
-HXLH	VB Infinity 
-AIJLQIT	NN Infinity JJ Infinity 
-ABWD	JJ Infinity 
-MEILH	NN Infinity 
-AXWZTW	NN Infinity 
-SIRBH	VB Infinity 
-ARWBH	NN Infinity 
-AIJLQIM	JJ Infinity 
-NWXWT	NN Infinity JJ Infinity 
-HSTPQW	VB Infinity 
-HXLW	VB Infinity 
-HDWQIM	JJ Infinity 
-HXLT	NNT Infinity 
-HMGDLIT	NNP Infinity 
-BHTAM	RB Infinity IN Infinity 
-FRID	NNP Infinity 
-AWLIMPIADWT	NN Infinity 
-EWMQH	NN Infinity 
-HEFRH	NN Infinity 
-LHMJIR	VB Infinity 
-MNHAJN	NNP Infinity 
-RBBWT	CDT Infinity 
-RWKLIM	NN Infinity 
-FRIM	NN Infinity 
-BEIITM	NN Infinity 
-FRIR	NN Infinity NNP Infinity 
-BEIITI	JJ Infinity 
-CIPWR	NNT Infinity 
-BEIITH	NN Infinity 
-QDWMWT	JJ Infinity 
-HMCATW	NN Infinity 
-MCIEIM	VB Infinity 
-LBWA	VB Infinity 
-FAB	VB Infinity 
-LBWF	NN Infinity VB Infinity 
-HIMWRI	NNT Infinity 
-MXIIKT	VB Infinity 
-FAJ	MOD Infinity 
-FAL	VB Infinity 
-QWNCRN	NN Infinity NNT Infinity 
-FAN	NN Infinity 
-AGWDT	NNT Infinity 
-MFTTPI	NNT Infinity 
-FAR	DT Infinity NN Infinity NNT Infinity 
-MTMSRWT	VB Infinity 
-TSKWLW	NN Infinity 
-EIWNIWT	JJ Infinity 
-FBE	VB Infinity CD Infinity 
-FLIFIT	JJ Infinity NN Infinity RB Infinity 
-ZLCR	NNP Infinity 
-FBH	VB Infinity 
-ITLWW	VB Infinity 
-HWEMDW	VB Infinity 
-QRJR	NNP Infinity 
-FBJ	NNT Infinity 
-CEDIH	NN Infinity 
-NQWDWT	NNT Infinity NN Infinity 
-CEDIM	NN Infinity 
-PWLMN	NNP Infinity 
-FBT	NNP Infinity NN Infinity 
-FBW	VB Infinity 
-FBX	NN Infinity 
-NIBA	VB Infinity 
-QRIM	JJ Infinity NNP Infinity 
-XQLAI	JJ Infinity NN Infinity 
-SPWRJIWWIT	JJ Infinity 
-QRIT	NNT Infinity 
-CIPWI	NN Infinity NNT Infinity 
-PWLNI	NN Infinity JJ Infinity 
-PRLMNJRIT	JJ Infinity 
-FCP	NN Infinity 
-LHBJIX	VB Infinity 
-ADMTM	NN Infinity 
-BMAIM	NN Infinity 
-MCBIEWT	VB Infinity 
-RIXWQ	NNT Infinity 
-NAIWWIT	JJ Infinity 
-NICL	VB Infinity 
-QBILH	JJ Infinity 
-HTNCLWTW	NN Infinity 
-ZIHMH	VB Infinity 
-NICN	NNP Infinity 
-NPCEW	VB Infinity 
-NICI	NNT Infinity 
-LHCMID	VB Infinity 
-FDD	VB Infinity 
-MQWMIWT	JJ Infinity 
-FDH	NNT Infinity NN Infinity 
-LACIW	NNP Infinity 
-QRISJL	NNP Infinity 
-ADMWT	NN Infinity 
-NPCEH	VB Infinity 
-NICX	VB Infinity 
-QRISJI	NNP Infinity 
-FDR	NN Infinity 
-LHCMIT	VB Infinity 
-IDENIM	NN Infinity 
-AMTNIIM	JJ Infinity 
-GRWJSQI	JJ Infinity 
-PRWPWRCIH	NN Infinity 
-MFAB	NN Infinity 
-LQRWT	VB Infinity 
-CIDW	NN Infinity 
-PALQW	NNP Infinity 
-FEH	VB Infinity NN Infinity 
-FEN	NN Infinity 
-FER	NN Infinity NNT Infinity 
-FET	NNT Infinity 
-1400	CD Infinity 
-QRLH	NNP Infinity 
-HWEMDH	VB Infinity 
-NICB	VB Infinity NN Infinity 
-XFIBWT	NNT Infinity NN Infinity 
-DLIH	NNP Infinity 
-FFI	NNP Infinity 
-FFH	CDT Infinity CD Infinity 
-DLIL	JJ Infinity 
-MFBR	NN Infinity NNT Infinity 
-01.3	CD Infinity 
-01.4	CD Infinity 
-NIFA	VB Infinity 
-QBIET	NNT Infinity 
-PWANJWT	NN Infinity 
-FFT	CDT Infinity 
-PWLIN	NNP Infinity 
-TQWEIM	JJ Infinity 
-MXIITN	NN Infinity 
-XFBH	VB Infinity 
-FGB	NNP Infinity 
-MFAL	NNT Infinity 
-ANJMN	NNP Infinity 
-MFAJ	NNP Infinity 
-DLHI	NNP Infinity 
-MFLWX	NNT Infinity NN Infinity 
-RIIDAAWJ	NNP Infinity 
-SPWNJNIWT	NN Infinity 
-HWFPEH	VB Infinity 
-SIRNH	NN Infinity 
-SIRNI	NNP Infinity 
-MFDR	VB Infinity 
-NIGN	VB Infinity 
-FHH	VB Infinity 
-ALMWLZINW	NNP Infinity 
-LCAT	VB Infinity 
-ADMTH	NN Infinity 
-MWFLKWT	JJ Infinity 
-QRQE	NNT Infinity NN Infinity 
-TKRIE	VB Infinity 
-RIINGRS	NNP Infinity 
-MEIQH	VB Infinity 
-1430	CD Infinity 
-RGWEIM	JJ Infinity 
-NIHL	VB Infinity 
-ELMIN	NN Infinity 
-TIKWNIT	JJ Infinity 
-FIA	NN Infinity NNT Infinity 
-HSPDW	NN Infinity 
-FRPH	NN Infinity 
-FIJ	NN Infinity 
-XFBW	VB Infinity 
-MTNHLWT	VB Infinity 
-FIM	NNT Infinity 
-FIR	NN Infinity NNT Infinity 
-FIX	NN Infinity 
-TFPRNH	VB Infinity 
-MEIRH	VB Infinity 
-ACBE	VB Infinity NN Infinity NNT Infinity 
-MILJWN	NNP Infinity 
-NIGF	VB Infinity 
-MPIQH	VB Infinity 
-MWRKBWT	VB Infinity JJ Infinity 
-NIIR	NNT Infinity NN Infinity 
-NTRAH	VB Infinity 
-FJG	NNP Infinity 
-MIWEDIM	VB Infinity 
-LLEWG	VB Infinity 
-IWXNN	NNP Infinity 
-2791	CD Infinity 
-FJN	NN Infinity 
-MEWLPIM	JJ Infinity 
-SNDLRWT	NN Infinity 
-CIIT	VB Infinity 
-PSIKIAJRIWT	JJ Infinity 
-CIIR	NN Infinity 
-MTXIL	JJ Infinity VB Infinity 
-AINJIMIT	JJ Infinity 
-CIIN	VB Infinity 
-FJX	NN Infinity NNT Infinity 
-MWZIAWNIM	NN Infinity 
-TEBIR	VB Infinity 
-XIWWR	JJ Infinity 
-HTMWDDW	VB Infinity 
-JKNIWN	NN Infinity 
-MXBRT	VB Infinity 
-PLQJIM	NN Infinity 
-FRRH	VB Infinity 
-IEBWR	VB Infinity 
-ABWQSIS	NNP Infinity 
-SXWR	NNP Infinity 
-FKN	IN Infinity JJ Infinity 
-FKM	NNP Infinity 
-LERER	VB Infinity 
-HSRJT	NNT Infinity 
-FKR	NNT Infinity NN Infinity 
-RWBIM	NN Infinity 
-RWBIN	NNP Infinity 
-KIBWF	NN Infinity NNT Infinity 
-FKX	VB Infinity 
-KIBWD	NNT Infinity 
-QRWBIM	JJ Infinity NN Infinity 
-KIBWI	NNT Infinity 
-HSRJH	NN Infinity 
-ABIJL	NNP Infinity 
-CIJJ	VB Infinity 
-FLA	RB Infinity MOD Infinity 
-FLB	NNT Infinity NN Infinity 
-FLD	NN Infinity 
-ELWBIM	JJ Infinity 
-FLJ	NNT Infinity 
-NIKR	JJ Infinity 
-FLM	NN Infinity JJ Infinity 
-FLL	VB Infinity NN Infinity NNT Infinity 
-WWEDT	NNT Infinity 
-RIKWZI	JJ Infinity 
-FLP	VB Infinity 
-MFHW	NN Infinity 
-HSTIIGWT	NN Infinity 
-FAIBH	NN Infinity 
-SNAJWRIM	NN Infinity 
-MTWNIM	JJ Infinity 
-FLX	VB Infinity NNP Infinity 
-MFIG	VB Infinity 
-MFIB	VB Infinity 
-MFIM	VB Infinity 
-FMA	IN Infinity QW Infinity 
-WWEDH	NN Infinity 
-FMC	NN Infinity 
-MFIJ	NNT Infinity 
-FMF	NN Infinity 
-FME	NNT Infinity VB Infinity 
-FMH	NN Infinity VB Infinity 
-HPGNTIWT	NN Infinity 
-SGNWN	NN Infinity NNT Infinity 
-FMJ	VB Infinity 
-FMN	NN Infinity 
-FMM	NN Infinity 
-QRTA	NNP Infinity 
-HSTLQWT	NN Infinity 
-FMX	RB Infinity 
-BRZILI	NNP Infinity 
-FMW	NN Infinity 
-TNUKIT	JJ Infinity 
-TINTN	VB Infinity 
-QRTH	VB Infinity 
-KTBTW	NN Infinity 
-KTBTK	NN Infinity 
-FNA	VB Infinity 
-ZLMN	NNP Infinity 
-GDLIM	JJ Infinity VB Infinity NN Infinity 
-KIHNTI	VB Infinity 
-MEWNIINT	VB Infinity 
-FNI	NN Infinity CDT Infinity CD Infinity JJ Infinity NNP Infinity 
-MWTIRIM	VB Infinity 
-FNH	NN Infinity 
-LBIDIM	NN Infinity 
-FRWN	NN Infinity NNP Infinity 
-AIJIPAQ	NNP Infinity 
-NIMR	NNP Infinity 
-MFJR	NN Infinity 
-IWRDIM	VB Infinity NN Infinity 
-FRWT	NNT Infinity 
-QRWB	IN Infinity JJ Infinity NN Infinity 
-BELIH	NN Infinity 
-TKTWB	VB Infinity 
-FNT	NNT Infinity 
-BELIL	RB Infinity MOD Infinity 
-BELIM	NN Infinity 
-AMADWRH	NNP Infinity 
-LKBWT	VB Infinity 
-MFKB	NN Infinity 
-CIMQ	VB Infinity 
-QRWI	VB Infinity 
-MKWBDT	JJ Infinity 
-MGRFW	NN Infinity 
-MFKN	NN Infinity 
-KHNISJIWT	JJ Infinity 
-IXIDIM	NN Infinity JJ Infinity 
-HFLIM	VB Infinity 
-NIQWSIH	NNP Infinity 
-DLPQ	NN Infinity 
-EBRIT	JJ Infinity NN Infinity 
-APIPIWR	NN Infinity 
-MFIX	NN Infinity 
-FWIIC	NNP Infinity 
-NIMH	NN Infinity 
-MTKNNIM	VB Infinity 
-QJBIM	NN Infinity 
-HTIIXS	VB Infinity 
-FPE	NNT Infinity NN Infinity 
-PWNDMNJLIZM	NN Infinity 
-XFIM	VB Infinity 
-PINSQI	NNP Infinity 
-CINI	JJ Infinity 
-FPI	NNP Infinity 
-IRIBW	NN Infinity 
-FPH	NN Infinity 
-FPJ	VB Infinity 
-FPL	NN Infinity NNT Infinity 
-MPWRJIM	JJ Infinity VB Infinity 
-FPR	VB Infinity 
-AXIHM	NN Infinity 
-EWMDWT	VB Infinity 
-NIPC	VB Infinity 
-FPT	NNT Infinity 
-HFLJT	NNT Infinity 
-XFMLIT	JJ Infinity 
-LCJJ	VB Infinity 
-NKNSNW	VB Infinity 
-MFME	NN Infinity 
-MFMF	VB Infinity 
-FQD	NNP Infinity NN Infinity 
-MFMR	NNT Infinity NN Infinity 
-NWXIWT	NNT Infinity NN Infinity 
-FQE	VB Infinity 
-FQJ	NN Infinity JJ Infinity 
-KTBWT	NN Infinity 
-FQI	NNT Infinity 
-FQL	NN Infinity 
-LKBWF	VB Infinity 
-NINW	NNP Infinity 
-MGRFM	NN Infinity 
-LKBWD	IN Infinity 
-HDLPWT	NN Infinity 
-MGRFH	NN Infinity 
-SINIWT	JJ Infinity 
-FQR	NN Infinity 
-MFLB	VB Infinity 
-IRIDH	NN Infinity 
-MFLH	VB Infinity 
-HQLJT	NNT Infinity 
-CIPW	VB Infinity 
-EWBDWT	NNT Infinity NN Infinity VB Infinity 
-IGIEW	VB Infinity 
-FRI	NNT Infinity 
-ACJJ	NN Infinity 
-HQLJH	NN Infinity 
-FRH	NNP Infinity VB Infinity 
-TWCAWT	NN Infinity NNT Infinity 
-MFLM	VB Infinity NN Infinity 
-ASPQJIM	NN Infinity 
-AGTNWR	NNT Infinity 
-CIRI	NNT Infinity 
-CIRIM	NN Infinity 
-MWFKIM	JJ Infinity VB Infinity 
-FRP	NN Infinity NNP Infinity 
-NIQX	VB Infinity 
-FRR	VB Infinity 
-RBEWN	NN Infinity 
-NIRIT	NNP Infinity 
-HQNIWT	NN Infinity 
-IECBW	VB Infinity 
-FQWPIM	JJ Infinity 
-XFAIIM	JJ Infinity 
-CIRIH	NN Infinity 
-MDQDQWT	VB Infinity 
-MSTKMT	VB Infinity 
-LCLM	VB Infinity 
-MFMX	VB Infinity 
-HFLMT	NNT Infinity 
-TWRNIM	NN Infinity 
-XFML	NN Infinity 
-JWRNH	NNP Infinity 
-MWMLCIM	VB Infinity 
-KLLIM	NN Infinity 
-HWELTH	VB Infinity 
-KLLIT	NN Infinity JJ Infinity 
-RWBRS	NNP Infinity 
-NIQL	NNP Infinity 
-MFNH	NNT Infinity NN Infinity NNP Infinity VB Infinity JJ Infinity 
-RWBRJ	NNP Infinity 
-NIQS	NNP Infinity 
-FTI	CDT Infinity NN Infinity 
-CIRP	VB Infinity 
-ABIBI	JJ Infinity 
-XLWPIWT	JJ Infinity 
-HPIKH	NN Infinity 
-QWNSRWWJIWWI	JJ Infinity 
-JWRQI	NN Infinity JJ Infinity 
-TSKWL	NN Infinity 
-AXIDH	JJ Infinity 
-MFQL	NNT Infinity NN Infinity 
-NITN	VB Infinity 
-MFQI	NNT Infinity 
-TFTWWH	VB Infinity 
-FUS	NNP Infinity 
-FUX	NN Infinity 
-ETIDIIM	JJ Infinity 
-APLWLIT	NN Infinity 
-NISN	NNP Infinity 
-NISH	VB Infinity 
-IRIIH	NN Infinity 
-HPIKT	NNT Infinity 
-MFPJ	NNT Infinity NN Infinity 
-4,509	CD Infinity 
-MXLWQT	NN Infinity 
-AMICH	JJ Infinity 
-NISW	VB Infinity 
-MBCEIWT	JJ Infinity 
-MELIT	NN Infinity 
-MPLIA	VB Infinity 
-ALEZR	NNP Infinity 
-MFSH	VB Infinity 
-RWBNW	NN Infinity 
-IWXZR	VB Infinity 
-FWB	NN Infinity RB Infinity 
-MELIB	VB Infinity 
-FWD	NN Infinity 
-AWRJGH	NNP Infinity 
-MWSQWBIC	NNP Infinity 
-FWN	NNP Infinity 
-FWM	DT Infinity NNP Infinity NN Infinity 
-FWR	NNP Infinity 
-FWQ	NN Infinity NNT Infinity 
-KWLLT	VB Infinity JJ Infinity 
-CIWN	NN Infinity NNP Infinity NNT Infinity 
-FWT	NN Infinity 
-MIIECT	JJ Infinity 
-MFRH	NN Infinity 
-CIWD	NN Infinity 
-MFRD	NNT Infinity NN Infinity 
-MWSDIIM	JJ Infinity 
-NKNSIM	VB Infinity 
-FXQ	NNP Infinity 
-MFRT	VB Infinity NNT Infinity 
-FXP	NNP Infinity 
-FXR	NN Infinity NNP Infinity 
-FXT	NN Infinity 
-MPLGH	NN Infinity 
-XFTI	VB Infinity 
-PWJNCIALIIM	JJ Infinity 
-MDIDH	NN Infinity 
-WWRWNIN	NNP Infinity 
-EDIPWIWT	NN Infinity 
-TINWQ	NN Infinity 
-MPLGT	NNT Infinity 
-LCRP	VB Infinity 
-CIWW	VB Infinity 
-MNIIRISJIT	JJ Infinity 
-APRIM	NNP Infinity 
-CIWR	NN Infinity 
-APRIL	NNP Infinity 
-MTXRH	NN Infinity 
-HMLCWTIH	NN Infinity 
-PWNDMNJLISJ	NN Infinity 
-NFIAT	NNT Infinity 
-MCBIEIW	NN Infinity 
-MFTP	VB Infinity 
-MTBHRIM	VB Infinity 
-MCBIEIM	VB Infinity 
-BWQRFJ	NNP Infinity 
-NIWZ	NNP Infinity 
-EWMDIM	VB Infinity NN Infinity 
-NICWCWT	NN Infinity 
-LHTAIM	VB Infinity 
-HPIQH	VB Infinity 
-EWBDIW	NN Infinity 
-MPGINWT	NN Infinity 
-MFWM	IN Infinity 
-PWRMLI	JJ Infinity 
-SMKWIWTIW	NN Infinity 
-XFWB	JJ Infinity VB Infinity 
-MKFIRIHM	NN Infinity 
-XFWD	NN Infinity JJ Infinity VB Infinity 
-QWMPWZICIH	NN Infinity 
-MTXZH	VB Infinity 
-MBCET	VB Infinity 
-AINJNSIWWIT	JJ Infinity 
-PISARW	NNP Infinity 
-MWCBIM	VB Infinity 
-JIIMS	NNP Infinity 
-ACUL	NNP Infinity 
-QLIEH	NN Infinity 
-MBCEI	NNT Infinity JJ Infinity 
-TIKWNIIM	JJ Infinity 
-EWBDIH	NNP Infinity 
-HREIPW	VB Infinity 
-HEIRH	VB Infinity 
-MTWNWT	JJ Infinity 
-MXLIJIM	VB Infinity 
-HWDIIM	JJ Infinity 
-EWBDIM	NN Infinity VB Infinity 
-HWDIEW	VB Infinity 
-MWDEIM	VB Infinity 
-LXIIG	VB Infinity 
-MARGNIM	NN Infinity 
-PSIKIAJRIIM	JJ Infinity 
-EWNWT	NN Infinity 
-TEBWR	VB Infinity 
-LXIIB	VB Infinity 
-MCWQTN	NN Infinity 
-MCWQTM	NN Infinity 
-DIKWI	NNT Infinity NN Infinity 
-MCWQTH	NN Infinity 
-EMITIW	NN Infinity 
-KWLNW	PRP Infinity 
-PRWZAQ	NNP Infinity 
-MITMMIM	JJ Infinity 
-MMCAI	NN Infinity NNT Infinity 
-MELLI	NNT Infinity 
-MFXH	NN Infinity 
-MFWEFET	JJ Infinity 
-HIRCXW	NN Infinity 
-MFXQ	NNT Infinity NN Infinity VB Infinity 
-LXIIM	NN Infinity 
-ATLJIM	NN Infinity 
-LPRSM	VB Infinity 
-MJIILIM	NN Infinity VB Infinity 
-NFIMH	NN Infinity 
-AXHUC	NN Infinity 
-MZIMT	NNT Infinity 
-MDINT	NNT Infinity 
-QWLQJIWWISJIWT	JJ Infinity 
-MGRWT	VB Infinity 
-MDINI	JJ Infinity 
-MDINH	NN Infinity 
-MZINH	VB Infinity 
-ICWIDW	VB Infinity 
-MMCIA	NNT Infinity 
-BARNSLI	NNP Infinity 
-HQLWT	NN Infinity 
-NPFIT	JJ Infinity 
-GBWRWT	NN Infinity 
-GAD	NNP Infinity 
-GAH	JJ Infinity VB Infinity 
-MZIMH	NN Infinity 
-HWDIEH	VB Infinity 
-NEFIT	VB Infinity 
-TWXLT	NN Infinity 
-GAN	NN Infinity 
-GAQ	NNP Infinity 
-NEFIM	VB Infinity 
-NFIAWT	NNT Infinity NN Infinity 
-TXINTW	NN Infinity 
-LXIMH	NN Infinity 
-AMHWT	NN Infinity 
-MCJRPWT	VB Infinity 
-LERWK	VB Infinity 
-QLIBR	NN Infinity 
-LPRWE	VB Infinity 
-LPRWF	VB Infinity 
-ISLXW	VB Infinity 
-RPWBLIQAI	NN Infinity JJ Infinity 
-LERWB	VB Infinity 
-KDWRSLN	NN Infinity NNT Infinity 
-GBI	NNT Infinity NNP Infinity 
-PWJNCIALI	JJ Infinity 
-FQWPWT	JJ Infinity 
-GBR	VB Infinity NN Infinity 
-GBT	NNP Infinity NNT Infinity 
-GINQWLWG	NNP Infinity 
-ABWTIW	NN Infinity 
-GBW	VB Infinity NN Infinity 
-IRWQWT	JJ Infinity 
-IQWTIAL	NNP Infinity 
-MBLBLIM	VB Infinity 
-MCWQWT	NN Infinity NNT Infinity 
-QRIAWTIHN	NN Infinity 
-SIQSRS	NNP Infinity 
-FGWIWT	JJ Infinity 
-NQIIH	JJ Infinity 
-BSISIT	JJ Infinity 
-LPRWK	VB Infinity 
-LPRWQ	VB Infinity 
-MWGNWT	JJ Infinity 
-MBINWT	JJ Infinity 
-MWRKBIM	JJ Infinity 
-QWNJRS	NNP Infinity 
-GDH	NN Infinity 
-RIALIWT	JJ Infinity 
-GDI	NNP Infinity 
-LCLWE	VB Infinity 
-GDL	VB Infinity 
-AINJIMIIM	JJ Infinity 
-FMEWNWB	NNP Infinity 
-GDR	NN Infinity 
-IRIXW	NNP Infinity 
-HTIICB	VB Infinity 
-TEWDWT	NNT Infinity 
-IRWQIM	NN Infinity 
-TERWKH	NN Infinity 
-QSMH	NN Infinity 
-MERICIW	NN Infinity 
-ITRWNW	NN Infinity 
-LHTABD	VB Infinity 
-NFIPH	NN Infinity 
-QDRWT	NN Infinity 
-LHIABQ	VB Infinity 
-KWWIITIIM	JJ Infinity 
-MPLTW	NN Infinity 
-EPIP	NNP Infinity 
-1500	CD Infinity 
-MZIQI	NNT Infinity 
-LHSTWBB	VB Infinity 
-IRIWT	NN Infinity 
-EQRWNI	JJ Infinity 
-MBINIM	VB Infinity 
-ITRWNM	NN Infinity 
-MFTWLL	VB Infinity 
-QWNJIQJ	NNP Infinity 
-CRLJWN	NNP Infinity 
-IWRDWT	VB Infinity JJ Infinity 
-NJEN	VB Infinity 
-RIGWFIM	NN Infinity 
-MXCIT	DT Infinity NNT Infinity NN Infinity 
-MPLST	VB Infinity 
-DLTWT	NNT Infinity NN Infinity 
-TMIMWT	NN Infinity 
-DMIM	NN Infinity 
-IIERKW	VB Infinity 
-GFM	NN Infinity NNT Infinity 
-RCINI	JJ Infinity 
-RIALIZM	NN Infinity 
-QWNBQJWRIM	NN Infinity 
-TWRNWT	NN Infinity 
-AQDMIIM	JJ Infinity 
-JKNIQH	NN Infinity 
-XGBI	NNP Infinity 
-TDIAWF	NNP Infinity 
-SWBIIJI	JJ Infinity 
-ZIKTH	VB Infinity 
-MHWTIT	JJ Infinity 
-IXIDWT	NNT Infinity JJ Infinity NN Infinity 
-IWGDRW	VB Infinity 
-QWDMWT	NN Infinity JJ Infinity 
-NJEH	VB Infinity 
-LXIWT	VB Infinity 
-33.90	CD Infinity 
-MGDL	NNT Infinity NN Infinity NNP Infinity 
-MWDEWT	NNT Infinity NN Infinity 
-BGDR	IN Infinity 
-MGDT	NNT Infinity 
-SWPRMRQJ	NN Infinity 
-ARGNJINI	JJ Infinity 
-0203	CD Infinity 
-BGDD	NNP Infinity 
-MFTWQQ	VB Infinity 
-AFKNZIM	NN Infinity 
-LHXMIC	VB Infinity 
-WDAI	RB Infinity 
-GIA	NN Infinity NNP Infinity 
-CRKNI	NNT Infinity 
-GII	NNP Infinity 
-IGWRFW	VB Infinity 
-GIM	NNP Infinity 
-GIL	NNT Infinity NN Infinity 
-ZMIN	JJ Infinity 
-MDIWM	NN Infinity 
-ZMIR	NNP Infinity 
-HPLILW	VB Infinity 
-THLIK	NN Infinity NNT Infinity 
-ICIRWTIW	NN Infinity 
-EZWTH	NN Infinity 
-QLIJT	NNT Infinity 
-MPGINIM	NN Infinity 
-INWHLW	VB Infinity 
-BPWMBI	RB Infinity 
-HFMDT	NNT Infinity 
-2891	CD Infinity 
-HFTWLLW	VB Infinity 
-MELWT	NN Infinity NNT Infinity 
-AQWLWGI	JJ Infinity 
-DMMT	NNT Infinity 
-ALIPWT	NN Infinity NNT Infinity 
-GJW	NN Infinity NNT Infinity 
-QLIJH	NN Infinity 
-AISMEIL	NNP Infinity 
-MERICIM	NN Infinity 
-MRGLIM	NN Infinity 
-LDBR	VB Infinity 
-MTXRIM	NN Infinity 
-FJWXWT	RB Infinity 
-APQWJ	NNP Infinity 
-DJRWIJ	NNP Infinity 
-IRWQNW	VB Infinity 
-JARPLI	NNP Infinity 
-XISKWN	NN Infinity 
-EDWTW	NN Infinity 
-MFQPIIM	NN Infinity 
-TWDETM	NN Infinity 
-MRGLIT	NNP Infinity 
-LDET	VB Infinity 
-ZMNI	JJ Infinity 
-GLI	NNT Infinity 
-SGNWNW	NN Infinity 
-GLM	NN Infinity 
-LHZRIM	VB Infinity 
-HQFRIM	NN Infinity 
-TQDIM	NN Infinity 
-MGID	NNP Infinity 
-MGIE	VB Infinity 
-ZMNW	NN Infinity 
-MGIB	VB Infinity 
-NPSDWT	JJ Infinity 
-NKWNIM	JJ Infinity VB Infinity 
-GLIMWT	NN Infinity 
-MWSRIT	JJ Infinity 
-BIWRWQRJ	NN Infinity 
-JKNAI	NNT Infinity NN Infinity 
-HKXIFW	VB Infinity 
-GML	NN Infinity 
-KPWPIM	VB Infinity 
-GMR	NNT Infinity NN Infinity 
-HCHIRW	VB Infinity 
-BGIN	IN Infinity NNP Infinity 
-ABJLH	NN Infinity 
-GNB	NN Infinity 
-KABI	NNT Infinity 
-HTNXLW	VB Infinity 
-DMQH	NN Infinity 
-MIWED	VB Infinity 
-MWFLMWT	VB Infinity 
-GNQ	NNP Infinity 
-GNT	NNT Infinity 
-LHIEFWT	VB Infinity 
-MEJWT	JJ Infinity 
-HWZHRW	VB Infinity 
-LHZIQ	VB Infinity 
-MSTBR	VB Infinity 
-EPUI	IN Infinity 
-MKFPWT	NN Infinity 
-NJLW	VB Infinity 
-LHTQIIM	VB Infinity 
-HTLQXWT	NN Infinity NNT Infinity 
-MWCBWT	VB Infinity 
-DWBRWBINCQI	NNP Infinity 
-HWPKWT	VB Infinity 
-LHDRIK	VB Infinity 
-RWAIM	VB Infinity 
-ALIMWTM	NN Infinity 
-AMRIQNIT	JJ Infinity 
-IWFBIM	VB Infinity 
-IWFBIH	NN Infinity 
-MIICRIM	VB Infinity 
-XGIM	NN Infinity 
-WWDAI	NN Infinity 
-LIMWDIHM	NN Infinity 
-KAFR	IN Infinity 
-FITWQH	NN Infinity 
-GPN	NN Infinity 
-HFTLJWTH	NN Infinity 
-RPWRMI	JJ Infinity 
-RPWRMH	NN Infinity 
-AWKSPWRD	NNP Infinity 
-BQBWQIM	NN Infinity 
-MGMH	NN Infinity 
-ADIR	JJ Infinity NNP Infinity 
-KWKBA	NNP Infinity 
-BGLL	IN Infinity 
-EQRWNIT	RB Infinity JJ Infinity 
-RBDIM	NNP Infinity 
-MCJRPIM	VB Infinity 
-MTBRRT	VB Infinity 
-DMWQRJIZCIH	NN Infinity 
-ESQIIM	JJ Infinity 
-HEDRWT	NN Infinity 
-KWKBM	NN Infinity 
-TRGIL	NN Infinity 
-LGWNN	VB Infinity 
-MIIDIT	JJ Infinity 
-MGLH	VB Infinity 
-MRQDW	NNP Infinity 
-IXZRW	VB Infinity 
-GRI	NNP Infinity 
-MGLM	VB Infinity 
-QWDMTH	NN Infinity 
-QIPAWN	NN Infinity 
-GRM	VB Infinity NN Infinity 
-ATIWPIT	JJ Infinity 
-HQCIBH	VB Infinity 
-GRP	VB Infinity 
-GRR	VB Infinity 
-MLXMTIT	JJ Infinity 
-KPWLH	JJ Infinity 
-MRFIMH	JJ Infinity 
-HMFIKW	VB Infinity 
-LDLG	VB Infinity 
-APFRIT	JJ Infinity 
-ATIWPIH	NNP Infinity 
-FWWIICRI	JJ Infinity 
-QIWWITI	VB Infinity 
-MTQDMIM	JJ Infinity 
-GSI	NNP Infinity 
-HCHIRH	VB Infinity 
-MJAPISIT	JJ Infinity 
-HMFIKH	VB Infinity 
-MRIRWT	NN Infinity JJ Infinity 
-ADMH	NN Infinity 
-HNHIGH	VB Infinity 
-MGMT	NNT Infinity 
-HFKIL	VB Infinity 
-DIWQNAWT	NNT Infinity 
-JWQIW	NNP Infinity 
-AWPCIWT	NN Infinity 
-LDKA	VB Infinity 
-TIMNE	VB Infinity 
-MGNH	VB Infinity 
-HFKIB	VB Infinity 
-FWHIM	VB Infinity 
-MSTER	VB Infinity 
-MTNGFWT	VB Infinity 
-NWZPT	VB Infinity 
-LRWPP	VB Infinity 
-DMWT	NN Infinity NNT Infinity 
-PXWTWT	JJT Infinity 
-GLIWLIN	NNP Infinity 
-IXZWR	VB Infinity 
-RWAH	VB Infinity NNT Infinity 
-QIWWTH	VB Infinity 
-RWAI	NNT Infinity 
-HSTIIGH	VB Infinity 
-KEWSH	JJ Infinity 
-NJTH	VB Infinity 
-ADMT	NNT Infinity 
-LHTGLGL	VB Infinity 
-GWBH	VB Infinity NN Infinity NNT Infinity 
-MEKBT	VB Infinity 
-NKWNH	JJ Infinity 
-FALWTIH	NN Infinity 
-GRWSLM	NNP Infinity 
-BNGAL	NNP Infinity 
-DWRWTIW	NN Infinity 
-FPTWT	NNT Infinity 
-JWRPDW	NNP Infinity 
-JKNIT	JJ Infinity 
-MTWNH	JJ Infinity 
-SQJWR	NN Infinity 
-LHFXIT	VB Infinity 
-MCWPWT	VB Infinity 
-KIKWBH	NN Infinity 
-TXZIQ	VB Infinity 
-DMWI	JJT Infinity 
-AFQLWN	NNP Infinity 
-GRWSMN	NNP Infinity 
-DRWWIF	NNP Infinity 
-LHFXIR	VB Infinity 
-BRQWBIC	NNP Infinity 
-PIWRNJINH	NNP Infinity 
-MIWMN	JJ Infinity 
-MPLCWT	NN Infinity 
-MQCWEIWT	NN Infinity 
-FGIAWT	NN Infinity 
-RWCH	VB Infinity 
-NTQEW	VB Infinity 
-ITRWNWT	NN Infinity 
-MWPIEH	VB Infinity 
-GWB	NNP Infinity 
-GWDF	NNT Infinity 
-GWDH	NNP Infinity 
-GWG	NNP Infinity 
-GWF	NN Infinity NNT Infinity 
-GWDL	NN Infinity NNT Infinity 
-JIMIFWARH	NNP Infinity 
-RWCX	VB Infinity 
-HFKLH	NN Infinity 
-GWN	NNP Infinity 
-FITWPH	NN Infinity 
-GWP	NN Infinity NNT Infinity 
-GWBR	VB Infinity 
-GWR	NNP Infinity 
-RWBL	NN Infinity 
-MGRF	NNT Infinity NN Infinity 
-SIRWBM	NN Infinity 
-SIRWBH	NN Infinity 
-RWBH	NN Infinity NNT Infinity 
-RWBE	NN Infinity 
-ISKIM	VB Infinity 
-KNISTM	NN Infinity 
-BRSLB	NNP Infinity 
-XRPTM	NN Infinity 
-DWMINNJI	JJ Infinity 
-TNWRIM	NN Infinity 
-RWBM	NN Infinity PRP Infinity 
-RWBN	PRP Infinity 
-SIRWBW	NN Infinity 
-HCBET	NNT Infinity 
-RIFIWN	NNT Infinity 
-MWEILH	JJ Infinity 
-GWBFH	VB Infinity 
-DWDAIM	NN Infinity 
-MRQMI	NNT Infinity 
-BGUC	NNP Infinity 
-HTKNSW	VB Infinity 
-MGUD	NN Infinity 
-RWEH	NNT Infinity 
-RWEI	NNT Infinity 
-APSIM	NN Infinity 
-NHNIT	VB Infinity 
-IWWTRW	VB Infinity 
-NHNIM	VB Infinity 
-IKTWB	VB Infinity 
-APSIQ	VB Infinity 
-APSIT	JJ Infinity 
-TIMWT	NN Infinity 
-EIFWN	NN Infinity 
-HTKNSH	VB Infinity 
-HCBEH	NN Infinity 
-IEBDW	VB Infinity 
-HRCBRG	NNP Infinity 
-AWWIRIT	JJ Infinity 
-GWDW	NN Infinity 
-MIWTR	JJ Infinity 
-RWDN	NN Infinity 
-RWDI	NNP Infinity 
-MQNIM	VB Infinity 
-NJWF	VB Infinity 
-QWDMIM	VB Infinity JJ Infinity 
-LINHRJ	NNP Infinity 
-GZR	NNT Infinity VB Infinity 
-QWDMIW	NN Infinity 
-RIBWEIM	NN Infinity 
-MWFLMT	JJ Infinity 
-MTWQN	JJ Infinity 
-ZWSMN	NNP Infinity 
-MGWG	NNP Infinity 
-HKXIFH	VB Infinity 
-TAWCH	NN Infinity 
-BTMWRH	IN Infinity 
-MEWDKN	JJ Infinity 
-HSTIIMW	VB Infinity 
-GAWWTM	NN Infinity 
-HWMNIZM	NN Infinity 
-AWKLWSIIT	NNT Infinity 
-RWGZ	NN Infinity 
-BWFWWIC	NNP Infinity 
-HTLQXH	VB Infinity 
-TERIPIM	NN Infinity 
-TWRMIM	VB Infinity 
-MSTMA	NN Infinity 
-MSTMK	VB Infinity 
-RWFM	NN Infinity 
-BHIRIM	JJ Infinity 
-AWKLWSIIH	NN Infinity 
-MAWFPZWT	VB Infinity 
-AIDIAWLWGIWT	JJ Infinity NN Infinity 
-MFNHW	NN Infinity 
-WIFINSQI	NNP Infinity 
-HGNTH	NN Infinity 
-HGNTI	JJ Infinity 
-QPIJLIZM	NN Infinity 
-QFWRH	VB Infinity JJ Infinity 
-IINTN	VB Infinity 
-HBQIEH	VB Infinity 
-PZWRH	NN Infinity 
-HCBIE	VB Infinity 
-RWMLIH	NNP Infinity 
-TLWNH	NN Infinity 
-PWNIM	NN Infinity 
-MCEDW	NN Infinity 
-HWPKIM	VB Infinity 
-HIRBTH	VB Infinity 
-ADWQ	RB Infinity 
-HWPKIN	NN Infinity 
-PRWQWPIIB	NNP Infinity 
-LFTWQ	VB Infinity 
-LFTWT	VB Infinity 
-ADWM	JJ Infinity 
-ADWJ	NNP Infinity 
-MIWXS	NNP Infinity 
-MIWXL	JJ Infinity 
-MIWXD	JJ Infinity 
-RKIFTH	NN Infinity 
-GWIS	NNP Infinity 
-GWMWLQH	NNP Infinity 
-KLKLH	NN Infinity 
-KLKLI	JJ Infinity 
-RKIFWT	NN Infinity 
-29.9	CD Infinity 
-RWKF	VB Infinity 
-GWLD	NNP Infinity 
-GWLI	NNP Infinity 
-GWLM	NN Infinity 
-WIIJNAM	NNP Infinity 
-NKWNWT	NNT Infinity VB Infinity JJ Infinity NN Infinity 
-GWLN	NNP Infinity 
-HGNWT	NN Infinity 
-GWLP	NN Infinity 
-KLKLT	NNT Infinity 
-LPQPQ	VB Infinity 
-FRWIIM	VB Infinity 
-PQDH	VB Infinity 
-JILPNW	VB Infinity 
-RWBLIM	NN Infinity 
-EWLBIM	JJ Infinity 
-IEBIR	VB Infinity 
-KIBDH	VB Infinity 
-LDWN	VB Infinity 
-PSIKWLWGIT	NN Infinity 
-MWDRKIM	JJ Infinity 
-HZNH	NN Infinity 
-TAWNT	NNT Infinity 
-PSIKWLWGIH	NN Infinity 
-HAL	NNP Infinity 
-HAM	HAM Infinity 
-MGZR	NNT Infinity NN Infinity 
-NRKFH	VB Infinity 
-NEWRIM	NN Infinity 
-RWKB	VB Infinity 
-TAWNH	NN Infinity 
-PWRNWGRPIIM	JJ Infinity 
-HAW	NNP Infinity 
-RWMN	NN Infinity NNP Infinity 
-RWML	NNP Infinity 
-XLWPIIM	JJ Infinity 
-ABSWLWJIT	JJ Infinity 
-ALKWHWL	NN Infinity 
-WWDQH	NN Infinity 
-RWMW	NN Infinity 
-BIILIN	NNP Infinity 
-GWNI	NNT Infinity 
-SJIWWN	NNP Infinity 
-LEQWB	VB Infinity 
-LPQWD	VB Infinity 
-AWPNIIM	NN Infinity 
-GWNN	NNP Infinity 
-GWNS	NNP Infinity 
-RWMZ	VB Infinity 
-FWLLIM	NN Infinity 
-KTBIM	NN Infinity 
-NKBD	JJ Infinity 
-LEQWR	VB Infinity 
-AWJWBIWGRPI	JJ Infinity 
-LEQWP	VB Infinity 
-FAIPH	NN Infinity 
-BDIWQ	RB Infinity MOD Infinity 
-MBCEIIM	JJ Infinity 
-AWFRW	VB Infinity 
-GWMI	NN Infinity 
-DNDI	NNP Infinity 
-KTBIW	NN Infinity 
-XDINJWB	NNP Infinity 
-BDIXH	NN Infinity 
-TWSPWT	NNT Infinity NN Infinity 
-FWHWT	VB Infinity 
-XIWBI	JJ Infinity 
-GBETI	NNP Infinity 
-AWFRH	VB Infinity 
-FWALIM	VB Infinity 
-AWFRI	NNP Infinity 
-RWMA	NNP Infinity 
-RXWBWT	NNP Infinity NN Infinity NNT Infinity 
-BELWT	NNT Infinity NN Infinity 
-TXZIT	NNT Infinity NN Infinity 
-GWPI	NNT Infinity 
-FDRWT	NNT Infinity 
-GWPM	NN Infinity 
-QNIINIM	NN Infinity 
-MIWEDWT	VB Infinity 
-RWPA	NN Infinity 
-MFPJIM	NN Infinity 
-GWPR	NNP Infinity 
-HDQ	NN Infinity 
-QLINIWT	JJ Infinity 
-HDP	VB Infinity 
-GWPW	NN Infinity 
-HDS	NNP Infinity NN Infinity 
-HDR	NNP Infinity NN Infinity 
-RWPI	NNP Infinity 
-TRGWL	NN Infinity 
-TRGWM	NN Infinity 
-DHIRH	NN Infinity 
-MFPJIT	JJ Infinity 
-QIBWCIWT	JJ Infinity 
-KAXD	RB Infinity MOD Infinity 
-WQPKWT	ZVL Infinity 
-MTWXH	JJ Infinity 
-NKBF	VB Infinity 
-RWNI	NNP Infinity 
-EQRWNWT	NN Infinity 
-BXINTNW	NN Infinity 
-NSIWNWT	NNT Infinity 
-MEWDDT	JJ Infinity 
-LHKFIL	VB Infinity 
-AXIWT	NN Infinity 
-EQIP	JJ Infinity 
-ISKIMW	VB Infinity 
-PQID	NNT Infinity NN Infinity 
-HEZ	VB Infinity 
-TLWIH	JJ Infinity VB Infinity 
-ALKSNDRS	NNP Infinity 
-FLILI	JJ Infinity 
-MNEMI	NNT Infinity 
-GWRE	VB Infinity 
-GWRG	NNP Infinity 
-GWBRT	VB Infinity JJ Infinity 
-ITWGBRW	VB Infinity 
-RWJCIH	NN Infinity 
-EBRWN	NNP Infinity 
-HFG	NN Infinity 
-GWRM	VB Infinity NN Infinity 
-RWQX	NN Infinity 
-GWRL	NN Infinity NNT Infinity 
-ALWWARW	NNP Infinity 
-GWRN	NN Infinity NNT Infinity NNP Infinity 
-MTRFMIM	VB Infinity 
-RPWBLIQWT	NN Infinity 
-DNIS	NNP Infinity 
-AWSJRLIH	NNP Infinity 
-RWPP	JJ Infinity 
-NIQWI	NNT Infinity 
-NIQWL	NNP Infinity 
-XTWNH	NN Infinity 
-MRQXT	NN Infinity 
-AMIRH	NN Infinity 
-NIQWD	NN Infinity 
-HGM	IN Infinity 
-MPWJRIM	NN Infinity 
-SWBIIJIT	NN Infinity JJ Infinity 
-MZKIRT	NNT Infinity 
-MQCWEIIM	JJ Infinity 
-FLIJT	NNT Infinity 
-SWBIIJIM	NN Infinity 
-HTPRCWT	NN Infinity 
-15.459.00	CD Infinity 
-HGW	VB Infinity 
-XIWNI	JJ Infinity 
-RWQI	NN Infinity 
-MZKIRH	NN Infinity VB Infinity 
-HTLQJW	VB Infinity 
-FLIJH	NN Infinity 
-LHXLIJ	VB Infinity 
-MFNTW	NN Infinity 
-QIIMWT	JJ Infinity 
-LHXLIP	VB Infinity 
-IEBRW	VB Infinity 
-MFNTM	NN Infinity 
-1630	CD Infinity 
-CIRWP	NN Infinity NNT Infinity 
-RWTM	NN Infinity NNP Infinity 
-JARAN	NNP Infinity 
-TLWTN	NN Infinity 
-RBEIM	NN Infinity 
-BDIQH	NN Infinity 
-LHXLIF	VB Infinity 
-MFKNEWT	JJ Infinity 
-RWKFIM	VB Infinity 
-HIA	PRP Infinity AGR Infinity 
-RWBCT	VB Infinity 
-HIH	AUX Infinity VB Infinity 
-AWFPZ	VB Infinity 
-HTXTNH	VB Infinity 
-NKFL	VB Infinity 
-BDIQT	NNT Infinity 
-AMITI	JJ Infinity 
-MCWPIM	VB Infinity 
-GWSS	JJ Infinity 
-AQJWARI	JJ Infinity 
-EBRTW	NN Infinity 
-TSBWKT	NNT Infinity 
-HCBTM	NN Infinity 
-HIW	VB Infinity AUX Infinity 
-TXZWR	VB Infinity 
-GIJAWT	NN Infinity 
-HCBTW	NN Infinity 
-RWSI	NN Infinity JJ Infinity 
-MHFK	ZVL Infinity 
-XIWKW	NN Infinity 
-2991	CD Infinity 
-BGRWT	NN Infinity 
-FLWMIT	NNP Infinity 
-CKIH	NNP Infinity 
-SGNIW	NN Infinity 
-MDMMIM	JJ Infinity 
-GWWE	VB Infinity 
-LHBLIJ	VB Infinity 
-DILMH	NN Infinity 
-HKI	MOD Infinity RB Infinity 
-HKL	NN Infinity 
-LEBR	VB Infinity IN Infinity 
-QJMANDW	NNP Infinity 
-AMINH	JJ Infinity 
-BHIRWT	NN Infinity 
-JWRAI	NN Infinity 
-FLIFI	NNP Infinity JJ Infinity 
-IWFBWT	VB Infinity 
-HLA	RB Infinity MOD Infinity 
-GFRIM	NN Infinity 
-LHMLIC	VB Infinity 
-ABINR	NNP Infinity 
-RWWX	VB Infinity NN Infinity NNP Infinity 
-HTWWIIT	NNT Infinity 
-RWAIIN	VB Infinity 
-HLH	PRP Infinity 
-IWXLJ	VB Infinity 
-HLK	VB Infinity NNT Infinity 
-SBLNWT	NN Infinity 
-HLM	NN Infinity NNT Infinity 
-HLL	NNP Infinity 
-RWXB	NN Infinity NNT Infinity 
-JWRDT	VB Infinity 
-RENNH	NNP Infinity 
-EQRW	VB Infinity 
-RWXH	NN Infinity 
-IHLWMIT	NNP Infinity 
-RWXC	VB Infinity 
-IEBWD	VB Infinity 
-RWXQ	NNT Infinity 
-RWWIIM	VB Infinity 
-IHLWMIM	NN Infinity 
-TSMWNT	NNT Infinity 
-NXFPWT	VB Infinity 
-GWWN	NN Infinity 
-1691	CD Infinity 
-APSWTW	NN Infinity 
-BHIR	JJ Infinity 
-RWWI	JJT Infinity 
-TAWRT	NNT Infinity 
-KNRAH	RB Infinity MOD Infinity 
-MIICRT	VB Infinity 
-LNKWT	VB Infinity 
-WEDT	NNT Infinity 
-PRSLNI	NNP Infinity 
-MSTDRWT	VB Infinity 
-WEDH	NN Infinity 
-HNA	NNP Infinity 
-HNC	NNP Infinity 
-PWRENWT	NN Infinity 
-MPKUL	NN Infinity NNT Infinity 
-QANJIM	NN Infinity 
-HNH	RB Infinity 
-HNM	AGR Infinity 
-GWZP	NNP Infinity 
-FBWEIT	JJ Infinity 
-PRANQ	NN Infinity NNP Infinity 
-ABIMWR	NNP Infinity 
-LETIM	RB Infinity MOD Infinity 
-NKNE	VB Infinity 
-RWZI	NNP Infinity 
-QIBWCIT	JJ Infinity 
-NJWIH	JJ Infinity 
-RWWIWT	JJT Infinity 
-RWZH	NNP Infinity 
-WWDAIT	JJ Infinity 
-JMWNH	VB Infinity 
-NITNIM	VB Infinity 
-RWZN	NNP Infinity 
-MHIR	JJ Infinity 
-SGWRIM	JJ Infinity 
-MRGIEH	JJ Infinity 
-RWXW	NN Infinity 
-ZIMND	NNP Infinity 
-FQIDTW	NN Infinity 
-MARQIM	NN Infinity 
-NIHWLIWT	JJ Infinity 
-MSWIG	JJ Infinity 
-QIBWCIM	NN Infinity 
-MSWIM	JJ Infinity 
-PIGWE	NN Infinity 
-QLJWT	NNT Infinity 
-KBDH	JJ Infinity 
-LEGH	NN Infinity 
-SNDLR	NN Infinity 
-LEGM	NN Infinity 
-QBILWTN	NN Infinity 
-KBDI	JJT Infinity 
-NPFWTIHM	NN Infinity 
-PRDSNWT	NN Infinity 
-PIGWR	NN Infinity 
-HPK	AUX Infinity VB Infinity 
-FEWRM	NN Infinity 
-NIAWTW	VB Infinity 
-ARMSJRWNG	NNP Infinity 
-HPR	VB Infinity 
-KBFW	VB Infinity 
-IRWFLMI	JJ Infinity 
-TIPWL	VB Infinity 
-AEIR	VB Infinity 
-BHLH	NN Infinity 
-HIWTW	AUX Infinity VB Infinity NN Infinity 
-MNWCLIM	VB Infinity 
-NKNS	VB Infinity 
-RCINIIM	JJ Infinity 
-MSIIET	VB Infinity 
-LAWMIIM	JJ Infinity 
-MSWGL	VB Infinity 
-HIWTI	NN Infinity 
-MWAPL	VB Infinity 
-HSTPQ	VB Infinity 
-KDWMH	RB Infinity 
-HRC	NNP Infinity 
-KBFH	VB Infinity 
-HRD	NNP Infinity 
-HRG	NNT Infinity 
-HRI	NNT Infinity RB Infinity 
-MHLK	NNT Infinity NN Infinity 
-HRH	JJ Infinity 
-LEIL	RB Infinity 
-LHIBXR	VB Infinity 
-HRP	NN Infinity 
-HRS	NN Infinity 
-GLEDI	NNP Infinity 
-IWSIPW	VB Infinity 
-HRT	JJT Infinity 
-KDWRI	NNT Infinity 
-BRIIJMN	NNP Infinity 
-KBIF	NNT Infinity NN Infinity 
-MFRTIM	VB Infinity 
-MXFBWT	NN Infinity 
-NKPW	VB Infinity 
-MFQIP	NN Infinity VB Infinity 
-MEWRBWT	NN Infinity NNT Infinity 
-MHMR	VB Infinity NN Infinity 
-ALXNDRW	NNP Infinity 
-PQWE	NNT Infinity 
-HTNXLWIWT	NN Infinity 
-BIWKIMI	JJ Infinity 
-TRISIM	NN Infinity 
-LEKB	VB Infinity 
-NJWLI	JJT Infinity 
-MSWMN	VB Infinity 
-PIGRW	VB Infinity 
-HRCAWT	NN Infinity 
-MLAWT	NN Infinity NNT Infinity 
-DNWN	NNP Infinity 
-JAZIMH	NNP Infinity 
-AQWNWMISJ	NNP Infinity 
-MHWLH	JJ Infinity 
-LFWNI	JJ Infinity 
-MTWQNWT	JJ Infinity 
-NKTB	VB Infinity 
-PRIMIJIBIT	JJ Infinity 
-MSWLP	JJ Infinity 
-FJIINBK	NNP Infinity 
-FWKNE	VB Infinity 
-DWWQA	MOD Infinity RB Infinity 
-HTHDRW	VB Infinity 
-MINIBWS	NN Infinity 
-HUH	NN Infinity 
-CBEWNI	JJ Infinity 
-TIPSQ	VB Infinity 
-PCWEH	VB Infinity 
-MSTIIM	VB Infinity 
-FWKNT	VB Infinity 
-FWRCQWP	NNP Infinity 
-MSTIIG	VB Infinity 
-MWJWWSL	NNP Infinity 
-PGANI	JJ Infinity 
-MSWKN	JJ Infinity 
-MHPK	NN Infinity 
-XWBFIM	VB Infinity 
-LFWNW	NN Infinity 
-NKSI	NNT Infinity 
-AWBSSIWT	NN Infinity 
-TIPTR	VB Infinity 
-NKSP	JJ Infinity 
-IIQRH	VB Infinity 
-MENIQ	VB Infinity 
-LHTBSS	VB Infinity 
-MRGILH	VB Infinity 
-RXCH	NN Infinity 
-MECMWT	NN Infinity NNT Infinity 
-MENIF	VB Infinity 
-NITNT	VB Infinity 
-HWA	AGR Infinity PRP Infinity 
-HTNPLWT	NNT Infinity 
-HWD	NN Infinity NNT Infinity 
-EWRRNW	VB Infinity 
-MSWRT	NNT Infinity NN Infinity 
-AWHBT	VB Infinity 
-ZNXW	VB Infinity 
-TTQBL	VB Infinity 
-LHJEWT	VB Infinity 
-NITNH	VB Infinity 
-HWN	NN Infinity 
-MHSS	VB Infinity 
-BIRDSLI	NNP Infinity 
-MSWRTI	JJ Infinity 
-RXBH	NN Infinity JJ Infinity 
-RXBI	NNT Infinity JJT Infinity 
-CKWB	NNP Infinity 
-MHRH	RB Infinity 
-QWFRIM	VB Infinity 
-ECWMH	JJ Infinity 
-HXL	VB Infinity IN Infinity 
-MFQLW	NN Infinity 
-RXBT	NNT Infinity 
-QIIMIM	VB Infinity JJ Infinity 
-JWRQIT	JJ Infinity 
-MFXDIM	VB Infinity 
-PCIETW	NN Infinity 
-NFKBW	VB Infinity 
-JWRQIM	NN Infinity 
-QDIFZWN	NNP Infinity 
-NKXH	VB Infinity 
-LERB	VB Infinity 
-MSWPI	NNT Infinity 
-IIFWBI	NNT Infinity 
-HCEID	VB Infinity 
-LDQLM	VB Infinity 
-MSWPQ	VB Infinity 
-DWQJWRJ	NN Infinity 
-MSWPR	VB Infinity 
-NKXW	VB Infinity 
-DXWPIM	JJ Infinity 
-JWRQIH	NNP Infinity 
-067008	CD Infinity 
-AWHDT	JJ Infinity 
-GMIFIM	JJ Infinity 
-LHPXIT	VB Infinity 
-20.00	CD Infinity 
-HNHGWT	NN Infinity 
-AWHDI	NNT Infinity 
-NKWN	RB Infinity JJ Infinity VB Infinity 
-MEWGNT	VB Infinity 
-LEQL	VB Infinity 
-LEQR	VB Infinity 
-NKWW	VB Infinity 
-JRWRISJI	JJ Infinity 
-NKWT	NN Infinity 
-MZKIR	NN Infinity VB Infinity NNT Infinity 
-MFQPT	VB Infinity 
-EWQBT	VB Infinity 
-HQNTH	VB Infinity 
-MTKWNNIM	VB Infinity 
-QWLJWRH	NNP Infinity 
-ERBH	NN Infinity 
-ERBI	NN Infinity NNT Infinity JJ Infinity 
-XWQRIW	NN Infinity 
-MNHGW	NN Infinity 
-HLWWIITW	NN Infinity 
-SWCIALI	JJ Infinity 
-LQWWT	VB Infinity 
-HZDHITI	VB Infinity 
-HTBJAWIWT	NN Infinity 
-MHWT	NN Infinity NNT Infinity 
-SPWRJAIM	NN Infinity 
-XWQRIM	VB Infinity NN Infinity 
-SIWEN	NN Infinity 
-AILMIM	NN Infinity 
-AWNIWWRSLI	JJ Infinity 
-HTRAIIN	VB Infinity 
-MHWWH	AUX Infinity VB Infinity 
-AIWMIW	NN Infinity 
-LQWXH	NN Infinity VB Infinity 
-EWRRIN	NN Infinity 
-AIWMIM	NN Infinity 
-MTEMLWT	NNT Infinity 
-MHWTW	NN Infinity 
-PRCH	NN Infinity VB Infinity 
-WEUR	NNP Infinity 
-LAWMIWT	NN Infinity JJ Infinity 
-XJWPIM	NN Infinity 
-PRCI	NNT Infinity 
-MHWTI	JJ Infinity 
-TTPZR	VB Infinity 
-NIWWKX	VB Infinity 
-ICIATW	NN Infinity 
-MRTQT	JJ Infinity 
-PRCW	VB Infinity 
-QWRWZIH	NN Infinity 
-RICARD	NNP Infinity 
-MTNKRIM	NN Infinity 
-FLJWN	NNT Infinity NN Infinity 
-BAIWDIH	NNP Infinity 
-XFPTI	VB Infinity 
-NITNW	VB Infinity 
-DRGWT	NNT Infinity 
-ITQWP	VB Infinity 
-PRBR	NN Infinity NNP Infinity 
-LFWWA	RB Infinity 
-MNWSIM	JJ Infinity 
-MWCNEIM	JJ Infinity 
-GDWDIM	NN Infinity 
-NTINIW	NN Infinity 
-MFEMMT	JJ Infinity 
-SIWRI	NNT Infinity 
-XLASQ	NNP Infinity 
-MSIIRT	VB Infinity 
-HWFMJH	VB Infinity 
-HRISWT	NN Infinity 
-HTBSSW	VB Infinity 
-PRDI	NNP Infinity 
-IPELW	VB Infinity 
-MNHJN	NNP Infinity 
-APFRWT	NN Infinity NNT Infinity 
-RCINIWT	JJ Infinity 
-NKTBIM	VB Infinity 
-ITBJLW	VB Infinity 
-IAH	JJ Infinity 
-MWGDRIM	VB Infinity 
-ALPWNSW	NNP Infinity 
-IAN	NNP Infinity 
-LDQWR	VB Infinity 
-MINLBAIIAB	NNP Infinity 
-KLIATM	NN Infinity 
-MNHIG	NN Infinity NNT Infinity 
-GWERT	VB Infinity 
-KBWD	NNT Infinity NN Infinity 
-IBF	JJ Infinity 
-KBWL	VB Infinity 
-PWLIJIWT	JJ Infinity 
-PRFH	NN Infinity VB Infinity 
-TIQIM	NN Infinity 
-LPTWX	VB Infinity 
-ICA	VB Infinity 
-BWLEWT	VB Infinity 
-ICIAWT	NN Infinity 
-QLIPWRNIH	NNP Infinity 
-PRFN	NNP Infinity NN Infinity 
-SIWRW	NN Infinity 
-PRFT	NNT Infinity 
-ZWWIT	NN Infinity 
-ICR	VB Infinity NN Infinity NNT Infinity 
-MEWRBIM	NN Infinity JJ Infinity VB Infinity 
-KWNSH	VB Infinity 
-LPTWR	VB Infinity 
-SIPRTI	VB Infinity 
-HNHGTW	NN Infinity 
-MWBHQ	JJ Infinity 
-GZENWT	NN Infinity 
-MLBIM	VB Infinity 
-HCETI	NN Infinity VB Infinity 
-PRIS	NNP Infinity 
-IDE	VB Infinity NN Infinity 
-IDH	NN Infinity 
-IDI	NNT Infinity 
-HWFMEW	VB Infinity 
-IDM	NN Infinity 
-ECWBH	JJ Infinity 
-HTXFB	VB Infinity 
-AWRWGWWAI	NNP Infinity 
-IDW	NN Infinity 
-MWBIL	NNT Infinity NN Infinity VB Infinity JJ Infinity 
-SIWMW	NN Infinity 
-MXSWMIM	NN Infinity 
-QWBEWT	VB Infinity 
-SIWMH	NN Infinity 
-IED	NN Infinity 
-ERIM	VB Infinity NN Infinity 
-IEL	NNP Infinity 
-HCETM	NN Infinity 
-IER	NN Infinity NNT Infinity 
-ARWXWT	NN Infinity 
-TKWNH	NN Infinity 
-HCETW	NN Infinity 
-PRANQIM	NN Infinity 
-PRWPWRCIWNALI	JJ Infinity 
-NLEG	JJ Infinity 
-IFB	VB Infinity 
-LZQWP	VB Infinity 
-5,000	CD Infinity 
-IFE	NN Infinity 
-BAIRNWBH	NNP Infinity 
-IIRAW	VB Infinity 
-IFN	JJ Infinity 
-BIBI	NNP Infinity 
-MQSIQAI	JJ Infinity 
-MWTRWT	NN Infinity 
-IFR	RB Infinity 
-NWKXIWT	JJ Infinity 
-AWGRSHIIM	NNP Infinity 
-MCXIQNIM	NN Infinity 
-DIMWI	NN Infinity 
-MFJRTIIM	JJ Infinity 
-IFW	NNP Infinity 
-XIBH	NN Infinity 
-MNHLH	NN Infinity 
-PRJI	NNT Infinity JJ Infinity 
-MNHLI	NNT Infinity JJ Infinity 
-MANIIRWT	NN Infinity 
-IGE	JJ Infinity 
-SPILBRG	NNP Infinity 
-ERKH	VB Infinity 
-MNHLT	VB Infinity NNT Infinity 
-HWFMDW	VB Infinity 
-MFQWP	NN Infinity 
-ERKM	NN Infinity 
-4,677	CD Infinity 
-HTXIL	VB Infinity 
-NTWWKX	VB Infinity 
-BICI	NNT Infinity 
-HNHGTI	JJ Infinity 
-HTXIH	NNP Infinity 
-NCBEW	VB Infinity 
-BICE	VB Infinity 
-NITWX	NNT Infinity NN Infinity 
-ERKW	NN Infinity VB Infinity 
-HPCRWTIH	NN Infinity 
-IIRAH	VB Infinity 
-NITWQ	NNT Infinity NN Infinity 
-SGWRWT	JJ Infinity 
-MZWIPT	JJ Infinity 
-IHA	VB Infinity 
-MIDH	NN Infinity 
-LXKWT	VB Infinity 
-PAFISJI	JJ Infinity 
-MIDT	NNT Infinity 
-LFAT	VB Infinity 
-HCEWT	NN Infinity NNT Infinity 
-BIDI	IN Infinity 
-NZEMT	JJ Infinity 
-PWQWS	NN Infinity 
-LMKWR	VB Infinity 
-LFBC	VB Infinity 
-0408	CD Infinity 
-LFBF	VB Infinity 
-BWAKH	NN Infinity 
-IIB	NNP Infinity 
-ABJUA	NNP Infinity 
-IDBRW	VB Infinity 
-XIBR	VB Infinity 
-IIL	NNP Infinity 
-MZKUL	NNT Infinity 
-LAHWB	VB Infinity 
-PWQXT	VB Infinity 
-MIDE	NN Infinity 
-MIIXLIM	VB Infinity 
-IKXIF	VB Infinity 
-XWBWTIH	NN Infinity 
-PSWQIM	NN Infinity 
-MWBJX	VB Infinity JJ Infinity 
-IHDWTM	NN Infinity 
-ZIMWN	NN Infinity 
-IJH	VB Infinity 
-ABJXH	NN Infinity 
-PXWTIM	JJ Infinity 
-CLIL	NN Infinity NNT Infinity 
-TKNIWT	NNT Infinity 
-TKWWN	VB Infinity 
-HTXLH	NN Infinity 
-WWHBH	NNP Infinity 
-IHDWTW	NN Infinity 
-PJRWKIMIH	NN Infinity 
-EWPRI	NNP Infinity 
-RAIWTIH	NN Infinity 
-IIRDW	VB Infinity 
-FXRWRM	NN Infinity 
-MIEJ	VB Infinity 
-BIGZ	NNP Infinity 
-XLWCIM	NN Infinity 
-MKNIZM	NN Infinity 
-TIQRA	VB Infinity 
-FXRWRW	NN Infinity 
-LFBT	VB Infinity 
-IFTQPW	VB Infinity 
-HELAT	NNT Infinity 
-MIFH	NNP Infinity 
-LBKWT	VB Infinity 
-GPRIS	NNP Infinity 
-ILD	NN Infinity 
-LQXIM	NN Infinity 
-MIHR	VB Infinity 
-LFER	VB Infinity 
-ANARKIH	NN Infinity 
-MIHM	QW Infinity 
-RXWQ	JJ Infinity 
-ILK	VB Infinity 
-MIHW	QW Infinity 
-AIFWMIM	NN Infinity 
-MABQM	NN Infinity 
-FLJIM	NN Infinity 
-BIJA	VB Infinity 
-IMI	JJ Infinity NNT Infinity 
-WWDAWT	NN Infinity 
-XSWMH	JJ Infinity 
-ZWJRIM	JJ Infinity 
-1791	CD Infinity 
-BMIFRIN	MOD Infinity RB Infinity 
-NZEQW	VB Infinity 
-NLKD	VB Infinity 
-BIIM	VB Infinity 
-SLPSJIQ	NNP Infinity 
-RXWB	NNT Infinity NN Infinity 
-CDDIM	NN Infinity 
-DRGIM	NN Infinity 
-AINJLQJWAL	NN Infinity 
-HIRANW	NNP Infinity 
-CDDIT	JJ Infinity 
-PRQI	NNT Infinity 
-ZWWEH	NN Infinity 
-HZKIRW	VB Infinity 
-HTERERWT	NNT Infinity 
-LFGR	VB Infinity 
-XIJH	NN Infinity 
-IRWFLIM	NNP Infinity 
-MZWINT	JJ Infinity 
-MTLMDT	NN Infinity 
-HZKIRH	VB Infinity 
-ASWRIM	VB Infinity 
-NWSIIRAT	NNP Infinity 
-MTAXDIM	VB Infinity 
-RFTWT	NNT Infinity NN Infinity 
-MIKL	NNP Infinity NN Infinity 
-SWCIALIIM	JJ Infinity 
-XIILWT	NN Infinity 
-LHWLID	VB Infinity 
-XIIB	NN Infinity VB Infinity JJ Infinity 
-IIFWMN	NN Infinity 
-SIWWG	NN Infinity 
-QJEIM	NN Infinity 
-TKNITW	NN Infinity 
-9.13	CD Infinity 
-9.11	CD Infinity 
-MIJB	NNT Infinity 
-NLMD	VB Infinity 
-PRSH	NN Infinity 
-GBIEI	NNT Infinity 
-XIIW	NN Infinity 
-HGRLH	NN Infinity 
-PRSM	VB Infinity 
-MFQPIM	VB Infinity 
-MWBNT	JJ Infinity VB Infinity 
-IIFWMH	NN Infinity 
-XIIM	JJ Infinity VB Infinity NN Infinity NNP Infinity 
-PRSJ	NNP Infinity 
-LHWLIK	VB Infinity 
-WWEDWT	NNT Infinity NN Infinity 
-XIIL	NN Infinity 
-PRSI	JJ Infinity NNT Infinity 
-MIJH	NNP Infinity NN Infinity 
-IPH	JJ Infinity RB Infinity 
-SPRJIZM	NN Infinity 
-BWCEW	VB Infinity 
-WWLDRIDG	NNP Infinity 
-MZIZH	VB Infinity 
-KRMIAL	NNP Infinity 
-EWRQI	NNT Infinity 
-RCITI	VB Infinity 
-ALINH	NNP Infinity 
-TIKNWN	NN Infinity 
-IPW	NNP Infinity 
-MIMF	VB Infinity 
-AWPWZICIH	NN Infinity 
-PWLIJIIM	JJ Infinity 
-MIMD	NN Infinity 
-MLAKWTIIM	JJ Infinity 
-BWWDAI	MOD Infinity RB Infinity 
-ERWC	NN Infinity 
-DISQJIM	NN Infinity 
-MKNIQH	NN Infinity 
-BILH	VB Infinity 
-IWSJWN	NNP Infinity 
-BQRWB	RB Infinity 
-XIKH	VB Infinity 
-ZWLWJWXIN	NNP Infinity 
-LWQACR	NNP Infinity 
-IQR	JJ Infinity 
-EWRPI	JJ Infinity 
-ALIMH	JJ Infinity 
-LHTAZR	VB Infinity 
-DRIIB	NNP Infinity 
-BIMT	NNT Infinity 
-KNSIM	NN Infinity 
-MILA	VB Infinity 
-HRPIH	NN Infinity 
-MQIIMWT	VB Infinity 
-IRD	VB Infinity 
-WAFINGJWN	NNP Infinity 
-MILH	NN Infinity 
-LFIM	VB Infinity 
-HFQPTW	NN Infinity 
-BIMH	NN Infinity 
-IRH	VB Infinity 
-LFKT	NNT Infinity 
-IRI	NN Infinity NNT Infinity 
-NLQX	VB Infinity 
-XINH	NN Infinity 
-BDLNI	JJ Infinity 
-NEFTH	VB Infinity 
-IRQ	VB Infinity 
-NQIWN	NN Infinity 
-CPIIH	NN Infinity 
-IRW	VB Infinity 
-BINW	NNP Infinity 
-LFLB	VB Infinity 
-XIZWQIM	NN Infinity 
-AZRXI	JJ Infinity NNT Infinity 
-PRXH	VB Infinity 
-LFLM	VB Infinity 
-XINM	NN Infinity 
-XSRWNWT	NN Infinity 
-ISD	VB Infinity 
-AWRWWLIANIT	JJ Infinity 
-BINI	IN Infinity 
-CLSI	NNP Infinity 
-ERWK	VB Infinity 
-APWDWT	NNT Infinity 
-ZILND	NNP Infinity 
-MCWRPIM	VB Infinity 
-PRWC	NNT Infinity 
-DRIFT	NNT Infinity 
-ETIDM	NN Infinity 
-MINH	NN Infinity VB Infinity 
-LFKB	VB Infinity 
-MINI	MOD Infinity JJ Infinity NNT Infinity 
-LFKH	NN Infinity 
-PRWF	NNP Infinity 
-PRWE	JJ Infinity 
-IDWEIM	VB Infinity JJ Infinity 
-SPIRH	NN Infinity 
-SPIRT	NNT Infinity 
-BILWII	NNT Infinity 
-QLASIWT	JJ Infinity 
-BWCEH	VB Infinity 
-HFMIE	VB Infinity 
-ETIDW	NN Infinity 
-PRWP	VB Infinity NNP Infinity NNT Infinity NN Infinity 
-FWJIM	JJ Infinity 
-XIPH	NNP Infinity 
-IIPLA	VB Infinity 
-JARSWB	NNP Infinity 
-ITN	VB Infinity 
-BIQF	VB Infinity 
-BNIHM	NN Infinity 
-ITR	MOD Infinity RB Infinity VB Infinity DT Infinity NN Infinity 
-MIQA	NNP Infinity 
-SWCIALISJ	NN Infinity 
-QLIPT	NNT Infinity 
-ETIDI	JJ Infinity 
-ETIDH	JJ Infinity VB Infinity NN Infinity 
-HFMJT	VB Infinity 
-AFMX	VB Infinity 
-MIQI	NNP Infinity 
-IIFWTI	NN Infinity 
-ALQJRWNIT	JJ Infinity 
-IUD	JJ Infinity 
-DRIFH	NN Infinity 
-LFNN	VB Infinity 
-BNIIH	NN Infinity 
-IUF	ZVL Infinity 
-AFMH	JJ Infinity NN Infinity 
-QLIPH	NN Infinity 
-RCINW	VB Infinity 
-BIRH	NN Infinity 
-MEMDM	NN Infinity 
-BNIIN	NNT Infinity NN Infinity 
-XILWNI	JJ Infinity 
-MEMDH	NN Infinity 
-BIRD	NNP Infinity 
-XDIFH	JJ Infinity 
-RAMASWWAMI	NNP Infinity 
-FMWEWT	NN Infinity 
-DIIHJSW	NNP Infinity 
-MPXIDH	VB Infinity 
-BNIIT	NNT Infinity 
-ABINTN	NNP Infinity 
-PWRIWT	NN Infinity 
-LFMF	VB Infinity 
-MSIJIM	VB Infinity 
-MMWXZR	JJ Infinity 
-DQIQWT	JJ Infinity 
-FPIKWT	NNT Infinity 
-BIQR	VB Infinity 
-EWRKW	NN Infinity 
-MXWFBIM	VB Infinity 
-ALIHW	NNP Infinity 
-EWRKT	NNT Infinity 
-LFMR	VB Infinity 
-NKLLIM	VB Infinity 
-MTINWTH	NN Infinity 
-EITWNAIIM	JJ Infinity 
-SEIPI	NNT Infinity 
-MCIAWTIIM	JJ Infinity 
-EWRKI	NNT Infinity 
-HAFMWT	NN Infinity 
-ZKRWN	NN Infinity 
-MTIMJIWT	JJ Infinity 
-NPFWT	NN Infinity 
-DQDQNWT	NN Infinity 
-BIRT	NNT Infinity 
-HDGFH	NN Infinity 
-IWM	NN Infinity NNT Infinity 
-LFPR	VB Infinity 
-XIQH	VB Infinity 
-AWKZBW	VB Infinity 
-FIBXW	VB Infinity 
-KWNNWT	NN Infinity 
-BITI	JJ Infinity NN Infinity 
-BITH	NN Infinity 
-MTGWRRIM	VB Infinity 
-SPINT	NNT Infinity 
-NEFWT	VB Infinity 
-MIRB	NNT Infinity 
-HXRIMW	VB Infinity 
-QBLWT	NNT Infinity 
-QWBEIM	VB Infinity 
-AXLMH	NNP Infinity 
-RWCIM	VB Infinity 
-LCMCM	VB Infinity 
-SPINH	NN Infinity 
-IXD	IN Infinity MOD Infinity RB Infinity 
-9.90	CD Infinity 
-BISS	VB Infinity 
-PRWPSWR	NN Infinity 
-IXL	VB Infinity 
-MIRN	NNP Infinity 
-BIUL	JJ Infinity 
-IXS	NN Infinity 
-MFPJN	NN Infinity 
-MEBIRH	VB Infinity 
-XILWQI	NNT Infinity 
-MFPJI	JJ Infinity 
-XWLCWT	NN Infinity 
-FWLIWT	JJ Infinity 
-BIINIF	NNP Infinity 
-MJWPLIM	NN Infinity 
-MGIRWT	NN Infinity 
-SWCIALIWT	JJ Infinity 
-BXFAI	RB Infinity 
-BITW	NN Infinity 
-LEITIM	MOD Infinity 
-NLXM	VB Infinity 
-MIUL	NN Infinity 
-TIKNNW	VB Infinity 
-BITN	NN Infinity 
-FWWIWN	NNT Infinity NN Infinity 
-BITM	NN Infinity 
-ERBWT	NN Infinity NNT Infinity 
-MQPID	VB Infinity 
-XDIRT	NNT Infinity 
-PWLIJIQH	NN Infinity 
-CRKIHM	NN Infinity 
-NSPGW	VB Infinity 
-XDIRH	JJ Infinity 
-ERBWB	NNT Infinity 
-ELIZIM	JJ Infinity 
-AFRW	NN Infinity 
-MITH	NN Infinity 
-MAPIWT	NN Infinity 
-LFQM	VB Infinity 
-BIUX	NN Infinity 
-ZKRIH	NNP Infinity 
-AFRT	NNT Infinity 
-IZI	NNP Infinity 
-LFQP	VB Infinity 
-CLXT	NN Infinity 
-MFPJW	NN Infinity 
-GZENIT	JJ Infinity 
-IZM	VB Infinity 
-HDGIF	VB Infinity 
-SPIXT	NNT Infinity 
-BIWN	NN Infinity 
-AFTI	NN Infinity 
-ISMNW	VB Infinity 
-MAMINIM	NN Infinity VB Infinity 
-BIWB	NN Infinity 
-GQSWN	NNP Infinity 
-XTIMTW	NN Infinity 
-HWLQWMB	NNP Infinity 
-LFTP	VB Infinity 
-MEMDW	NN Infinity 
-XIWB	NN Infinity 
-MIWN	NNT Infinity NN Infinity 
-RWCWT	VB Infinity 
-AFUL	NNP Infinity 
-MFPIL	JJ Infinity 
-XILWPI	NNT Infinity JJ Infinity 
-BIXD	RB Infinity IN Infinity 
-MFPIE	VB Infinity 
-AIWNIR	NNP Infinity 
-ITPQD	VB Infinity 
-AFTW	NN Infinity 
-SLQCIH	NN Infinity 
-MSGDIM	NN Infinity 
-MTNGDWT	VB Infinity 
-HWFLKW	VB Infinity 
-PRWJSJNJIM	JJ Infinity NN Infinity 
-PIFWJ	NNT Infinity 
-IIPTX	VB Infinity 
-FWJRI	NNT Infinity 
-BIXS	IN Infinity 
-AFUP	NNP Infinity 
-RDIAJWRI	NNT Infinity 
-IIPTXW	VB Infinity 
-XIWN	NNP Infinity 
-DRIKWT	NN Infinity 
-CHRIM	NN Infinity 
-HDGMT	NNT Infinity 
-NQJET	VB Infinity 
-XIWT	NN Infinity JJ Infinity NNT Infinity 
-ALIAB	NNP Infinity 
-FBRAWWI	NNP Infinity 
-BRIJNIH	NNP Infinity 
-XIWK	NN Infinity 
-CEIPIM	NN Infinity 
-ICIBWT	NN Infinity 
-KLLIWT	JJ Infinity 
-HWFLMW	VB Infinity 
-MAWKLSIM	VB Infinity 
-NQJEH	VB Infinity 
-IDWEWT	VB Infinity JJ Infinity 
-NIJRLH	VB Infinity 
-HQMTM	NN Infinity 
-GWDLH	NN Infinity 
-GWDLK	NN Infinity 
-FAPTNWTW	NN Infinity 
-HQMTH	NN Infinity 
-ITQIIMW	VB Infinity 
-GWDLN	NN Infinity 
-BLBWL	NN Infinity 
-LFXQ	VB Infinity 
-LHTNAWT	VB Infinity 
-PWJRWT	VB Infinity 
-ZKRNW	VB Infinity 
-BWBWT	NN Infinity 
-IEDIH	NN Infinity 
-MTRKZIM	VB Infinity 
-ITPTX	VB Infinity 
-LFWB	VB Infinity 
-SWCIALIZM	NN Infinity 
-HFQPWT	NN Infinity 
-IEDIM	NN Infinity 
-MBQFWT	VB Infinity 
-LFWJ	VB Infinity 
-DWXIM	VB Infinity 
-NDRFIM	VB Infinity 
-ALIBI	NNP Infinity NN Infinity 
-LFWN	NNT Infinity NN Infinity 
-IHMRW	VB Infinity 
-HWFLKH	VB Infinity 
-HQMTW	NN Infinity 
-NISTH	VB Infinity 
-PSGH	NN Infinity 
-MWGMRT	JJ Infinity 
-KWWIIT	NNP Infinity 
-HTBRRH	VB Infinity 
-HQDIMW	VB Infinity 
-JBE	NNP Infinity NN Infinity 
-ITPWS	VB Infinity 
-CMAI	JJT Infinity 
-NJIITW	NN Infinity 
-BHXLJ	RB Infinity MOD Infinity 
-NMAS	VB Infinity 
-APWDIM	NN Infinity 
-LESWQ	VB Infinity 
-EIBWRW	NN Infinity 
-TINWQT	NN Infinity 
-IIPWL	VB Infinity 
-EWNFIM	NN Infinity 
-EWNFIN	NN Infinity 
-MBQFIM	VB Infinity 
-NPGFW	VB Infinity 
-HWPIEH	VB Infinity 
-MRADWNH	NNP Infinity 
-HFMCWT	NN Infinity 
-TIAWRJIT	RB Infinity 
-KWWIIH	NN Infinity 
-HWPIEW	VB Infinity NN Infinity 
-18.6	CD Infinity 
-HTBRRW	VB Infinity 
-MSWIMWT	JJ Infinity 
-LPSWQ	VB Infinity 
-CBAIIM	JJ Infinity 
-PSIM	NN Infinity 
-TPQWDH	NN Infinity 
-TPQWDI	JJ Infinity 
-NPGET	VB Infinity 
-NPGEW	VB Infinity 
-IIDRFW	VB Infinity 
-MCIINT	VB Infinity 
-JDI	NNP Infinity 
-TPQWDM	NN Infinity 
-TPQWDW	NN Infinity 
-NPGEH	VB Infinity 
-NMDD	VB Infinity 
-RNJGN	NN Infinity 
-BRIIJWN	NNP Infinity 
-GRWEH	JJ Infinity 
-TIPGM	VB Infinity 
-CMDN	NN Infinity 
-JEH	VB Infinity 
-LHTBJA	VB Infinity 
-JEN	VB Infinity 
-JEM	NN Infinity NNT Infinity 
-NMCA	VB Infinity 
-WSJLND	NNP Infinity 
-XJAW	NN Infinity 
-GRWFH	NN Infinity 
-MJBE	NNT Infinity NN Infinity 
-HBANW	VB Infinity 
-RWXNIT	JJ Infinity 
-QWWARC	NNP Infinity 
-32.40	CD Infinity 
-AGWZIM	NN Infinity 
-RWMNIM	NN Infinity 
-ANJWNIWS	NNP Infinity 
-HCDQH	NN Infinity 
-MEMSH	NN Infinity 
-MJBX	NN Infinity 
-MPWRJWT	JJ Infinity 
-RWMNIH	NNP Infinity 
-HSTBR	VB Infinity 
-PSJH	NN Infinity 
-SIBWKIM	NN Infinity 
-MXQRIIM	JJ Infinity 
-NISWI	NN Infinity 
-MNCXIM	NN Infinity 
-QAMINGS	NNP Infinity 
-RWCXW	NN Infinity 
-AINSJINQJIM	NN Infinity 
-MMDIW	NN Infinity 
-NISWX	NNT Infinity NN Infinity 
-LBWTIHN	NN Infinity 
-XWLCTM	NN Infinity 
-MWAFM	VB Infinity 
-ZIMAN	NNP Infinity 
-RWMNJI	JJ Infinity 
-HNDST	NNT Infinity 
-HCJMCM	VB Infinity 
-HNDSH	NN Infinity 
-MEMQI	NNT Infinity 
-AGAJ	NNP Infinity 
-ERBIT	JJ Infinity 
-20.30	CD Infinity 
-0507	CD Infinity 
-LGBF	VB Infinity 
-BZKWT	IN Infinity 
-NMFK	VB Infinity 
-MWCAIM	VB Infinity 
-JIB	NNT Infinity 
-ERBII	NNT Infinity 
-ERBIM	JJ Infinity NN Infinity 
-JIL	NN Infinity 
-KAMWR	RB Infinity 
-MWACT	JJ Infinity 
-JIQ	NN Infinity 
-MXRTIIM	RB Infinity 
-QLJNW	VB Infinity 
-LHTBCE	VB Infinity 
-MLAKT	NNT Infinity 
-NMIR	NNP Infinity 
-LHIJWTM	NN Infinity 
-XIPAIM	NN Infinity 
-IIQBE	VB Infinity 
-CWXQIM	VB Infinity 
-HTQFRWIWT	NN Infinity 
-FIBFH	VB Infinity 
-MSWBK	JJ Infinity 
-LGBI	IN Infinity 
-MJEN	NN Infinity 
-MJEH	JJ Infinity VB Infinity 
-XMQMQH	JJ Infinity 
-XLWDIM	JJ Infinity 
-AGDT	NNT Infinity 
-NMHR	JJ Infinity 
-AIRWEIM	NN Infinity 
-AGRSIWWIT	JJ Infinity 
-JKS	NN Infinity NNT Infinity 
-AGDH	NN Infinity 
-MNHIGWTW	NN Infinity 
-MMWXFB	JJ Infinity 
-QWMDIH	NN Infinity 
-MLAKH	NN Infinity 
-MLAIM	JJ Infinity 
-KHNISJI	JJ Infinity 
-NHPWK	VB Infinity 
-ZHIRH	JJ Infinity 
-MJHW	NN Infinity 
-HSTGR	VB Infinity 
-MFPXT	NNT Infinity 
-MXDLI	NNT Infinity 
-HRQIEW	VB Infinity 
-RIINHARDJ	NNP Infinity 
-SINMJQ	NN Infinity NNT Infinity 
-MFPXH	NN Infinity 
-NMLJ	VB Infinity 
-GWRDWN	NNP Infinity 
-KDAI	JJ Infinity VB Infinity 
-ESQH	VB Infinity NN Infinity 
-ESQI	JJ Infinity 
-DPNH	NN Infinity 
-PRAIT	JJ Infinity 
-HWDEWT	NNT Infinity NN Infinity 
-ESQN	NN Infinity 
-AZWRIWT	JJ Infinity 
-MAPIIN	VB Infinity NN Infinity 
-NRMSH	VB Infinity 
-ESQT	NNT Infinity 
-PFJNIWT	JJ Infinity 
-DQIRWT	NNT Infinity NN Infinity 
-MTMQDT	VB Infinity 
-ESQW	VB Infinity 
-PSQI	NNT Infinity 
-PSQH	NN Infinity 
-HWDETI	VB Infinity 
-JNQ	NNT Infinity 
-MBDRT	JJ Infinity 
-JIPWLIWT	JJ Infinity 
-NMNE	NN Infinity VB Infinity JJ Infinity 
-XLKAIM	NN Infinity 
-CXQWQW	NN Infinity 
-IKWLT	NN Infinity NNT Infinity 
-HWDETW	NN Infinity 
-IKWLH	VB Infinity 
-BMIWXD	MOD Infinity RB Infinity 
-NMNH	VB Infinity 
-NMNI	NNP Infinity 
-JABH	NNP Infinity 
-MJIP	NN Infinity 
-LGFR	VB Infinity 
-MJIL	VB Infinity 
-HZMNWT	NN Infinity 
-IWZMH	NN Infinity 
-LGFT	VB Infinity 
-TTAPFR	VB Infinity 
-LHWKIX	VB Infinity 
-HTPREWT	NN Infinity NNT Infinity 
-DIIWWID	NNP Infinity 
-MFTXRR	VB Infinity 
-PICWIIM	NN Infinity 
-IWZMT	NNT Infinity 
-HDRGTIT	JJ Infinity 
-TFWAWT	NN Infinity 
-AWFIWT	NNP Infinity 
-QWNGRS	NNT Infinity NN Infinity 
-0591	CD Infinity 
-JPR	NNP Infinity 
-MRNFJIIN	NNP Infinity 
-PFRNIM	NN Infinity 
-HSTKM	VB Infinity 
-ATIAISJIM	NN Infinity 
-AWPJIMIWT	NN Infinity 
-FBWEWT	NN Infinity 
-BJLH	VB Infinity 
-FBWEWN	NN Infinity 
-DWWWX	VB Infinity 
-MEBIDW	NN Infinity 
-ITQFH	VB Infinity 
-BRCLWNH	NNP Infinity 
-NMNW	VB Infinity 
-JQS	NN Infinity 
-MEMIDH	VB Infinity 
-5,191	CD Infinity 
-THLWKH	NN Infinity 
-ENWWH	NN Infinity 
-CBAIWT	JJ Infinity 
-MSWIMIM	JJ Infinity 
-ITQFW	VB Infinity 
-ITQFR	VB Infinity 
-TWMKIM	VB Infinity NN Infinity 
-JRI	NNP Infinity 
-HZMNTW	NN Infinity 
-JRM	RB Infinity 
-TWMKIH	NN Infinity 
-HGIRTM	NN Infinity 
-TWMKIW	NN Infinity 
-PTIXT	NNT Infinity 
-FIINPLD	NNP Infinity 
-JRX	VB Infinity 
-REIWNIT	JJ Infinity 
-HNGBI	NNP Infinity 
-NMRC	JJ Infinity 
-QWWINS	NNP Infinity 
-PSXH	VB Infinity 
-LICNIM	NN Infinity 
-HRSNI	JJ Infinity 
-IHPKW	VB Infinity 
-HEMID	VB Infinity 
-CRPTI	NNP Infinity JJ Infinity 
-ESWQ	VB Infinity 
-EWTMNIT	JJ Infinity 
-EWSQT	VB Infinity 
-CMRT	NN Infinity NNT Infinity 
-PSWQ	NNT Infinity NN Infinity 
-PSWL	VB Infinity JJ Infinity 
-DPWS	NN Infinity NNT Infinity 
-XNIKH	NN Infinity 
-MWCUF	NN Infinity 
-XJPW	VB Infinity 
-PINNSIT	JJ Infinity 
-FLMIM	JJ Infinity 
-WGMN	NNP Infinity 
-KIFLWN	NNT Infinity NN Infinity 
-AGMI	NNP Infinity 
-MFBFWT	VB Infinity 
-MXIRIM	NN Infinity 
-ZWWEWT	NN Infinity 
-ZRIMH	NN Infinity 
-NMSR	VB Infinity 
-MJPL	VB Infinity 
-AGNH	NNP Infinity 
-AWLIMPIT	JJ Infinity 
-FWAB	VB Infinity 
-JWB	JJ Infinity NN Infinity NNT Infinity RB Infinity 
-NFMEH	VB Infinity 
-GRWSBWRD	NNP Infinity 
-MCJBR	VB Infinity JJ Infinity 
-JWF	NN Infinity 
-FWAH	NN Infinity 
-BWDDH	JJ Infinity 
-BJRM	IN Infinity 
-FWAL	VB Infinity 
-JWL	NNP Infinity 
-XCIIT	NNT Infinity 
-HWFKRW	VB Infinity 
-AIABQ	VB Infinity 
-JWN	NN Infinity 
-TQIPH	JJ Infinity NN Infinity 
-WWIIS	NNP Infinity 
-GZBR	NN Infinity 
-RAFNW	NN Infinity 
-NAMNWT	NN Infinity NNT Infinity 
-JWR	NN Infinity 
-NRGZIM	JJ Infinity 
-JWS	NNP Infinity 
-CMWD	JJ Infinity 
-BZMNW	RB Infinity 
-MJRH	NN Infinity 
-QLLWT	NN Infinity 
-WWIIJ	NNP Infinity 
-LIBRLIZM	NN Infinity 
-MJRT	NNT Infinity 
-WWIIN	NNP Infinity 
-TPWQTW	NN Infinity 
-KWPIM	VB Infinity 
-MMFIKH	VB Infinity 
-CMXI	NNT Infinity 
-MWPLGT	JJ Infinity 
-FWBW	NN Infinity 
-QWBH	NNP Infinity 
-LGRF	VB Infinity 
-NBLEIM	VB Infinity 
-ALIMIM	JJ Infinity 
-QWBE	VB Infinity JJ Infinity 
-FWMRI	NNT Infinity 
-HKRXIWT	JJ Infinity NN Infinity 
-QWBL	NNP Infinity 
-NMXQ	VB Infinity 
-QWLWT	NNT Infinity NN Infinity 
-FWMRT	VB Infinity 
-GIBWRIW	NN Infinity 
-FWAP	VB Infinity 
-LHBQIE	VB Infinity 
-TQINH	NN Infinity JJ Infinity 
-MTRISIM	VB Infinity 
-yyDOT	yyDOT Infinity 
-GIBWRIM	NN Infinity 
-IFIRWT	JJ Infinity RB Infinity 
-ZRIQT	NNT Infinity 
-TTRWM	VB Infinity 
-MQSIM	JJ Infinity NNP Infinity 
-MWELIT	VB Infinity 
-MSTPQIM	VB Infinity 
-QWAN	NNP Infinity 
-FWBH	JJT Infinity 
-AWLIMPIH	NNP Infinity 
-CMXW	VB Infinity 
-NMWK	JJ Infinity 
-FWBL	NNP Infinity 
-PTIXH	NN Infinity 
-NICXWNWT	NN Infinity NNT Infinity 
-GIRWFM	NN Infinity 
-GZEN	NN Infinity 
-FETIIM	NN Infinity 
-SDIRH	JJ Infinity 
-KLWLWT	VB Infinity 
-BJWN	NN Infinity 
-MZMIN	VB Infinity 
-MMFIIM	JJ Infinity 
-AGTH	NNP Infinity 
-HEMQT	NNT Infinity 
-BJWI	NN Infinity 
-QWDM	RB Infinity IN Infinity JJ Infinity VB Infinity 
-CILWMIM	NN Infinity 
-HFPLWT	NN Infinity 
-QWDF	NN Infinity 
-HFTKRWTM	NN Infinity 
-IQIRIHN	NN Infinity 
-PWNQCIWNLIIM	JJ Infinity 
-MNHIGI	NNT Infinity 
-LIQWII	NNT Infinity 
-LHIDXQ	VB Infinity 
-FWEL	NN Infinity 
-KHNIZM	NN Infinity 
-MJWS	NN Infinity NNT Infinity 
-MJWT	NNT Infinity NN Infinity 
-FWER	NN Infinity 
-MWPQDIM	VB Infinity NN Infinity 
-TISGR	VB Infinity 
-GLWSQA	NNP Infinity 
-FWDD	NN Infinity 
-QWMDI	NNP Infinity 
-QWCR	NNT Infinity 
-BWQARFJ	NNP Infinity 
-QWMPLQS	NN Infinity 
-QWBLIM	VB Infinity 
-BJWX	VB Infinity JJ Infinity 
-TXZIWTIW	NN Infinity 
-MTARXT	VB Infinity 
-FWDR	VB Infinity 
-HIJIBH	VB Infinity 
-DIQJJWRH	NN Infinity 
-HWAFM	VB Infinity 
-ITSWS	VB Infinity 
-TKWNWT	NNT Infinity NN Infinity 
-RZIN	NNP Infinity 
-IRWFLMIT	JJ Infinity 
-TQPWTN	NN Infinity 
-161351	CD Infinity 
-QWFI	NN Infinity 
-HEMSH	NN Infinity 
-QWFR	VB Infinity 
-AWNIBRSIJT	NNT Infinity 
-AGUX	NNT Infinity 
-AWNIBRSIJH	NN Infinity 
-BLGRAD	NNP Infinity 
-NFMET	VB Infinity 
-NFMEW	VB Infinity 
-MDMIE	JJ Infinity 
-AICJDIWN	NNT Infinity NN Infinity 
-IRWFLMIM	JJ Infinity 
-GZIM	NN Infinity 
-MPLIAH	JJ Infinity 
-GZIN	NNP Infinity 
-PJMIM	NN Infinity 
-IPGMW	VB Infinity 
-HEBIRW	VB Infinity 
-257.5958	CD Infinity 
-IHPWK	AUX Infinity VB Infinity 
-FKWNWT	NNT Infinity NN Infinity 
-MRWWIXH	VB Infinity 
-QWHL	NNP Infinity 
-IARMQWB	NNP Infinity 
-MDWIQWT	JJ Infinity 
-HBDLI	NNT Infinity 
-PRCWP	NN Infinity 
-MINSWJH	NNP Infinity 
-MWDEH	NN Infinity 
-HQPWT	NN Infinity 
-NPRDNW	VB Infinity 
-MWDEI	NNP Infinity 
-ISPWG	VB Infinity 
-MJPXWT	NNT Infinity 
-ECMAWTM	NN Infinity 
-QICWC	NN Infinity NNT Infinity 
-ECMAWTN	NN Infinity 
-MXPFIM	VB Infinity 
-ECMAWTH	NN Infinity 
-HWAIL	IN Infinity 
-RAFWN	NN Infinity NNP Infinity JJ Infinity 
-KAB	NN Infinity 
-AQRILN	NNP Infinity 
-FWHH	VB Infinity 
-MQWCRT	JJ Infinity 
-MEWNIIN	VB Infinity 
-LGWR	VB Infinity 
-RAFWT	NNT Infinity 
-FWHM	NNP Infinity 
-KAL	IN Infinity 
-KAN	RB Infinity 
-APQJIWWIWT	NN Infinity 
-HTAWFFW	VB Infinity 
-LHIDRF	VB Infinity 
-KBD	JJ Infinity 
-KBF	VB Infinity 
-QWJL	VB Infinity 
-QICWR	NN Infinity NNT Infinity 
-HTAWFFH	VB Infinity 
-HIDRAWLIT	JJ Infinity 
-FWKN	VB Infinity 
-KDWR	NNT Infinity NN Infinity 
-KBR	RB Infinity MOD Infinity 
-SWBLNWT	NN Infinity 
-PLSJI	JJ Infinity 
-FWKX	VB Infinity 
-TRGWMW	NN Infinity 
-19.9	CD Infinity 
-MWDAG	JJ Infinity 
-MELIWT	NN Infinity 
-BILIWNI	CDT Infinity 
-XNINH	NN Infinity 
-HEBIRH	VB Infinity 
-FWJP	VB Infinity JJ Infinity 
-MMLKTIT	JJ Infinity 
-FWJR	NN Infinity 
-19.1	CD Infinity 
-QWLM	NN Infinity 
-XWCWT	NN Infinity 
-QWLJ	VB Infinity 
-MGPIIM	NN Infinity 
-MDBRWT	VB Infinity 
-QWLT	NNP Infinity ZVL Infinity 
-FWME	VB Infinity 
-BWNDSLIGH	NNP Infinity 
-QWLR	NNT Infinity 
-QWLP	NNP Infinity 
-QWLQ	NNP Infinity 
-SBIBTIWT	JJ Infinity 
-KDI	IN Infinity MOD Infinity 
-NNCX	VB Infinity 
-LHTERB	VB Infinity 
-FWMN	NN Infinity 
-RGFWTIW	NN Infinity 
-FWMR	NN Infinity 
-QWLW	NN Infinity 
-LCPWT	VB Infinity 
-QWMC	NNT Infinity NN Infinity 
-HTPTXWIWT	NN Infinity 
-MWDIM	VB Infinity 
-EICWMW	NN Infinity 
-FPTIIM	NN Infinity 
-SIKWIIK	NN Infinity 
-ETID	NN Infinity VB Infinity NNT Infinity 
-SIKWIIM	NN Infinity 
-FWLJ	VB Infinity 
-FWLI	NNT Infinity 
-FWLL	NN Infinity 
-AIRWPIWT	JJ Infinity 
-FWLP	VB Infinity 
-SIKWIIW	NN Infinity 
-ETIQ	JJT Infinity JJ Infinity 
-KES	VB Infinity NN Infinity 
-ETIR	JJT Infinity 
-QBWCWT	NN Infinity NNT Infinity 
-KET	RB Infinity 
-TRMIT	NN Infinity 
-MHNHIGWT	NN Infinity 
-MKBI	NNT Infinity NNP Infinity 
-MKBD	VB Infinity 
-BRZLIWT	NN Infinity 
-QWNH	NN Infinity VB Infinity 
-AQJIWWIWT	NN Infinity 
-QWNI	NNT Infinity 
-HSTKMH	VB Infinity 
-GZRI	NNT Infinity 
-KWLLNI	JJ Infinity 
-EICWMH	NN Infinity 
-KFM	IN Infinity 
-ICANW	VB Infinity 
-DQIQ	JJ Infinity 
-PJRIWJI	JJ Infinity 
-EICWMN	NN Infinity 
-MWDGF	JJ Infinity 
-MPQXIM	VB Infinity 
-MFNIIM	JJ Infinity 
-RZRB	NNP Infinity 
-QPRISIN	NNP Infinity 
-LBNWNIIM	JJ Infinity 
-QWMI	JJ Infinity 
-FWNA	VB Infinity 
-MTIIXS	VB Infinity 
-QWMH	NN Infinity 
-FWNH	JJ Infinity 
-QWMT	NNT Infinity 
-FWNI	NN Infinity 
-FKWNTI	NN Infinity 
-ALMWZLINW	NNP Infinity 
-FALWT	NN Infinity 
-KRISJINH	NNP Infinity 
-QWNG	NNP Infinity 
-HSTKMW	VB Infinity 
-PRQLIJWT	NNT Infinity NN Infinity 
-PRWDWRMWL	NNP Infinity 
-QWPL	NNP Infinity 
-FWQD	VB Infinity 
-MKDI	IN Infinity 
-NICBWT	VB Infinity 
-KHH	JJ Infinity 
-BELIHM	NN Infinity 
-QWPT	NNT Infinity 
-HWCAWT	NNT Infinity NN Infinity 
-NPJRH	VB Infinity 
-KHN	NNP Infinity 
-NQMTK	NN Infinity 
-BKDI	RB Infinity IN Infinity 
-LHTEMT	VB Infinity 
-KHW	VB Infinity 
-HCGWT	NNT Infinity 
-AHBW	VB Infinity 
-WWIZH	NNP Infinity 
-FKIRI	NNT Infinity 
-LPWCC	VB Infinity 
-AHBT	NNT Infinity 
-IXIIBW	VB Infinity 
-FWPJ	NN Infinity 
-FWPK	VB Infinity 
-FWPN	NNP Infinity 
-KIM	NN Infinity 
-MFKILIM	VB Infinity NN Infinity 
-HRTEH	NN Infinity 
-LEWDD	VB Infinity 
-ZQIM	NN Infinity 
-AHBH	VB Infinity NN Infinity 
-NFMTW	NN Infinity 
-KIS	NN Infinity 
-TMHWNI	NNT Infinity 
-QWPH	NN Infinity 
-QWRS	NN Infinity NNT Infinity 
-EIRAQI	JJ Infinity 
-ETIRH	NN Infinity 
-QWRQ	NNP Infinity 
-QWRN	NNP Infinity 
-RWGBI	NNP Infinity 
-RBIEIT	JJ Infinity 
-EIIRT	NNT Infinity 
-NNIX	VB Infinity 
-QWMIT	JJ Infinity 
-QWRT	NNT Infinity 
-ETIRT	JJT Infinity 
-LHIELM	VB Infinity 
-HARWWARD	NNP Infinity 
-HTNTQW	VB Infinity 
-MWDRNIT	JJ Infinity 
-FALTI	NN Infinity VB Infinity 
-LHTELM	VB Infinity 
-LHBH	NN Infinity 
-HFQEH	NN Infinity 
-ETIQH	JJ Infinity 
-FWRF	NN Infinity NNT Infinity 
-NPGEIM	NN Infinity 
-FWRH	NN Infinity 
-FLILIIM	JJ Infinity 
-KKL	IN Infinity 
-MCJRP	VB Infinity 
-ETIQT	JJT Infinity 
-MCLMWTIHM	NN Infinity 
-FWRR	NNP Infinity VB Infinity 
-QARIIRH	NN Infinity 
-TPQIDIM	NN Infinity 
-FWRT	NNT Infinity 
-QWRA	JJ Infinity NN Infinity VB Infinity 
-EIIRH	NN Infinity 
-AHDH	NN Infinity 
-MFMFIM	VB Infinity 
-TPQIDIW	NN Infinity 
-RZUL	NNP Infinity 
-LHSBIR	VB Infinity 
-KWLLIM	VB Infinity 
-QWRH	VB Infinity 
-GFWMH	JJ Infinity 
-1969	CD Infinity 
-QWRE	VB Infinity 
-KLB	NN Infinity 
-MKHN	VB Infinity 
-KLA	NN Infinity NNT Infinity VB Infinity 
-ICATM	VB Infinity 
-KLH	IN Infinity VB Infinity NN Infinity 
-KLI	NN Infinity NNT Infinity 
-KLL	RB Infinity NNT Infinity MOD Infinity NNP Infinity VB Infinity NN Infinity 
-RWMXIM	NN Infinity 
-GJAWT	NN Infinity 
-FLILIWT	JJ Infinity 
-1975	CD Infinity 
-HFQET	NNT Infinity 
-SRSWR	NNT Infinity 
-ZQNI	NNT Infinity 
-XWCPH	NN Infinity 
-DANPRMLIN	NNP Infinity 
-MXPFWT	VB Infinity 
-PTRH	VB Infinity 
-1977	CD Infinity 
-BNWTIHN	NN Infinity 
-MRWCT	NNT Infinity 
-FXQIM	NN Infinity 
-BNWTIHM	NN Infinity 
-HWCATI	VB Infinity 
-KMH	WDT Infinity DT Infinity 
-1990	CD Infinity 
-CNCNT	NNT Infinity 
-LHDQ	VB Infinity 
-FWTP	VB Infinity NN Infinity 
-BKIR	JJ Infinity 
-FWTQ	VB Infinity 
-1986	CD Infinity 
-1985	CD Infinity 
-KMW	IN Infinity 
-QWMTW	NN Infinity 
-AQZISJNCIALISJI	JJ Infinity 
-BWSRIWTW	NN Infinity 
-HWCATW	NN Infinity 
-DRIQS	NNP Infinity 
-LHTEJP	VB Infinity 
-1989	CD Infinity 
-1988	CD Infinity 
-LHGN	VB Infinity 
-QIDMW	VB Infinity 
-FWWI	NN Infinity NNT Infinity 
-FWWH	JJ Infinity 
-QSJLIJW	NNP Infinity 
-LHGR	VB Infinity 
-KNH	JJ Infinity 
-MTWSKL	JJ Infinity 
-GZZT	NN Infinity 
-CEIRH	JJ Infinity NN Infinity 
-FWWT	JJ Infinity 
-HEMIDH	VB Infinity 
-KNS	NN Infinity 
-FWQXTN	NNP Infinity 
-MWSWRGSQI	NNP Infinity 
-1994	CD Infinity 
-KNW	NN Infinity 
-HRSNIT	JJ Infinity 
-1991	CD Infinity 
-MRFMIM	NN Infinity 
-EIQWLIM	NN Infinity 
-NFMWR	VB Infinity 
-QWWI	NNT Infinity 
-NWSIIBH	NNP Infinity 
-LWJWN	NNP Infinity 
-MKIR	VB Infinity 
-MKIL	VB Infinity 
-PLILIIM	JJ Infinity 
-HFQIH	NN Infinity 
-ALIWJ	NNP Infinity 
-MKIM	VB Infinity 
-MKIN	VB Infinity 
-PNQIIBIC	NNP Infinity 
-MRQMIM	NN Infinity 
-CPIRT	NNT Infinity 
-HTPZRW	VB Infinity 
-MRWBI	JJT Infinity 
-FWWA	NN Infinity 
-MRWBH	JJ Infinity 
-XKIM	NNP Infinity 
-MKWERT	JJ Infinity 
-FWNIM	JJ Infinity 
-KPH	VB Infinity 
-FALNW	VB Infinity 
-KPI	IN Infinity 
-KPL	NNT Infinity 
-KPR	NNT Infinity NN Infinity 
-NGWHWT	NN Infinity 
-EIILH	NNP Infinity 
-MSWLSLT	JJ Infinity 
-BIJLNW	VB Infinity 
-BKLL	RB Infinity MOD Infinity 
-MWEMDI	NNT Infinity 
-QAMRI	JJ Infinity NN Infinity 
-MGWRIHM	NN Infinity 
-FWXJ	NNP Infinity 
-QNSWT	NN Infinity 
-FWXR	NNT Infinity 
-MWEMDW	NN Infinity 
-LEWLM	RB Infinity MOD Infinity 
-IITKN	VB Infinity 
-FWXX	VB Infinity 
-DQRW	VB Infinity 
-RAGIB	NNP Infinity 
-FXQNI	NNT Infinity 
-TRDMTM	NN Infinity 
-EICWBH	NN Infinity 
-MWXLFIM	JJ Infinity 
-PTWX	JJ Infinity VB Infinity 
-KRK	VB Infinity NN Infinity 
-JBET	NN Infinity 
-MAMCIW	NN Infinity 
-HTBQFH	VB Infinity 
-KRM	NNP Infinity NN Infinity 
-MTNGDIM	NN Infinity VB Infinity 
-HENIQ	VB Infinity 
-EWRRW	VB Infinity 
-PTXI	NNT Infinity 
-PTXH	VB Infinity 
-FWLIIM	NN Infinity 
-MAMCIM	NN Infinity VB Infinity 
-MTXWLLIM	VB Infinity 
-LHLK	VB Infinity 
-MDWIQIM	JJ Infinity 
-ABLWT	NN Infinity 
-PTXM	NN Infinity 
-LHLN	RB Infinity 
-HTMQDW	VB Infinity 
-EWRRH	VB Infinity 
-MCWJJIM	VB Infinity 
-XKMI	NNT Infinity 
-KSP	NN Infinity 
-BITIIM	JJ Infinity 
-PIJRH	VB Infinity 
-LHIEDR	VB Infinity 
-XWLQIM	VB Infinity 
-HWCANW	VB Infinity 
-CNRT	NN Infinity NNT Infinity 
-AWIRH	NN Infinity 
-HTBQFW	VB Infinity 
-KTB	VB Infinity NN Infinity NNT Infinity 
-MKNH	VB Infinity 
-MKNI	JJ Infinity 
-JBEI	JJ Infinity 
-MKPR	VB Infinity 
-LHAMIN	VB Infinity 
-DQWR	NNP Infinity 
-KTR	NNP Infinity NN Infinity 
-JBEIIM	JJ Infinity 
-TLWIWT	VB Infinity 
-DQWT	JJ Infinity NN Infinity NNT Infinity 
-XGIGIT	JJ Infinity 
-HTXRW	VB Infinity 
-PRSWMIW	NN Infinity 
-PRSWMIM	NN Infinity 
-KMRIM	NN Infinity 
-BICWEI	NNT Infinity 
-MTMWDDIM	NN Infinity 
-BICWEN	NN Infinity 
-PTXW	NN Infinity VB Infinity 
-BICWEW	NN Infinity 
-LBLBL	VB Infinity 
-IFIBH	NN Infinity 
-SMKWTH	NN Infinity 
-IFIBT	NNT Infinity 
-SRQZM	NN Infinity 
-MFRDI	JJ Infinity NNT Infinity 
-AMNWN	NNP Infinity 
-MKRZ	NN Infinity 
-MFMETI	JJ Infinity 
-AMNWT	NNT Infinity NN Infinity 
-MKRW	VB Infinity 
-SMKWTW	NN Infinity 
-HWPGNH	VB Infinity 
-LHPK	VB Infinity 
-NCBRW	VB Infinity 
-BMHLK	IN Infinity 
-MKST	NNT Infinity 
-LHPR	VB Infinity 
-FWLLT	VB Infinity 
-NGZRWT	JJ Infinity 
-CNWE	JJ Infinity 
-KWR	NN Infinity 
-MENIQIM	VB Infinity 
-GBIIH	NN Infinity 
-KWX	NNT Infinity NN Infinity 
-ZKWKIT	NN Infinity 
-MFRDW	NN Infinity 
-FWLMH	VB Infinity 
-AIRWPIIM	JJ Infinity 
-ZQWQ	VB Infinity 
-ANDRSWN	NNP Infinity 
-HWPTETI	VB Infinity 
-DRKIM	NN Infinity 
-NDIRWT	JJ Infinity 
-MCIAH	NN Infinity 
-MQRJE	VB Infinity 
-HIDRWTRPIIM	JJ Infinity 
-NRQXIM	VB Infinity 
-BRNADJ	NNP Infinity 
-LFXRR	VB Infinity 
-NNXL	VB Infinity 
-TIQWN	NN Infinity NNT Infinity 
-MJRWTIW	NN Infinity 
-EMWTH	NN Infinity 
-BDIDWTW	NN Infinity 
-JBLH	NN Infinity 
-BNQAIT	JJ Infinity 
-IFIGW	VB Infinity 
-AIBDW	VB Infinity 
-PJWCINI	NN Infinity 
-EMWTT	NNT Infinity 
-QIBLW	VB Infinity 
-IFRALIIM	JJ Infinity 
-MQRIB	VB Infinity 
-EBWTH	JJ Infinity 
-NHRGW	VB Infinity 
-MKTB	NN Infinity 
-AIBDH	VB Infinity 
-TTQWP	VB Infinity 
-AWKLI	NNT Infinity 
-LHQH	NN Infinity 
-MQRIN	VB Infinity 
-QIBLH	VB Infinity 
-MQRIM	NN Infinity 
-TNWEWTIHM	NN Infinity 
-LHQL	VB Infinity 
-XLASQW	NNP Infinity 
-MIGBLT	NNT Infinity 
-EMWSH	JJ Infinity 
-QPSPBIN	ZVL Infinity 
-MQRIT	JJ Infinity 
-LHQT	NNT Infinity 
-AHRN	NNP Infinity 
-AWLDHAM	NNP Infinity 
-BRIWNIM	NN Infinity 
-BLEDI	IN Infinity 
-MDBRIM	VB Infinity 
-JBXWT	NN Infinity 
-MKWN	NNT Infinity NN Infinity 
-NHRGH	VB Infinity 
-XIZWQ	NN Infinity NNT Infinity 
-MABWJ	NNP Infinity 
-XIZWR	NN Infinity 
-MKWT	NN Infinity 
-RFIMWT	NN Infinity NNT Infinity 
-XIZWI	NN Infinity 
-JBLT	NNT Infinity 
-JILIM	NN Infinity 
-PSIMIT	JJ Infinity 
-GWFIM	NN Infinity 
-MFMEWT	NNT Infinity NN Infinity 
-MEWPPWT	NNT Infinity 
-EMWQH	JJ Infinity 
-MFMETIT	JJ Infinity 
-MNIWTIH	NN Infinity 
-MNIEH	NN Infinity 
-MCIEH	VB Infinity 
-IWECIM	NN Infinity 
-DIQLM	VB Infinity 
-GBINH	NN Infinity 
-IGWWEW	VB Infinity 
-MNIET	NNT Infinity 
-TPWRSM	VB Infinity 
-DINMIJ	NN Infinity 
-TPEWL	NNT Infinity NN Infinity 
-HTXZQ	VB Infinity 
-KESW	NN Infinity 
-MDLIQ	VB Infinity 
-BDIEBD	RB Infinity 
-NWCRIT	JJ Infinity 
-PWRJR	NNP Infinity 
-PWRJW	NNP Infinity 
-LFXWQ	VB Infinity 
-MDLIH	NN Infinity 
-NQLET	VB Infinity 
-AHWD	NNP Infinity JJ Infinity 
-HWRWBIC	NNP Infinity 
-PARQIM	NN Infinity 
-AHWB	NN Infinity 
-IQIIM	VB Infinity 
-RFIMTW	NN Infinity 
-QCRIM	JJ Infinity 
-NQLEH	VB Infinity 
-MWXZQIM	JJ Infinity 
-MFABIM	NN Infinity 
-MFABIH	NN Infinity 
-FNTIT	JJ Infinity NN Infinity 
-HTIIPIIPWT	NN Infinity 
-MSXRI	JJ Infinity 
-FXIH	NN Infinity 
-WQMNIM	NN Infinity 
-HCJIINW	VB Infinity 
-HILWWAN	NNP Infinity 
-IFIMW	VB Infinity 
-QARLSRH	NNP Infinity 
-PARMH	NNP Infinity 
-FDWLT	NNT Infinity 
-MSTERIM	VB Infinity 
-MEIINIW	NN Infinity 
-BWLWNIH	NNP Infinity 
-MIRBIT	JJ Infinity 
-JWENIM	VB Infinity 
-HMCIA	VB Infinity 
-MNIBH	VB Infinity 
-LAH	NNP Infinity 
-DRBI	NNP Infinity 
-LAN	QW Infinity 
-MWCGIM	VB Infinity 
-PNXSI	NNP Infinity 
-ARIZWNH	NNP Infinity 
-MCIIR	VB Infinity 
-FIDWR	NNT Infinity NN Infinity 
-ABNIM	NN Infinity 
-LAW	RB Infinity MOD Infinity 
-MCIIN	VB Infinity 
-LFXZR	VB Infinity 
-EQWBIM	JJ Infinity 
-ZILWNI	NNP Infinity 
-FIDWK	NN Infinity 
-LBD	IN Infinity RB Infinity 
-LBF	VB Infinity 
-DWRFIM	VB Infinity NN Infinity 
-FIDWD	NNT Infinity 
-LBH	NN Infinity 
-LBK	NN Infinity 
-LBM	NN Infinity 
-LBN	JJ Infinity 
-WTIQIM	JJ Infinity 
-JILPN	VB Infinity 
-LBW	NN Infinity 
-IQIMW	VB Infinity 
-SWBARW	NNP Infinity 
-MWCAI	NNT Infinity 
-MWCAH	NN Infinity 
-TIRAH	VB Infinity 
-EDKWNIM	NN Infinity 
-PWRFT	VB Infinity 
-MWCAT	VB Infinity 
-LCD	IN Infinity 
-PWRFW	VB Infinity 
-JBEIWT	JJ Infinity 
-LCH	NNP Infinity 
-ITRWM	VB Infinity 
-ITRWN	NN Infinity NNT Infinity 
-HELTH	VB Infinity 
-BRWRH	JJ Infinity 
-HWSPNW	VB Infinity 
-AMWCIWNLI	JJ Infinity 
-JISIIH	NNP Infinity 
-DRGH	NN Infinity 
-HTNSWT	NN Infinity 
-CBAWT	NNT Infinity 
-QBWCTI	JJ Infinity 
-FWLXN	NN Infinity NNT Infinity 
-LAIIM	VB Infinity 
-BRWNW	NNP Infinity 
-DRGT	NNT Infinity 
-LAIIF	VB Infinity 
-QIBWC	NN Infinity NNT Infinity 
-QBWCTW	NN Infinity 
-PARIJ	NNP Infinity 
-MXFBH	NN Infinity 
-PARIS	NNP Infinity 
-BLAI	NN Infinity 
-AIFWRW	NN Infinity 
-BDLNIT	JJ Infinity 
-LEG	NN Infinity 
-DRFH	NN Infinity 
-SIDWRIM	NN Infinity 
-ZWEQIM	VB Infinity 
-NFBRWT	VB Infinity 
-IWMRNWT	NN Infinity 
-MTMWDD	VB Infinity NN Infinity 
-CIWNI	JJ Infinity 
-AMNIM	NN Infinity 
-DRFW	VB Infinity 
-LAIJH	RB Infinity 
-MLBI	NNT Infinity 
-LZRWM	VB Infinity 
-BNWTIW	NN Infinity 
-MLBD	IN Infinity 
-LZRWQ	VB Infinity 
-ABNEL	NNP Infinity 
-LZRWE	VB Infinity 
-LFM	IN Infinity RB Infinity 
-PWRQH	VB Infinity 
-BLBD	MOD Infinity RB Infinity IN Infinity 
-JILPNTI	VB Infinity 
-QWLIN	NNP Infinity 
-PWRQN	NN Infinity 
-MQRWB	RB Infinity 
-BAJRWWRT	NNP Infinity 
-MLAH	JJ Infinity 
-GWRBIC	NNP Infinity 
-MLAI	NN Infinity JJT Infinity 
-IFIRH	JJ Infinity 
-MLIWNR	NN Infinity 
-MFRWT	NN Infinity 
-MMFIK	VB Infinity 
-BNQAWT	NN Infinity 
-FIDRH	VB Infinity 
-MWCET	JJ Infinity 
-MZLNW	NN Infinity 
-MMFIT	JJ Infinity 
-MXFID	NN Infinity 
-MLAW	VB Infinity 
-LGM	VB Infinity 
-LZRWS	NNP Infinity 
-LHTAWFF	VB Infinity 
-ANJIRISJ	NNP Infinity 
-XWBWT	NN Infinity NNT Infinity 
-MWCDQ	VB Infinity JJ Infinity 
-MFRTT	NN Infinity 
-LIAH	NNP Infinity 
-MPLGWT	NNT Infinity NN Infinity 
-DRKH	NN Infinity VB Infinity 
-AIAN	NNP Infinity 
-DRKI	NN Infinity NNT Infinity 
-SIRWBAJQW	NNP Infinity 
-FXQN	NNT Infinity NN Infinity 
-DRKK	NN Infinity 
-LHJ	NN Infinity NNT Infinity NNP Infinity 
-LIJAIM	NN Infinity 
-DRKM	NN Infinity 
-DRKN	NN Infinity 
-NHRSW	VB Infinity 
-LIAZ	NNP Infinity 
-PWRSM	VB Infinity 
-DRKW	NN Infinity 
-BRWJW	NN Infinity 
-SMRJWJ	NN Infinity 
-NAWMIW	NN Infinity 
-EBIRWT	NN Infinity 
-PIILI	NNP Infinity 
-LID	IN Infinity 
-LDRWF	VB Infinity 
-HDIXH	VB Infinity 
-LIL	NNT Infinity 
-EIJWR	NN Infinity 
-AIBH	NN Infinity 
-LIN	NNP Infinity 
-LIP	NNP Infinity 
-EMWDW	NN Infinity 
-AIBD	VB Infinity 
-LIR	NNP Infinity 
-MSEDWT	NNT Infinity NN Infinity 
-ZRIM	NN Infinity JJ Infinity 
-LIT	NN Infinity 
-BLEA	NNP Infinity 
-ELIWNH	JJ Infinity 
-EBWDT	NNT Infinity 
-EMWDI	NNT Infinity 
-MINISJRIWN	NN Infinity 
-PLAGIAJ	NN Infinity 
-DRMH	NN Infinity 
-BLFR	NNP Infinity 
-LICN	NN Infinity 
-ALIMWT	NN Infinity NNT Infinity JJ Infinity 
-MPLGTW	NN Infinity 
-PWRMJ	NN Infinity 
-HRNJALS	NNP Infinity 
-FLMWT	NN Infinity 
-XLFH	JJ Infinity VB Infinity 
-LBLWM	VB Infinity 
-MPLGTI	JJ Infinity 
-PICWII	NNT Infinity 
-LBLWJ	VB Infinity 
-NPGFIM	VB Infinity 
-LKH	NN Infinity 
-TCPIWT	NN Infinity 
-LBLWE	VB Infinity 
-JRWWLIAN	NNP Infinity 
-LKN	CC Infinity 
-LIBW	NN Infinity 
-AIDH	NNP Infinity 
-LKT	NN Infinity 
-EBWDH	NN Infinity 
-FIXWTIH	NN Infinity 
-LBLWT	VB Infinity 
-MFMEIT	JJ Infinity RB Infinity 
-LLA	IN Infinity 
-REIWNWT	NN Infinity 
-DPNSIWWI	JJ Infinity 
-MDBQWT	NNT Infinity 
-BINWNI	RB Infinity JJ Infinity 
-MMFLH	NN Infinity 
-TIIRWT	NNT Infinity NN Infinity 
-MWCHR	JJ Infinity 
-HQPAT	NNT Infinity 
-TIRFM	VB Infinity 
-FIXWTIW	NN Infinity 
-FXUL	NNP Infinity 
-LQWXWT	NNT Infinity NN Infinity 
-LBNWNI	JJ Infinity 
-MMFLT	NNT Infinity 
-PGANIWT	NN Infinity 
-HQPAH	NN Infinity 
-MWCIA	VB Infinity 
-JRIJWRIALIWT	JJ Infinity 
-MTBWNN	NN Infinity 
-MLIH	NNP Infinity 
-MLIC	NNT Infinity 
-RBIEI	JJ Infinity NNP Infinity 
-LIDI	IN Infinity 
-LMD	VB Infinity 
-LIDH	NN Infinity 
-MWCGT	VB Infinity 
-LMH	QW Infinity 
-NEIMH	JJ Infinity 
-IFRALIWT	JJ Infinity 
-BLIT	IN Infinity 
-AIFR	VB Infinity 
-RENNWTW	NN Infinity 
-LMN	IN Infinity 
-LIDS	NNP Infinity 
-WALIWM	NNP Infinity 
-NPILH	NN Infinity 
-AIFH	NN Infinity 
-AIFI	JJ Infinity NNT Infinity 
-MCIPH	VB Infinity 
-91.8	CD Infinity 
-MFWBCT	VB Infinity 
-yyCLN	yyCLN Infinity 
-BRWDI	NNP Infinity 
-BLJW	VB Infinity 
-CIIRIM	NN Infinity 
-MFEFEWT	JJ Infinity 
-LIGT	NNT Infinity 
-PRISTH	NN Infinity 
-FXWR	JJ Infinity 
-FXWQ	JJ Infinity 
-NQLWJ	VB Infinity 
-MBFRT	VB Infinity 
-ZINWQ	NN Infinity 
-BNJWB	NNP Infinity 
-LNW	VB Infinity 
-TEFIH	NN Infinity 
-BLJH	NNP Infinity 
-MLKH	NNP Infinity NN Infinity 
-MTWKNNIM	VB Infinity JJ Infinity 
-WWIFI	NNP Infinity 
-HTNDBWT	NN Infinity 
-MLIN	VB Infinity 
-IISDW	VB Infinity 
-HFPEH	NN Infinity 
-MLIM	NN Infinity 
-QWNSJNJINSQW	NNP Infinity 
-APWDI	NNT Infinity 
-HTAMCW	VB Infinity 
-WISMWNSQI	NNP Infinity 
-BWDQT	VB Infinity 
-XLIJ	NNP Infinity 
-PIIRW	NNP Infinity 
-LIGH	NN Infinity 
-XLIL	NN Infinity 
-ICIEIM	NN Infinity 
-PIISL	NNP Infinity 
-MWCLX	JJ Infinity 
-LPI	IN Infinity 
-LXLWM	VB Infinity 
-MLMD	VB Infinity 
-AIIM	NN Infinity VB Infinity 
-TQIIM	VB Infinity 
-0781	CD Infinity 
-HFPET	NNT Infinity 
-LXLWF	VB Infinity 
-LIJA	NNP Infinity 
-XLLI	NNT Infinity 
-WIIJ	NNP Infinity 
-WIIL	NNP Infinity 
-AIID	NNP Infinity 
-PWLIJIQAI	NN Infinity 
-WIIN	NNP Infinity 
-LQH	VB Infinity 
-HEMDH	NN Infinity 
-MLKT	NNT Infinity 
-KDWRGLNIM	NN Infinity 
-PRSPQS	NNP Infinity 
-HTLMDH	VB Infinity 
-LQX	VB Infinity NN Infinity 
-ALIMLK	NNP Infinity 
-LIIB	NNP Infinity 
-TIIRIM	NN Infinity 
-MBJIXIM	VB Infinity 
-LHIWWKX	VB Infinity 
-AILC	VB Infinity 
-ALRGIT	JJ Infinity 
-KWTBIM	NN Infinity VB Infinity 
-RGIFWT	JJ Infinity NNT Infinity NN Infinity 
-HEMDT	NNT Infinity 
-LILH	NN Infinity 
-MHWWIM	AUX Infinity VB Infinity 
-PARWQ	NNP Infinity 
-CBAIT	JJ Infinity 
-LSJ	NNP Infinity 
-XWBRT	NN Infinity NNT Infinity 
-21PLIWN	ZVL Infinity 
-ISWPQW	VB Infinity 
-PIINL	NNP Infinity 
-XWBRW	VB Infinity 
-LST	NN Infinity 
-AILW	RB Infinity CC Infinity IN Infinity WDT Infinity 
-AILT	NNP Infinity 
-CMAIM	VB Infinity JJ Infinity 
-AILN	NNP Infinity 
-MWCRJ	NNP Infinity 
-MWCRI	NNT Infinity 
-IFTTPW	VB Infinity 
-SPWGWT	VB Infinity 
-HFPIE	VB Infinity 
-AILK	RB Infinity 
-AZNIHM	NN Infinity 
-MFWXRRIM	JJ Infinity 
-MIFWRIM	NN Infinity 
-QWLNI	JJ Infinity 
-RAFIT	RB Infinity NNT Infinity JJ Infinity 
-BHTIIXSWT	IN Infinity 
-8.35	CD Infinity 
-DRWM	NN Infinity NNT Infinity 
-MNIWT	NN Infinity NNT Infinity 
-XLPH	VB Infinity 
-QCRWT	JJ Infinity 
-DRWR	NNP Infinity NN Infinity 
-TQIEH	NN Infinity 
-IINQJW	VB Infinity 
-AIMW	NN Infinity 
-LTT	VB Infinity 
-CPWNIWT	JJ Infinity 
-PWRWM	NN Infinity NNT Infinity 
-AIMT	IN Infinity NNT Infinity 
-LINC	NN Infinity 
-XLPW	VB Infinity 
-LINH	NNP Infinity 
-MZLZL	VB Infinity 
-XWBTH	NN Infinity 
-TTKWWN	VB Infinity 
-XWBTM	NN Infinity 
-HQPIC	VB Infinity 
-MINWIW	NN Infinity 
-AIMH	NN Infinity 
-DWRFWT	VB Infinity 
-HQPID	VB Infinity 
-CBEWNIT	JJ Infinity 
-WILH	NNP Infinity 
-XWBTW	NN Infinity 
-WILI	NNP Infinity 
-NFLXH	VB Infinity 
-AINW	RB Infinity 
-NAGTWLLH	NNP Infinity 
-MHLWMT	NNT Infinity 
-AINN	RB Infinity 
-NPTLIM	JJ Infinity 
-PWRXT	JJ Infinity 
-SPWNJANIT	JJ Infinity 
-AINM	RB Infinity 
-AINK	RB Infinity 
-AINH	RB Infinity 
-AINI	RB Infinity 
-DRWF	JJ Infinity VB Infinity 
-MHLWMH	NN Infinity 
-NFLXW	VB Infinity 
-AING	NNP Infinity 
-MERIK	VB Infinity 
-NPLAH	JJ Infinity 
-PIBRWQ	NNT Infinity 
-KFLW	VB Infinity 
-HCIGW	VB Infinity 
-8.51	CD Infinity 
-MPRIE	VB Infinity NN Infinity 
-KTIBH	NN Infinity 
-MERIB	NNP Infinity 
-WWJPWRD	NNP Infinity 
-ZIQTW	NN Infinity 
-LHTGIIS	VB Infinity 
-MPRIK	VB Infinity 
-AKIPT	NNT Infinity 
-LWD	NNP Infinity 
-HCIGH	VB Infinity 
-KTIBT	NNT Infinity 
-DIRWG	NN Infinity NNT Infinity 
-LWI	NNP Infinity 
-BLTI	MOD Infinity 
-LWL	NN Infinity 
-AIQH	NNP Infinity 
-XLQH	NN Infinity 
-HWCAH	VB Infinity NN Infinity 
-XLQI	NNT Infinity JJ Infinity 
-HXFDH	NN Infinity 
-MBIAH	VB Infinity 
-LWS	NNP Infinity 
-HRMWNIH	NN Infinity 
-GWIIM	NN Infinity 
-LWX	NNT Infinity NN Infinity 
-ZRWE	NN Infinity 
-MRQJIM	NN Infinity 
-LWZ	NNP Infinity 
-MWFMET	VB Infinity 
-XLQW	NN Infinity VB Infinity 
-RJRWAQJIWWIT	JJ Infinity 
-AICIQ	NNP Infinity 
-LXC	VB Infinity NN Infinity NNT Infinity 
-XLQN	NN Infinity 
-XLQM	NN Infinity 
-MECRIM	NN Infinity 
-AMWRIM	VB Infinity 
-ABSWRDI	JJ Infinity 
-AIPH	QW Infinity 
-XLQT	NNT Infinity 
-ZRWT	NN Infinity 
-LXM	NN Infinity VB Infinity 
-HZIWTIW	NN Infinity 
-AIRH	VB Infinity 
-CIPIIH	NN Infinity 
-AIRI	JJ Infinity 
-DIRTH	NN Infinity 
-MGNJIIM	JJ Infinity 
-LXN	NN Infinity 
-AIRE	VB Infinity 
-DIRTM	NN Infinity 
-AWLPNIM	NN Infinity 
-ZIQWQ	NN Infinity 
-AWLPNIH	NN Infinity 
-FWPRSL	NNP Infinity 
-DIRTW	NN Infinity 
-LGIJIMIT	JJ Infinity 
-MDWRGT	VB Infinity 
-HWCAW	VB Infinity 
-MSTMKT	VB Infinity 
-HWCAT	NNT Infinity 
-GZRTH	NN Infinity 
-BXINH	NN Infinity 
-540,000	CD Infinity 
-XIPWFIH	NN Infinity 
-BXINT	NNT Infinity 
-XIPWFIM	NN Infinity 
-LIQJ	VB Infinity 
-HWCBW	VB Infinity 
-HSTBRWT	NNT Infinity 
-KRWKIM	VB Infinity 
-AWQRAINH	NNP Infinity 
-LIQR	NN Infinity 
-HTKWNNW	VB Infinity 
-TEBWRH	NN Infinity 
-BLUL	NNP Infinity 
-ASWNWT	NN Infinity 
-GLILI	NNP Infinity 
-MLWA	NNT Infinity 
-MLWL	NNP Infinity 
-MLWN	NN Infinity NNT Infinity 
-GLIMH	NN Infinity 
-MLWT	NNT Infinity 
-FXRWR	NNT Infinity NN Infinity 
-FMRNI	JJ Infinity 
-MLGLGIM	VB Infinity 
-IFLMW	VB Infinity 
-JRIJWRIALIIM	JJ Infinity 
-BLFIM	NN Infinity 
-MBIEH	VB Infinity 
-MLKTXILH	RB Infinity 
-HCILW	VB Infinity 
-LHTGBR	VB Infinity 
-NDIBH	JJ Infinity 
-DWLRIT	JJ Infinity 
-LISJ	NNP Infinity 
-GDRWT	NN Infinity 
-MSTMNT	VB Infinity 
-AWLMW	NN Infinity 
-AITN	NNP Infinity JJ Infinity 
-MTBSST	VB Infinity 
-BLWM	JJ Infinity NNP Infinity 
-AITM	NNP Infinity 
-ALWZIWT	NN Infinity 
-GRSAWT	NN Infinity 
-HWTRTM	NN Infinity 
-DWLRIM	NN Infinity 
-HTKWWNTI	VB Infinity 
-MERKH	NN Infinity 
-IEILH	JJ Infinity 
-CEIRINW	NN Infinity 
-DGLIM	NN Infinity 
-TRBWTIWT	JJ Infinity 
-HIJMEWT	NN Infinity 
-HMFIK	VB Infinity 
-HWCEW	VB Infinity 
-SWBLT	VB Infinity 
-JRIIM	JJ Infinity 
-AIWM	JJ Infinity NN Infinity 
-AIWN	NNP Infinity 
-XLWN	NN Infinity NNT Infinity 
-XLWM	NN Infinity 
-HMFKH	NN Infinity 
-XLWP	NNT Infinity 
-ETIDWT	NN Infinity VB Infinity 
-AWLPN	NN Infinity 
-XLWC	NN Infinity NNT Infinity 
-CIGLHAWZ	NNP Infinity 
-AWPRJIWWI	JJ Infinity 
-HWCGH	VB Infinity 
-LBWNJIN	NNP Infinity 
-MLXH	NNP Infinity 
-QWALICIWNI	JJ Infinity 
-MERKT	NNT Infinity NN Infinity 
-LHWPIE	VB Infinity 
-FIRWTIM	NN Infinity 
-FIRWTIW	NN Infinity 
-BINLAWMI	JJ Infinity 
-HNDSIWT	JJ Infinity 
-WWRWDH	JJ Infinity 
-HMFKT	VB Infinity 
-HMFKW	NN Infinity 
-HWFIJW	VB Infinity 
-EWSQIM	VB Infinity NN Infinity 
-KDAIWTM	NN Infinity 
-TRBWTIIM	JJ Infinity 
-EITWNAIM	NN Infinity 
-MBIIM	VB Infinity 
-ZLZWL	NN Infinity 
-ZKWTM	NN Infinity 
-ZIQNH	NN Infinity 
-ZKWTH	NN Infinity 
-MAD	MOD Infinity RB Infinity 
-NELIM	NN Infinity 
-HWCIA	VB Infinity 
-MAI	NNP Infinity 
-MAH	CD Infinity 
-MAJ	NN Infinity 
-MAM	NNP Infinity 
-MAN	NNP Infinity 
-SWGRIM	VB Infinity 
-XWMRTH	NN Infinity 
-MAT	IN Infinity 
-FBRIM	NN Infinity 
-INCIX	VB Infinity 
-MWFBI	NNT Infinity 
-MAZ	IN Infinity RB Infinity 
-MWFBH	NN Infinity 
-AIZH	WDT Infinity DT Infinity 
-NPAL	NNP Infinity 
-HTERBWT	NN Infinity 
-FBRIH	NN Infinity 
-AWLMI	NNT Infinity 
-DWXUWT	NN Infinity 
-PILIP	NNP Infinity 
-HWKXWT	NN Infinity 
-MWFBW	NN Infinity 
-MBJ	NN Infinity 
-NFALIM	NN Infinity 
-LIZR	NNP Infinity 
-AINJLQJWALIT	JJ Infinity 
-EITWNAIT	JJ Infinity NN Infinity 
-SIWRIM	NN Infinity 
-SWRRIM	JJ Infinity 
-ZKWTW	NN Infinity 
-AINJLQJWALIM	NN Infinity 
-RWIAL	NNP Infinity 
-LPXWT	RB Infinity MOD Infinity 
-LPEMIM	MOD Infinity RB Infinity 
-HTIIECWIWT	NN Infinity 
-MCA	NNP Infinity VB Infinity 
-MCB	NNT Infinity NN Infinity 
-MCE	NN Infinity NNT Infinity 
-MCD	IN Infinity 
-SQRIM	NN Infinity 
-MFWEMM	JJ Infinity 
-GABDWLH	NNP Infinity 
-MPRNS	NN Infinity VB Infinity 
-NGRMH	VB Infinity 
-MCLIX	VB Infinity JJ Infinity 
-AIZW	DT Infinity WDT Infinity 
-NPCE	VB Infinity 
-CMXIIH	NN Infinity 
-EQBWT	NN Infinity 
-LCRWK	VB Infinity 
-CIPIWT	NN Infinity 
-HWFIEW	VB Infinity 
-HWQIEH	VB Infinity 
-MDD	NNT Infinity NN Infinity 
-MAFIM	VB Infinity 
-MDE	NNT Infinity 
-MDI	RB Infinity MOD Infinity 
-SJNDRDIIM	JJ Infinity 
-LJFJF	VB Infinity 
-MLEIJWT	VB Infinity 
-MXILH	NN Infinity 
-MAFRIM	VB Infinity 
-KWRXH	NN Infinity 
-NGRSH	VB Infinity 
-AZRXIM	NN Infinity 
-WIZH	NNP Infinity 
-BMAI	NN Infinity NNT Infinity 
-WIZL	NNP Infinity 
-PRANQPWRJ	NNP Infinity 
-MED	VB Infinity 
-AZRXIT	JJ Infinity 
-HTARGNWIWT	NN Infinity 
-MEJ	DT Infinity RB Infinity MOD Infinity 
-NELMW	VB Infinity 
-HCITH	VB Infinity 
-MEL	IN Infinity 
-NELMT	JJ Infinity 
-NELMH	VB Infinity 
-EILAI	JJ Infinity 
-MSWKNWT	JJ Infinity 
-XWBRWT	NN Infinity NNT Infinity 
-MMILA	RB Infinity MOD Infinity 
-FIEWR	NNT Infinity NN Infinity 
-MFWERT	JJ Infinity 
-MFB	NNT Infinity 
-MFA	NN Infinity 
-FIEWL	NN Infinity 
-MPRSM	VB Infinity 
-TKWPWT	JJ Infinity 
-MFH	NNP Infinity 
-TEMWLH	NN Infinity 
-MFI	NN Infinity 
-MFL	NNT Infinity 
-MFK	VB Infinity NNT Infinity 
-MFM	RB Infinity 
-NXQRIM	VB Infinity 
-MFQ	NN Infinity NNT Infinity 
-MMCA	NN Infinity 
-BIMWIM	NN Infinity 
-SBIBWTIH	NN Infinity 
-RAIITH	NN Infinity 
-ZIQTH	NN Infinity 
-EREWR	NN Infinity 
-MGE	NN Infinity 
-MBIKH	VB Infinity JJ Infinity 
-MGI	NNP Infinity 
-MGH	NNP Infinity 
-MXIIB	VB Infinity 
-MRKZIT	JJ Infinity 
-NIXWX	NN Infinity 
-MRKZIM	VB Infinity JJ Infinity NN Infinity 
-NMCAW	VB Infinity 
-MGN	VB Infinity NN Infinity NNT Infinity NNP Infinity 
-MWRICIT	JJ Infinity 
-MGP	NN Infinity 
-NMCAT	VB Infinity 
-NPLJH	VB Infinity 
-CMXIIT	NNT Infinity 
-MRKZIH	NN Infinity 
-MMDI	NNT Infinity JJ Infinity 
-KRIZMJIT	JJ Infinity 
-NPGE	VB Infinity 
-NPGF	VB Infinity 
-RAIIT	NNT Infinity 
-XMCN	NN Infinity NNT Infinity 
-TPIFH	NN Infinity 
-LWRIAL	NNP Infinity 
-XWMRIM	NN Infinity 
-XMDH	NN Infinity 
-MHN	QW Infinity 
-MHM	QW Infinity 
-MHR	RB Infinity 
-KWWNTI	NN Infinity 
-KWWNTH	NN Infinity 
-BRIWNWT	NN Infinity 
-PSIKW	NNP Infinity 
-MHW	QW Infinity 
-TPIFT	NNT Infinity 
-NPFH	NN Infinity 
-PSILT	NNT Infinity 
-NPFI	JJ Infinity 
-MIC	NN Infinity 
-HNIXH	VB Infinity 
-MID	MOD Infinity RB Infinity 
-NPFM	NN Infinity 
-ETIDIM	VB Infinity 
-DSJI	NNP Infinity 
-BMEJ	RB Infinity 
-MIM	NN Infinity 
-GBWLWTIH	NN Infinity 
-MIL	NN Infinity 
-FLWFIM	CD Infinity 
-MIN	IN Infinity NN Infinity NNT Infinity MOD Infinity 
-WWLBW	NNP Infinity 
-ETIDIT	JJ Infinity 
-NPFW	NN Infinity 
-PAPJIH	NNP Infinity 
-MWFLM	JJ Infinity 
-RAIIH	NN Infinity 
-MWFLI	NNT Infinity 
-RAIIN	VB Infinity 
-EBRIIN	NN Infinity 
-MPSIDWT	JJ Infinity 
-WWFINGJWN	NNP Infinity 
-KRWKWT	JJ Infinity 
-RWIJR	NNP Infinity 
-MMFL	NN Infinity NNT Infinity 
-MWFJT	VB Infinity 
-RWPAIM	NN Infinity 
-HPNIIT	NNT Infinity 
-MMFI	JJ Infinity 
-CPIR	NNP Infinity 
-MJH	NNT Infinity NNP Infinity NN Infinity 
-IIALCW	VB Infinity 
-NPIQ	VB Infinity 
-BMFK	IN Infinity 
-WWLBS	NNP Infinity 
-PNIITW	NN Infinity 
-FWPCW	VB Infinity 
-MJR	NN Infinity 
-DIRDR	VB Infinity 
-FIERN	NN Infinity 
-PNIITI	NN Infinity 
-PNIITH	NN Infinity 
-QBRWT	NN Infinity 
-MKH	VB Infinity 
-BLNIGRD	NNP Infinity 
-HSTIIM	VB Infinity 
-MKS	NN Infinity 
-MKR	VB Infinity NN Infinity 
-LALTR	RB Infinity 
-MFTXRRWT	VB Infinity 
-79.90	CD Infinity 
-MLA	JJ Infinity JJT Infinity 
-HTEWRRH	VB Infinity 
-92.2	CD Infinity 
-MLH	NN Infinity 
-MLL	NN Infinity 
-MLK	NNT Infinity NN Infinity 
-MMHR	VB Infinity 
-ERERW	VB Infinity 
-BAQRAI	RB Infinity 
-MLR	NNP Infinity 
-NPLA	JJ Infinity 
-HTEWRRW	VB Infinity 
-LWWNJINIM	JJ Infinity 
-MAPIINT	VB Infinity 
-MLX	NN Infinity 
-GDEWNIM	NN Infinity 
-NPLH	VB Infinity 
-LHIGRM	VB Infinity 
-IWGWSLWWI	NN Infinity JJ Infinity 
-MWCDQT	JJ Infinity 
-601,016	CD Infinity 
-JRIWQ	NNP Infinity 
-NDIRH	JJ Infinity 
-MMD	NN Infinity 
-MXIRW	NN Infinity 
-MMF	MOD Infinity RB Infinity 
-LBWTNW	NN Infinity 
-BWEWT	NN Infinity 
-LHTGRF	VB Infinity 
-NPJR	VB Infinity 
-MMN	IN Infinity NNP Infinity 
-HRGIFH	VB Infinity 
-MWFPE	JJ Infinity VB Infinity 
-PILLW	VB Infinity 
-MEWNIINWT	VB Infinity 
-MQWDFIM	JJ Infinity 
-NZIPH	NN Infinity 
-MNE	VB Infinity 
-HPNIMW	VB Infinity 
-MNH	VB Infinity NN Infinity 
-MNK	NN Infinity 
-MTWQCB	JJ Infinity 
-AIBWD	NN Infinity NNT Infinity 
-MNT	IN Infinity NNT Infinity 
-TSRIJ	NN Infinity 
-MXIRH	NN Infinity 
-MXIRI	NNT Infinity 
-MNW	NNP Infinity 
-DMWQRJIH	NN Infinity 
-EIKWB	NNT Infinity 
-FRIRIWT	JJ Infinity 
-DMWQRJIM	NN Infinity 
-MXIRM	NN Infinity 
-RWQDIM	VB Infinity 
-MMIJ	VB Infinity 
-MWLQWLWT	NN Infinity 
-DRIFWT	NNT Infinity NN Infinity 
-MIWTRT	JJ Infinity 
-GBWLIT	JJ Infinity 
-NPLW	VB Infinity 
-HWPEWT	NN Infinity NNT Infinity 
-XMIM	JJ Infinity 
-TFWMWT	NN Infinity 
-MIMWNW	NN Infinity 
-AWXZIM	VB Infinity 
-MSPIQWT	JJ Infinity 
-MPH	NN Infinity 
-MPI	IN Infinity 
-AJALNJH	NNP Infinity 
-HWPETW	NN Infinity 
-PRFIIH	NN Infinity 
-NPJLIN	NN Infinity 
-MPR	VB Infinity 
-MPT	NNT Infinity 
-HIMWRIM	NN Infinity 
-JIRGWBISJH	NNP Infinity 
-XMLH	NN Infinity 
-BWERT	VB Infinity 
-FWPJI	NNT Infinity 
-MMMF	VB Infinity 
-FIRIHM	NN Infinity 
-PARAQAN	NNP Infinity 
-HFTQPWIWTIW	NN Infinity 
-JWENWT	VB Infinity 
-MMKR	NNT Infinity 
-BWRSWT	NN Infinity 
-MWBARQ	NNP Infinity 
-DMWQRJIT	JJ Infinity 
-MQL	VB Infinity 
-FWPJT	NN Infinity 
-DWBRWBICQI	NNP Infinity 
-MZEZET	JJ Infinity 
-MQS	NNP Infinity 
-MMLA	NNT Infinity VB Infinity 
-FFINSQI	NNP Infinity 
-0891	CD Infinity 
-XICWNIT	JJ Infinity 
-MRB	DT Infinity 
-MRD	NN Infinity NNT Infinity VB Infinity 
-GBWLWT	NN Infinity NNT Infinity 
-BRWQLIN	NNP Infinity 
-NIIRWT	NN Infinity NNT Infinity 
-MRH	JJ Infinity 
-SWBBIM	NN Infinity 
-MRI	NN Infinity NNP Infinity 
-HWKXFW	VB Infinity 
-TABD	VB Infinity 
-EQBIM	NN Infinity 
-QLIWWLND	NNP Infinity 
-XMIFH	CD Infinity 
-ECWRIM	VB Infinity 
-XMIFI	JJ Infinity NNP Infinity 
-TPILH	NN Infinity 
-RAITI	VB Infinity 
-MRQ	NNP Infinity NN Infinity 
-ITEWRR	VB Infinity 
-NPRD	NN Infinity JJ Infinity VB Infinity 
-TPILT	NNT Infinity 
-MLEIJIM	VB Infinity 
-MSE	NN Infinity NNT Infinity 
-LIBRALIM	JJ Infinity 
-KLKLIT	JJ Infinity 
-MSI	NNT Infinity 
-MSK	NN Infinity NNT Infinity 
-MINIWTN	NN Infinity 
-MMMN	VB Infinity 
-AMNWTI	JJ Infinity 
-MCWIINT	JJ Infinity 
-MFMEWTI	JJ Infinity 
-MLMDWT	VB Infinity 
-MSR	VB Infinity NN Infinity 
-RAISH	NNP Infinity 
-NLQXWT	VB Infinity 
-SNIPH	NN Infinity 
-SNIPI	NNT Infinity 
-NPQD	VB Infinity 
-FIEIT	JJ Infinity 
-MSWKNIM	JJ Infinity 
-XMMH	NN Infinity 
-WWLIH	NNP Infinity 
-LHSDIR	VB Infinity 
-MTH	VB Infinity 
-HTXIIBWIWT	NNT Infinity 
-MTI	QW Infinity 
-NPSQ	VB Infinity 
-IFMFW	VB Infinity 
-LAMBR	NNP Infinity 
-MTN	NN Infinity NNT Infinity 
-EREWRIM	NN Infinity 
-KWWNWT	NN Infinity 
-LICWR	VB Infinity 
-MTX	NN Infinity VB Infinity 
-MFMEWTN	NN Infinity 
-MTW	VB Infinity 
-BMHRH	RB Infinity 
-IAPFRW	VB Infinity 
-IFPIEW	VB Infinity 
-AXRAIM	JJ Infinity NN Infinity 
-MUM	NN Infinity NNT Infinity 
-MKRZIM	NN Infinity 
-MUQ	NN Infinity 
-AIDIAWLWGIIM	JJ Infinity 
-MTBQFIM	VB Infinity 
-MUR	NN Infinity 
-TXRWTI	JJ Infinity 
-PGFNW	VB Infinity 
-MXLIPIM	VB Infinity 
-TACR	NNP Infinity 
-MRKZWT	VB Infinity 
-HZMIN	VB Infinity 
-PILDLPIH	NNP Infinity 
-QWLWNIALISJIWT	JJ Infinity 
-IFMIE	VB Infinity 
-SCINT	NNT Infinity 
-KDWRMIM	NN Infinity 
-MENIQWT	VB Infinity 
-QJIPH	NN Infinity 
-ETIDNW	NN Infinity 
-MMSD	NN Infinity 
-LJPL	VB Infinity 
-MQSWWL	NNP Infinity 
-CPWI	VB Infinity JJ Infinity NN Infinity 
-RAINW	VB Infinity 
-MWJ	NNT Infinity 
-NPTX	VB Infinity 
-GWLDFMIDJ	NNP Infinity 
-MWL	IN Infinity 
-KWWNTW	NN Infinity 
-MWR	NNP Infinity NN Infinity 
-MWT	NNT Infinity 
-JQBSARN	NNP Infinity 
-MWX	NN Infinity 
-XMQW	VB Infinity 
-QLIPWTIW	NN Infinity 
-MXD	RB Infinity 
-IWRKBW	VB Infinity 
-MIMWFN	NN Infinity 
-HWPELW	VB Infinity 
-HRFETM	NN Infinity 
-MXR	RB Infinity 
-MIMWFH	NN Infinity 
-MRWKSNWT	JJ Infinity 
-MXQ	VB Infinity 
-XBIBIM	JJ Infinity 
-HWMNIJRIT	JJ Infinity 
-LHKLIL	VB Infinity 
-SWDIWT	JJ Infinity NN Infinity 
-MXW	VB Infinity 
-MRWMH	JJ Infinity 
-XMTW	NN Infinity 
-BITIWT	NN Infinity 
-MWTQPIM	VB Infinity 
-MLAKWTIT	JJ Infinity 
-IPCICW	VB Infinity 
-HFEIIT	NNT Infinity 
-CPWN	NN Infinity NNT Infinity 
-MMUN	NNP Infinity 
-SIMPJWM	NN Infinity 
-MRWKZ	VB Infinity JJ Infinity 
-MFWKLLT	JJ Infinity 
-NSTGR	VB Infinity 
-MGWNH	JJ Infinity 
-RXWQIM	JJ Infinity 
-NPWC	VB Infinity 
-MIPGFIM	NN Infinity 
-QZAN	NNP Infinity 
-HFTIIKWT	NN Infinity 
-MIWCRIM	VB Infinity 
-MZH	MOD Infinity 
-MZG	NNT Infinity 
-MFWXRRT	JJ Infinity 
-MZL	NN Infinity 
-HFQPT	NNT Infinity 
-HZKIR	VB Infinity 
-LHIFAR	VB Infinity 
-HTAKZB	VB Infinity 
-AWMWT	NNT Infinity NN Infinity 
-MZX	NN Infinity 
-MMWL	RB Infinity 
-HBHIRH	VB Infinity 
-AWPCIH	NN Infinity 
-EWBD	NN Infinity NNT Infinity 
-NIQWLSWN	NNP Infinity 
-NMASH	VB Infinity 
-EWBI	NN Infinity NNT Infinity 
-HFQPH	NN Infinity 
-MMCAIH	NN Infinity 
-IAIR	NNP Infinity 
-MMCAIM	NN Infinity 
-NPXW	NN Infinity 
-LEWMT	IN Infinity 
-MTWQNT	JJ Infinity 
-CMDIM	NN Infinity 
-GILAIM	NN Infinity 
-QIDWF	NNT Infinity 
-LEWMQ	RB Infinity 
-LIAWR	NNP Infinity 
-MPQDI	NNT Infinity 
-IAJH	NNP Infinity 
-HNHGT	NNT Infinity 
-HTAKZR	VB Infinity 
-TAIM	NN Infinity 
-HNHGH	NN Infinity 
-MPQDT	NNT Infinity 
-EWCR	NN Infinity 
-PWCC	VB Infinity 
-DIKAWN	NN Infinity 
-MBWJLIM	JJ Infinity 
-HAFIMH	VB Infinity 
-LPWRR	VB Infinity 
-ZIWWGIM	NN Infinity 
-PWCH	VB Infinity 
-MFTNH	VB Infinity 
-KNWTH	NN Infinity 
-MXSNIM	NN Infinity 
-EWDD	VB Infinity NNP Infinity 
-MXSNIT	NN Infinity 
-HWBAW	VB Infinity 
-QWMWT	NN Infinity 
-EWDP	NNT Infinity NN Infinity 
-IAMR	VB Infinity 
-TQLWTIW	NN Infinity 
-EWBR	NN Infinity VB Infinity 
-MLMDIM	VB Infinity 
-TNAIH	NN Infinity 
-FIJTIT	JJ Infinity 
-BWRRIM	NN Infinity 
-LDMIIN	VB Infinity 
-IALC	VB Infinity 
-TNAIM	NN Infinity 
-EWCB	VB Infinity 
-HFPIEW	VB Infinity 
-HAFIMW	VB Infinity 
-6,000	CD Infinity CDT Infinity 
-MTKNNT	NNT Infinity VB Infinity 
-XMWR	JJ Infinity 
-ISIIEW	VB Infinity 
-NTWNH	VB Infinity 
-HNHIG	VB Infinity 
-XMWT	JJ Infinity 
-NTWNI	NNT Infinity 
-LILIAN	NNP Infinity 
-TANH	NN Infinity 
-MFTLM	VB Infinity 
-HENQT	NNT Infinity 
-MPQIE	VB Infinity 
-LHXRIM	VB Infinity 
-PWEL	NN Infinity JJ Infinity VB Infinity 
-ABRDIN	NNP Infinity 
-LHXRIP	VB Infinity 
-ERMWMIWT	NN Infinity 
-EWFH	VB Infinity NNT Infinity 
-BLGIH	NNP Infinity 
-MFTKR	VB Infinity 
-IIWWDEW	VB Infinity 
-EWFR	NN Infinity 
-AJWN	NNP Infinity 
-AWMRW	VB Infinity NN Infinity 
-BLGIM	NN Infinity 
-TAMC	VB Infinity 
-NLXMIM	VB Infinity 
-AWMRT	VB Infinity 
-HNHLH	NN Infinity 
-MENQIM	NN Infinity 
-HWBEH	VB Infinity 
-MFTMF	VB Infinity 
-BLGIT	JJ Infinity 
-MFTME	VB Infinity 
-AWMRM	NN Infinity 
-LEWRR	VB Infinity 
-MFTBCIM	VB Infinity 
-THPWK	AUX Infinity 
-LBNIM	JJ Infinity 
-QDWFH	JJ Infinity 
-FANNWT	NN Infinity 
-NAH	JJ Infinity 
-TAMR	VB Infinity 
-IANQ	NNP Infinity 
-LJWS	VB Infinity 
-HTKNSWT	NN Infinity 
-BWGIN	NNP Infinity 
-PWGE	JJ Infinity VB Infinity 
-NAW	MOD Infinity 
-NRQMT	VB Infinity 
-NRQMW	VB Infinity 
-PWGM	VB Infinity 
-ALMNJ	NN Infinity 
-MTXILIM	VB Infinity 
-MFTRK	VB Infinity 
-HWTQPH	VB Infinity 
-PWGI	NNP Infinity 
-KGWN	IN Infinity 
-NBE	VB Infinity 
-MFTRE	VB Infinity 
-HNHLT	NNT Infinity 
-DGMIM	NN Infinity 
-FPIGLR	NNP Infinity 
-NRQMH	VB Infinity 
-DRMJI	JJ Infinity 
-HLBFH	NN Infinity 
-HWTQPW	VB Infinity 
-NAPWLI	NNP Infinity 
-MXIIBWT	JJ Infinity 
-NWBMBR	NNP Infinity 
-ENIINH	NN Infinity 
-AWPIINIT	JJ Infinity 
-AWMLL	JJ Infinity 
-ENIINI	JJ Infinity NNT Infinity 
-MQWBLT	JJ Infinity 
-NCI	JJ Infinity 
-MTGBFT	VB Infinity 
-MRWTW	NN Infinity 
-FWNWT	JJ Infinity 
-NCR	NNP Infinity 
-XLWQTH	NN Infinity 
-HENIQH	VB Infinity 
-NCX	NNP Infinity 
-RIALIIM	JJ Infinity 
-TARI	NNT Infinity 
-AQDMAIM	NN Infinity 
-EZIBTW	NN Infinity 
-HWBHL	VB Infinity 
-RDIQLIIM	JJ Infinity 
-DISNI	NNP Infinity 
-MXWZWT	NN Infinity 
-HENIQW	VB Infinity 
-EZIBTM	NN Infinity 
-TARX	VB Infinity 
-IASR	NNP Infinity 
-NDP	VB Infinity 
-AIZWRIT	JJ Infinity 
-NQBE	VB Infinity 
-CHWBIM	JJ Infinity 
-HWBIL	VB Infinity 
-NQBL	VB Infinity 
-AWMNM	RB Infinity 
-XBRTIIM	JJ Infinity 
-MFTQE	VB Infinity 
-NEL	NN Infinity 
-EWIN	JJ Infinity VB Infinity 
-NQBR	VB Infinity 
-NER	NN Infinity 
-IARX	VB Infinity 
-MFWDRT	VB Infinity 
-NQEH	VB Infinity 
-NFA	VB Infinity 
-AWHLIM	NN Infinity 
-QLWRIWT	NN Infinity 
-NFB	VB Infinity 
-EWLH	VB Infinity JJ Infinity NN Infinity 
-EWLI	NNT Infinity 
-NFI	NNT Infinity 
-EWLM	NN Infinity NNT Infinity 
-JEWNWT	VB Infinity 
-QIDWM	NNT Infinity NN Infinity 
-MWNEIM	VB Infinity 
-NFQ	NN Infinity 
-HENWT	NN Infinity 
-NFP	NNT Infinity 
-NFR	NNP Infinity NN Infinity 
-DTIT	JJ Infinity 
-HBHIRW	VB Infinity 
-NIWWJ	VB Infinity 
-KIHNH	VB Infinity 
-MRWXQ	JJ Infinity 
-XWDFI	NNT Infinity JJ Infinity 
-NGB	NN Infinity 
-NGD	NN Infinity IN Infinity 
-PWJR	VB Infinity 
-QDWMH	JJ Infinity 
-NGE	NNT Infinity VB Infinity 
-NGH	NNP Infinity 
-HCHRH	NN Infinity 
-RIBLIN	NNP Infinity 
-HCHRT	NNT Infinity 
-HSTDRWTIT	JJ Infinity 
-HWBJX	VB Infinity 
-NGX	VB Infinity 
-ALMLA	IN Infinity 
-MWEDP	JJ Infinity 
-MNDJ	NN Infinity 
-HWBLT	NNT Infinity 
-MWEDI	NNT Infinity 
-IAWF	NN Infinity 
-MFTTP	NN Infinity VB Infinity 
-MGWWN	NNT Infinity NN Infinity JJ Infinity 
-EWNF	NN Infinity NNT Infinity 
-EWNG	NN Infinity 
-NHG	NNT Infinity VB Infinity NN Infinity 
-EWNH	NN Infinity VB Infinity 
-NHI	NN Infinity 
-MRWWX	NN Infinity 
-GINGIS	NNP Infinity 
-IAWT	NN Infinity 
-EWNT	NNT Infinity 
-LLKLK	VB Infinity 
-NHR	NN Infinity NNT Infinity 
-HQRNWT	NN Infinity 
-XWBBNIWT	JJ Infinity 
-TKZIB	VB Infinity 
-PWLJ	JJT Infinity VB Infinity 
-MBHIR	VB Infinity 
-GBEWLI	NNT Infinity 
-CRPTIT	NN Infinity JJ Infinity 
-PWLF	VB Infinity 
-MWECH	NN Infinity 
-NIB	NNP Infinity 
-EWMD	VB Infinity 
-PWLQ	NNP Infinity 
-QWNDS	NN Infinity 
-MWECT	NNT Infinity 
-CRPTIM	JJ Infinity NN Infinity 
-NQFR	VB Infinity 
-MPQPQ	VB Infinity 
-HTXNNW	VB Infinity 
-IWPELW	VB Infinity 
-BLGAN	NN Infinity 
-XIWBIT	JJ Infinity 
-MNCX	NN Infinity 
-NIN	NNP Infinity 
-EWMQ	NNT Infinity 
-EWMR	NN Infinity 
-EWMS	NN Infinity 
-NIW	NNP Infinity 
-PWPWLRIIM	JJ Infinity 
-IFKWN	VB Infinity 
-AWRIAL	NNP Infinity 
-GZEIIM	JJ Infinity 
-MNFR	NN Infinity 
-NJF	VB Infinity 
-MEQWT	NNT Infinity 
-CQIM	NN Infinity 
-NJH	VB Infinity 
-MAZINIM	NN Infinity 
-AWRIAH	NN Infinity 
-NJL	NN Infinity NNT Infinity VB Infinity 
-EWPR	NNP Infinity 
-AXWRIT	JJ Infinity 
-TITQL	VB Infinity 
-PATWS	NN Infinity 
-NJW	MOD Infinity VB Infinity 
-AWMDN	NN Infinity NNT Infinity 
-MNEH	VB Infinity 
-IILMAZ	NNP Infinity 
-LBNWN	NNP Infinity 
-DIPLWMJIWT	JJ Infinity 
-PWNH	VB Infinity 
-DMWNIT	JJ Infinity 
-TAWM	NN Infinity 
-LMNWE	VB Infinity 
-150,000	CD Infinity 
-HFRAH	NN Infinity 
-IAXL	VB Infinity 
-TAWR	NN Infinity 
-IAXR	VB Infinity 
-SIBWLT	NN Infinity 
-PWNW	VB Infinity 
-NKS	NN Infinity 
-MNEW	VB Infinity 
-LBNWT	VB Infinity 
-TFKIL	VB Infinity 
-MWEJH	JJ Infinity 
-ZKWIWT	NN Infinity NNT Infinity 
-GREINIWT	JJ Infinity 
-MNHL	NNT Infinity NN Infinity VB Infinity 
-XWSIINI	NNP Infinity 
-MNHG	NN Infinity 
-SIMPJIT	JJ Infinity 
-MIWMNWT	JJ Infinity NN Infinity NNT Infinity 
-EWRK	VB Infinity NN Infinity NNT Infinity 
-PWQS	NNP Infinity 
-NLK	VB Infinity 
-EWRP	NN Infinity 
-EWRR	VB Infinity 
-NQLE	VB Infinity 
-MNIE	NN Infinity 
-PWRJ	NNP Infinity 
-IDETI	VB Infinity 
-PWRC	VB Infinity 
-QLWFIM	JJ Infinity 
-PWRE	VB Infinity 
-EWQC	NN Infinity 
-ZKAIWT	VB Infinity 
-BNIW	NN Infinity 
-SNIGWRW	NN Infinity 
-LKDI	IN Infinity 
-NAMNIM	NN Infinity 
-RFWTNW	NN Infinity 
-NML	NNT Infinity NN Infinity 
-HFTKRWT	NN Infinity NNT Infinity 
-QRWBWT	JJ Infinity 
-BNIN	NN Infinity 
-LNQWJ	VB Infinity 
-AMWRWT	VB Infinity 
-LNQWM	NNP Infinity VB Infinity 
-TEFIINIM	NN Infinity 
-WWIINFJIIN	NNP Infinity 
-HWBQE	VB Infinity 
-PWTXT	VB Infinity 
-CMCWM	NNT Infinity NN Infinity 
-TWWIWT	NN Infinity 
-LQ.P.R.	NNP Infinity 
-XNGH	NN Infinity 
-PWQD	VB Infinity 
-LNQWT	VB Infinity 
-MNKUL	NN Infinity NNT Infinity 
-LAKWP	VB Infinity 
-NTRMIM	VB Infinity 
-MQSIMWM	NN Infinity 
-LAKWL	VB Infinity 
-BXIRWT	NN Infinity NNT Infinity 
-HWBRR	VB Infinity 
-NQMT	NNT Infinity 
-HTBFRNW	VB Infinity 
-QWNIM	VB Infinity NN Infinity 
-RXWQWT	JJ Infinity 
-PXWTH	JJ Infinity 
-PWLISWT	NNT Infinity 
-350,000	CD Infinity 
-QJWRZH	NNP Infinity 
-ISRBW	VB Infinity 
-BNIMIN	NNP Infinity 
-XFBWNH	NN Infinity 
-MNIN	QW Infinity 
-HTEWPP	VB Infinity 
-ALTWRIM	NN Infinity 
-HGINWT	NN Infinity 
-HWBSW	VB Infinity 
-MMISIM	NN Infinity 
-PWRT	NNP Infinity 
-EWSQ	VB Infinity 
-TDIRAN	NNP Infinity 
-MNIX	VB Infinity 
-ALMWNIWT	NN Infinity 
-HWBSH	VB Infinity 
-MRXBI	NNT Infinity 
-NQMH	NN Infinity 
-PWSJ	NNP Infinity MOD Infinity 
-XNIH	NN Infinity 
-HBEWT	NNT Infinity 
-AWSJRLI	JJ Infinity 
-FWERIM	NN Infinity 
-NPC	NN Infinity 
-RFWTW	NN Infinity 
-NPF	NN Infinity 
-NPJ	NN Infinity 
-NPL	VB Infinity 
-NPT	NNT Infinity 
-XRWFT	NN Infinity 
-MWEMD	NN Infinity 
-MILWLIT	JJ Infinity 
-LMNWT	VB Infinity 
-MWJIWWBCIH	NN Infinity 
-EWUD	NN Infinity 
-MASIWWI	JJ Infinity 
-MKBIH	NN Infinity 
-HTEWRR	VB Infinity 
-LKHN	VB Infinity 
-MNKL	NNT Infinity 
-NQJ	VB Infinity 
-NQI	JJ Infinity 
-XFBWNN	NN Infinity 
-XFBWNW	NN Infinity 
-XLWPWT	NN Infinity 
-MKBIM	NN Infinity 
-MPQXT	VB Infinity 
-NQM	NN Infinity 
-ZKWRH	VB Infinity 
-NQNS	VB Infinity 
-PWTX	VB Infinity 
-NIMWSIM	NN Infinity 
-NQNSH	VB Infinity 
-RFWTH	NN Infinity 
-0991	CD Infinity 
-AMTISJ	NNP Infinity 
-RFWTM	NN Infinity 
-XNKH	VB Infinity 
-0998	CD Infinity 
-LKIF	NNP Infinity 
-AXIHWD	NNP Infinity 
-SPNSR	NNP Infinity 
-RAWWTNIT	JJ Infinity 
-IBBT	NNT Infinity 
-LIBRH	NN Infinity 
-EILWM	NNT Infinity 
-NQRA	VB Infinity 
-RZRWWH	NN Infinity 
-PWXD	VB Infinity 
-NWIHAWZR	NNP Infinity 
-QRNIIM	NN Infinity 
-NSE	VB Infinity 
-BXIRTM	NN Infinity 
-MERBB	VB Infinity 
-MWCEWT	JJ Infinity VB Infinity 
-BXIRTH	NN Infinity 
-AKLW	VB Infinity 
-AKLS	VB Infinity 
-GZRIM	NN Infinity 
-NZHRW	VB Infinity 
-FJIPT	NNT Infinity 
-LHIFMR	VB Infinity 
-LHIFME	VB Infinity 
-IFLBW	VB Infinity 
-PEMIIM	RB Infinity NN Infinity 
-EWZI	NNP Infinity 
-QWNPWRMISJI	JJ Infinity 
-HICQWQ	NNP Infinity 
-NTN	NNP Infinity VB Infinity 
-14132830	CD Infinity 
-PQWLJWT	NN Infinity 
-EWZR	NN Infinity VB Infinity NNT Infinity 
-NTQ	NN Infinity 
-CBWEIM	VB Infinity JJ Infinity 
-MTWEFWT	JJ Infinity 
-HQRIN	VB Infinity 
-HWRJWN	NNP Infinity 
-NTX	NN Infinity NNT Infinity 
-BWGRWT	JJ Infinity 
-CMCMW	VB Infinity 
-BXIRTW	NN Infinity 
-DWRJMWND	NNP Infinity 
-AWSJRIH	NNP Infinity 
-MNQH	VB Infinity 
-MABDIM	VB Infinity 
-BWRRWT	NN Infinity 
-KHIM	JJ Infinity 
-MTQIIMIM	VB Infinity 
-NUL	JJ Infinity NN Infinity 
-IHRGW	VB Infinity 
-PSIKIT	JJ Infinity 
-RWWXIM	NN Infinity 
-MXIIBIM	JJ Infinity VB Infinity 
-NQRW	VB Infinity 
-BRIJIIM	JJ Infinity 
-RIBAWNDIM	NN Infinity 
-CMWDWT	VB Infinity JJ Infinity 
-BNQS	NNP Infinity 
-RWWXIT	JJ Infinity 
-DQIRH	NN Infinity 
-GASQWIN	NNP Infinity 
-DQIRT	NNT Infinity 
-JJRIM	NN Infinity 
-HNIBW	VB Infinity 
-GLIDH	NN Infinity 
-NTXIM	NN Infinity 
-IBFT	NN Infinity NNT Infinity 
-MAXDIM	VB Infinity 
-TBEW	VB Infinity 
-JJRIT	NN Infinity JJ Infinity 
-RPWAIIM	JJ Infinity 
-NXQRWT	VB Infinity 
-HRWWIX	VB Infinity 
-ZIKRWN	NN Infinity NNT Infinity 
-MNSH	VB Infinity 
-HNIBH	VB Infinity 
-HTIIQRW	VB Infinity 
-MPWRFWT	RB Infinity 
-PWRNIR	NN Infinity 
-BAFRI	NNP Infinity 
-QWFINSQI	NNP Infinity 
-NXWCIM	JJ Infinity 
-NWN	MOD Infinity NNP Infinity 
-NWP	NN Infinity NNT Infinity 
-LKNS	VB Infinity 
-NWR	NNP Infinity 
-NWX	JJ Infinity 
-AKPT	RB Infinity 
-AICMT	NNP Infinity 
-XNQW	VB Infinity 
-TBEH	VB Infinity 
-IBFH	JJ Infinity NN Infinity 
-FIFIM	CD Infinity 
-NXH	VB Infinity 
-EWSQWT	VB Infinity 
-NXL	VB Infinity 
-ISTIIM	VB Infinity 
-NRDPIM	NN Infinity 
-GLIFH	NN Infinity 
-NXT	VB Infinity NN Infinity 
-MILICIH	NN Infinity 
-LJEWN	VB Infinity 
-IBIA	VB Infinity 
-IBIN	VB Infinity 
-MERBI	JJ Infinity 
-MERBH	RB Infinity 
-LGIJIMI	JJ Infinity 
-SWGRWT	VB Infinity 
-HDLIP	VB Infinity 
-LKPR	VB Infinity 
-BXIRH	NN Infinity 
-PWGIMWRI	NNP Infinity 
-DIRWT	NN Infinity NNT Infinity 
-TFIEIT	JJ Infinity 
-QWNCNZWS	NN Infinity 
-MNTH	VB Infinity 
-KHNA	NNP Infinity 
-NWBLWT	NN Infinity 
-KHNH	RB Infinity 
-LJEWT	VB Infinity 
-HCIEW	VB Infinity 
-BXIRT	NNT Infinity 
-LHTIIDD	VB Infinity 
-BNWI	VB Infinity 
-KLKLIIM	JJ Infinity 
-NZQ	NN Infinity 
-PAWLH	NNP Infinity 
-PAWLI	NNP Infinity 
-HFTTP	VB Infinity 
-WIIDNPLD	NNP Infinity 
-JEMW	NN Infinity 
-MILWIH	NN Infinity 
-FBTWT	NN Infinity 
-MFWPE	JJ Infinity 
-FBTWN	NN Infinity 
-JENH	NN Infinity VB Infinity 
-MNWI	NN Infinity 
-PAWLW	NNP Infinity 
-MTENIIN	VB Infinity 
-MNWS	NN Infinity 
-NSERIM	JJ Infinity 
-TBIA	VB Infinity 
-HBHIR	VB Infinity 
-QRATI	VB Infinity 
-LHTIICB	VB Infinity 
-IBJA	VB Infinity 
-BNWX	RB Infinity 
-ARWNWT	NNT Infinity 
-JEMH	NN Infinity 
-BNWT	NN Infinity NNT Infinity 
-MFWPR	JJ Infinity 
-MFWNH	JJ Infinity 
-DWLPIN	NNP Infinity 
-MQWNN	NNP Infinity 
-RWMNIIH	JJ Infinity 
-HFTTPW	VB Infinity 
-MAWKZBIM	JJ Infinity 
-JENT	NNT Infinity 
-XNWK	NNP Infinity 
-XNWN	NNP Infinity 
-JENW	VB Infinity 
-MNWX	NN Infinity JJ Infinity 
-GIBFH	VB Infinity 
-MILWLI	JJ Infinity 
-MNXF	VB Infinity 
-KWTNH	NN Infinity 
-MQWMI	JJ Infinity 
-TPJWR	VB Infinity 
-MQWMH	NN Infinity 
-SISMAWTIW	NN Infinity 
-MQWMM	NN Infinity VB Infinity 
-MNXM	NNP Infinity 
-LWWIITW	NN Infinity 
-GWBRIN	NNP Infinity 
-MNXH	NN Infinity 
-GWBRIM	JJ Infinity VB Infinity 
-HKBDT	NNT Infinity 
-MQWMN	NN Infinity 
-XNWQ	JJ Infinity 
-HFTTQW	VB Infinity 
-XNWT	NN Infinity NNT Infinity 
-LWWIITN	NN Infinity 
-MQWMW	NN Infinity 
-MFWTP	JJ Infinity NN Infinity 
-XWLMWT	VB Infinity 
-MWSQWWH	NNP Infinity 
-PILGRIMM	NNP Infinity 
-PRGWN	NN Infinity 
-WRDIGR	NNP Infinity 
-FWWDIH	NNP Infinity 
-BNZN	NN Infinity 
-CBEIM	NN Infinity 
-CWBET	VB Infinity 
-PXDH	VB Infinity NN Infinity 
-FGRTIT	JJ Infinity 
-NENIM	NN Infinity 
-IBNH	NNP Infinity VB Infinity 
-LENIIN	VB Infinity 
-DRWMIT	JJ Infinity 
-LWWIINI	NNT Infinity 
-MFWRR	NN Infinity 
-LEZWB	VB Infinity 
-MFPXTWNIM	NN Infinity 
-LHTARGN	VB Infinity 
-NRTMT	VB Infinity 
-MQWRI	JJ Infinity 
-MQWRH	NN Infinity 
-MQWRM	NN Infinity 
-NRAH	VB Infinity NN Infinity 
-LEZWR	VB Infinity 
-APFRWIWT	NN Infinity 
-IBQR	VB Infinity 
-MQWRW	NN Infinity 
-NRAW	VB Infinity 
-KWTRT	NN Infinity 
-ELWTW	NN Infinity 
-MIEARI	NNP Infinity 
-AHBIM	NN Infinity 
-MFWSE	JJ Infinity 
-FKNIM	NN Infinity 
-XPIRWTIW	NN Infinity 
-TFMWR	VB Infinity 
-HMBWRG	NNP Infinity 
-WWIZWALIIM	JJ Infinity 
-AMQWR	NNP Infinity 
-HPQWT	NNT Infinity NN Infinity 
-AKZR	JJ Infinity 
-TQCIBIIM	JJ Infinity 
-MILWAH	ZVL Infinity 
-QWMPQJ	NNT Infinity 
-MIQDMH	NN Infinity 
-SPQIT	NNT Infinity 
-MTQDMT	VB Infinity 
-RGILWT	JJ Infinity 
-HWELH	VB Infinity 
-IRQWT	NN Infinity 
-NRCX	VB Infinity 
-RBNIH	NN Infinity 
-TBQF	VB Infinity 
-MQWWH	VB Infinity 
-EINIH	NN Infinity 
-TBQR	VB Infinity 
-MTAKSNIM	VB Infinity 
-QBRWTIHM	NN Infinity 
-TWRNWIWT	NN Infinity 
-IIDIFAI	JJ Infinity 
-NFQPT	VB Infinity 
-HWEMD	VB Infinity 
-IRQWN	NN Infinity 
-EINIW	NN Infinity 
-MRKIBIW	NN Infinity 
-HWELW	VB Infinity 
-LHRBWT	VB Infinity 
-HWENQ	VB Infinity 
-QRIAWT	NN Infinity 
-HRXBH	NN Infinity 
-LHARIK	VB Infinity 
-NZHRIM	VB Infinity 
-SGWRH	JJ Infinity 
-IFNWT	JJ Infinity 
-XWGIM	NN Infinity 
-HZNXH	NN Infinity 
-LDWWX	VB Infinity 
-NSWTH	NN Infinity 
-RBNIM	NN Infinity 
-MTAPFRT	VB Infinity 
-LIIBWR	NNP Infinity 
-MFWWQ	VB Infinity 
-FWWDIM	NN Infinity 
-HSKMTH	NN Infinity 
-MFWWH	VB Infinity 
-NRDP	VB Infinity 
-MFTDLIM	VB Infinity 
-HSKMTM	NN Infinity 
-JEWT	NN Infinity NNT Infinity 
-EWTRIM	NN Infinity 
-HRXBT	NNT Infinity 
-LHWRID	VB Infinity 
-IBWA	NN Infinity NNT Infinity VB Infinity 
-PISIWT	JJ Infinity 
-ALAN	NNP Infinity 
-42.02	CD Infinity 
-SWDWT	NNT Infinity 
-QRAWS	NNP Infinity 
-SGWLH	JJ Infinity 
-IBWL	NN Infinity 
-RIBWNWTW	NN Infinity 
-LHBIA	VB Infinity 
-HIPWKWNDR	NN Infinity 
-AIRANIIM	JJ Infinity 
-AISLAMIM	JJ Infinity 
-QAWNJI	NNP Infinity 
-FIIQSPIR	NNP Infinity 
-BDQNW	VB Infinity 
-5,779	CD Infinity 
-XIFWBIM	NN Infinity 
-TBWA	VB Infinity 
-REWLI	NNT Infinity 
-MTWWDH	VB Infinity 
-HCXQWT	NN Infinity 
-HSKMNW	VB Infinity 
-AWJWPIH	NN Infinity 
-MFTMFIM	VB Infinity 
-NRFM	VB Infinity 
-LHBIE	VB Infinity 
-LHBIJ	VB Infinity 
-LXQWR	VB Infinity 
-LPNIHM	IN Infinity 
-AIMPRSIWNIZM	NN Infinity 
-LXQWT	VB Infinity 
-LHBIN	VB Infinity 
-GNRAL	NN Infinity 
-PRIXTM	NN Infinity 
-BFWRH	NN Infinity 
-CRIM	JJ Infinity 
-CRIK	VB Infinity JJ Infinity 
-MWNJRI	JJ Infinity 
-IIXFB	VB Infinity 
-MTIICBT	VB Infinity 
-XFWBH	JJ Infinity 
-PAWSJ	NNP Infinity 
-ALBZ	NNP Infinity 
-CRKNIWT	NN Infinity 
-QRIATW	NN Infinity 
-MTIIXSIM	VB Infinity 
-ELWLH	VB Infinity 
-HSKMIM	NN Infinity 
-WLDZ	NNP Infinity 
-HERCH	NN Infinity 
-CRKN	NN Infinity 
-CRKI	NNT Infinity 
-TIWWK	NN Infinity 
-112.90	CD Infinity 
-KICD	QW Infinity 
-PINTH	VB Infinity 
-PINTI	JJ Infinity 
-HRXIQ	VB Infinity 
-HSTBKWT	NN Infinity 
-HERCT	NNT Infinity 
-NICWLIM	JJ Infinity 
-LLDT	VB Infinity 
-HRFLIQWBIC	NNP Infinity 
-PSIKWLWGISJI	JJ Infinity 
-NRKF	VB Infinity 
-AWNIM	NN Infinity 
-FRBWB	NNT Infinity 
-FIGWR	NNT Infinity 
-MEIDIM	VB Infinity 
-AZWRI	NNT Infinity JJ Infinity 
-KLKLIWT	JJ Infinity 
-IWQJNW	VB Infinity 
-HPRDH	NN Infinity 
-ITXIL	VB Infinity 
-MWTQPWT	VB Infinity 
-EWRKIM	VB Infinity 
-GIBWF	NNT Infinity 
-NBEJH	VB Infinity 
-CRNR	NNP Infinity 
-GIBWR	NN Infinity NNT Infinity 
-HPREH	NN Infinity 
-MWNGWLI	JJ Infinity 
-IRIBIHM	NN Infinity 
-AWSJRWBSQI	NNP Infinity 
-GIBWI	NN Infinity 
-FIJPWN	NN Infinity 
-NWBET	VB Infinity 
-CWEQIM	VB Infinity 
-MWEGLIM	JJ Infinity 
-TQNIM	NN Infinity 
-ALIM	JJ Infinity 
-HFTWQQTI	VB Infinity 
-MTLWNN	VB Infinity 
-ADWMH	JJ Infinity 
-NWBLH	NN Infinity 
-CRPT	NNP Infinity 
-ADWLP	NNP Infinity 
-ALJR	NNP Infinity 
-PXTW	VB Infinity 
-MWSJAPH	NNP Infinity 
-SGRIRI	JJ Infinity 
-TQCIBIWT	JJ Infinity 
-QCWWT	NN Infinity 
-LTETE	VB Infinity 
-EWTQIM	NN Infinity 
-ALNBI	NNP Infinity 
-PXWT	RBR Infinity 
-HERIK	VB Infinity 
-RGILIM	JJ Infinity 
-IBBWT	NN Infinity 
-PNSIWNR	NN Infinity 
-KIHN	VB Infinity 
-LLKT	VB Infinity 
-CPWNIT	JJ Infinity RB Infinity 
-ALKS	NNP Infinity 
-HERIM	VB Infinity 
-FIGRW	VB Infinity 
-ICAH	VB Infinity 
-HBIAH	VB Infinity 
-FIGRH	NN Infinity VB Infinity 
-BWDDIM	NN Infinity JJ Infinity 
-GWLDH	NNP Infinity 
-ICAW	VB Infinity 
-MWLDTW	NN Infinity 
-ZWEMIM	JJ Infinity 
-GWLDN	NNP Infinity 
-AWBSSIH	NN Infinity 
-AWRALI	JJ Infinity 
-ALLH	NNP Infinity 
-HPRIE	VB Infinity 
-ADWNI	NN Infinity 
-PFEIM	NN Infinity 
-HERKH	NN Infinity 
-GNRLI	NNP Infinity 
-HERKT	NNT Infinity 
-HBIAW	VB Infinity 
-NQRAT	VB Infinity 
-HPRJH	NN Infinity 
-ALMH	NNP Infinity 
-TWLDWT	NNT Infinity 
-HTABDWT	NN Infinity 
-WWCRNAIH	NNP Infinity 
-TNEMI	NNP Infinity 
-ELWBI	NNT Infinity 
-EIMWT	NN Infinity 
-HTAXDWT	NNT Infinity NN Infinity 
-NBIAIM	NN Infinity 
-LLMD	VB Infinity 
-PIRSJNRIDR	NNP Infinity 
-HRXQH	NN Infinity 
-NABQT	VB Infinity 
-HTMWDDWT	NN Infinity 
-NABQW	VB Infinity 
-PANJWM	NNT Infinity 
-PDGWGIT	NN Infinity 
-HELAWT	NNT Infinity 
-ANIMCIH	NN Infinity 
-MTNKLIM	VB Infinity 
-AILWCIM	NN Infinity 
-EWZBIM	VB Infinity 
-QICWNIWT	JJ Infinity 
-HTNPCW	VB Infinity 
-BQWFI	RB Infinity 
-AKLWSH	NN Infinity 
-KIKR	NNT Infinity 
-HBIEH	VB Infinity 
-7.30	CD Infinity 
-IIFWBIM	NN Infinity 
-NZKWR	VB Infinity 
-ALPI	CDT Infinity 
-KINS	VB Infinity 
-AWHDIM	NN Infinity 
-FTIHN	PRP Infinity 
-HZMINW	VB Infinity 
-AIKWIWT	NN Infinity 
-LLQQ	VB Infinity 
-BWGRI	JJT Infinity 
-KINW	VB Infinity 
-IDIDW	NN Infinity 
-HWFBE	VB Infinity 
-PINWQ	NN Infinity 
-AWHDIH	NN Infinity 
-NRXB	JJ Infinity 
-PINWI	NNT Infinity 
-NQREW	VB Infinity 
-GWLIM	NN Infinity 
-HPRNQ	NN Infinity 
-CRWT	NN Infinity 
-HBIEW	VB Infinity 
-IINTNW	VB Infinity 
-ICIE	VB Infinity NN Infinity 
-IDIEH	NN Infinity 
-IIXTM	VB Infinity 
-CRWP	JJ Infinity 
-LHIGBWT	VB Infinity 
-FTIIH	NN Infinity 
-HZMINH	VB Infinity 
-FTIIM	CD Infinity 
-BWGRT	NNT Infinity 
-ICIL	VB Infinity 
-FWRRT	VB Infinity 
-MDRIK	NNT Infinity 
-FXQNIM	NN Infinity 
-XLWMWT	NN Infinity 
-ICGW	VB Infinity 
-MJBXI	NNT Infinity 
-FXQNIT	NN Infinity 
-FXQNIW	NN Infinity 
-MMLAH	VB Infinity 
-PWPWLRIWT	NN Infinity 
-MMLAI	NNT Infinity 
-HCLIX	VB Infinity 
-IDIDH	NN Infinity 
-IDIDI	NN Infinity 
-BNIGWD	IN Infinity 
-KINH	VB Infinity 
-LHWRWT	VB Infinity 
-ITXRW	VB Infinity 
-MMLAT	VB Infinity 
-FXQNIH	NN Infinity 
-MDRFH	NN Infinity 
-ALJRNJIWWIIM	JJ Infinity 
-SAWTHPJWN	NNP Infinity 
-MTIIMRWT	VB Infinity 
-TDHMH	NN Infinity 
-MNHLWT	NNT Infinity 
-MXWSPST	JJ Infinity 
-MZRET	NNP Infinity 
-PNJSIH	NN Infinity 
-CRIPWNIM	NN Infinity 
-QWNJRAS	NNP Infinity 
-MDRGH	NN Infinity 
-MXWDDIM	JJ Infinity 
-HWFEH	VB Infinity 
-LSBWL	VB Infinity 
-HELATM	NN Infinity 
-XRWJIM	JJ Infinity 
-GWLMI	JJ Infinity 
-BLGRD	NNP Infinity 
-TCIG	VB Infinity 
-EDWIWT	NNT Infinity NN Infinity 
-TCIE	VB Infinity 
-yyDASH	yyDASH Infinity 
-XZQIM	NN Infinity 
-RIBIT	NN Infinity 
-JLWIZIWT	NN Infinity 
-KIPH	NN Infinity 
-IELIL	VB Infinity 
-ZITIM	NN Infinity 
-MMFLWT	NN Infinity NNT Infinity 
-MEWNIINIM	VB Infinity 
-JIPLW	VB Infinity 
-MRDIMIM	JJ Infinity 
-XZITWT	NNT Infinity 
-MBJAT	VB Infinity 
-FWPRH	VB Infinity 
-TGWBTH	NN Infinity 
-ALUM	NN Infinity NNP Infinity 
-CEQNIWT	JJ Infinity 
-QIFWR	NN Infinity NNP Infinity 
-RWMNJIM	JJ Infinity 
-HRGFTI	VB Infinity 
-MDPIM	NN Infinity 
-HRGFTM	NN Infinity 
-GRMNIH	NNP Infinity JJ Infinity 
-MTSKLT	JJ Infinity 
-DWKNIM	NN Infinity 
-ZIRWZ	NNT Infinity 
-FIIKT	JJ Infinity 
-HIINRIK	NNP Infinity 
-GRMNIT	JJ Infinity NN Infinity 
-TPIXH	NN Infinity 
-CIWWTH	VB Infinity 
-GBWHWT	JJ Infinity 
-MQMILN	NNP Infinity 
-GRMNIM	NN Infinity 
-DISNILND	NNP Infinity 
-QWNWWNCIWNLIT	JJ Infinity 
-MRWBIM	JJ Infinity 
-TQLWT	NN Infinity 
-MQBILW	NN Infinity 
-HZMNH	NN Infinity 
-KIUL	NNP Infinity 
-ERIKT	NNT Infinity 
-ALWP	NN Infinity NNT Infinity 
-MWZNIM	VB Infinity 
-5,836	CD Infinity 
-ALWN	NN Infinity NNP Infinity 
-MQBILH	JJ Infinity 
-IHSSW	VB Infinity 
-MBJAH	NN Infinity 
-KISW	NN Infinity 
-AIFRH	VB Infinity 
-MQBILWT	JJ Infinity 
-PNQIIBICIM	NNP Infinity 
-HWDEH	NN Infinity 
-AIFRR	VB Infinity 
-SEWDIH	NNP Infinity 
-ERIKH	NN Infinity 
-PAB	NN Infinity 
-LWMDI	NNT Infinity 
-KITH	NN Infinity 
-WWLQN	NNP Infinity 
-JRIJWRIH	NN Infinity 
-MWGBL	JJ Infinity 
-LHKNIS	VB Infinity 
-PAS	NNP Infinity 
-FZWRIM	VB Infinity 
-MERBWNIM	NN Infinity 
-ICPW	VB Infinity 
-TPIRH	NN Infinity 
-MWGBR	JJ Infinity 
-NFPJW	VB Infinity 
-MTEBIM	VB Infinity 
-XLFIM	NN Infinity 
-ICQH	VB Infinity 
-XBWIIM	JJ Infinity 
-KIWM	MOD Infinity RB Infinity 
-MMFLTI	JJ Infinity 
-MMFLTH	NN Infinity 
-KIWR	NN Infinity 
-HWDET	NNT Infinity 
-QWNPLIQJ	NN Infinity 
-WIDWIIM	NN Infinity 
-TISKWL	NN Infinity 
-HZMNT	NNT Infinity 
-AXRWT	JJ Infinity 
-TPISH	NN Infinity 
-KSPRIT	NN Infinity 
-MMFLTW	NN Infinity 
-TPIST	NNT Infinity 
-XBILH	NN Infinity 
-SWTRWT	JJ Infinity 
-AXRWN	NN Infinity JJ Infinity 
-TFLWM	NN Infinity NNT Infinity 
-PCE	VB Infinity 
-TGWBWT	NN Infinity 
-HWRIHN	NN Infinity 
-MTINWT	NN Infinity 
-HTXLTI	VB Infinity 
-BLIMT	NNT Infinity 
-KPRIHM	NN Infinity 
-TGWBTW	NN Infinity 
-NSBL	JJ Infinity 
-PRFWT	NN Infinity NNT Infinity 
-HWDIE	VB Infinity 
-ICRH	VB Infinity 
-RAIWN	NN Infinity 
-ICRI	NNT Infinity NN Infinity 
-ICRN	NN Infinity 
-RAIWT	NN Infinity 
-PEL	VB Infinity 
-PEM	RB Infinity NN Infinity 
-PER	NNT Infinity NN Infinity 
-ICRW	VB Infinity 
-MAGAR	NNP Infinity 
-LHABQ	VB Infinity 
-LHRAWT	VB Infinity 
-MXJIM	NN Infinity 
-HPELTM	NN Infinity 
-NSEH	VB Infinity 
-PFE	NN Infinity 
-EKWAIM	NN Infinity 
-HPELTW	NN Infinity 
-MBJIX	VB Infinity JJ Infinity 
-PFR	NNT Infinity NN Infinity 
-HWDIT	JJ Infinity 
-AMRTI	VB Infinity 
-GRPWJQ	NN Infinity 
-LIBRLIZCIH	NN Infinity 
-PGF	VB Infinity 
-PGE	NN Infinity VB Infinity 
-LHWQIR	VB Infinity 
-IFMRW	VB Infinity 
-LMPRE	RB Infinity 
-MXJIA	VB Infinity 
-GWWNIM	NN Infinity 
-ICWRIM	NN Infinity 
-IWNIWWRSL	NNP Infinity 
-PGM	NN Infinity 
-PGR	NNP Infinity 
-HCJRP	VB Infinity 
-MSEIRIM	JJ Infinity 
-TQFWRT	NN Infinity 
-HTGFMWT	NNT Infinity 
-BLILH	NN Infinity 
-TSQIRI	NNT Infinity 
-MWGDL	JJ Infinity 
-PGW	NNP Infinity 
-GAJUJ	NNP Infinity 
-BIRNDRH	NNP Infinity 
-CACAI	NNT Infinity 
-LHMTIN	VB Infinity 
-HTAIMW	VB Infinity 
-XPCW	NN Infinity 
-ICWA	NN Infinity NNT Infinity 
-HWDLP	VB Infinity 
-MZERIWT	JJ Infinity 
-IWCAIM	NN Infinity VB Infinity 
-XPCM	NN Infinity 
-BAIIR	NNP Infinity 
-NSGR	VB Infinity 
-PI.	NNP Infinity 
-IPJRL	VB Infinity 
-MDBIQIM	VB Infinity 
-HBJXWTIW	NN Infinity 
-MPRIDIM	VB Infinity 
-FWQRWN	NNP Infinity 
-PIREWN	NNT Infinity 
-PIH	NN Infinity 
-PIL	NN Infinity 
-AIFIM	NN Infinity 
-XPCI	NNT Infinity 
-MGDIRH	VB Infinity 
-ATNIIM	JJ Infinity 
-AIFIT	RB Infinity JJ Infinity 
-PIW	NN Infinity 
-MNHLIW	NN Infinity 
-NSIK	NNT Infinity 
-JIPXW	VB Infinity 
-AWLRIK	NNP Infinity 
-QWLQJIWWI	JJ Infinity 
-LHTIIXS	VB Infinity 
-XWFIM	NN Infinity 
-NSIM	NN Infinity NNP Infinity 
-BZRNW	NNP Infinity 
-AMCE	NN Infinity NNT Infinity 
-JIIPWN	NNP Infinity 
-PJM	NN Infinity 
-XWFIW	NN Infinity 
-NHWGIM	JJ Infinity 
-PJR	NNP Infinity VB Infinity 
-MNHLIM	JJ Infinity NN Infinity VB Infinity 
-FARIT	NNT Infinity 
-XFIBWTH	NN Infinity 
-FARIM	NN Infinity 
-RWWQIM	NN Infinity 
-MPEL	NNT Infinity NN Infinity 
-ICXQ	NNP Infinity 
-JIPWL	NN Infinity NNT Infinity 
-JIPWS	NN Infinity 
-MAGIQ	NNP Infinity 
-MBJLT	VB Infinity 
-DIMWIIM	NN Infinity 
-PLA	NN Infinity 
-MHPKNIT	JJ Infinity 
-LMEJ	IN Infinity 
-ALQJRWNIQH	NN Infinity 
-PRFNIM	NN Infinity 
-LMEN	IN Infinity 
-PLD	NNP Infinity 
-MMFLIM	NN Infinity 
-PLG	NNP Infinity 
-LNSWE	VB Infinity 
-SLWWDWR	NNP Infinity 
-PLJ	VB Infinity 
-HSBRTI	VB Infinity 
-MWBHQT	JJ Infinity 
-MSPIQIM	JJ Infinity 
-GLWNIM	NN Infinity 
-QLPIM	NN Infinity 
-LMDI	MOD Infinity 
-MPGE	NN Infinity 
-MPGF	NN Infinity 
-LMDH	VB Infinity 
-MPGR	JJ Infinity 
-QLPIF	NNP Infinity 
-MNWXTI	NN Infinity 
-AWBIIQJIWWI	JJ Infinity 
-KMWIWT	NN Infinity 
-MNJLIWT	NN Infinity 
-LMDW	VB Infinity 
-XWBQWT	JJT Infinity 
-HADRT	NNT Infinity 
-MFWWQIM	VB Infinity 
-LNSWT	VB Infinity 
-WICMN	NNP Infinity 
-KMWBN	MOD Infinity RB Infinity 
-HMWNIIM	JJ Infinity 
-MTWXKM	JJ Infinity 
-NSMK	VB Infinity 
-LLMWD	VB Infinity 
-HFTDL	VB Infinity 
-PNI	NNT Infinity 
-PNH	VB Infinity 
-PNW	VB Infinity 
-NWAFW	VB Infinity 
-RWWQWT	NN Infinity 
-LMFL	MOD Infinity RB Infinity 
-LMFK	IN Infinity 
-KBWDM	NN Infinity 
-HTRFMNW	VB Infinity 
-MPIQ	VB Infinity NNT Infinity NN Infinity 
-KIRSMW	VB Infinity 
-TRNGWL	NNT Infinity 
-KBWDW	NN Infinity 
-XPIM	NN Infinity 
-SWDAN	NNP Infinity 
-QIIJNWT	NN Infinity 
-13,095	CD Infinity 
-MPLJ	NNP Infinity 
-QRMLIN	NNP Infinity 
-NIHWLH	NN Infinity 
-NIHWLI	JJ Infinity 
-AMIS	NNP Infinity 
-RXWBWTIH	NN Infinity 
-NBWKIM	JJ Infinity 
-AMIR	NNP Infinity 
-NIHWLM	NN Infinity 
-LIMWDIH	NN Infinity 
-AMIN	JJ Infinity NNP Infinity 
-AMIL	NNP Infinity 
-NIHWLW	NN Infinity 
-HWDTH	VB Infinity 
-AMRNW	VB Infinity 
-NERKIM	VB Infinity 
-AMID	NNP Infinity JJ Infinity 
-GWNSWN	NNP Infinity 
-MNKULI	NNT Infinity 
-SNSCIH	NN Infinity 
-RLWWNJIT	JJ Infinity 
-PQD	NN Infinity 
-XLWNWT	NN Infinity NNT Infinity 
-PEWLWTIW	NN Infinity 
-LIMWDIM	NN Infinity 
-LIMWDIW	NN Infinity 
-MPLH	NN Infinity 
-AIFAM	NNP Infinity 
-GWJPRID	NNP Infinity 
-PEWLWTIH	NN Infinity 
-PRC	VB Infinity 
-MQWCR	JJ Infinity 
-PRF	VB Infinity 
-PRI	NNP Infinity NNT Infinity 
-RXMIM	NNP Infinity NN Infinity 
-PRJ	IN Infinity NN Infinity 
-SWCIWLWGIIM	JJ Infinity 
-MMHRIM	VB Infinity 
-PRL	NNP Infinity 
-PRQ	NN Infinity NNT Infinity VB Infinity 
-PRS	NN Infinity NNT Infinity NNP Infinity 
-PRR	NNP Infinity 
-PRW	MOD Infinity NNP Infinity 
-MAXZIHN	NN Infinity 
-LMLA	VB Infinity 
-QWPMN	NNP Infinity 
-SPCIPI	JJ Infinity 
-BPNI	IN Infinity 
-MQWDF	JJ Infinity 
-PRX	NNP Infinity 
-MHIRWT	NN Infinity 
-HWJRDW	VB Infinity 
-ABRHM	NNP Infinity 
-QNDIIM	JJ Infinity 
-NEMWD	VB Infinity 
-NSPW	VB Infinity 
-MKAIBH	JJ Infinity 
-NSPX	NN Infinity 
-XSRWNW	NN Infinity 
-HWDWT	IN Infinity 
-AHBWT	NNT Infinity 
-PSQ	NNT Infinity VB Infinity 
-PSX	NNP Infinity 
-MCJIINIM	NN Infinity 
-ANWFIT	JJ Infinity 
-MPNH	VB Infinity 
-MPNI	IN Infinity 
-ABWLWP	NNP Infinity 
-HTBLBL	VB Infinity 
-PANIQH	NN Infinity 
-PTE	RB Infinity 
-ITMWDDW	VB Infinity 
-LMMN	VB Infinity 
-DWLQWT	VB Infinity 
-29.90	CD Infinity 
-CWBRT	VB Infinity 
-HWDXW	VB Infinity 
-MCRIWT	JJ Infinity 
-MPQD	NN Infinity NNT Infinity 
-XLFWT	JJ Infinity NN Infinity 
-PTX	VB Infinity NN Infinity NNT Infinity 
-MIAQWBSQI	NNP Infinity 
-HWDXH	VB Infinity 
-AXRIT	NNT Infinity 
-TQWPWTIHM	NN Infinity 
-MQWBL	JJ Infinity NN Infinity 
-AXRIM	NN Infinity JJ Infinity 
-ZRMIM	NN Infinity 
-HWEBRH	VB Infinity 
-BIRQNAW	NNP Infinity 
-IWDEIM	VB Infinity 
-HGWNH	JJ Infinity 
-AMNW	NN Infinity 
-AMNT	NNT Infinity 
-PUT	NNP Infinity 
-KWTBT	VB Infinity 
-AMNM	RB Infinity 
-HWEBRW	VB Infinity 
-LMMF	VB Infinity 
-PNJSIWT	NN Infinity 
-AMNI	NNT Infinity 
-KFLWNWT	NN Infinity 
-ITWMI	NNT Infinity 
-PEWLTH	NN Infinity 
-LHGBIR	VB Infinity 
-LXILWPIN	RB Infinity 
-MCRIIM	JJ Infinity 
-ITWMH	JJ Infinity 
-HACT	NNT Infinity 
-AHBTW	NN Infinity 
-MEWLIM	JJ Infinity 
-NHWGH	VB Infinity 
-BPRJ	MOD Infinity 
-PSIQTW	NN Infinity 
-QCWBH	JJ Infinity 
-LHIHPK	VB Infinity 
-PWL	NNP Infinity 
-PWR	NNP Infinity 
-PWS	NNP Infinity 
-MPQX	VB Infinity NN Infinity 
-MPRC	NNT Infinity NN Infinity 
-TDEK	VB Infinity 
-MPRF	NN Infinity 
-HSTDRWT	NNT Infinity NN Infinity 
-HFTMF	VB Infinity 
-HFTME	VB Infinity 
-FKNWT	NN Infinity 
-PXD	NNT Infinity NN Infinity 
-MPRJ	VB Infinity 
-MNWXIM	JJ Infinity 
-RIALI	JJ Infinity 
-MPTX	NN Infinity 
-HFTNH	VB Infinity 
-FKNWE	NN Infinity 
-NBDQH	VB Infinity 
-HTPREWIWT	NN Infinity 
-MPRNSIM	VB Infinity 
-IDID	NN Infinity 
-MSWLPIM	VB Infinity 
-IDIH	NN Infinity 
-NSXP	VB Infinity 
-NBDQT	VB Infinity 
-TIAWLWGIM	NN Infinity 
-NBDQW	VB Infinity 
-SNJRW	NN Infinity 
-MFWGE	NN Infinity 
-BTWLIM	NN Infinity 
-MKRIZIM	VB Infinity 
-RPWAI	JJ Infinity 
-RPWAH	NNP Infinity NN Infinity 
-PDRCIH	NN Infinity 
-AMRW	VB Infinity 
-AMRT	VB Infinity 
-LIDTN	NN Infinity 
-NSWG	VB Infinity 
-HSBRIM	NN Infinity 
-MPTH	JJ Infinity 
-IIKLLW	VB Infinity 
-MPTN	NNT Infinity 
-AMRH	NN Infinity VB Infinity 
-LHGBIH	VB Infinity 
-MFWLL	JJT Infinity 
-MFWLM	NNP Infinity 
-ITWQN	VB Infinity 
-HAGR	NNP Infinity 
-SAGH	NNP Infinity 
-MPTIE	JJ Infinity 
-PRFNWT	NN Infinity 
-HFTPR	VB Infinity 
-IFNIM	JJ Infinity 
-KIBWFIHM	NN Infinity 
-QWPUX	NN Infinity 
-SEWDIM	NN Infinity 
-RCXNIT	JJ Infinity 
-XQLAIIM	JJ Infinity 
-IEBIRW	VB Infinity 
-TIAWRI	NNT Infinity 
-LMTN	VB Infinity 
-MTIIXSWT	VB Infinity 
-EZBH	VB Infinity 
-BRAWNING	NNP Infinity 
-SEWDIT	JJ Infinity 
-PEWLWT	NN Infinity NNT Infinity 
-HDPSIM	NN Infinity 
-IDIT	NN Infinity NNT Infinity 
-MFWMF	JJ Infinity 
-IDIW	NN Infinity 
-KWTLI	NNT Infinity 
-CILWMI	NNT Infinity 
-LMSD	VB Infinity 
-XAGBI	NNP Infinity 
-MWGZM	JJ Infinity 
-METIR	VB Infinity 
-HFTQE	VB Infinity 
-REIWNI	JJ Infinity 
-BIDWRIWT	JJ Infinity 
-MWPRKT	JJ Infinity 
-HFTRR	VB Infinity 
-HTQDMWT	NN Infinity 
-MWDRNIZCIH	NN Infinity 
-KXWLH	JJ Infinity 
-MWERKT	VB Infinity 
-NSWGW	VB Infinity 
-HAJH	NN Infinity 
-QWPWT	NNT Infinity 
-AXRAI	NN Infinity JJ Infinity 
-HFTRE	VB Infinity 
-GRWSHDRN	NNP Infinity 
-WIINFJIIN	NNP Infinity 
-EZBW	VB Infinity 
-RMALLH	NNP Infinity 
-WIQJWRI	NNP Infinity 
-PEWLTW	NN Infinity 
-REIWNW	NN Infinity 
-HWEBR	VB Infinity 
-PEWLTM	NN Infinity 
-HTRFMTI	VB Infinity 
-MQLEIM	NN Infinity 
-QWLNWEIT	JJ Infinity 
-MMDIWT	JJ Infinity 
-DWBR	NN Infinity VB Infinity NNT Infinity 
-ATGRI	NNT Infinity 
-TTGIIS	VB Infinity 
-HALH	NNP Infinity 
-1,053	CD Infinity 
-HFQIEW	VB Infinity 
-AMWT	NNT Infinity 
-MWPNIM	VB Infinity 
-AMWR	NN Infinity VB Infinity 
-HTRGFWTM	NN Infinity 
-SIJWNAIT	JJ Infinity 
-AMWN	NN Infinity 
-MHSSIM	VB Infinity 
-ZEIRH	JJ Infinity 
-HWGIM	VB Infinity 
-MMCAIHM	NN Infinity 
-DWAR	NN Infinity 
-BNIINI	NNT Infinity 
-LHIKNS	VB Infinity 
-AIRWPI	JJ Infinity 
-AIRWPH	NNP Infinity 
-HWTNTH	VB Infinity 
-THIWTIW	NN Infinity 
-LHTKNS	VB Infinity 
-QAJ	NN Infinity 
-QAM	NNP Infinity 
-QAN	NNP Infinity 
-MPZR	VB Infinity 
-DNDIQ	NNP Infinity 
-MCPIM	VB Infinity 
-DIPLWMJIM	NN Infinity 
-DWDW	NNP Infinity 
-ECWMWT	JJ Infinity NN Infinity 
-KRIFIM	NN Infinity 
-KIMIH	NN Infinity 
-HANA	NNP Infinity 
-HTELMWT	NN Infinity 
-XBLTW	NN Infinity 
-QBE	VB Infinity NN Infinity 
-LHIKLL	VB Infinity 
-PZGZ	NNP Infinity 
-QLSIT	JJ Infinity 
-AIDIALISJIM	JJ Infinity 
-HANS	NNP Infinity 
-QBR	NN Infinity NNT Infinity 
-KTMIM	NN Infinity 
-RWWXIWT	NN Infinity 
-SALM	NNP Infinity 
-JMPLRIM	NN Infinity 
-NWCXW	VB Infinity 
-FNINWT	NN Infinity 
-SWBIIJIIM	JJ Infinity 
-QCB	NN Infinity NNT Infinity NNP Infinity 
-XLIPI	JJ Infinity 
-DWDH	NN Infinity 
-DWDI	NNT Infinity 
-RWMAN	NNP Infinity NN Infinity 
-NWCXH	VB Infinity 
-BAJINIWL	NNP Infinity 
-QCP	NN Infinity 
-QCR	JJ Infinity JJT Infinity 
-ZWEP	VB Infinity 
-QCT	DT Infinity RB Infinity MOD Infinity 
-HWGLH	VB Infinity 
-PZIH	NNP Infinity 
-HAPJ	NNP Infinity 
-HTIIMRW	VB Infinity 
-QDM	NNP Infinity MOD Infinity VB Infinity 
-MWPNMT	VB Infinity 
-TWMIJI	NNP Infinity 
-MWJIB	NN Infinity 
-QDS	NNP Infinity 
-HTPTXH	VB Infinity 
-QFIFIM	NN Infinity 
-HTXDFWT	NN Infinity 
-KRGIL	RB Infinity 
-SIDWRI	JJ Infinity 
-NDMIT	VB Infinity 
-IDRF	VB Infinity 
-HTPTXW	VB Infinity 
-SANS	NNP Infinity 
-FMRNWT	NN Infinity 
-EZIM	JJ Infinity 
-RICRD	NNP Infinity 
-PNIMIT	JJ Infinity 
-QIIZR	NNP Infinity 
-NTED	VB Infinity 
-HWGNT	VB Infinity 
-RWCXIM	NN Infinity 
-MQBL	NNT Infinity VB Infinity 
-HARD	NNP Infinity 
-DWID	NNP Infinity 
-IXDIW	MOD Infinity 
-HARH	NN Infinity 
-ZWGN	NN Infinity 
-QFH	JJ Infinity VB Infinity RB Infinity 
-ZWHI	PRP Infinity 
-QFI	NNT Infinity 
-AKSNIH	NN Infinity 
-LHTBWNN	VB Infinity 
-HARIKH	VB Infinity 
-QFR	NNT Infinity NN Infinity 
-QFT	NN Infinity 
-FIGEWN	NN Infinity 
-BSISIWT	JJ Infinity 
-JISWT	NNT Infinity 
-MWJEH	JJ Infinity 
-TPLWT	NN Infinity 
-XLILH	MOD Infinity RB Infinity 
-PLFTINIIM	JJ Infinity 
-SKSWKI	NNT Infinity 
-1,000	CD Infinity 
-SMIWN	NNP Infinity 
-MWDILIANI	NNP Infinity 
-HFQPWTIW	NN Infinity 
-MXMIC	VB Infinity 
-1,008	CD Infinity 
-1,005	CD Infinity 
-HEDIPW	VB Infinity 
-JENWTIW	NN Infinity 
-MQDF	NN Infinity NNT Infinity 
-LXSWK	VB Infinity 
-TLWFIM	NN Infinity 
-LXSWM	VB Infinity 
-HJBETW	NN Infinity 
-CBEWNIIM	JJ Infinity 
-XZRTI	VB Infinity 
-MTLHMIM	JJ Infinity 
-TQPID	VB Infinity 
-IDWE	VB Infinity NN Infinity JJ Infinity 
-RIINWLDS	NNP Infinity 
-MWJLT	VB Infinity 
-FWABIM	VB Infinity 
-NWDEH	VB Infinity 
-MWJLW	NNP Infinity 
-QHL	NN Infinity NNT Infinity 
-DWKN	NN Infinity NNT Infinity 
-BWJLH	VB Infinity 
-IEMWD	VB Infinity 
-HIDRDR	VB Infinity 
-NPGFWT	VB Infinity 
-KRJISI	NNT Infinity 
-LMSWR	VB Infinity 
-MTABL	VB Infinity 
-QHW	VB Infinity 
-PRJIM	NN Infinity 
-BLJMN	NNP Infinity 
-TWPRWT	NN Infinity 
-NQIFTI	JJ Infinity 
-PWELWT	VB Infinity 
-LHDIX	VB Infinity 
-QIC	NNT Infinity NN Infinity 
-BWJLW	VB Infinity 
-NABQIM	VB Infinity 
-AWPRH	NN Infinity 
-BQEH	NN Infinity NNP Infinity 
-ZWHR	NNP Infinity NN Infinity 
-LHIKFL	VB Infinity 
-QII	NNP Infinity 
-MQCT	NN Infinity 
-HSMQTI	VB Infinity 
-LIGLI	JJ Infinity 
-QIQ	NNP Infinity 
-BSISIIM	JJ Infinity 
-QIR	NN Infinity 
-PRJIW	NN Infinity 
-PRJIT	JJ Infinity 
-HNDLZLC	NNP Infinity 
-MFAIWT	NN Infinity 
-BQFT	NNT Infinity 
-GRINFJIIN	NNP Infinity 
-BQFR	IN Infinity 
-LNCL	VB Infinity 
-QJE	NNT Infinity NN Infinity 
-DWMH	VB Infinity JJ Infinity 
-ZWKR	VB Infinity 
-BQFH	NN Infinity 
-MXMMT	VB Infinity 
-1.6.90	CD Infinity 
-QJL	NN Infinity 
-MKLLWT	NN Infinity 
-ZWLH	JJ Infinity NNP Infinity 
-GDWFH	JJ Infinity 
-QJN	JJ Infinity 
-LNCX	VB Infinity 
-MQFR	VB Infinity 
-RIINALDW	NNP Infinity 
-FIIKWT	NN Infinity VB Infinity 
-AWPUA	NNP Infinity 
-MKWNITW	NN Infinity 
-TDWN	VB Infinity 
-ICJMCM	VB Infinity 
-SPRWTI	JJ Infinity 
-IDXH	VB Infinity 
-MQBLIM	VB Infinity 
-KRJISW	NN Infinity 
-FWMEIM	VB Infinity 
-PJRIWJIM	NN Infinity 
-ZWJR	JJ Infinity 
-ZWKH	VB Infinity 
-FXITWT	NN Infinity 
-LBSWP	MOD Infinity RB Infinity 
-DWLR	NN Infinity 
-NTIB	NNT Infinity 
-BXINWT	NN Infinity NNT Infinity 
-EZRA	NNP Infinity 
-QLE	VB Infinity 
-EZRH	NN Infinity 
-MCPWT	VB Infinity 
-QLH	JJ Infinity 
-LNER	VB Infinity 
-QLJ	VB Infinity 
-ECWMIM	JJ Infinity 
-MTAHB	VB Infinity 
-EZRN	NNP Infinity 
-QLN	NNP Infinity 
-QLP	NNT Infinity 
-HBJXH	NN Infinity 
-EZRT	NNT Infinity 
-ISWDI	JJ Infinity 
-HBJXT	NNT Infinity VB Infinity 
-ISWDH	NN Infinity 
-ZWNH	NN Infinity 
-MQGI	NNP Infinity 
-NWRWWGI	JJ Infinity 
-AWPNH	NN Infinity 
-MTQBLT	VB Infinity 
-QMH	VB Infinity 
-ANFI	NNT Infinity 
-ZWLT	NN Infinity IN Infinity 
-DWNM	NN Infinity 
-MDINTIIM	JJ Infinity 
-ZWMN	VB Infinity 
-QMP	NNP Infinity 
-96.4	CD Infinity 
-IHWDH	NNP Infinity 
-QMW	VB Infinity 
-IHWDI	NNT Infinity NN Infinity JJ Infinity 
-MERBIWT	JJ Infinity 
-ALPRD	NNP Infinity 
-NTMK	VB Infinity 
-QNH	NN Infinity 
-QNJ	NNP Infinity 
-LNGX	VB Infinity 
-FRIRNIM	NN Infinity 
-DWQR	NN Infinity 
-ZWPR	NNP Infinity 
-QNS	NN Infinity 
-LQWXWTIW	NN Infinity 
-QNW	VB Infinity 
-AWPPT	VB Infinity 
-HPTET	NNT Infinity 
-ISWDW	NN Infinity 
-DWPI	NN Infinity 
-ZWNX	VB Infinity 
-MQIP	JJ Infinity 
-QISRWT	NN Infinity 
-GIDWP	NN Infinity 
-IHWFE	NNP Infinity 
-HPTEH	NN Infinity 
-NPGFTI	VB Infinity 
-DWPQ	NN Infinity NNT Infinity 
-NTLW	VB Infinity 
-MKWNIWT	NN Infinity 
-LHTMWDD	VB Infinity 
-KAWBH	JJ Infinity 
-NWDET	JJ Infinity 
-LNSBWRI	NNP Infinity 
-GIDWL	NN Infinity NNT Infinity 
-AIRWNI	JJ Infinity 
-QPC	VB Infinity 
-IIZKR	VB Infinity 
-MWCDQWT	JJ Infinity 
-QPH	NNP Infinity NN Infinity 
-ZWRM	VB Infinity 
-MEWBD	VB Infinity 
-GDWLH	NN Infinity JJ Infinity 
-MTMXIM	NN Infinity VB Infinity 
-ETWIIN	NN Infinity 
-MEWDD	JJ Infinity 
-NTNH	VB Infinity 
-LNHL	VB Infinity 
-NIGWSIM	NN Infinity 
-DWRF	VB Infinity 
-MXMWD	NNP Infinity 
-DWRI	NN Infinity NNP Infinity 
-NTNW	VB Infinity 
-TXZITW	NN Infinity 
-001	CD Infinity 
-AINJRS	NN Infinity 
-ANJI	MOD Infinity 
-002	CD Infinity 
-TLMIDI	NNT Infinity 
-003	CD Infinity 
-004	CD Infinity 
-AWPIW	NN Infinity 
-005	CD Infinity 
-006	CD Infinity 
-007	CD Infinity 
-008	CD Infinity 
-MQLE	NN Infinity 
-QWMNDW	NNT Infinity NN Infinity 
-AWJWBIWGRPIH	NN Infinity 
-GANDI	NNP Infinity 
-AWPIR	NNP Infinity 
-QRB	NN Infinity NNT Infinity 
-QRA	VB Infinity 
-AWQJBIW	NNP Infinity 
-QRE	NN Infinity 
-NTQL	VB Infinity 
-QRH	VB Infinity 
-IBDWQ	VB Infinity 
-PAFISJIT	JJ Infinity 
-MQRQEIM	NN Infinity 
-QRI	RB Infinity 
-AWJWBIWGRPIT	JJ Infinity 
-QRN	NNT Infinity NN Infinity 
-QRP	NNP Infinity 
-LHMXIF	VB Infinity 
-LMHDRIN	MOD Infinity 
-011	CD Infinity 
-012	CD Infinity 
-013	CD Infinity 
-DWUX	NN Infinity NNT Infinity 
-HFTIIKW	VB Infinity 
-HTREMTI	VB Infinity 
-MFDRWT	VB Infinity 
-PAFISJIM	NN Infinity 
-MWCHRT	VB Infinity 
-IWFLMW	VB Infinity 
-FALWTIHM	NN Infinity 
-ZWRX	VB Infinity 
-QSM	NN Infinity 
-QSL	NNP Infinity 
-SWGIW	NN Infinity 
-MLKWTIT	JJ Infinity 
-021	CD Infinity 
-022	CD Infinity 
-HTWWDEH	VB Infinity 
-FMRNIM	NN Infinity JJ Infinity 
-HPTIE	VB Infinity 
-027	CD Infinity 
-ABIDWT	NN Infinity 
-FMRNIT	JJ Infinity 
-SWGIH	NN Infinity 
-MTAIM	JJ Infinity VB Infinity 
-MQNH	VB Infinity 
-HTLHBW	VB Infinity 
-SWGIM	NN Infinity 
-NTQE	VB Infinity 
-IEDH	NN Infinity 
-IEDI	NNT Infinity 
-7001	CD Infinity 
-JIPWLIM	NN Infinity 
-DWWI	NN Infinity 
-LWQAL	NN Infinity 
-031	CD Infinity 
-032	CD Infinity 
-SBAI	JJ Infinity 
-035	CD Infinity 
-FIIKIM	JJ Infinity 
-036	CD Infinity 
-AWTIWT	NNT Infinity NN Infinity 
-DWWX	VB Infinity 
-MJWRPT	JJ Infinity 
-TWLFWT	VB Infinity 
-HWLIWWD	NNP Infinity 
-KWWIT	NNP Infinity 
-JIPWLIT	JJ Infinity 
-BQRB	IN Infinity 
-QUG	NN Infinity NNT Infinity 
-QUM	NN Infinity 
-BNBNIFTI	NNP Infinity 
-QUQ	NN Infinity 
-NWJFIM	VB Infinity 
-LHBXIN	VB Infinity 
-045	CD Infinity 
-MWJXT	VB Infinity 
-MEWGL	JJ Infinity 
-QWBNIT	JJ Infinity 
-IIEWDIIM	JJ Infinity 
-NCJWW	VB Infinity 
-FXWRI	NNT Infinity 
-MQRR	JJ Infinity 
-SIPWRIW	NN Infinity 
-AWPIH	NN Infinity 
-NISIWNWTIW	NN Infinity 
-AIRWEI	NNT Infinity 
-PQWDWT	NN Infinity NNT Infinity 
-PIPUA	NNP Infinity 
-051	CD Infinity 
-052	CD Infinity 
-053	CD Infinity 
-IEFW	VB Infinity 
-AMSLM	NNP Infinity 
-057	CD Infinity 
-NISIWNWTIH	NN Infinity 
-TEFH	VB Infinity 
-IFQIE	VB Infinity 
-TEMID	VB Infinity 
-XQRW	VB Infinity 
-MWJWT	NNT Infinity 
-MFKNTAWT	NN Infinity 
-BQRH	NN Infinity 
-MQSM	NNT Infinity 
-MIAMI	NNP Infinity 
-ALPIM	CD Infinity 
-QWD	NN Infinity 
-PWXDIM	VB Infinity 
-DWXH	VB Infinity 
-FWTPT	NN Infinity 
-AWRCQI	NNP Infinity 
-QWL	NN Infinity NNT Infinity 
-FWTPW	NN Infinity 
-MEDIPIM	VB Infinity 
-QWQ	NNP Infinity 
-061	CD Infinity 
-QWR	NN Infinity 
-9691	CD Infinity 
-RWMMH	NNP Infinity 
-067	CD Infinity 
-MTAMC	VB Infinity 
-MQRA	NNT Infinity 
-FWTQH	VB Infinity 
-IEFH	VB Infinity 
-MQRH	NNT Infinity NN Infinity 
-MQRI	NNT Infinity 
-MRWAIINIM	NN Infinity 
-AINJLIGNJIT	JJ Infinity 
-GZIRWT	NNT Infinity 
-TEMWD	VB Infinity 
-APFRWTH	NN Infinity 
-LNWKX	IN Infinity 
-GWNIM	NN Infinity 
-IEID	VB Infinity 
-IWPIEW	VB Infinity 
-MQUM	NN Infinity 
-MEWJR	JJ Infinity 
-IEIL	JJ Infinity 
-QBWEH	JJ Infinity 
-HBDL	NN Infinity NNT Infinity 
-ATNIWT	JJ Infinity 
-HBDN	NNP Infinity 
-MEWLH	JJ Infinity 
-MDRFIM	NN Infinity 
-081	CD Infinity 
-MGDLIM	NN Infinity 
-KWWNH	NN Infinity 
-TWPSIM	VB Infinity 
-085	CD Infinity 
-PNLWPH	NNP Infinity 
-MDHIMH	NN Infinity JJ Infinity 
-KWWNT	NNT Infinity NN Infinity 
-NTWN	VB Infinity NN Infinity 
-LNQH	NNP Infinity 
-SWCIALISJI	JJ Infinity 
-SIPWRIM	NN Infinity 
-LNSX	VB Infinity 
-NFTDL	VB Infinity 
-HFPEWT	NN Infinity 
-HETQT	NNT Infinity 
-NABQWT	VB Infinity 
-TQPWT	JJ Infinity 
-IDIDIW	NN Infinity 
-PWRSMH	VB Infinity 
-HETQH	NN Infinity 
-ISWRW	VB Infinity 
-SNIGWR	NN Infinity 
-MQWR	NNT Infinity NN Infinity 
-LNTQ	VB Infinity 
-MQWM	NNT Infinity NN Infinity 
-SWGRT	NNT Infinity 
-CBEWNIWT	NN Infinity JJ Infinity 
-SWGRI	NNT Infinity 
-FTILIM	NN Infinity 
-AMRWTIHM	NN Infinity 
-SEWDIIM	JJ Infinity 
-IDIDIH	NN Infinity 
-IDIDIM	NN Infinity 
-BXRIIN	NNP Infinity 
-FXWXH	JJ Infinity 
-HQPDTW	NN Infinity 
-IFQLW	VB Infinity 
-KLWMR	MOD Infinity RB Infinity 
-IENIQ	VB Infinity 
-FIIQH	NNP Infinity 
-HBIS	VB Infinity 
-TELH	VB Infinity 
-MAWFPZ	VB Infinity 
-EMWSIM	VB Infinity JJ Infinity 
-SBIB	IN Infinity RB Infinity 
-AIFTW	NN Infinity 
-RWMUH	NNP Infinity 
-QWDFBIC	NNP Infinity 
-MTGEGEIM	VB Infinity 
-SBIR	JJ Infinity VB Infinity 
-MIAWS	NN Infinity 
-NZIRWT	NN Infinity 
-ANWF	NN Infinity 
-SMPDWRIH	NNP Infinity 
-LHFBIT	VB Infinity 
-AIFTI	NN Infinity 
-LNTX	VB Infinity 
-QISRIH	NNP Infinity 
-HBIA	VB Infinity 
-HBIE	VB Infinity 
-IIZWM	NNT Infinity 
-LCWRK	IN Infinity 
-NWJINGHAM	NNP Infinity 
-HBIJ	VB Infinity 
-IELH	VB Infinity 
-HWMNISJI	JJ Infinity 
-HBIN	VB Infinity 
-LNWX	VB Infinity 
-AXRAIWT	JJ Infinity 
-AIFWM	NN Infinity 
-QBWCT	NNT Infinity 
-MAWFRT	JJ Infinity 
-PRANCSQH	NNP Infinity 
-MERBIIM	JJ Infinity 
-IENW	VB Infinity 
-LWEGIM	VB Infinity 
-AIWDIH	NNP Infinity 
-LRAWT	VB Infinity 
-ADWARD	NNP Infinity 
-HXLPTW	NN Infinity 
-AIFWR	NN Infinity NNT Infinity 
-IHWWH	AUX Infinity 
-FIINR	NNP Infinity 
-TMWNWTIW	NN Infinity 
-MEWLM	RB Infinity MOD Infinity 
-MINIAPWLIS	NNP Infinity 
-QBWCH	NN Infinity 
-GBWHIM	JJ Infinity 
-HFTRBB	VB Infinity 
-LLQIN	NNP Infinity 
-GLWMWT	VB Infinity 
-HFPETW	NN Infinity 
-QIJWB	NN Infinity 
-LNWD	VB Infinity 
-PAZIH	NNP Infinity 
-HFPETM	NN Infinity 
-RDWAN	NNP Infinity 
-AWWRWR	NN Infinity 
-IENH	NN Infinity 
-MWESQIM	JJ Infinity VB Infinity 
-TQCIBIM	NN Infinity 
-RAF	NNP Infinity NN Infinity NNT Infinity 
-RAH	VB Infinity 
-MWCIAH	VB Infinity 
-HFPETH	NN Infinity 
-TQCIBIT	JJ Infinity 
-QBWEIM	JJ Infinity 
-QWRET	VB Infinity 
-RAW	VB Infinity 
-PNSIIT	NNT Infinity 
-16.30	CD Infinity 
-IEQB	NNP Infinity 
-CLIINIM	NN Infinity 
-RBE	NN Infinity NNT Infinity 
-MFDRIM	NN Infinity VB Infinity 
-HBNH	NN Infinity 
-IDIIM	NN Infinity 
-RBI	JJT Infinity NN Infinity 
-RBH	JJ Infinity 
-AKZBWT	NN Infinity 
-MFXQW	NN Infinity 
-SGIRTM	NN Infinity 
-PSIKWMJRIWT	JJ Infinity 
-IIXWD	NN Infinity 
-RBT	JJT Infinity 
-BWKWM	NNP Infinity 
-RBW	NN Infinity 
-MAIDK	RB Infinity 
-HWFGH	VB Infinity 
-QLCQIN	NNP Infinity 
-EIQWL	NN Infinity 
-MFMEWTIT	JJ Infinity 
-IIXWS	NN Infinity 
-RCH	VB Infinity 
-IDIHM	NN Infinity 
-HLWWIH	NN Infinity 
-SBLN	NN Infinity 
-HMIJH	VB Infinity 
-KTLIW	NN Infinity 
-EIRWNIT	JJ Infinity 
-SBLW	VB Infinity 
-TTXIL	VB Infinity 
-FWRWT	NNT Infinity NN Infinity 
-IMCAW	VB Infinity 
-HERTI	VB Infinity 
-AWJWQRJ	NN Infinity 
-16.11	CD Infinity 
-HAFIM	VB Infinity 
-QRBWT	NN Infinity 
-RCX	VB Infinity NN Infinity NNT Infinity 
-RCW	VB Infinity 
-FRIRWTIWT	NN Infinity 
-BWHQIM	JJ Infinity 
-PJRIQ	NNP Infinity 
-MLIAH	NN Infinity 
-PRQLIJ	NN Infinity NNT Infinity 
-MXLCT	VB Infinity 
-RDI	NNP Infinity 
-MIWXLT	JJ Infinity 
-HWFGW	VB Infinity 
-PWTXIM	VB Infinity 
-MEBRIM	NN Infinity 
-MLIAT	NNT Infinity 
-RDP	VB Infinity 
-HBNT	NNT Infinity 
-FIKNE	VB Infinity 
-MDRKH	NN Infinity 
-MFXQI	NNT Infinity 
-BRAF	RB Infinity 
-LHTENIIN	VB Infinity 
-BRAD	NNP Infinity 
-SPRDI	NN Infinity 
-REB	NN Infinity 
-PIINSWD	NNP Infinity 
-REF	NN Infinity NNT Infinity 
-REH	JJ Infinity NN Infinity 
-MSIRWT	VB Infinity NNT Infinity NN Infinity 
-DWBRIM	NN Infinity 
-MWFQEWT	VB Infinity 
-REL	NN Infinity 
-QWRAT	NN Infinity 
-MXLIM	VB Infinity 
-HQPDTI	VB Infinity 
-HERWT	NNT Infinity 
-ABRNATI	NNP Infinity 
-QWRAN	NNP Infinity NN Infinity 
-MRBI	JJ Infinity 
-MRBK	NNP Infinity 
-BRBF	NNP Infinity 
-HBINW	VB Infinity 
-ANDRII	NNP Infinity 
-IEQWBI	NNP Infinity 
-MXLIP	VB Infinity JJ Infinity 
-MRBH	VB Infinity DT Infinity 
-HTELLWT	NN Infinity 
-FTIQH	NN Infinity 
-RFM	VB Infinity 
-PWRJRJIM	NN Infinity 
-HBINH	VB Infinity 
-TZMWRT	NNT Infinity 
-RFP	NNP Infinity 
-MIJRAN	NNP Infinity 
-IDIDWT	NN Infinity 
-RFT	NN Infinity NNT Infinity 
-QWRBN	NNT Infinity NN Infinity 
-MRAH	VB Infinity NN Infinity 
-MRAF	RB Infinity MOD Infinity 
-RGF	NN Infinity NNT Infinity 
-QHILIIH	NN Infinity 
-RGE	NN Infinity NNT Infinity 
-SPWRJIBI	JJ Infinity 
-RGL	NN Infinity NNT Infinity 
-BWDDWT	JJ Infinity 
-JHWR	JJ Infinity 
-DRKIHM	NN Infinity 
-PLPLIM	NN Infinity 
-HWFLM	VB Infinity 
-HWFLK	VB Infinity 
-EIQRI	NNT Infinity JJ Infinity 
-NSXRW	VB Infinity 
-IEWD	NN Infinity 
-TQNWT	NN Infinity 
-RHB	NNP Infinity 
-TQNWN	NN Infinity NNT Infinity 
-EIQRH	NN Infinity 
-QJINIM	NN Infinity 
-ARBLI	NNP Infinity 
-MRDP	NN Infinity 
-XRDI	JJ Infinity 
-XRDH	NN Infinity 
-SWERT	JJ Infinity 
-MWZLIM	JJ Infinity 
-MQWMWNIM	NN Infinity 
-EIQRW	NN Infinity 
-ASTJIIM	JJ Infinity 
-JPFIM	JJ Infinity 
-HAFMH	NN Infinity 
-HIFWWH	VB Infinity 
-QRBTM	NN Infinity 
-MBLIM	VB Infinity 
-IGRWR	VB Infinity 
-HWFMJ	VB Infinity 
-RID	NNP Infinity 
-IGRWM	VB Infinity 
-ZINWQI	NNT Infinity 
-MRCH	VB Infinity NN Infinity 
-SBRW	VB Infinity 
-LDXWT	VB Infinity 
-RII	NNP Infinity 
-IDINW	NN Infinity 
-LDXWQ	VB Infinity 
-MAMINH	VB Infinity 
-KDWRIHM	NN Infinity 
-DRQSL	NNP Infinity 
-RIQ	JJ Infinity 
-BIBIM	NN Infinity 
-RIX	NN Infinity 
-PRIFH	NN Infinity 
-PGIFT	NNT Infinity 
-MRFM	NN Infinity 
-GALWP	NNP Infinity 
-SBIBH	NN Infinity 
-ERKIM	NN Infinity 
-RJJ	NN Infinity 
-MIWXSWT	VB Infinity 
-PRIFT	NNT Infinity 
-ARBET	CDT Infinity 
-MWXFIT	JJ Infinity 
-MKTBIM	NN Infinity 
-HWFMW	VB Infinity 
-EBWTWT	NN Infinity 
-SBTI	NN Infinity 
-RKB	NN Infinity 
-SPRJQ	NNP Infinity 
-RKF	NNT Infinity VB Infinity NN Infinity 
-ARBEH	CDT Infinity CD Infinity 
-RKH	JJ Infinity 
-HBISH	VB Infinity 
-DIWWX	NN Infinity VB Infinity 
-LBRWX	VB Infinity 
-SPRIW	NN Infinity 
-NXFDH	VB Infinity 
-ZIIDNBRG	NNP Infinity 
-JIRWP	NN Infinity 
-NXFDW	VB Infinity 
-HLWWAH	NN Infinity 
-RKZ	NN Infinity NNT Infinity 
-SBWN	NN Infinity 
-MAIIM	VB Infinity 
-XRGW	VB Infinity 
-XFWPWT	VB Infinity 
-IWWNIWT	NN Infinity 
-HTBJLH	VB Infinity 
-SBWR	VB Infinity 
-FMWRT	NNT Infinity 
-NCIGW	NN Infinity 
-RKIFH	NN Infinity 
-KLBW	NNP Infinity 
-HBITH	RB Infinity 
-DMWIWT	NN Infinity 
-RKIFT	NNT Infinity 
-FMWRH	NN Infinity 
-MRIC	VB Infinity 
-NFRQH	VB Infinity 
-MIWXDT	JJ Infinity 
-MRGF	VB Infinity 
-BRIT	NN Infinity NNT Infinity 
-PRIIM	NNP Infinity 
-MMLKH	NN Infinity 
-RMH	NN Infinity 
-QWRPW	NNP Infinity 
-NAMRIM	VB Infinity 
-QWLJIM	VB Infinity 
-HPNIITM	NN Infinity 
-RMJ	NNP Infinity 
-RMI	NNP Infinity 
-HTLWCCW	VB Infinity 
-RMN	NNP Infinity 
-MMLKT	NNT Infinity 
-PWRJSMWT	NNP Infinity 
-PWMBIT	JJ Infinity 
-HCLXH	NN Infinity 
-RMT	NNT Infinity 
-CWEDT	VB Infinity 
-NXFBT	VB Infinity 
-HCLXT	NNT Infinity 
-NCIGI	NNT Infinity 
-NFRPH	VB Infinity 
-RMZ	NN Infinity 
-NCIGH	NN Infinity 
-QICWNIIM	JJ Infinity NN Infinity 
-MXLQT	NNT Infinity 
-MKFLH	NN Infinity 
-XRIP	JJ Infinity 
-PNIITNW	NN Infinity 
-BIZARIT	JJ Infinity 
-XRJH	NN Infinity 
-MXRWZWT	NNT Infinity 
-MZRXI	NNP Infinity JJ Infinity 
-PWRJWGL	NNP Infinity 
-NITWXI	NNT Infinity 
-HFTKNEH	VB Infinity 
-PLILIWT	JJ Infinity 
-MRIM	VB Infinity JJ Infinity NNP Infinity 
-XZQWT	JJ Infinity 
-MRIN	NNP Infinity 
-FXQNIWT	NN Infinity 
-LHWSIP	VB Infinity 
-XRIG	JJ Infinity NN Infinity 
-BRKH	NNP Infinity NN Infinity 
-1.1	CD Infinity 
-PRICT	NNT Infinity 
-1.2	CD Infinity 
-1.3	CD Infinity 
-1.4	CD Infinity 
-MRIW	NNP Infinity 
-1.6	CD Infinity 
-XRIF	NNP Infinity 
-MXLQH	NN Infinity 
-QBWEWT	JJ Infinity 
-MIICGIM	VB Infinity 
-LXRWJ	VB Infinity 
-LJINW	JJ Infinity 
-PRIDH	NN Infinity 
-HTMSRWT	NN Infinity 
-FMWNT	CDT Infinity 
-RPI	NNP Infinity 
-MPGIFIM	VB Infinity 
-SPRIM	NN Infinity 
-LXRWG	VB Infinity 
-FMWNH	CD Infinity CDT Infinity 
-EWZRW	NN Infinity 
-PGIEH	NN Infinity 
-LMRWT	IN Infinity 
-HTAGDW	VB Infinity 
-EWZRT	NNT Infinity NN Infinity 
-LHCIT	VB Infinity 
-JKNWLWGI	JJ Infinity 
-RQE	NN Infinity NNT Infinity 
-MAIIMWT	JJ Infinity 
-JIBH	NN Infinity 
-JIBM	NN Infinity 
-PGIET	NNT Infinity 
-BRMN	NNP Infinity 
-RQM	VB Infinity 
-SRGLIM	NN Infinity 
-BWRMZI	JJ Infinity 
-MRKZ	NNT Infinity NN Infinity 
-LHCIB	VB Infinity 
-MKFIR	NN Infinity NNT Infinity 
-LHCIC	VB Infinity 
-100	CD Infinity 
-XRKI	NNT Infinity 
-101	CD Infinity 
-LHCIE	VB Infinity 
-LHCIG	VB Infinity 
-THPWKWT	NN Infinity 
-104	CD Infinity 
-JIBW	NNP Infinity NN Infinity 
-LHCIL	VB Infinity 
-PGIFH	NN Infinity 
-HPSDW	NN Infinity 
-MGWBFT	JJ Infinity 
-MFMIEIM	VB Infinity 
-HPSDI	NNT Infinity 
-QIIMW	VB Infinity 
-QIIMT	VB Infinity JJ Infinity 
-IFBW	VB Infinity 
-110	CD Infinity 
-LKLWL	VB Infinity 
-111	CD Infinity 
-QIIMA	NN Infinity 
-HPSDH	NN Infinity 
-LKLWK	NN Infinity 
-TFBC	NNT Infinity 
-FINWIIM	NN Infinity 
-LKLWT	VB Infinity 
-BRNE	NNP Infinity 
-119	CD Infinity 
-BXINTW	NN Infinity 
-DXTH	VB Infinity 
-CRWRH	JJ Infinity 
-BXINTM	NN Infinity 
-120	CD Infinity 
-HTQFRWTW	NN Infinity 
-BXINTH	NN Infinity 
-126	CD Infinity 
-XMWFIM	JJ Infinity 
-ALQLS	NNP Infinity 
-QIINI	NNP Infinity 
-QWNCPCIH	NN Infinity 
-MLIQH	NNP Infinity 
-PNSIWT	NN Infinity 
-DXWP	JJ Infinity 
-MTPTXWT	JJ Infinity 
-131	CD Infinity 
-DXWS	JJ Infinity 
-TBWANH	VB Infinity 
-EIQFT	JJ Infinity 
-QWRWT	NNT Infinity NN Infinity 
-XRPH	NN Infinity 
-CWPRIM	NN Infinity 
-MARXIM	NN Infinity 
-KLIH	NN Infinity 
-RUG	NNP Infinity 
-KLIM	NN Infinity 
-DIWMA	NNP Infinity 
-SBILH	JJ Infinity 
-KLIL	MOD Infinity RB Infinity 
-FQRWQH	NNP Infinity 
-QCBAWT	NNT Infinity NN Infinity 
-BRQW	NNP Infinity 
-KLIW	NN Infinity 
-BRQT	NNP Infinity 
-141	CD Infinity 
-MILIARDIM	CD Infinity 
-IICWRW	NN Infinity 
-NACIT	JJ Infinity 
-MRPA	NN Infinity 
-XDRIM	NN Infinity 
-SXIJT	NNT Infinity 
-149	CD Infinity 
-MXPIRH	JJ Infinity 
-NMFKW	VB Infinity 
-NACIM	NN Infinity 
-SPRTI	JJ Infinity 
-NMFKT	VB Infinity 
-KLLM	NN Infinity 
-JIIM	NNP Infinity 
-MLIWN	CD Infinity 
-HZDMNWT	NN Infinity 
-RWLJH	NN Infinity 
-HESIQ	VB Infinity 
-MCWINIM	JJ Infinity 
-JIIS	NN Infinity 
-150	CD Infinity 
-KLLW	VB Infinity 
-QISINGR	NNP Infinity 
-TTXTN	VB Infinity 
-AMWNTW	NN Infinity 
-MARXIW	NN Infinity 
-RWB	DT Infinity NN Infinity 
-HCDH	RB Infinity 
-RWD	NNP Infinity 
-HCJWPPW	VB Infinity 
-MRSI	NNP Infinity 
-MJAPISIWT	JJ Infinity 
-HCMDH	NN Infinity 
-RWE	NN Infinity NNT Infinity 
-RWI	NNP Infinity 
-MRQM	NN Infinity 
-NAKLIM	VB Infinity 
-TPAWRNIT	NN Infinity 
-IHLWMI	NNT Infinity 
-SRIQWT	NN Infinity 
-HCBT	NNT Infinity 
-RWQ	NNP Infinity 
-MWLIKIM	VB Infinity 
-RWT	NNP Infinity 
-BNQIM	NN Infinity 
-MWBXRWT	JJ Infinity 
-MILWWL	NNP Infinity 
-RWX	NN Infinity NNT Infinity 
-DWBRWT	JJT Infinity 
-TFEH	CD Infinity 
-RWZ	NNP Infinity 
-NXFPT	VB Infinity 
-NXFPW	VB Infinity 
-WINICIW	NNP Infinity 
-HPSID	VB Infinity 
-WWNSDII	NNP Infinity 
-KLLI	JJ Infinity NNT Infinity 
-RXB	JJ Infinity JJT Infinity 
-KLLH	VB Infinity 
-NXFPH	VB Infinity 
-AIIFWWARIH	NNP Infinity 
-MRTP	NNT Infinity NN Infinity 
-RXL	NNP Infinity 
-TTXRH	VB Infinity 
-HCET	NNT Infinity 
-BRLINAIT	JJ Infinity 
-GWMEH	NNP Infinity 
-MWNIWT	NN Infinity 
-HCMDT	NNT Infinity 
-TPIFWT	NN Infinity 
-MEWNWT	NNT Infinity 
-IFIF	JJ Infinity NN Infinity 
-BSISIHM	NN Infinity 
-KTWBIM	JJ Infinity VB Infinity 
-MRSR	NNP Infinity 
-HTBJAH	VB Infinity 
-XZWNWTIW	NN Infinity 
-AMWNTH	NN Infinity 
-HDPIS	VB Infinity 
-180	CD Infinity 
-LIFUJ	NN Infinity 
-AIMHWT	NN Infinity 
-FIJWT	NNT Infinity NN Infinity 
-MXLWT	NN Infinity 
-IPANIIM	JJ Infinity 
-HXJAH	NN Infinity 
-FIJWR	NN Infinity 
-HCEH	NN Infinity 
-PGIWN	NN Infinity 
-RZH	JJ Infinity 
-MBCEIT	JJ Infinity 
-FBWEI	JJ Infinity 
-HCGT	NNT Infinity 
-IFPIE	VB Infinity 
-8491	CD Infinity 
-SMIRH	NNP Infinity 
-ANWKI	JJ Infinity 
-HAWWRD	NNP Infinity 
-PRIWN	NN Infinity 
-25,000	CD Infinity 
-MRWN	NNP Infinity 
-MRWM	NNP Infinity NNT Infinity 
-SBIRH	JJ Infinity 
-KIFRWN	NN Infinity 
-ARNWLD	NNP Infinity 
-IEMDW	VB Infinity 
-NWCRI	JJ Infinity 
-NWCRH	VB Infinity 
-MKFWR	NN Infinity 
-IFIR	JJ Infinity 
-MWQSIN	NNP Infinity 
-NWCRW	VB Infinity 
-TFIM	VB Infinity 
-BRWR	JJ Infinity VB Infinity 
-AMWNIM	NN Infinity 
-RKIST	NNT Infinity 
-BRWN	NN Infinity 
-KLPI	IN Infinity 
-BRWM	NN Infinity 
-BRWK	NNP Infinity JJ Infinity 
-TPIFTW	NN Infinity 
-HCGH	NN Infinity 
-MBCEIM	VB Infinity NN Infinity 
-AWDISIAWS	NNP Infinity 
-HCIT	VB Infinity 
-ERIMWT	NNT Infinity NN Infinity 
-IFLX	VB Infinity 
-PRIXT	NNT Infinity 
-KIMAI	NN Infinity 
-IFMF	VB Infinity 
-JIPH	NN Infinity 
-TMCIT	NNT Infinity 
-IFWBIM	NN Infinity 
-TFLX	VB Infinity 
-HCMID	VB Infinity 
-MKFWL	NN Infinity 
-QASBH	NN Infinity 
-RGFWTIHM	NN Infinity 
-BRXH	VB Infinity 
-XRWF	NNP Infinity 
-BRZI	NNT Infinity 
-FIJTI	JJ Infinity 
-FMWAL	NNP Infinity 
-MRWT	NN Infinity 
-ARNWNH	NN Infinity 
-FIJTH	NN Infinity 
-LHFAIR	VB Infinity 
-MRXB	NNT Infinity NN Infinity 
-7191	CD Infinity 
-XRWB	NN Infinity 
-XRWC	JJ Infinity 
-MFTWLLIM	VB Infinity 
-MRXC	NN Infinity 
-HCIB	VB Infinity 
-GREINIM	NN Infinity 
-HCIE	VB Infinity 
-XRWN	NNP Infinity NNT Infinity 
-HCIG	VB Infinity 
-MRXP	VB Infinity 
-XRWM	NN Infinity 
-MRXQ	NNT Infinity NN Infinity 
-IFLM	VB Infinity 
-HWGBL	VB Infinity 
-IFNW	VB Infinity 
-NWCWT	NN Infinity 
-SPRWT	NNT Infinity NN Infinity 
-XFWPIM	JJ Infinity 
-SMINR	NN Infinity 
-LHGDIR	VB Infinity 
-AIGWR	NNP Infinity 
-HESQT	NNT Infinity 
-HWSIPH	VB Infinity 
-PRISH	NN Infinity 
-TGRWM	VB Infinity 
-HCLH	NN Infinity 
-JIRN	NNP Infinity 
-AIGWD	NNT Infinity NN Infinity NNP Infinity 
-BRZL	NN Infinity 
-JIPS	VB Infinity 
-HWSIPW	VB Infinity 
-PRIST	NNT Infinity 
-JIPX	VB Infinity 
-HBJIX	VB Infinity 
-CWDQT	JJ Infinity 
-HPSQT	NNT Infinity 
-ANWFH	JJ Infinity 
-IFNH	VB Infinity JJ Infinity 
-ANWFI	JJ Infinity 
-HWKRZW	VB Infinity 
-HWGDR	VB Infinity 
-IFNM	VB Infinity 
-HPSQH	NN Infinity 
-SAM	NNP Infinity 
-MTRGFT	VB Infinity 
-TTXZH	VB Infinity 
-NIWQASL	NNP Infinity 
-JIST	NNT Infinity 
-HWGFH	VB Infinity 
-PLWRIDH	NNP Infinity 
-LAPFR	VB Infinity 
-MIRWMIT	NNP Infinity 
-HXJIA	VB Infinity 
-QIISI	NNP Infinity 
-SBB	NNT Infinity 
-TFPR	VB Infinity 
-SBA	NN Infinity NNP Infinity 
-AXIDIM	JJ Infinity 
-KLWM	NN Infinity 
-SIXRRH	VB Infinity 
-PRLMNJARIT	JJ Infinity 
-SBL	VB Infinity NN Infinity 
-KLWT	NNT Infinity 
-SBK	NN Infinity 
-NFARIM	VB Infinity 
-JIRT	NNT Infinity 
-NXFWL	NNT Infinity 
-SBW	NN Infinity 
-SIKWNIM	NN Infinity 
-LHGDIL	VB Infinity 
-JISH	NN Infinity 
-QFIXWIWT	NN Infinity 
-HWGFW	VB Infinity 
-BWJWT	NN Infinity NNT Infinity 
-QJLWG	NN Infinity 
-HTNQFWT	NN Infinity 
-PWELIM	VB Infinity NN Infinity 
-HWKRXW	VB Infinity 
-XWIBW	VB Infinity 
-KWXWT	NN Infinity NNT Infinity 
-LHTMQD	VB Infinity 
-MEWDDIM	VB Infinity 
-NERMW	VB Infinity 
-EFIRI	JJ Infinity 
-IBFIM	JJ Infinity 
-LCXWQ	VB Infinity 
-HKFIR	VB Infinity 
-MHGRIM	NN Infinity 
-HKFIL	VB Infinity 
-SDR	NN Infinity NNT Infinity 
-LNXWT	VB Infinity 
-NAWTIM	JJ Infinity 
-TPWZIM	NN Infinity 
-MSLWLIM	NN Infinity 
-HXLPH	NN Infinity 
-IFRH	JJ Infinity 
-SED	NN Infinity 
-PTRWNWT	NN Infinity NNT Infinity 
-LNXWL	VB Infinity 
-NCIGIHM	NN Infinity 
-NERMH	VB Infinity 
-XIIBIM	VB Infinity 
-LHQDIM	VB Infinity 
-LHRGIE	VB Infinity 
-JIWX	NN Infinity 
-LIIEL	VB Infinity 
-IDIETW	NN Infinity 
-BWQEWT	VB Infinity 
-ECBNWT	NN Infinity 
-NERKW	VB Infinity 
-PRWJQCIH	NN Infinity 
-IFUE	NNP Infinity 
-NERKT	VB Infinity 
-IFRWR	VB Infinity 
-IHWDIWT	JJ Infinity 
-MDRIDI	JJ Infinity 
-HXLPT	NNT Infinity 
-PQIDI	NNT Infinity 
-AIZWFHI	DT Infinity 
-MNHIGIW	NN Infinity 
-MFWLBT	JJ Infinity 
-IWCEW	VB Infinity 
-IMFIK	VB Infinity 
-HKFLT	NNT Infinity 
-MFXRRIM	VB Infinity 
-NERKH	VB Infinity 
-MNHIGIH	NN Infinity 
-JIWL	NN Infinity 
-LIIFB	VB Infinity 
-SGL	NNP Infinity NN Infinity 
-MNHIGIM	NN Infinity 
-SGN	NNT Infinity NN Infinity 
-MSQNWT	NN Infinity NNT Infinity 
-EFINW	VB Infinity 
-SGR	NN Infinity VB Infinity 
-MDGIFH	VB Infinity 
-IWCIA	VB Infinity 
-MJBXIM	NN Infinity 
-HSKIMW	VB Infinity 
-IFWB	VB Infinity NN Infinity 
-ILCIN	NNP Infinity 
-HCTH	NN Infinity 
-BKIRI	NNT Infinity 
-BKIRH	JJ Infinity 
-HSKIMH	VB Infinity 
-6,592	CD Infinity 
-SI.	NNP Infinity 
-MFPXWT	NNT Infinity NN Infinity 
-SHR	NN Infinity 
-SWWINDWN	NNP Infinity 
-LHIMNE	VB Infinity 
-IIKNSW	VB Infinity 
-IFWW	VB Infinity 
-IQRWT	JJ Infinity 
-MEWRRT	VB Infinity 
-FILMW	VB Infinity 
-LHFIA	VB Infinity 
-TBERH	NN Infinity 
-LHFIB	VB Infinity 
-SJ.	NNP Infinity 
-TFUT	NNP Infinity 
-ATIQH	NN Infinity 
-HWRFEW	VB Infinity 
-LHFIG	VB Infinity 
-SIN	NNP Infinity 
-HWQCBW	VB Infinity 
-SIP	NN Infinity 
-MFPXTW	NN Infinity 
-WRIACIH	NN Infinity 
-ICIRH	NN Infinity 
-MWSIQLIT	JJ Infinity 
-BICIM	NN Infinity 
-MWLJI	MOD Infinity 
-RAFWNWT	JJ Infinity NN Infinity 
-CIBWRI	JJ Infinity 
-MNGNWN	NNT Infinity NN Infinity 
-SJH	VB Infinity 
-ICIRT	NNT Infinity 
-JIPWSIT	JJ Infinity 
-LHIMLJ	VB Infinity 
-FHIIH	NN Infinity 
-SJR	VB Infinity 
-MWLIK	VB Infinity NN Infinity 
-MWLIN	NNP Infinity 
-FPAIIR	NNP Infinity 
-NWFAT	VB Infinity JJT Infinity 
-QWRBNWT	NNT Infinity NN Infinity 
-IDIEWT	NN Infinity 
-MSEM	NN Infinity 
-SRJNIWT	JJ Infinity 
-HIBJIM	NN Infinity 
-MSEH	NN Infinity 
-HTXILW	VB Infinity 
-MFPXTH	NN Infinity 
-FMXWT	NN Infinity 
-MFPXTI	JJ Infinity 
-IFXQ	VB Infinity 
-MEWRPL	JJ Infinity 
-NWFAI	NNT Infinity 
-NWFAH	NN Infinity 
-SKR	NN Infinity 
-MSEW	NN Infinity 
-HKFRH	NN Infinity 
-WAJNFIID	NNP Infinity 
-HTXIIBWT	NN Infinity 
-AWRWT	NN Infinity 
-MKINH	VB Infinity 
-MBQRIW	NN Infinity 
-EFIIH	NN Infinity 
-SLE	NNT Infinity 
-AWRWN	NNP Infinity 
-HXJIAW	VB Infinity 
-MICGI	NNT Infinity 
-GIFTM	NN Infinity 
-PIRSM	VB Infinity 
-LHTMID	VB Infinity 
-EFIIT	NNT Infinity 
-SLIDH	NN Infinity 
-BSIS	NN Infinity NNT Infinity 
-APFR	VB Infinity 
-MSGD	NN Infinity 
-QILLW	VB Infinity 
-GIFTW	NN Infinity 
-PWBIZM	NN Infinity 
-KMAL	NNP Infinity 
-SMK	NN Infinity NNT Infinity VB Infinity 
-PWRWMIM	NNP Infinity 
-SML	NN Infinity NNT Infinity 
-AIIMN	NNP Infinity 
-MBQRIM	NN Infinity VB Infinity 
-ASISJNJIT	NN Infinity 
-MEWRER	JJ Infinity 
-MKWNWT	NNT Infinity NN Infinity 
-LARWB	VB Infinity 
-WWRFH	NNP Infinity 
-LAWMNIWT	JJ Infinity 
-MKILH	VB Infinity 
-XSIN	JJ Infinity 
-BICEW	VB Infinity 
-HTPRSM	VB Infinity 
-IZWMWT	JJ Infinity 
-IXIDWTIHM	NN Infinity 
-SNJ	NN Infinity 
-FMXTM	NN Infinity 
-SMLIW	NN Infinity 
-MEWRBT	JJ Infinity 
-SMLIM	NN Infinity 
-DIXWI	NN Infinity 
-ARCIT	NN Infinity JJ Infinity 
-SMLIT	JJ Infinity 
-MSIQ	NNT Infinity VB Infinity 
-MSIM	NN Infinity 
-AWRXN	NN Infinity 
-HTXIIB	VB Infinity 
-2.1	CD Infinity 
-2.2	CD Infinity 
-2.5	CD Infinity 
-2.6	CD Infinity 
-2.7	CD Infinity 
-XSID	NNT Infinity 
-JLWWIZIWNIT	JJ Infinity 
-MKIRH	VB Infinity NN Infinity 
-MBWJXIH	NN Infinity 
-MFMETIWT	JJ Infinity 
-IEWDKNW	VB Infinity 
-SBLWTIH	NN Infinity 
-SPD	VB Infinity 
-EIRNI	JJ Infinity 
-APIQ	NN Infinity NNP Infinity 
-MPWQPQ	JJ Infinity 
-SPG	VB Infinity 
-GIFWT	NN Infinity 
-MKIRT	NNT Infinity 
-SPI	NNP Infinity 
-MEWRIM	VB Infinity 
-HISJWRIWGRPIH	NN Infinity 
-SPR	NN Infinity NNT Infinity 
-SPQ	NN Infinity 
-ECBNIT	JJ Infinity 
-MBWJXIM	NN Infinity 
-EIRNW	NN Infinity 
-SWPRIM	NN Infinity 
-85.2	CD Infinity 
-ALWMWT	NNT Infinity 
-MSKI	NNT Infinity 
-MICMC	VB Infinity 
-KMEJ	MOD Infinity RB Infinity 
-TQRIT	NNT Infinity NN Infinity 
-NAFMI	NNT Infinity 
-NWHGIM	NN Infinity VB Infinity 
-SQI	NNP Infinity 
-MSKT	NNT Infinity NN Infinity 
-LHIMFK	VB Infinity 
-MSKN	VB Infinity 
-MNHIGWT	NN Infinity 
-200	CD Infinity 
-201	CD Infinity 
-SQR	NN Infinity NNT Infinity 
-BICEH	VB Infinity 
-LPID	NNP Infinity 
-MTEWRRWT	VB Infinity 
-MDINIIM	JJ Infinity 
-MDGIFIM	VB Infinity 
-MFPJIIM	JJ Infinity 
-IBFWT	NN Infinity 
-SRJ	NN Infinity 
-SRI	NNP Infinity 
-IGBR	VB Infinity 
-TXPWFT	NNT Infinity 
-SRN	NN Infinity 
-211	CD Infinity 
-SRT	JJT Infinity 
-FLIXWT	NN Infinity 
-LPLG	VB Infinity 
-LIIQR	VB Infinity 
-LHTMCA	VB Infinity 
-LIIQS	NNP Infinity 
-MSMK	NNT Infinity NN Infinity 
-IWCRI	NN Infinity 
-SPCIPIT	RB Infinity 
-MTLWWIM	VB Infinity 
-IGAL	NNP Infinity 
-BWLJT	JJ Infinity VB Infinity 
-EQIBA	NNP Infinity 
-LPJR	VB Infinity 
-221	CD Infinity CDT Infinity 
-NWFIM	NN Infinity 
-NERWT	NN Infinity 
-APLH	NN Infinity 
-CKWSLWBQIH	NNP Infinity 
-IWCRT	VB Infinity 
-BKIIH	NN Infinity 
-SGNIHM	NN Infinity 
-EMWQWT	JJ Infinity 
-MSPQ	VB Infinity JJ Infinity 
-IGDL	VB Infinity 
-NXITH	NN Infinity 
-HCLIXW	VB Infinity 
-XWDWRWB	NNP Infinity 
-NXITT	NNT Infinity 
-MSPR	VB Infinity NN Infinity DT Infinity NNT Infinity 
-TMFIK	VB Infinity 
-XWLIH	NN Infinity 
-STM	RB Infinity MOD Infinity 
-HKFILW	VB Infinity 
-SDRWT	NN Infinity 
-STR	NN Infinity 
-XWLIM	NN Infinity 
-LHTNCL	VB Infinity 
-MWCIAIM	NN Infinity 
-HCLIXH	VB Infinity 
-SDAM	NNP Infinity 
-LPNI	IN Infinity 
-TGDL	VB Infinity 
-ERBWIWT	NN Infinity 
-CBIEH	NN Infinity 
-EIRIH	NN Infinity 
-TGBR	NN Infinity 
-AQSPWZICIH	NN Infinity 
-SUM	NN Infinity 
-SLILT	NNT Infinity 
-IXFWB	VB Infinity 
-SUS	NNP Infinity 
-LIIXS	VB Infinity 
-MBXINIM	VB Infinity 
-CBIET	NNT Infinity 
-MSPD	NN Infinity 
-TGEW	VB Infinity 
-251	CD Infinity 
-MSRW	VB Infinity 
-ANXWT	NN Infinity 
-XSRT	JJT Infinity 
-HNPFH	NN Infinity 
-MWLWT	NN Infinity 
-XSRI	JJT Infinity NNT Infinity 
-SWD	NN Infinity 
-SWQRISJWB	NNP Infinity 
-SWG	NN Infinity NNT Infinity 
-MSQR	VB Infinity 
-KIPWRIM	NN Infinity 
-NWFNH	JJ Infinity 
-XWLLH	VB Infinity 
-SWP	NNT Infinity RB Infinity NN Infinity 
-261	CD Infinity 
-9891	CD Infinity 
-MSRB	VB Infinity 
-MFIBIM	VB Infinity 
-MSRH	VB Infinity 
-CPRIRIM	NNP Infinity 
-QSIRR	NNP Infinity 
-EMNWAL	NNP Infinity 
-HXMCH	NN Infinity 
-PIRWF	NNT Infinity 
-MICTH	VB Infinity 
-PIRWJ	NNT Infinity 
-ENIINIM	NN Infinity 
-SXP	NN Infinity 
-SXR	NNT Infinity NN Infinity 
-QHILT	NNT Infinity 
-TWCAH	NN Infinity 
-MFMEWTIWT	JJ Infinity 
-MHPKNI	JJ Infinity 
-PWLIJIQAIM	NN Infinity 
-51P6ARBEIM	ZVL Infinity 
-TWKNIT	NNT Infinity NN Infinity 
-GWPIM	NN Infinity 
-IGIE	VB Infinity 
-WWRLD	NNP Infinity 
-QHILH	NN Infinity 
-IGIF	VB Infinity 
-PIRWQ	NN Infinity NNT Infinity 
-LPRJ	VB Infinity 
-ENIINIT	JJ Infinity 
-PIRWT	NN Infinity 
-EPEWP	NN Infinity 
-SRJNIIM	JJ Infinity 
-XSRW	VB Infinity 
-280	CD Infinity 
-PTRWN	NNT Infinity NN Infinity 
-LPQD	VB Infinity 
-APRN	NNP Infinity 
-MWNARKIH	NN Infinity 
-FBXIM	NN Infinity 
-AWRIT	NNP Infinity 
-yyLRB	yyLRB Infinity 
-HBJIXH	VB Infinity 
-8591	CD Infinity 
-LPTE	RB Infinity 
-HBJIXW	VB Infinity 
-MSWP	NNT Infinity 
-MSWJ	NNP Infinity 
-HTPREW	VB Infinity 
-RABW	NNP Infinity 
-TGIE	VB Infinity 
-SBLNI	JJ Infinity 
-TGID	VB Infinity 
-TGIB	VB Infinity 
-XWLPT	JJ Infinity 
-AWRKW	NN Infinity 
-BSWP	RB Infinity 
-LHXZIQ	VB Infinity 
-XIBWR	NN Infinity 
-LHXZIR	VB Infinity 
-TGIF	VB Infinity 
-HRWWIXW	VB Infinity 
-HTRXFW	VB Infinity 
-GWDWNWB	NNP Infinity 
-MSXR	NN Infinity 
-ZQWQIM	VB Infinity 
-EWTMNI	JJ Infinity 
-GWPNI	JJ Infinity 
-ILDIHM	NN Infinity 
-KRISJIS	NNP Infinity 
-RAFM	NN Infinity 
-SDIN	NN Infinity 
-NINWXIM	JJ Infinity 
-MRWFFT	JJ Infinity 
-RAFI	JJ Infinity NNT Infinity 
-JRPIM	JJ Infinity 
-A.S.	NNP Infinity 
-RAFH	NN Infinity 
-MNSIM	VB Infinity 
-PWNQCIWNLIT	JJ Infinity 
-MDINIWT	NNT Infinity NN Infinity JJ Infinity 
-HNPLD	NNP Infinity 
-ALRGI	JJ Infinity 
-APWD	NNT Infinity NN Infinity 
-TWKNNH	VB Infinity 
-APWA	RB Infinity 
-TWKNNW	VB Infinity 
-LPTX	VB Infinity 
-MWFXTT	JJ Infinity 
-CPCPWT	NN Infinity 
-EIRAQ	NNP Infinity 
-XSWT	NNT Infinity NN Infinity 
-BXWRIM	NN Infinity 
-HTRXFH	VB Infinity 
-HXMIR	VB Infinity 
-MDINTW	NN Infinity 
-SWBSIDIH	NN Infinity 
-MITQPH	NN Infinity 
-MEPEPIM	VB Infinity 
-FIKWN	NN Infinity NNT Infinity 
-QWMQWMIM	NN Infinity 
-MTQIIM	VB Infinity 
-LRCWX	VB Infinity 
-MSGRTW	NN Infinity 
-MKWNIT	NN Infinity NNT Infinity 
-IZMIM	NN Infinity 
-PISGH	NN Infinity 
-LPXD	VB Infinity 
-MXQRIM	NN Infinity 
-APWR	JJ Infinity 
-HCLXWTIW	NN Infinity 
-APWS	NN Infinity 
-JJRI	JJ Infinity 
-HTNHGWT	NNT Infinity NN Infinity 
-QWRAWT	VB Infinity 
-MSGRTH	NN Infinity 
-MWZRIM	JJ Infinity 
-RAFW	NN Infinity 
-MICWI	NN Infinity 
-ANXNW	PRP Infinity 
-DIQSJRH	NNP Infinity 
-MWBLET	NNT Infinity NN Infinity 
-ARCIFRALI	JJ Infinity 
-QRWNWT	NN Infinity NNT Infinity 
-CWMCMW	VB Infinity 
-MJRIDIM	VB Infinity 
-IGNH	VB Infinity 
-TAI	NNT Infinity 
-AWRGN	VB Infinity 
-QINGDWM	NNP Infinity 
-WIILD	NNP Infinity 
-MXDLIM	NN Infinity 
-TAW	NN Infinity 
-TPEWLIT	JJ Infinity 
-MFPJIWT	JJ Infinity 
-MXDLIH	NN Infinity 
-NWAM	NN Infinity 
-SWKNWTW	NN Infinity 
-TBE	VB Infinity 
-QILWP	NN Infinity 
-MDINWT	NN Infinity NNT Infinity 
-KMWT	NNT Infinity IN Infinity NN Infinity 
-FLIXIM	NN Infinity 
-MGALWMAN	JJ Infinity 
-LPZR	VB Infinity 
-KFLWNN	NN Infinity 
-MTWRGMN	NN Infinity 
-MERBIT	RB Infinity JJ Infinity 
-RAIH	NNP Infinity NN Infinity 
-HTABD	VB Infinity 
-MRWFLT	JJ Infinity 
-XWLFH	NN Infinity 
-MWXLJT	JJ Infinity 
-TCA	VB Infinity 
-MSGRWT	NN Infinity 
-HNPQT	NNT Infinity 
-AWRAL	NNP Infinity 
-FQDIM	NN Infinity 
-ASJRAJGIT	JJ Infinity 
-ERKTI	VB Infinity 
-HWJLH	VB Infinity 
-HIABQWT	NN Infinity 
-MFWKNE	VB Infinity 
-RALP	NNP Infinity 
-NWCL	VB Infinity 
-NWCX	VB Infinity 
-SLMINH	NNP Infinity 
-CWBR	VB Infinity 
-NWCR	VB Infinity 
-NPSID	VB Infinity 
-HDPS	NN Infinity 
-ITKNSW	VB Infinity 
-MRXIQT	JJT Infinity 
-NWBE	VB Infinity 
-PRWIQJIM	NN Infinity 
-SDNH	NN Infinity 
-MECMTIT	JJ Infinity 
-MWBLJT	VB Infinity 
-SDNT	NNT Infinity 
-GWPTW	NN Infinity 
-MXPFT	VB Infinity 
-GALI	NNP Infinity 
-NWBL	NNP Infinity 
-GALH	NN Infinity 
-HWJLW	VB Infinity 
-MLQWLM	NNP Infinity 
-MLMDT	VB Infinity 
-LHRFIE	VB Infinity 
-NWEC	VB Infinity 
-MWKFR	JJ Infinity 
-PWRMLIIM	JJ Infinity 
-NWED	VB Infinity 
-NWER	NN Infinity 
-TFE	CD Infinity 
-NWEM	NN Infinity 
-MWLIKH	NN Infinity 
-NWEZ	JJ Infinity 
-TWARI	NNT Infinity 
-CWDQ	JJ Infinity VB Infinity 
-SNGWRIWT	NN Infinity 
-7,000	CD Infinity 
-GLGWLIM	NN Infinity 
-MRBITM	NN Infinity 
-NWFAWT	NNT Infinity VB Infinity 
-GIISWT	NN Infinity 
-IWBAW	VB Infinity 
-MPWRF	JJ Infinity 
-NWDD	VB Infinity 
-GLGWLIH	NN Infinity 
-NWDE	VB Infinity 
-MPWRJ	JJ Infinity 
-MTAM	NNT Infinity NN Infinity 
-RWNAL	NNP Infinity 
-MTAR	VB Infinity 
-TGR	NNP Infinity 
-CWER	NN Infinity 
-PTQIM	NN Infinity 
-HISJWRIWT	JJ Infinity 
-NWGE	VB Infinity 
-HSTBKH	VB Infinity 
-XLQIIM	JJ Infinity 
-THH	VB Infinity 
-TEFIIH	NN Infinity 
-TEFIIT	NNT Infinity 
-IGWR	NNP Infinity 
-HISJWRIWN	NN Infinity 
-EFIRWT	JJ Infinity 
-HTIIFBH	VB Infinity 
-HTQLSWIWT	NN Infinity 
-NWFA	NNT Infinity NN Infinity VB Infinity 
-MBNIM	NN Infinity 
-SDRH	NN Infinity 
-MEWRR	VB Infinity 
-RDWMH	JJ Infinity 
-HIPRKL	NNP Infinity 
-RCBSQI	NNP Infinity 
-MEWRH	VB Infinity 
-HPGNWT	NN Infinity NNT Infinity 
-SDRN	NN Infinity 
-NWFL	VB Infinity 
-SDRI	NNT Infinity 
-TNWEWT	NN Infinity NNT Infinity 
-HDSH	NNP Infinity NN Infinity 
-MEWRB	NN Infinity VB Infinity JJ Infinity 
-NWFM	JJ Infinity 
-SDRT	NNT Infinity 
-LHGFIM	VB Infinity 
-QILWMJRIM	NN Infinity 
-MXWFLWT	JJ Infinity 
-IMFIKW	VB Infinity 
-TIQ	NNT Infinity NN Infinity 
-SISMTW	NN Infinity 
-TNWETW	NN Infinity 
-MEWWT	JJ Infinity NN Infinity 
-HJBIE	VB Infinity 
-LQCC	VB Infinity 
-CWIN	VB Infinity 
-LWQRI	NNP Infinity 
-IFQWL	VB Infinity 
-DIRWTIHM	NN Infinity 
-AMRIQAIM	JJ Infinity NN Infinity 
-LQCR	VB Infinity 
-FBITTM	NN Infinity 
-AMRIQAIT	JJ Infinity 
-XIKITM	VB Infinity 
-MTED	VB Infinity 
-FERWRIIH	NN Infinity 
-EISWQ	NN Infinity 
-INHLW	VB Infinity 
-RCWPIM	JJ Infinity 
-NWHL	VB Infinity NNT Infinity NN Infinity 
-CWJJ	VB Infinity 
-NWHG	NN Infinity VB Infinity 
-LQBL	VB Infinity 
-GARI	NNP Infinity 
-KINRT	NN Infinity 
-MWKIX	VB Infinity 
-BRNZWN	NNP Infinity 
-SDWM	NN Infinity 
-ALIEZR	NNP Infinity 
-RATH	VB Infinity 
-MXMIRIM	JJ Infinity 
-HDXH	NN Infinity 
-NWKL	VB Infinity 
-PTWXWT	JJ Infinity 
-AIJWM	NN Infinity NNT Infinity 
-TLK	VB Infinity 
-NWKX	VB Infinity IN Infinity 
-FWPKIN	NN Infinity 
-BWSJWN	NNP Infinity 
-LCWWT	VB Infinity 
-1,350	CD Infinity 
-SQNDINWWI	JJ Infinity 
-HDXT	NNT Infinity 
-AQDX	NN Infinity NNT Infinity 
-IWBIL	VB Infinity 
-WWADINGR	NNP Infinity 
-TLT	MOD Infinity 
-EWINWT	NN Infinity 
-JLPWNI	JJ Infinity 
-EGILIM	NN Infinity 
-NWJH	VB Infinity 
-THWDH	NN Infinity 
-MWZRWT	JJ Infinity 
-BTIM	NN Infinity 
-MTMJIQH	NN Infinity 
-IREILW	VB Infinity 
-LQDM	VB Infinity 
-TMH	VB Infinity 
-BLWMPILD	NNP Infinity 
-NWJL	VB Infinity 
-QWMWNISJIT	JJ Infinity 
-TMK	VB Infinity 
-NWJS	NNP Infinity 
-HDWR	JJ Infinity 
-HDWQ	JJ Infinity 
-QWMWNISJIM	NN Infinity JJ Infinity 
-XQIINIM	NN Infinity 
-MPWTX	JJ Infinity 
-DIIWID	NNP Infinity 
-CWMX	NN Infinity 
-CWMT	NNT Infinity NNP Infinity 
-QRWNIT	NN Infinity 
-IWBJX	VB Infinity 
-GAWN	NNT Infinity 
-TRGILIM	NN Infinity 
-DMWGRPIT	JJ Infinity 
-GIISNW	VB Infinity 
-PKWWR	NNP Infinity 
-LIBRLI	JJ Infinity 
-MCJIIRT	VB Infinity 
-NZQQIM	VB Infinity JJ Infinity 
-NWLD	VB Infinity 
-TENIQ	VB Infinity 
-AMITIWT	JJ Infinity 
-MPWZR	JJ Infinity 
-MTIM	NN Infinity 
-MHNDST	NNT Infinity 
-HLIKTK	NN Infinity 
-3.1	CD Infinity 
-SJAZR	NN Infinity 
-TPNIT	NN Infinity 
-SKWMIM	NN Infinity 
-MMLAIM	VB Infinity 
-3.7	CD Infinity 
-ARWKIM	JJ Infinity 
-MWKNH	VB Infinity 
-LXTWM	VB Infinity 
-LMTWX	VB Infinity 
-NWEDH	VB Infinity 
-HTNCXWT	NNT Infinity 
-TPR	NN Infinity 
-MIBCE	NNT Infinity 
-LIBRJI	NNP Infinity 
-NWPF	NN Infinity 
-NWEDW	VB Infinity 
-TPX	VB Infinity 
-MAFIMIM	VB Infinity 
-LHEIR	VB Infinity 
-MTARGNT	JJ Infinity 
-119.90	CD Infinity 
-RAWI	NN Infinity VB Infinity JJ Infinity 
-KINTH	VB Infinity 
-CWPR	NN Infinity 
-LHEIZ	VB Infinity 
-QWNPDRJIWWIIM	JJ Infinity 
-CWPN	VB Infinity 
-TQL	VB Infinity 
-TQN	NN Infinity NNT Infinity 
-TQP	VB Infinity 
-CWPH	VB Infinity 
-PNIMIIH	NN Infinity 
-MNQRT	VB Infinity 
-MTKT	NN Infinity 
-LHEID	VB Infinity 
-301	CD Infinity 
-PLAFWB	NNP Infinity 
-PNIMIIM	JJ Infinity 
-MTNH	NN Infinity 
-MWKRT	VB Infinity JJ Infinity 
-NWQJ	VB Infinity 
-TRD	VB Infinity NN Infinity 
-CWQR	NNP Infinity 
-EFIRIT	JJ Infinity 
-TRM	VB Infinity 
-XTMW	VB Infinity 
-QWRAIM	NN Infinity VB Infinity 
-311	CD Infinity 
-EFIRIM	NN Infinity 
-MTBJA	VB Infinity 
-NECBNW	VB Infinity 
-NWRH	VB Infinity 
-MWKSP	JJ Infinity 
-NWRA	JJ Infinity 
-XTNI	NNT Infinity 
-LHKRIZ	VB Infinity 
-EQBWTIHM	NN Infinity 
-QJNIM	JJ Infinity 
-NWPL	VB Infinity 
-MTBHR	VB Infinity 
-HTGWRR	VB Infinity 
-KNGD	IN Infinity 
-TLAWT	NNT Infinity NN Infinity 
-HPSQWT	NN Infinity NNT Infinity 
-CWRT	NNT Infinity 
-CWRP	VB Infinity 
-CWRK	VB Infinity NN Infinity NNT Infinity 
-CWRH	NN Infinity 
-NWPX	VB Infinity 
-NBXRIM	NN Infinity JJ Infinity 
-IZKWR	NNP Infinity 
-XTMH	VB Infinity 
-NWQB	JJ Infinity 
-PWZWT	NN Infinity 
-AWSAQH	NNP Infinity 
-NWSP	JJ Infinity RB Infinity IN Infinity 
-MTBGR	JJ Infinity 
-KINWN	NNT Infinity 
-NWSK	VB Infinity 
-FIMFW	VB Infinity 
-NKBFH	VB Infinity 
-NWSX	NNT Infinity NN Infinity 
-IQRAW	VB Infinity 
-WWIDWIIM	NN Infinity 
-NWGEIM	JJ Infinity VB Infinity NN Infinity 
-KINWS	NNT Infinity NN Infinity 
-TTN	VB Infinity 
-AQMH	NN Infinity 
-NKBFW	VB Infinity 
-IWGWSLWWIT	JJ Infinity 
-FIQAGW	NNP Infinity 
-TUA	NNP Infinity 
-ETWDWTIH	NN Infinity 
-IFRAL	NNP Infinity 
-NWRW	VB Infinity 
-BEIITIWT	NN Infinity 
-341	CD Infinity 
-TUQ	CD Infinity 
-IABQW	VB Infinity 
-LHKRIE	VB Infinity 
-LWQXT	VB Infinity 
-LHTLBF	VB Infinity 
-CPWIWT	VB Infinity 
-KDWRGLN	NN Infinity 
-NWSH	VB Infinity 
-NWSE	VB Infinity NN Infinity 
-MWFPEIM	VB Infinity 
-AWSQR	NNP Infinity 
-HFQENW	VB Infinity 
-MPXDT	VB Infinity 
-NWGDIM	JJ Infinity 
-IHWDIIH	JJ Infinity 
-354	CD Infinity 
-AWRTWDWQSI	JJ Infinity 
-RAFWNIM	NN Infinity JJ Infinity 
-MTQN	NNT Infinity NN Infinity VB Infinity 
-HDRGH	NN Infinity 
-NWTQ	VB Infinity 
-SWERWT	JJ Infinity 
-NWTR	VB Infinity JJ Infinity 
-MQWMIT	RB Infinity JJ Infinity 
-LHQCWT	VB Infinity 
-NWTN	NNT Infinity VB Infinity 
-IWGWSLWWIH	NNP Infinity 
-TWK	IN Infinity 
-NWTX	VB Infinity 
-TWM	NNT Infinity NNP Infinity NN Infinity 
-RAFIWT	JJ Infinity 
-TWR	NN Infinity NNT Infinity 
-WWLWNJRIT	JJ Infinity 
-LHFTXRR	VB Infinity 
-EIWWRWN	NN Infinity 
-LHIMCA	VB Infinity 
-MLKWD	NN Infinity 
-IWBRR	VB Infinity 
-GBRIM	NN Infinity 
-MIBNH	NN Infinity 
-LHRFWT	VB Infinity 
-GBBH	NN Infinity 
-ZQNIM	NN Infinity JJ Infinity 
-HJBWT	NN Infinity 
-MXNWT	NNT Infinity NN Infinity 
-TXL	VB Infinity 
-PAFISJIIM	JJ Infinity 
-DIAMWND	NNP Infinity 
-CWWT	NNT Infinity NN Infinity 
-TXT	IN Infinity 
-NBXRTW	NN Infinity 
-LQRB	VB Infinity 
-HCJBRW	VB Infinity 
-QWNPDRCIH	NN Infinity 
-IHIH	VB Infinity AUX Infinity 
-NWXH	JJ Infinity 
-BLMIM	NN Infinity 
-GBAI	NNP Infinity 
-AWSRT	VB Infinity 
-LIQWIIM	NN Infinity 
-HEDR	NNT Infinity 
-QJNWT	JJ Infinity NN Infinity 
-NWFAIM	NN Infinity VB Infinity 
-HEDT	ZVL Infinity 
-MFPIEWT	VB Infinity 
-LQPX	VB Infinity 
-385	CD Infinity 
-PWRMLIWT	JJ Infinity 
-MWKTR	NNT Infinity NN Infinity VB Infinity 
-AIJIT	JJ Infinity 
-HMLCT	NNT Infinity 
-TZH	NN Infinity 
-RAFITH	NN Infinity 
-PRWCWT	NN Infinity 
-BRIKWT	NN Infinity 
-AWLMWT	NNT Infinity NN Infinity 
-8691	CD Infinity 
-HTERBWTW	NN Infinity 
-ITIIXS	VB Infinity 
-HMLCH	NN Infinity 
-MTWN	JJ Infinity 
-JKNI	JJ Infinity 
-MTWK	IN Infinity NN Infinity 
-MTBRR	VB Infinity 
-GBEH	NN Infinity 
-MDRGWT	NN Infinity 
-KWRDIT	JJ Infinity 
-HDRKH	NN Infinity 
-SIKWMW	NN Infinity 
-TZKIR	VB Infinity 
-HDRKT	NNT Infinity 
-PFWJIM	JJ Infinity 
-QPIDBIN	ZVL Infinity 
-IHIW	AUX Infinity VB Infinity 
-XQIINWT	NN Infinity 
-BTWR	IN Infinity 
-THIH	AUX Infinity VB Infinity 
-DINMIQH	NN Infinity 
-THWWH	VB Infinity 
-NICLIM	VB Infinity 
-SIKWNI	NNT Infinity 
-BTWK	IN Infinity 
-HWGDRW	VB Infinity 
-MTXW	VB Infinity 
-MAKZB	JJ Infinity 
-HPSQNW	VB Infinity 
-MTXT	IN Infinity 
-XWKMH	NN Infinity 
-HEIR	VB Infinity 
-SEID	NNP Infinity 
-PIQWD	NN Infinity NNT Infinity 
-ZIWWH	NNP Infinity 
-PIQWX	NN Infinity NNT Infinity 
-ICIBH	JJ Infinity 
-AWGNIWQ	NNP Infinity 
-HWFALW	VB Infinity 
-SEIP	NNT Infinity NN Infinity 
-TIZWT	NN Infinity 
-PLFTINAIM	JJ Infinity NN Infinity 
-HTEQFH	VB Infinity 
-PSNTR	NN Infinity 
-GBET	NNT Infinity 
-IHWDIIM	JJ Infinity 
-PLFTINAIT	JJ Infinity 
-ZITWNI	NNP Infinity 
-HWMWRISJIIM	JJ Infinity 
-IFRJJ	VB Infinity 
-ICIAH	NN Infinity 
-QREIM	NN Infinity 
-XTWL	NN Infinity 
-HEID	VB Infinity 
-HTXIIBTI	VB Infinity 
-XTWM	VB Infinity JJ Infinity 
-TEFIITIT	JJ Infinity 
-LQWX	NN Infinity NNT Infinity 
-HZRMT	NNT Infinity 
-LRBWT	IN Infinity 
-MCDDIM	VB Infinity 
-PNJZIWT	NN Infinity 
-LGBWR	VB Infinity 
-MWRJWRIWM	NN Infinity 
-NPRDW	VB Infinity 
-LGBWT	VB Infinity 
-LQXH	VB Infinity 
-GBIE	NN Infinity NNT Infinity 
-HELH	VB Infinity 
-LHILXM	VB Infinity 
-HBLIH	NN Infinity 
-NPRDH	VB Infinity 
-HBLIJ	VB Infinity 
-KNST	NNT Infinity NN Infinity 
-SIKWII	NNT Infinity 
-PNIMIWT	NN Infinity 
-HFQEWT	NN Infinity NNT Infinity 
-LQWI	JJ Infinity 
-ARCWT	NNT Infinity NN Infinity 
-WAQWM	NN Infinity 
-LQWM	VB Infinity 
-ACBEWT	NN Infinity 
-IHNH	VB Infinity 
-HBLIE	VB Infinity 
-HZRMH	NN Infinity 
-HXLIJ	VB Infinity 
-KEBWR	IN Infinity 
-HFQETW	NN Infinity 
-HBLJT	NNT Infinity 
-TRWMTI	NN Infinity 
-ABZRIM	NN Infinity 
-TRWMTN	NN Infinity 
-TRWMTM	NN Infinity 
-AWNQIIH	NN Infinity 
-TRWMTW	NN Infinity 
-PFWJWT	JJ Infinity 
-NWHGWT	VB Infinity 
-LQXT	VB Infinity 
-HTEQBH	VB Infinity 
-HXLJI	JJ Infinity 
-HXLJH	NN Infinity 
-FBETIIM	MOD Infinity 
-KBIFIM	NN Infinity 
-LQXW	VB Infinity 
-ALSJR	NNP Infinity 
-HELW	VB Infinity 
-LARGN	VB Infinity 
-036086	CD Infinity 
-RBIC	NNP Infinity 
-BICWE	NNT Infinity NN Infinity 
-RBIB	NNP Infinity 
-AGRIGANJW	NNP Infinity 
-AMITIIM	JJ Infinity 
-RBIM	JJ Infinity NN Infinity 
-BICWR	NNT Infinity 
-RBIN	NNP Infinity 
-AMSJRDM	NNP Infinity 
-AWLMRJ	NNP Infinity 
-AWSIP	VB Infinity 
-SMKWT	NN Infinity 
-HXLIQ	VB Infinity 
-CIBWRIT	JJ Infinity 
-HXLIP	VB Infinity 
-ARWASJI	NNP Infinity 
-MTBSS	VB Infinity 
-FILWJ	NN Infinity 
-LIICG	VB Infinity 
-AWPJIMI	JJ Infinity 
-HMWNIM	NN Infinity 
-GBLS	NNP Infinity 
-HMWNIT	JJ Infinity 
-CPWIIM	VB Infinity JJ Infinity 
-FILWB	NNT Infinity NN Infinity 
-LIICR	VB Infinity 
-APIDMIWLWGIH	NN Infinity 
-IWCAI	JJT Infinity NNT Infinity 
-MWLDT	NNP Infinity NN Infinity 
-DMIWNIT	JJ Infinity 
-HXLJT	NNT Infinity 
-CMIXH	NN Infinity 
-AFKNZI	NN Infinity 
-IIASRW	VB Infinity 
-KNWT	NN Infinity 
-ALWNIM	NN Infinity 
-MWSLMIM	NN Infinity JJ Infinity 
-NWEZT	JJ Infinity 
-BEIITIIM	JJ Infinity 
-LIIPCIG	NNP Infinity 
-AINDIQCIH	NN Infinity 
-ZAJWJIM	NN Infinity 
-NXBL	VB Infinity 
-TRWMWT	NN Infinity 
-MQBLWT	VB Infinity 
-SMKWIWT	NNT Infinity NN Infinity 
-NERIM	NN Infinity 
-NXBJ	VB Infinity 
-MECWRIM	NN Infinity 
-MJWSIM	NN Infinity 
-MWSLMIT	NN Infinity JJ Infinity 
-KWXWTIH	NN Infinity 
-JWAJAW	VB Infinity 
-MIBXN	NN Infinity 
-TWBET	NN Infinity VB Infinity 
-HERB	RB Infinity 
-MWLBI	NNP Infinity 
-LHEMIDH	VB Infinity NNP Infinity 
-EFITI	VB Infinity 
-NPRFW	VB Infinity 
-HERH	NN Infinity 
-MQWMWN	NN Infinity 
-MQWMWT	NN Infinity NNT Infinity 
-LHTLQX	VB Infinity 
-ARIALH	NNP Infinity 
-FWRRIM	VB Infinity 
-FWWRCQWP	NNP Infinity 
-HLIKIM	NN Infinity 
-IWCAT	VB Infinity NNT Infinity 
-IWCAW	VB Infinity 
-SJJWJWRI	JJ Infinity 
-TFLWMIHM	NN Infinity 
-NBXRWT	NNT Infinity NN Infinity 
-CBIWN	NN Infinity 
-EMIDWTW	NN Infinity 
-THSS	VB Infinity 
-MGNJIT	JJ Infinity 
-HLIKH	NN Infinity 
-HLIKI	NNT Infinity 
-MCRIT	JJ Infinity 
-MCRIM	NN Infinity NNP Infinity 
-KSPWMJ	NN Infinity 
-FINWI	NNT Infinity NN Infinity 
-NERKWT	VB Infinity 
-ARAL	NNP Infinity 
-MRWCIM	JJ Infinity 
-MXWZIWT	JJ Infinity 
-EWQBIM	VB Infinity 
-MTECM	JJ Infinity 
-TFTIT	NN Infinity NNT Infinity 
-HTXIIBWIWTIH	NN Infinity 
-IWEMDW	VB Infinity 
-PJWRH	VB Infinity 
-HBNTI	NN Infinity VB Infinity 
-27.40	CD Infinity 
-NXFB	VB Infinity 
-RCWNI	NN Infinity 
-RCWNN	NN Infinity 
-RCWNM	NN Infinity 
-AWDISIAH	NNP Infinity 
-ARBE	CD Infinity CDT Infinity 
-NXFD	VB Infinity 
-RCWNW	NN Infinity 
-ERNWT	NN Infinity 
-SERH	NN Infinity 
-NXFQ	JJ Infinity 
-TRWMH	NN Infinity 
-SERT	NNT Infinity 
-FGRIRWT	NN Infinity NNT Infinity 
-MRXIQIM	VB Infinity 
-APRIQH	NNP Infinity 
-ARCM	NN Infinity 
-MWNJH	NNP Infinity 
-ARCH	RB Infinity NN Infinity 
-NMWKIM	JJ Infinity 
-ARCI	JJ Infinity 
-HIFRDWTM	NN Infinity 
-GBETIIM	NNP Infinity 
-MQWISJ	NNP Infinity 
-MMFLTNW	NN Infinity 
-QWMPWRJ	NNP Infinity 
-IIXWDI	JJ Infinity 
-TPQDM	NN Infinity 
-ECWTIHM	NN Infinity 
-FINTH	VB Infinity 
-ECBIM	NN Infinity 
-SPWNH	JJ Infinity 
-MFPXTWN	NN Infinity NNP Infinity 
-MWNIT	NN Infinity 
-MWNIM	NN Infinity VB Infinity 
-HTBJA	VB Infinity 
-GBRH	VB Infinity 
-FINWII	NNT Infinity 
-GBRI	JJ Infinity 
-ESQWT	NN Infinity 
-SIAWL	NNP Infinity 
-NANXIM	VB Infinity 
-RAFIIM	JJ Infinity 
-XZWIH	JJ Infinity 
-ARCW	NN Infinity 
-HWKRZ	VB Infinity 
-GBRT	NN Infinity 
-HTPRCWIWT	NN Infinity NNT Infinity 
-WRDR	NNP Infinity 
-WRDI	NNP Infinity 
-FWPJIM	NN Infinity 
-IWELW	VB Infinity 
-DINAMW	NNP Infinity 
-LTKNN	VB Infinity 
-HMNWN	NN Infinity 
-TSKWLIHM	NN Infinity 
-NZQQT	VB Infinity 
-ARFT	NNT Infinity 
-AWKLIM	VB Infinity 
-JJRIIM	JJ Infinity 
-LHQFIB	VB Infinity 
-MXQRW	NN Infinity 
-NWHGI	NNT Infinity 
-LRDT	VB Infinity 
-HTRWCCWT	NN Infinity 
-SEWD	NNP Infinity 
-NDQRH	VB Infinity 
-BMQBIL	IN Infinity RB Infinity 
-KRKRH	NN Infinity 
-IWELH	VB Infinity 
-NWHGT	VB Infinity 
-IMHRW	VB Infinity 
-MBQRT	NNT Infinity 
-NXMD	JJ Infinity 
-GWLDING	NNP Infinity 
-LRGL	IN Infinity 
-QLWPIM	JJ Infinity 
-MTECMT	VB Infinity 
-HEZH	VB Infinity 
-GBWH	JJ Infinity 
-NXMN	NNP Infinity 
-MBQRI	NNT Infinity 
-GBWL	NNT Infinity NN Infinity 
-ITWSPW	VB Infinity 
-MDWWX	VB Infinity 
-NXLF	VB Infinity 
-NXLH	VB Infinity 
-HTABDWTIT	JJ Infinity NNP Infinity 
-MWBILH	NN Infinity 
-NXLC	VB Infinity 
-EIWWTIM	NN Infinity 
-EITWN	NNP Infinity NNT Infinity NN Infinity 
-PDRALIT	JJ Infinity 
-EITWI	NN Infinity 
-NXLW	VB Infinity 
-ARHB	NNP Infinity 
-AIKWT	NNT Infinity NN Infinity 
-NXLT	NNT Infinity 
-4.2	CD Infinity 
-MMFLTIT	JJ Infinity 
-9:00	CD Infinity 
-HPXDT	NNT Infinity 
-HTEMLWT	NN Infinity 
-HLKWT	NN Infinity 
-PITWI	NN Infinity 
-MAMNIM	NN Infinity 
-KIFWRI	NN Infinity 
-ARIQ	NNP Infinity 
-HWKXT	NNT Infinity 
-FINNW	VB Infinity 
-MNBAIM	VB Infinity 
-MLXMWT	NN Infinity 
-ARIH	NNP Infinity NN Infinity 
-FLWWT	NNT Infinity 
-ARIG	NNT Infinity 
-HWKXH	NN Infinity 
-PITWX	NN Infinity NNT Infinity 
-MSBIB	MOD Infinity RB Infinity 
-XQIRTM	NN Infinity 
-MTELM	VB Infinity 
-GWRAL	NNP Infinity 
-JPILIM	NN Infinity 
-MTELH	VB Infinity 
-NPTXW	VB Infinity 
-PRSWMT	NN Infinity 
-NXNK	VB Infinity 
-099891	CD Infinity 
-XQIRTW	NN Infinity 
-LRENN	VB Infinity 
-RBWT	RB Infinity NNT Infinity JJ Infinity NN Infinity 
-NWHLI	NNT Infinity 
-NPTXH	VB Infinity 
-PITXW	VB Infinity 
-400	CD Infinity 
-SWMKIM	VB Infinity 
-GWRBI	NNP Infinity 
-TWEBR	VB Infinity 
-GRMNISJ	NN Infinity 
-NPTXT	VB Infinity 
-TIAR	VB Infinity 
-ARKW	VB Infinity 
-GARDN	NNP Infinity 
-JRBLINQH	NNP Infinity 
-HNDSAIM	NN Infinity 
-NXQR	VB Infinity 
-ARKH	VB Infinity NN Infinity 
-411	CD Infinity 
-HTBQF	VB Infinity 
-TIBH	NN Infinity 
-IICA	VB Infinity 
-PRIMIJIWWI	JJ Infinity 
-BNDWRI	NNP Infinity 
-MFPXTNW	NN Infinity 
-PRNST	NNT Infinity 
-MNTXI	NNT Infinity 
-AWMRIM	VB Infinity 
-HTBRR	VB Infinity 
-PRNSH	NN Infinity 
-WWTIQ	JJ Infinity NNT Infinity 
-SNDINISJIM	JJ Infinity NN Infinity 
-HTBRG	VB Infinity 
-LGIJIMCIH	NN Infinity 
-XIDWF	NN Infinity NNT Infinity 
-SNDINISJIT	JJ Infinity 
-BMQWM	IN Infinity 
-MWAFMT	JJ Infinity 
-GWRDN	NNP Infinity 
-LRKB	VB Infinity 
-APQJIWWI	JJ Infinity 
-MWNXT	VB Infinity 
-NXSK	VB Infinity 
-XFBWNAIT	JJ Infinity 
-XWMWT	NN Infinity 
-IIDW	VB Infinity 
-AXWZH	NN Infinity 
-ALTWR	NN Infinity 
-IPRCW	VB Infinity 
-TRWPH	NN Infinity 
-MFXQIH	NN Infinity 
-NXTH	VB Infinity 
-TRWPT	NNT Infinity 
-MFXQIM	NN Infinity VB Infinity 
-TIBT	NNT Infinity 
-FINIW	NN Infinity 
-NXRJ	VB Infinity 
-DRMJIT	JJ Infinity 
-ARNS	NNP Infinity 
-NXRT	NNT Infinity 
-AISLMIM	JJ Infinity 
-ESQNI	NNT Infinity 
-ATGRIM	NN Infinity 
-MWNXI	NNT Infinity 
-442	CD Infinity 
-GRMNIWT	JJ Infinity NN Infinity 
-27.90	CD Infinity 
-QAWPMN	NNP Infinity 
-EIRAQIM	NN Infinity 
-988891	CD Infinity 
-QRICWT	NN Infinity 
-TRWMT	NNT Infinity 
-SMNJI	JJ Infinity 
-IERER	VB Infinity 
-IIFQ	VB Infinity 
-EIRAQIT	JJ Infinity 
-MMFIKIM	VB Infinity NN Infinity 
-MZKRWT	NN Infinity 
-NMKRH	VB Infinity 
-451	CD Infinity 
-AIKPT	VB Infinity 
-LRPA	VB Infinity 
-GRBWZ	NNP Infinity 
-MXZIQI	NNT Infinity 
-MXZIQH	VB Infinity 
-IIFARW	VB Infinity 
-BMQRH	RB Infinity IN Infinity 
-NMKRW	VB Infinity 
-RWQMN	NNP Infinity 
-GWMLIN	NN Infinity 
-SPWRJ	NNT Infinity NN Infinity 
-MSBIR	VB Infinity 
-NXTM	VB Infinity 
-LRNR	NNP Infinity 
-LIKWD	NNP Infinity NN Infinity 
-TIAJRLIT	JJ Infinity 
-461	CD Infinity 
-HFBT	RB Infinity 
-52.05	CD Infinity 
-TPQID	NNT Infinity NN Infinity 
-MLXMTH	NN Infinity 
-XMWRWT	JJ Infinity 
-ITMWDD	VB Infinity 
-QINWX	NN Infinity 
-NXWM	NNP Infinity 
-DPNIM	NN Infinity 
-PWLIJIT	JJ Infinity 
-LHTPFR	VB Infinity 
-HISJWRIIM	JJ Infinity 
-LHIPGF	VB Infinity 
-CXWQ	NN Infinity 
-MTNXLIM	NN Infinity 
-FWXRI	NNT Infinity 
-AIGRWT	NNT Infinity 
-ESQIW	NN Infinity 
-FWXRR	VB Infinity 
-EJWPH	VB Infinity 
-TPQWD	NNT Infinity NN Infinity 
-HTQFRTI	VB Infinity 
-IRNDRH	NNP Infinity 
-NXWC	VB Infinity JJ Infinity 
-486	CD Infinity 
-DISQIM	NN Infinity 
-ESQIM	NN Infinity 
-ZHWTM	NN Infinity 
-ARRJ	NNP Infinity 
-EJWPT	JJT Infinity 
-AIGRWP	NN Infinity 
-ESQIT	JJ Infinity 
-AXWTW	NN Infinity 
-HTQFRWT	NN Infinity 
-HFGI	NNT Infinity 
-LRSN	VB Infinity 
-FRIDI	NNT Infinity 
-HFGT	NNT Infinity 
-JMBWR	NNP Infinity 
-GWRLH	NN Infinity 
-LHTXRWT	VB Infinity 
-LHTPEL	VB Infinity 
-496	CD Infinity 
-RIGWBRJW	NNP Infinity 
-NXZH	VB Infinity 
-MZHIRH	VB Infinity 
-AXWWT	NNT Infinity 
-HFFI	ZVL Infinity 
-SIBIM	NN Infinity 
-SIBIT	NN Infinity 
-MQWJET	JJ Infinity 
-SIBIR	NNP Infinity 
-KHWNTW	NN Infinity 
-GWRMI	NNT Infinity 
-KHWNTH	NN Infinity 
-GWRLN	NN Infinity 
-MTEQF	VB Infinity 
-MFTDLT	VB Infinity 
-TIIR	NN Infinity 
-IERIM	NN Infinity 
-FAWLI	NNP Infinity 
-FAWLH	JJ Infinity 
-5.22	CD Infinity 
-PTWXIM	JJ Infinity 
-PJWRIM	VB Infinity NN Infinity 
-AXWRI	JJ Infinity 
-FANDRH	NNP Infinity 
-MKWPPT	VB Infinity 
-TENWGWT	NN Infinity 
-GWRMT	VB Infinity 
-AMWRH	VB Infinity 
-IBIAW	VB Infinity 
-TXWMIM	NN Infinity 
-LFBWT	VB Infinity 
-LFBWR	VB Infinity 
-7491	CD Infinity 
-FINAH	NN Infinity 
-GEGWEIM	NN Infinity 
-MPWSJR	JJ Infinity 
-ALQJRWNI	JJ Infinity 
-NTBEIM	NN Infinity 
-HFIB	VB Infinity 
-TIKP	RB Infinity 
-HFIG	VB Infinity 
-LQBWE	VB Infinity 
-HTNKRWT	NN Infinity 
-TPQIDW	NN Infinity 
-HWTIRW	VB Infinity 
-HPXTT	NNT Infinity 
-IXIDI	NN Infinity JJ Infinity 
-IXIDH	NN Infinity JJ Infinity 
-TGWWE	VB Infinity 
-ARWN	NNP Infinity NNT Infinity NN Infinity 
-SWKNI	NNT Infinity 
-HPXTH	NN Infinity 
-WRWN	NNP Infinity 
-ARWK	JJ Infinity 
-NRTEIM	VB Infinity 
-MIEWJ	NN Infinity 
-FWXXW	VB Infinity 
-HWLID	VB Infinity 
-SWKMW	VB Infinity 
-GLWIWT	JJ Infinity 
-LRWC	VB Infinity 
-AWPRJIWWIWT	JJ Infinity 
-TRWPWT	NN Infinity NNT Infinity 
-MENIINT	VB Infinity JJ Infinity 
-ABWTI	NN Infinity 
-TPQIDM	NN Infinity 
-TPQIDN	NN Infinity 
-FRIJH	NN Infinity 
-TPQIDH	NN Infinity 
-HXKIRH	VB Infinity 
-AXRWNIM	JJ Infinity 
-TPQIDI	NN Infinity 
-HFKL	NN Infinity 
-TPQIDK	NN Infinity 
-LRWM	NNP Infinity 
-MTXMQWT	VB Infinity 
-MXMIRWT	JJ Infinity 
-AWHBIM	VB Infinity 
-MXRID	JJ Infinity 
-ICLIX	VB Infinity 
-IWFBT	VB Infinity 
-MXRIP	VB Infinity 
-5.63	CD Infinity 
-MKWPLT	JJ Infinity 
-HFNH	RB Infinity 
-XZWNW	NN Infinity 
-AMWNH	NN Infinity 
-XWLWNI	NN Infinity 
-IIQBEW	VB Infinity 
-FLWFT	CDT Infinity 
-SJWDNJIALI	JJ Infinity 
-IBIEW	VB Infinity 
-RIHWJ	NN Infinity 
-EBWDTNW	NN Infinity 
-XMWRIM	JJ Infinity 
-IXIDT	NNT Infinity 
-RWFMIM	VB Infinity 
-LMXRT	RB Infinity 
-FLWFH	CDT Infinity CD Infinity 
-RCIM	VB Infinity 
-HWTIRH	VB Infinity 
-GWRRT	VB Infinity 
-IWFBE	VB Infinity 
-1.2.19	CD Infinity 
-RCIP	NN Infinity 
-ARZI	NNT Infinity 
-NDRFT	VB Infinity 
-NDRFW	VB Infinity 
-MCIINIM	VB Infinity 
-GWRST	VB Infinity 
-BBQFH	RB Infinity 
-IISD	VB Infinity 
-RFIWNWT	NN Infinity 
-IFRALIT	JJ Infinity 
-IFRALIM	NN Infinity JJ Infinity 
-HWLKT	JJ Infinity VB Infinity 
-TXWMIW	NN Infinity 
-TIAJRWN	NN Infinity NNT Infinity 
-BJIXWTIIM	JJ Infinity 
-TIQI	NNP Infinity NNT Infinity 
-IIRD	VB Infinity 
-IQWDMW	VB Infinity 
-ALBRJW	NNP Infinity 
-BDWMH	IN Infinity 
-TIQW	NN Infinity NNT Infinity 
-AINDIANH	NNP Infinity 
-THLIKI	NNT Infinity 
-ZKIITW	NN Infinity 
-GIIMS	NNP Infinity 
-FWWRDNADZH	NNP Infinity 
-HWLND	NNP Infinity 
-AGDWT	NN Infinity 
-NMWKWT	JJ Infinity 
-MTAIMIM	JJ Infinity 
-HIBXRWTM	NN Infinity 
-XWNIM	JJ Infinity 
-NFKRIM	JJ Infinity 
-TEFIWT	NNT Infinity 
-BIALIQ	NNP Infinity 
-HWLMT	JJ Infinity 
-RCNW	VB Infinity 
-NBLEW	VB Infinity 
-GLRWN	NNP Infinity 
-MEWGNWT	VB Infinity 
-NFXQW	VB Infinity 
-NBLET	VB Infinity 
-BIDWD	NN Infinity 
-QMLIWT	NN Infinity 
-LBXWR	VB Infinity 
-LBXWN	VB Infinity 
-IITN	VB Infinity 
-ICLMW	VB Infinity 
-HKILH	VB Infinity 
-QWBRIM	VB Infinity 
-BIDWR	NN Infinity 
-JAJSWAW	NNP Infinity 
-FIMWN	NNT Infinity 
-HMWMIM	JJ Infinity 
-AWPIINH	VB Infinity 
-ASAM	NNP Infinity 
-NXLCW	VB Infinity 
-FIMWF	NNT Infinity NN Infinity 
-BINWNIT	JJ Infinity 
-RCPH	NN Infinity 
-XZWTW	NN Infinity 
-DIALWGIM	NN Infinity 
-FRIQT	NNT Infinity 
-XWSKIM	NN Infinity 
-TWELT	NN Infinity 
-HFWWAH	NN Infinity 
-ERMWN	NNP Infinity 
-001,000	CD Infinity 
-HFWWAT	NNT Infinity 
-ARWKWT	RB Infinity JJ Infinity 
-HKINW	VB Infinity 
-HKINH	VB Infinity 
-ZENIN	NNP Infinity 
-HKRIZH	VB Infinity 
-LHINTN	VB Infinity 
-HKRIZW	VB Infinity 
-MZKIRWT	VB Infinity NNT Infinity 
-LHINTQ	VB Infinity 
-HTNFAWT	NN Infinity 
-MFLMIM	VB Infinity 
-HXMRT	NNT Infinity 
-AXRWNWT	JJ Infinity 
-IWDET	VB Infinity 
-LJINIWT	JJ Infinity 
-MLMJH	RB Infinity 
-LSBK	VB Infinity 
-IIXL	VB Infinity 
-IIXS	VB Infinity 
-QDNCIH	NN Infinity 
-LHTNTQ	VB Infinity 
-RCTH	VB Infinity 
-NWCXNW	VB Infinity 
-MAMIN	JJ Infinity VB Infinity 
-LHTNQF	VB Infinity 
-AWQIINWS	NN Infinity 
-TXFWB	VB Infinity 
-ILDIW	NN Infinity 
-MSTIIDIM	VB Infinity 
-MPIIST	JJ Infinity 
-NPFIIM	JJ Infinity 
-ILDIM	NN Infinity 
-PGMIM	NN Infinity 
-MLMIN	NN Infinity NNP Infinity 
-PRMIH	NN Infinity 
-LASQW	NNP Infinity 
-KRJIS	NN Infinity NNT Infinity 
-EIQRIIM	JJ Infinity 
-LSDR	VB Infinity 
-HNXITH	VB Infinity 
-GNWAH	NNP Infinity 
-NPSLH	VB Infinity 
-HFWW	VB Infinity 
-HTAIM	VB Infinity 
-SIJWNAIIM	JJ Infinity 
-ICJRP	VB Infinity 
-FRIRWT	NN Infinity 
-ICJRK	VB Infinity 
-MPWRZT	JJ Infinity 
-LSGL	VB Infinity 
-HWJRD	VB Infinity 
-LASWR	VB Infinity 
-FJRWT	NN Infinity 
-XKIRH	NN Infinity 
-LSGT	VB Infinity 
-MAMNW	NN Infinity 
-LASWP	VB Infinity 
-TIMNXIH	NN Infinity 
-RIFWM	NN Infinity 
-XLMWNIT	NN Infinity 
-RIFWI	NN Infinity 
-FWWDI	JJ Infinity 
-TWCRT	NN Infinity NNT Infinity 
-ICJRKW	VB Infinity 
-PISIT	JJ Infinity 
-GIAWLWG	JJ Infinity 
-AWLPNI	NNT Infinity 
-AILWZ	NNP Infinity 
-JWJLIJRIWT	JJ Infinity NN Infinity 
-LHINQJ	VB Infinity 
-XISWNIT	JJ Infinity 
-WWTIQIM	JJ Infinity NN Infinity 
-QFWRWT	VB Infinity 
-5.0	CD Infinity 
-HTNGDWT	NN Infinity 
-5.1	CD Infinity 
-AINPLCIH	NN Infinity 
-SIGLTI	VB Infinity 
-5.4	CD Infinity 
-5.5	CD Infinity 
-NWGET	VB Infinity 
-RWPAH	NN Infinity 
-RWPAI	NNT Infinity 
-BAWZNI	IN Infinity 
-HNXIWT	NNT Infinity NN Infinity 
-TWKNWT	NN Infinity 
-BQNAAR	NNP Infinity 
-QANIBLIM	JJ Infinity 
-ASIH	NNP Infinity 
-WTIQH	JJ Infinity 
-RCXW	VB Infinity 
-MWDPSIM	VB Infinity 
-NWGDT	VB Infinity 
-MAMNM	NN Infinity 
-RCWI	JJ Infinity NN Infinity VB Infinity 
-MINISJRIALI	JJ Infinity 
-TBIETH	NN Infinity 
-SPWRWT	JJ Infinity 
-RCWP	JJT Infinity JJ Infinity 
-RCWN	NN Infinity NNT Infinity 
-MAMNI	NNT Infinity 
-LHGIB	VB Infinity 
-500	CD Infinity 
-MNSRT	VB Infinity 
-501	CD Infinity 
-LHGID	VB Infinity 
-LHGIE	VB Infinity 
-MSTWDD	VB Infinity 
-LHGIF	VB Infinity 
-505	CD Infinity 
-JQJIWT	JJ Infinity 
-509	CD Infinity 
-HTPLGWT	NNT Infinity 
-MWMLC	VB Infinity 
-PILSWDSQI	NNP Infinity 
-HTAMT	NNT Infinity 
-FPRINCQ	NNP Infinity 
-LSKN	VB Infinity 
-ABIBIT	JJ Infinity 
-MIDIT	JJ Infinity 
-ICJRPW	VB Infinity 
-PIQDWN	NN Infinity 
-BAMCEWT	IN Infinity 
-WLSJN	NNP Infinity 
-XWLQW	VB Infinity 
-LHTNKR	VB Infinity 
-511	CD Infinity 
-NRTEWT	VB Infinity 
-CWINH	VB Infinity 
-516	CD Infinity 
-LKPWT	VB Infinity 
-519	CD Infinity 
-ASIPT	NNT Infinity 
-KRJST	NNT Infinity 
-NWJLIM	VB Infinity 
-LSJR	NNP Infinity 
-521	CD Infinity 
-ASIPH	NN Infinity 
-LHSKIM	VB Infinity 
-PLFTINIT	JJ Infinity 
-526	CD Infinity 
-CWENIM	NN Infinity 
-PLFTINIM	NN Infinity 
-FWWIC	NNP Infinity 
-RWPPT	JJ Infinity 
-AILWC	NN Infinity 
-FWWIH	NN Infinity 
-FWWIG	NNP Infinity 
-FWWIM	JJ Infinity 
-MNSRWT	NNT Infinity 
-LSMN	VB Infinity 
-KIPWT	NN Infinity 
-SLJIQ	NNP Infinity 
-531	CD Infinity 
-NAGJS	NNP Infinity 
-MXIIKIM	VB Infinity 
-LBNWNIZCIH	NN Infinity 
-KLKLNIM	NN Infinity 
-536	CD Infinity 
-APWJRWPSWT	NN Infinity 
-RWMAIT	JJ Infinity 
-ALWPWT	NN Infinity 
-MAMRW	NN Infinity 
-ASNT	NNP Infinity 
-MAMRK	NN Infinity 
-PSJWRLI	JJ Infinity 
-LSLQ	VB Infinity 
-GMLAWT	NN Infinity 
-MSQNWTIH	NN Infinity 
-ASIRI	NNT Infinity 
-544	CD Infinity 
-TDMIT	NNT Infinity NN Infinity 
-IRWDH	JJ Infinity 
-IWCGTI	VB Infinity 
-QABRRH	NNP Infinity 
-HTRKZNW	VB Infinity 
-MFTTPIM	VB Infinity NN Infinity 
-HZDHWT	NN Infinity 
-BITURIWT	JJ Infinity NNP Infinity 
-LWNDWN	NNP Infinity 
-AIRDINGN	NNP Infinity 
-LWKSMBWRG	NNP Infinity 
-LKWDWT	VB Infinity 
-550	CD Infinity 
-552	CD Infinity 
-LWWIINIM	NN Infinity 
-IWFQEW	VB Infinity 
-IEQBI	NNP Infinity 
-SNDRLND	NNP Infinity 
-LHTNGD	VB Infinity 
-MWBJXT	JJ Infinity 
-DISQWNJ	NNP Infinity 
-HTNGFWIWT	NN Infinity 
-MGBLWTIW	NN Infinity 
-MSAIT	JJ Infinity 
-ASPW	VB Infinity 
-LSNR	NNP Infinity 
-SWLIDI	JJ Infinity 
-ASPR	VB Infinity 
-MDWBR	NN Infinity VB Infinity JJ Infinity 
-MZIMTW	NN Infinity 
-CLILH	NN Infinity 
-NXJPT	VB Infinity 
-SNIGWRIHM	NN Infinity 
-EINWIIM	NN Infinity 
-ABRMSQI	NNP Infinity 
-ASPH	NN Infinity 
-IBGWD	VB Infinity 
-LHTNHG	VB Infinity 
-BLEDIT	JJ Infinity RB Infinity 
-IRWFH	NN Infinity 
-RWPIN	NNP Infinity 
-LIBWBIC	NNP Infinity 
-HGEH	NN Infinity 
-XWLWN	NNP Infinity 
-RDAR	NN Infinity 
-MJILWT	VB Infinity 
-AQCIH	NN Infinity 
-LSQR	VB Infinity 
-HTASP	VB Infinity 
-HGET	NNT Infinity 
-QWLNWE	NN Infinity 
-MMWCET	JJ Infinity 
-575	CD Infinity 
-HFTMFW	VB Infinity 
-WIDIAW	NN Infinity 
-SWBLIM	VB Infinity 
-CWIIN	VB Infinity 
-MDIPIM	VB Infinity 
-LSPR	VB Infinity 
-LSPQ	VB Infinity IN Infinity 
-LHTNER	VB Infinity 
-581	CD Infinity 
-HPWKH	JJ Infinity 
-586	CD Infinity 
-RDAI	NNP Infinity 
-NPFIWT	JJ Infinity 
-FINWWH	NNP Infinity 
-8891	CD Infinity 
-CMITWT	NN Infinity 
-MPTIEH	JJ Infinity VB Infinity 
-NQWDH	NN Infinity 
-MWPTET	VB Infinity 
-GRWEIM	JJ Infinity 
-ASUA	NNP Infinity 
-HEWNH	RB Infinity 
-MGWFMT	JJ Infinity 
-PRWANI	JJ Infinity 
-HGFT	NNT Infinity 
-LSGWR	VB Infinity 
-ASTR	NNP Infinity 
-QSJRW	NNP Infinity 
-HSDRIM	NN Infinity 
-NWSEIM	NN Infinity VB Infinity 
-ILDWT	NN Infinity 
-MFPXTIT	JJ Infinity 
-1,500	CD Infinity 
-KPPH	NN Infinity 
-NIRNBRG	NNP Infinity 
-TPISTN	NN Infinity 
-JIWLI	NNT Infinity 
-GIHAD	NN Infinity 
-FJRIT	NNP Infinity 
-IJLW	VB Infinity 
-HGIX	VB Infinity 
-ITQBLW	VB Infinity 
-HTIIFBWT	NN Infinity 
-LIJWL	VB Infinity 
-FWWRC	NNP Infinity 
-MSWLSLWT	JJ Infinity 
-MZKIRIM	VB Infinity 
-MHGRWT	NN Infinity 
-FABH	VB Infinity 
-FNWTIH	NN Infinity 
-GWLDFJIIN	NNP Infinity 
-AILNH	NNP Infinity 
-NFWAH	JJ Infinity 
-LBWFH	JJ Infinity 
-FABW	VB Infinity 
-MTKWNT	NN Infinity 
-FNWTIW	NN Infinity 
-MWMXH	NN Infinity 
-XWFFIM	VB Infinity 
-NTNIITIM	NN Infinity 
-LHIRAWT	VB Infinity 
-KPRH	NN Infinity 
-HGIB	VB Infinity 
-PFJWT	NN Infinity 
-HGIE	VB Infinity 
-MSEWTIW	NN Infinity 
-HGIF	VB Infinity 
-KPRI	NN Infinity 
-LSWR	VB Infinity 
-MSWNPIM	VB Infinity 
-IFTLW	VB Infinity 
-DNIAL	NNP Infinity 
-MZWIN	JJ Infinity 
-TFLWMI	NNT Infinity 
-AQSIWMH	NN Infinity 
-IIBXRW	VB Infinity 
-ASWR	JJ Infinity VB Infinity 
-IFWXRRW	VB Infinity 
-MDWIQ	JJ Infinity 
-ASWN	NN Infinity 
-MAWWRIQS	NNP Infinity 
-RPWBLIQAIT	JJ Infinity 
-KPSR	NNP Infinity 
-ECBWT	NNT Infinity 
-MZWHH	VB Infinity 
-SWJIM	VB Infinity 
-HPQIEW	VB Infinity 
-PIGWARDW	NNP Infinity 
-PLFTIN	NNP Infinity 
-WAN	NNP Infinity 
-RDIW	NN Infinity 
-RIGLH	VB Infinity 
-NISWXIM	NN Infinity 
-KPWI	VB Infinity 
-HGNH	NN Infinity 
-KPWL	JJ Infinity 
-HPQIDW	VB Infinity 
-DMGWGIWT	JJ Infinity 
-ABXWN	NN Infinity 
-XWMRH	NN Infinity 
-XWMRI	NNT Infinity JJ Infinity 
-MTBDXIM	VB Infinity 
-JJRIWT	JJ Infinity 
-LGDWL	VB Infinity 
-QFWRIM	JJ Infinity VB Infinity 
-XWMRT	NNT Infinity 
-MWEMDIM	NN Infinity 
-NQWDT	NNT Infinity 
-AILIH	NNP Infinity 
-HWKFR	VB Infinity 
-MPWRFT	JJ Infinity 
-PWNDMNJLISJIWT	JJ Infinity 
-XQIRWT	NN Infinity 
-HWGBLW	VB Infinity 
-AWUMI	JJ Infinity 
-MZWMN	NN Infinity 
-NTNIHW	NNP Infinity 
-IFTQP	VB Infinity 
-MWEDWNIM	NN Infinity 
-FAJI	NNP Infinity 
-RDLR	NNP Infinity 
-KPWT	NNT Infinity NN Infinity 
-BWAI	VB Infinity 
-BWAH	NN Infinity 
-AISJNBWL	NNP Infinity 
-HGNT	NNT Infinity 
-MWLWQWLWT	NN Infinity 
-SGNI	NNT Infinity 
-ALWPIM	NN Infinity 
-AIDIAWLWGIT	JJ Infinity 
-IFBITW	VB Infinity 
-SPWRIM	JJ Infinity 
-AILCW	VB Infinity 
-MWDAGIM	JJ Infinity 
-WED	NN Infinity NNT Infinity 
-SEWDI	JJ Infinity 
-GDLH	NN Infinity 
-TRWEH	NN Infinity 
-SGNW	NN Infinity 
-MWNCX	VB Infinity 
-MFWLMT	VB Infinity JJ Infinity 
-BBRKW	NNP Infinity 
-MTKWWN	VB Infinity 
-IIRFMW	VB Infinity 
-BWBH	NN Infinity 
-XWAN	NNP Infinity 
-RCWIH	VB Infinity 
-QWWIN	NNP Infinity 
-IWEBR	VB Infinity 
-TGWBH	NN Infinity 
-MWBA	VB Infinity 
-MWBN	NN Infinity VB Infinity JJ Infinity 
-LFAWL	VB Infinity 
-LXWLL	VB Infinity 
-BWAW	NN Infinity 
-HWKIX	VB Infinity 
-XWBB	NNT Infinity 
-FALH	NN Infinity VB Infinity 
-TGWBT	NNT Infinity 
-TZMWN	NN Infinity 
-MIDWT	NN Infinity 
-DMEWT	NN Infinity 
-NZEQ	VB Infinity 
-HWKNSW	VB Infinity 
-LFAWB	VB Infinity 
-BWAN	NN Infinity 
-BWAM	NN Infinity 
-MFWLLT	JJT Infinity 
-GRGWRI	NNT Infinity 
-yyQUOT	yyQUOT Infinity 
-DWBRI	NNT Infinity 
-RIGWL	NN Infinity 
-BMSGRT	IN Infinity 
-BWCE	VB Infinity 
-MWAC	JJ Infinity 
-GIHNWM	NN Infinity 
-10,000	CD Infinity 
-MBQFT	VB Infinity 
-DWBRT	NNT Infinity NN Infinity 
-JMWN	VB Infinity 
-HTBCE	VB Infinity 
-HKRIEW	VB Infinity 
-MDWRG	VB Infinity 
-AWBRWN	NNP Infinity 
-BWDD	JJ Infinity 
-MWDH	VB Infinity 
-TCJRK	VB Infinity 
-XWCH	NN Infinity 
-MWDD	VB Infinity NNT Infinity 
-MWDE	JJ Infinity VB Infinity 
-MWDN	NNP Infinity 
-MINISJRIALIT	JJ Infinity 
-QAMP	NNP Infinity 
-MWDL	NN Infinity 
-LTAM	VB Infinity 
-SNIGWRIWT	NN Infinity 
-LTAR	VB Infinity 
-NZQIM	NN Infinity 
-SIAJL	NNP Infinity 
-IJWS	VB Infinity 
-RDPW	VB Infinity 
-AWMRWT	VB Infinity 
-FALT	NNT Infinity 
-FRFRAWT	NN Infinity 
-RNWAR	NNP Infinity 
-HDDIWT	JJ Infinity 
-LHTNXM	VB Infinity 
-FALW	VB Infinity 
-IWECW	NN Infinity 
-MWCE	VB Infinity 
-TEMWLTH	NN Infinity 
-MWCG	VB Infinity 
-NGZRW	VB Infinity 
-XWBH	NN Infinity 
-MWCA	NN Infinity NNP Infinity NNT Infinity 
-SGRH	VB Infinity 
-MWCB	VB Infinity 
-KRKIM	NN Infinity 
-yyCM	yyCM Infinity 
-QWALICIH	NN Infinity 
-MWCP	VB Infinity 
-IFTTP	VB Infinity 
-XWBT	NNT Infinity 
-BWDQ	VB Infinity 
-MWCR	NN Infinity 
-SIMPAJI	JJ Infinity 
-SGRW	VB Infinity 
-MWFA	NN Infinity 
-MWFB	NN Infinity 
-1,509	CD Infinity 
-LHEBIR	VB Infinity 
-TDMWR	NNP Infinity 
-GRMNIIM	JJ Infinity 
-RCWEH	NN Infinity 
-HLKNW	VB Infinity 
-MWFK	VB Infinity 
-NZIL	JJ Infinity 
-MWNFM	VB Infinity 
-MWFG	NNT Infinity NN Infinity 
-AIDIAWLWGIH	NN Infinity 
-XWFB	VB Infinity 
-XWMIM	JJ Infinity 
-IFTWQ	VB Infinity 
-XWFD	VB Infinity 
-BWEZ	NNP Infinity 
-RCWET	NNT Infinity 
-XWFF	VB Infinity 
-WIJLI	NNP Infinity 
-QSJWT	NN Infinity 
-NGZRH	VB Infinity 
-BWER	JJ Infinity 
-QJIGWRIH	NN Infinity 
-ABXNH	NN Infinity 
-WJW	NN Infinity 
-TLIWNIM	NN Infinity 
-XWDF	NN Infinity NNT Infinity 
-IRWXM	NNP Infinity 
-MWEJ	JJ Infinity 
-MPZRI	NNT Infinity 
-MWED	NN Infinity NNT Infinity NNP Infinity 
-HTLBJW	VB Infinity 
-MGBILH	VB Infinity 
-NZHR	VB Infinity 
-LXWQR	VB Infinity 
-MWNET	VB Infinity 
-NSBLIM	JJ Infinity 
-BJIXWTI	JJ Infinity 
-XLIPIN	NN Infinity 
-XWDW	NN Infinity 
-BIEWR	NNT Infinity 
-HJEIM	VB Infinity 
-HWKNS	VB Infinity 
-BWHQ	JJ Infinity NN Infinity 
-KISWI	NNT Infinity NN Infinity 
-300,000	CD Infinity 
-XWGI	NNT Infinity 
-SGWR	NNT Infinity JJ Infinity 
-HCBIEH	VB Infinity 
-NZKH	VB Infinity 
-SGWL	NN Infinity 
-MWHR	NN Infinity 
-AMZLG	NNP Infinity 
-NZKR	VB Infinity 
-HCBIEW	VB Infinity 
-AIFIWT	JJ Infinity NN Infinity 
-BWGR	NNT Infinity 
-LWMDWT	VB Infinity 
-NXLQIM	VB Infinity 
-BNWIH	VB Infinity 
-XICWNIWT	JJ Infinity 
-XWFK	NN Infinity 
-ARGWN	NN Infinity NNT Infinity 
-HGWN	JJ Infinity 
-BWHZ	NNP Infinity 
-LIMPH	NN Infinity 
-ALWHI	NNT Infinity 
-BWHW	NN Infinity 
-RWWXTM	NN Infinity 
-ATGR	NN Infinity 
-MWPNM	JJ Infinity 
-MWPNH	VB Infinity 
-MWJB	NN Infinity VB Infinity 
-MWJL	VB Infinity 
-BWJL	NNP Infinity VB Infinity 
-GDWD	NNT Infinity 
-BWJH	JJ Infinity 
-MWJI	NNP Infinity 
-GDWF	JJT Infinity 
-BERNWT	RB Infinity 
-HTENIIN	VB Infinity 
-FRJWJ	NN Infinity 
-GDWL	NNT Infinity JJ Infinity JJT Infinity 
-MWJW	NN Infinity 
-QSMIM	NN Infinity 
-XWJI	NNT Infinity 
-RDWD	JJ Infinity 
-AIMPRIWT	NNT Infinity NN Infinity 
-GDWT	NN Infinity NNP Infinity NNT Infinity 
-XWJB	NNT Infinity 
-TWCAWTIW	NN Infinity 
-XWJA	VB Infinity 
-HWMWR	NN Infinity 
-SCINWT	NN Infinity 
-QARD	NN Infinity 
-DIPLWMJIIM	JJ Infinity 
-BIGWD	NN Infinity 
-QARN	NNP Infinity 
-NWTNIM	VB Infinity 
-MLPNI	IN Infinity 
-CZNH	NNP Infinity 
-TWCAWTIH	NN Infinity 
-HTNHLW	VB Infinity 
-QARW	NNP Infinity 
-BIGWN	NNP Infinity 
-FIPWR	NNT Infinity NN Infinity 
-AWWIR	NN Infinity 
-TPSID	VB Infinity 
-AFDWD	NNP Infinity 
-TPSIQ	VB Infinity 
-FIPWJ	NN Infinity 
-MAWXRIM	JJ Infinity 
-ARGWNIIM	JJ Infinity 
-MWLH	NN Infinity 
-BWLS	NNP Infinity 
-MXSWR	NN Infinity 
-FIPWC	NNT Infinity NN Infinity 
-MWLD	NN Infinity 
-PWNQCIWT	NN Infinity 
-BWLM	VB Infinity 
-XWRFWT	NNT Infinity 
-IFWBW	VB Infinity 
-BWLJ	VB Infinity JJ Infinity 
-PEILIM	NN Infinity JJ Infinity 
-QINMWN	NN Infinity 
-XWLF	VB Infinity 
-BWLE	VB Infinity 
-XWLH	NN Infinity NNT Infinity JJ Infinity 
-ASJWN	NNP Infinity 
-XWLI	NNT Infinity 
-MTGLH	VB Infinity 
-LHPEIL	VB Infinity 
-MXMIRH	JJ Infinity 
-SICILIH	NNP Infinity 
-MWKN	VB Infinity 
-MWKI	JJT Infinity 
-XWJP	VB Infinity 
-PDRLIT	JJ Infinity 
-HTHWWH	VB Infinity 
-XWPFH	NN Infinity 
-XWPFI	JJ Infinity 
-MWKR	JJ Infinity VB Infinity NN Infinity 
-600	CD Infinity 
-601	CD Infinity 
-MWKT	JJT Infinity 
-MXSWM	NN Infinity 
-BLINQWB	NNP Infinity 
-MWPTI	JJ Infinity 
-MWNH	NNP Infinity VB Infinity 
-QAWL	NNP Infinity 
-MWNJ	NNP Infinity 
-LKSWT	VB Infinity 
-MWND	NNP Infinity 
-MWNE	JJ Infinity VB Infinity 
-IITLWW	VB Infinity 
-IKBD	VB Infinity 
-FRIQWT	NNT Infinity 
-MRWWIXWT	VB Infinity 
-MWPRZ	JJ Infinity 
-WRH	NNP Infinity 
-XWMR	NN Infinity NNT Infinity 
-JWRQIIM	JJ Infinity 
-JQBASRN	NNP Infinity 
-NWSKIM	VB Infinity 
-BWNH	VB Infinity NN Infinity 
-MWNX	NN Infinity VB Infinity 
-GWLFWT	VB Infinity 
-WRP	NNP Infinity 
-MWNW	VB Infinity 
-GBWHI	NNT Infinity JJT Infinity 
-GBWHH	JJ Infinity 
-RWSIH	JJ Infinity NNP Infinity 
-MWPQR	JJ Infinity 
-SWMAW	VB Infinity 
-AWLJIMJWM	NN Infinity 
-IWQRTIT	JJ Infinity 
-XWLM	VB Infinity 
-XWLP	VB Infinity JJ Infinity 
-MWMR	NN Infinity 
-MWPQT	VB Infinity 
-XWLQ	VB Infinity 
-WTIQ	JJ Infinity 
-FAWL	NNP Infinity NN Infinity 
-JWRQIIH	JJ Infinity NN Infinity 
-XWMH	NN Infinity 
-RWSIT	JJ Infinity NN Infinity 
-QLIIJWN	NNP Infinity 
-NWJIM	VB Infinity 
-MWPRK	JJ Infinity 
-MWPRD	JJ Infinity 
-PWRMALIT	JJ Infinity 
-RWSIM	NN Infinity JJ Infinity 
-MWPRF	VB Infinity 
-KMWSIM	JJ Infinity 
-MRAIM	VB Infinity 
-LWWAI	NN Infinity 
-yyQM	yyQM Infinity 
-IRXMIAL	NNP Infinity 
-AIMWC	NNT Infinity 
-AQDMI	JJ Infinity 
-AIMWN	NN Infinity 
-MWPT	NN Infinity 
-WRGAS	NNP Infinity 
-FIPRW	VB Infinity 
-LTMWK	VB Infinity 
-MWPQ	VB Infinity 
-XWPI	NNT Infinity JJ Infinity 
-HTIICBW	VB Infinity 
-DWDIM	NN Infinity 
-632	CD Infinity 
-WTQ	NN Infinity 
-HWRAWT	NN Infinity NNT Infinity 
-MWQD	NNT Infinity NN Infinity 
-XIFWBI	NNT Infinity 
-LIMWR	NNP Infinity 
-XWPF	NN Infinity NNT Infinity 
-HFTLJW	VB Infinity 
-BWQR	NN Infinity NNP Infinity 
-SKSWKIM	NN Infinity 
-BWQE	VB Infinity 
-MWPE	NN Infinity 
-LGIJIMIWT	JJ Infinity 
-AIFIWTK	NN Infinity 
-MWRN	NNP Infinity 
-LHRKIB	VB Infinity 
-MWRH	NNT Infinity NN Infinity 
-BWRX	VB Infinity 
-AIFIWTM	NN Infinity 
-MWRJ	JJT Infinity 
-XWRB	NNP Infinity 
-XWQR	NN Infinity NNT Infinity 
-MXZWRIM	NN Infinity 
-BWRR	NN Infinity 
-MWRW	NN Infinity 
-AIFIWTW	NN Infinity 
-JNIS	NN Infinity 
-yyELPS	yyELPS Infinity 
-JRIJWRIALIT	JJ Infinity 
-BWRH	NNP Infinity 
-XWRP	NN Infinity 
-KRMWN	NNP Infinity 
-BWRA	NN Infinity 
-MWSA	NNP Infinity 
-63.5	CD Infinity 
-XWRG	JJ Infinity 
-XMSIN	NN Infinity 
-MWSD	NNT Infinity NN Infinity 
-MWQM	VB Infinity 
-BLPWR	NNP Infinity 
-MSDIR	VB Infinity 
-APIDMIWLWGIIM	JJ Infinity 
-RWJNBRG	NNP Infinity 
-MWQI	NNP Infinity 
-MCJBRWT	JJ Infinity 
-LIMWD	NN Infinity NNT Infinity 
-WWL	NNP Infinity 
-MWQP	VB Infinity 
-HBQEH	NN Infinity 
-QLIBWRN	NNP Infinity 
-ATMWL	RB Infinity 
-TBJIX	VB Infinity 
-MWRD	JJ Infinity NNT Infinity NN Infinity 
-MWRA	NN Infinity 
-XWQI	JJ Infinity NNT Infinity 
-XWQH	NN Infinity 
-TFIFWT	NN Infinity 
-HIERKWT	NN Infinity 
-MPRFIH	NN Infinity 
-ANPILD	NNP Infinity 
-FMINIT	JJ Infinity 
-LTQN	VB Infinity 
-MWTM	NN Infinity 
-MWTW	NN Infinity 
-NPWCH	JJ Infinity 
-MWTX	VB Infinity 
-IKHN	VB Infinity 
-MWTR	VB Infinity JJ Infinity 
-MCWDT	NNT Infinity 
-NEWCH	VB Infinity 
-HWNAH	NN Infinity 
-DIWWXIM	NN Infinity 
-FWBINIZM	NN Infinity 
-MWSP	NN Infinity NNT Infinity 
-MWSJ	NNP Infinity 
-AMRIQAIWT	JJ Infinity 
-MWSR	VB Infinity NNT Infinity 
-XWSM	VB Infinity 
-NAJUW	NNP Infinity 
-XWSL	VB Infinity 
-685	CD Infinity 
-ATRI	NNT Infinity 
-XWSR	NNT Infinity 
-QWMWNISJI	JJ Infinity 
-MWPLAWT	JJ Infinity 
-XIDWFIM	NN Infinity 
-MNWDH	VB Infinity 
-TWGBR	VB Infinity 
-XWSK	NN Infinity 
-KIRWRGIT	JJ Infinity 
-MIGRF	NN Infinity 
-KIRWRGIM	NN Infinity 
-AIPFRH	VB Infinity 
-5000	CD Infinity 
-ALKSNDR	NNP Infinity 
-MTWRBTT	JJ Infinity 
-QLIFAWT	NN Infinity 
-MMWFKT	JJ Infinity 
-MTWARIM	VB Infinity 
-AIMTW	NN Infinity 
-MWUP	NN Infinity 
-MWUL	NNT Infinity NN Infinity 
-IKIN	VB Infinity 
-ZKWIWTIHM	NN Infinity 
-GRACIH	NNP Infinity 
-MWUM	NN Infinity 
-HBQIE	VB Infinity 
-WIKWXIM	NN Infinity 
-IKIR	VB Infinity 
-AIMTH	VB Infinity 
-AIPFRW	VB Infinity 
-NXLQWT	VB Infinity 
-CWJJW	VB Infinity 
-TKIN	VB Infinity 
-LWWDA	VB Infinity 
-XWUL	NN Infinity 
-MCWID	JJ Infinity 
-XGABI	NNP Infinity 
-TBIEWTIH	NN Infinity 
-SQNDINWWIT	JJ Infinity 
-MWXN	NN Infinity 
-JLQWMWNIQCIH	NN Infinity 
-AWNNWT	NN Infinity 
-IKLW	VB Infinity 
-BWXR	VB Infinity 
-BWXN	VB Infinity 
-GBWRH	NN Infinity 
-QBCN	NN Infinity 
-QPDNI	JJ Infinity 
-LWWIH	NN Infinity 
-MIGWN	NN Infinity 
-HERKTM	NN Infinity 
-DIIRIM	NN Infinity 
-MWWT	NN Infinity 
-HDWQH	JJ Infinity 
-LHTRKZ	VB Infinity 
-TXWFWT	NN Infinity 
-NSIETW	NN Infinity 
-QRIIRH	NN Infinity 
-GMWRH	JJ Infinity 
-MGBLWT	NN Infinity 
-7691	CD Infinity 
-CRLSJWN	NNP Infinity 
-HXLJWT	NNT Infinity NN Infinity 
-XWWT	NNT Infinity 
-ALMWNIM	NN Infinity 
-XWWH	VB Infinity 
-MCWIN	JJ Infinity 
-EIQRIWT	JJ Infinity 
-MWXM	NN Infinity 
-MCWIH	VB Infinity 
-IKLH	VB Infinity 
-ALBLDS	NNP Infinity 
-JLPWNIM	NN Infinity 
-XWZH	NN Infinity NNT Infinity VB Infinity 
-MWZR	NN Infinity JJ Infinity 
-XWZI	NNT Infinity 
-HDWRH	JJ Infinity 
-HXLJTW	NN Infinity 
-FBET	CDT Infinity 
-NWJWT	VB Infinity 
-FBEW	VB Infinity 
-QBEH	VB Infinity 
-BWZR	NNP Infinity 
-LHTRIE	VB Infinity 
-FLJWNW	NN Infinity 
-KFIRWT	NN Infinity 
-HXLJTH	NN Infinity 
-QRIINR	NNP Infinity 
-APIZWDH	NN Infinity 
-XWZR	JJ Infinity VB Infinity NN Infinity 
-AIFIIM	JJ Infinity 
-HXLJTM	NN Infinity 
-XWSIIN	NNP Infinity 
-ASJRAJGIIM	JJ Infinity 
-FIXQNW	VB Infinity 
-LHTRIS	VB Infinity 
-MPWRSMIM	JJ Infinity 
-HTXFBWT	NN Infinity 
-MEBIRIM	VB Infinity 
-IIRGEW	VB Infinity 
-SQNDINWWIM	JJ Infinity 
-FBEH	CD Infinity 
-LTWK	IN Infinity 
-XAG	NN Infinity 
-XAN	NNP Infinity 
-ALMLIX	NNP Infinity 
-AIRLND	NNP Infinity 
-RENNWT	NN Infinity 
-QIPWX	NN Infinity 
-LHTRFM	VB Infinity 
-XICWNIIM	JJ Infinity 
-LHTRGF	VB Infinity 
-TESWQ	VB Infinity 
-JNTM	NN Infinity 
-XBJ	VB Infinity 
-XBL	NN Infinity RB Infinity NNT Infinity 
-LJQIH	NNP Infinity 
-QBEW	VB Infinity 
-IAHBW	VB Infinity 
-XBR	NN Infinity NNT Infinity 
-IWHAN	NNP Infinity 
-TAGID	NN Infinity 
-REIL	JJ Infinity 
-HFTKNE	VB Infinity 
-ADRIKL	NN Infinity 
-GMLAIM	NN Infinity 
-MMTIN	VB Infinity 
-XCH	VB Infinity 
-HCIPWIIIM	ZVL Infinity 
-XCI	NN Infinity NNT Infinity 
-FBIM	NN Infinity 
-ELIITW	NN Infinity 
-XCR	NN Infinity 
-PEILWT	NN Infinity VB Infinity NNT Infinity 
-MWQDI	NNT Infinity 
-RELH	NN Infinity 
-MWQDF	VB Infinity 
-XWRFIM	VB Infinity 
-ELIITM	NN Infinity 
-BQFWTIHM	NN Infinity 
-MNWKH	VB Infinity 
-LAWMI	NN Infinity JJ Infinity 
-FIDWRI	NNT Infinity 
-MWQDM	JJ Infinity RB Infinity 
-KIMIQLIM	NN Infinity 
-XDD	NNP Infinity 
-XDF	JJ Infinity 
-MBWQFWT	JJ Infinity 
-MNWKR	JJ Infinity 
-RFAIT	VB Infinity 
-XDH	JJ Infinity 
-XDL	VB Infinity 
-ARGEH	NN Infinity 
-HBXNWT	NN Infinity 
-XDR	VB Infinity NN Infinity NNT Infinity 
-FIKWRIM	NN Infinity 
-MWQCH	VB Infinity 
-XDT	JJT Infinity 
-HIEDR	NNT Infinity 
-JHWRH	JJ Infinity 
-FBIJ	NN Infinity 
-FBIL	NNT Infinity NN Infinity 
-ARGWNIM	NN Infinity 
-MCWQH	NN Infinity 
-IWQRTI	JJ Infinity 
-ARGWNIT	JJ Infinity 
-NMNEW	VB Infinity 
-HKWWNT	NNT Infinity 
-HXLJNW	VB Infinity 
-MXBL	VB Infinity 
-IWQRTW	NN Infinity 
-XFB	VB Infinity NN Infinity 
-RENN	JJ Infinity NNP Infinity 
-MNWGDWT	JJ Infinity 
-XFD	NN Infinity 
-XFF	VB Infinity NN Infinity NNT Infinity 
-MXBR	NNT Infinity NN Infinity 
-XFP	VB Infinity 
-ITGFMW	VB Infinity 
-XFW	VB Infinity 
-NMNET	VB Infinity JJ Infinity 
-BKIRIM	NN Infinity JJ Infinity 
-MXAH	NN Infinity 
-MFMRWT	NN Infinity NNT Infinity 
-MCWQT	NNT Infinity 
-XGG	NNP Infinity 
-AIBRHIM	NNP Infinity 
-NMNEH	VB Infinity 
-ERPAT	NNP Infinity 
-HTNKLWT	NNT Infinity 
-XLPWN	NNP Infinity 
-EDFWT	NNT Infinity 
-MXDF	RB Infinity MOD Infinity 
-XSINWTW	NN Infinity 
-GREIN	NN Infinity 
-IKWL	VB Infinity NN Infinity 
-RIALISJIT	JJ Infinity 
-MGWIIS	JJ Infinity 
-2,000	CD Infinity 
-QWALICIWNIIM	JJ Infinity 
-AMRIQAIIM	JJ Infinity 
-JRIIKMN	NNP Infinity 
-MCWPH	JJT Infinity 
-QBLH	NN Infinity 
-PISIWLWGI	JJ Infinity 
-MCMCMT	VB Infinity 
-SHRH	NNP Infinity 
-2,004	CD Infinity 
-XIC	NN Infinity 
-PRQIS	NNP Infinity 
-LAWRH	NNP Infinity 
-LAWRK	IN Infinity 
-XIH	VB Infinity NN Infinity JJ Infinity 
-QBLN	NN Infinity 
-XII	NN Infinity NNT Infinity 
-QBLW	NNP Infinity 
-XIL	NNT Infinity NN Infinity 
-MRAWT	VB Infinity NN Infinity 
-QBLT	NNT Infinity 
-PRQIM	NN Infinity 
-XIQ	NNT Infinity 
-ALBWMIM	NN Infinity 
-IPTWR	VB Infinity 
-MXFB	NN Infinity 
-XIW	VB Infinity 
-AWJWNWMIIM	JJ Infinity 
-EQILWB	NNP Infinity 
-SHUK	NN Infinity NNT Infinity 
-HTNGDWTH	NN Infinity 
-XJA	VB Infinity 
-LAWMIWTM	NN Infinity 
-HTNGDWTM	NN Infinity 
-LAWWN	NNP Infinity 
-LWMDIM	VB Infinity NN Infinity 
-HTNGDWTW	NN Infinity 
-HERKWT	NN Infinity 
-XJP	VB Infinity 
-AIMAM	NN Infinity 
-520500	CD Infinity 
-XIBWRIM	NN Infinity 
-MNWTQ	VB Infinity 
-NMNIT	VB Infinity 
-XNWIWT	NN Infinity NNT Infinity 
-JWBAS	NNP Infinity 
-NMNIM	VB Infinity 
-025055	CD Infinity 
-FIBWFIM	NN Infinity 
-JBEIT	JJ Infinity 
-MNWSH	JJ Infinity 
-TFWAH	NN Infinity 
-BWJNAI	NN Infinity 
-HTEKB	VB Infinity 
-HTPFRWT	NN Infinity 
-XLB	NN Infinity NNT Infinity 
-LAWTT	VB Infinity 
-XLD	NNP Infinity 
-XLF	JJ Infinity 
-LFEBR	MOD Infinity 
-XLH	VB Infinity 
-IDQWR	VB Infinity 
-SIDRH	NN Infinity 
-XLL	NN Infinity NNT Infinity 
-XLQ	RB Infinity VB Infinity NN Infinity 
-NEWRI	NN Infinity 
-XLP	VB Infinity 
-XLW	VB Infinity 
-LHKIN	VB Infinity 
-PILWSWPIH	NN Infinity 
-HTELH	VB Infinity 
-LHKIR	VB Infinity 
-KITTI	NN Infinity 
-NDWFIM	JJ Infinity 
-HTQPWT	NN Infinity NNT Infinity 
-TFWBH	NN Infinity 
-MNWRH	NNP Infinity NN Infinity 
-AIMCW	VB Infinity 
-AMNWTIWT	JJ Infinity 
-XMF	CDT Infinity CD Infinity 
-LXZWR	VB Infinity 
-NNQJW	VB Infinity 
-XMH	JJ Infinity 
-LXZWT	VB Infinity 
-MKNIM	NN Infinity VB Infinity 
-QWSIGH	NNP Infinity 
-XMI	NNT Infinity 
-MNWRT	NNT Infinity 
-AXIZTH	NN Infinity 
-MWQLD	VB Infinity 
-AIMCH	VB Infinity 
-LWWTR	VB Infinity 
-XMQ	VB Infinity 
-XMW	NNP Infinity 
-MBRRT	VB Infinity 
-NMLJH	VB Infinity 
-IMINW	NN Infinity 
-MKLLH	NN Infinity 
-NWJRLH	VB Infinity 
-MDRIKIM	NN Infinity 
-FBTI	NNP Infinity 
-LHDAIG	VB Infinity 
-IIAWFW	NN Infinity 
-XNH	NNP Infinity 
-LSIIM	VB Infinity 
-PLAJWT	NN Infinity 
-NMLJW	VB Infinity 
-MKLLT	NNT Infinity 
-NMLJT	VB Infinity 
-NXLIT	VB Infinity 
-XNN	NNP Infinity 
-XNQ	NN Infinity 
-PQIDIM	NN Infinity 
-FBTW	VB Infinity NN Infinity 
-LKRSM	VB Infinity 
-XIZBALLH	NNP Infinity 
-MWBILIM	NN Infinity JJ Infinity VB Infinity 
-TERIP	NN Infinity 
-NMRCIM	JJ Infinity 
-QRICR	NNP Infinity 
-60838430	CD Infinity 
-QBRI	NNT Infinity 
-QWALICIWT	NN Infinity 
-MXIH	NN Infinity 
-MXIR	NNT Infinity NN Infinity 
-QBRW	NN Infinity VB Infinity 
-IMINH	RB Infinity 
-7.0	CD Infinity 
-SIBWT	NN Infinity 
-7.1	CD Infinity 
-IPRWC	VB Infinity 
-7.6	CD Infinity 
-IWZMIM	VB Infinity 
-QBUH	NNP Infinity 
-LMXWQ	VB Infinity 
-MXLH	NN Infinity 
-LHEDIP	VB Infinity 
-XPC	NNT Infinity 
-MXLQ	NNT Infinity 
-MXLT	NNT Infinity 
-TZKWRT	NN Infinity 
-XPR	NNP Infinity 
-FJWIWT	NN Infinity 
-IWFMH	VB Infinity 
-BRBRH	NNP Infinity 
-NICXWNW	NN Infinity 
-MNIXIM	VB Infinity 
-PNAWMJIQH	NN Infinity 
-LSIIE	VB Infinity 
-MXKH	VB Infinity 
-KMIHTH	NN Infinity 
-BRBRX	NNP Infinity 
-NICXWNH	NN Infinity 
-FBUK	NN Infinity NNP Infinity 
-MKLIM	NN Infinity 
-NWHLIM	NN Infinity 
-IWFLM	VB Infinity 
-XQR	VB Infinity NN Infinity 
-701	CD Infinity 
-FBUS	NN Infinity 
-MTWKNNT	JJ Infinity 
-BIHUX	NN Infinity 
-709	CD Infinity 
-MXNH	NNT Infinity NN Infinity VB Infinity 
-TRXIQ	VB Infinity 
-TQWPWT	NN Infinity 
-38.27	CD Infinity 
-LHRWWIX	VB Infinity 
-XRB	NN Infinity 
-MXNK	VB Infinity 
-XRF	VB Infinity 
-EIRWNI	NNP Infinity JJ Infinity 
-FBXI	NNT Infinity 
-RNSANS	NN Infinity 
-CIMRIM	NN Infinity 
-XRM	NN Infinity 
-LKRWE	VB Infinity 
-MBWQFIM	JJ Infinity NN Infinity 
-FRIWN	NN Infinity 
-XRP	IN Infinity 
-MJILH	VB Infinity 
-NAILH	NNP Infinity 
-716	CD Infinity 
-BARAN	NNP Infinity 
-KRGE	RB Infinity 
-XSD	NN Infinity 
-HTNGDH	VB Infinity 
-NBLMW	VB Infinity 
-FBWE	NN Infinity NNT Infinity 
-HTMRDWT	NN Infinity 
-LHIBNWT	VB Infinity 
-MXMJ	NNP Infinity 
-HTGLWTW	NN Infinity 
-MXMM	JJ Infinity VB Infinity 
-GWMHWR	NNP Infinity 
-MEWRRWT	VB Infinity 
-LHTPTX	VB Infinity 
-XSM	NN Infinity NNT Infinity 
-XSR	JJT Infinity VB Infinity NN Infinity JJ Infinity 
-WIKWX	NN Infinity 
-MXMT	IN Infinity 
-LWWRQWZN	NNP Infinity 
-FIQWM	NNT Infinity NN Infinity 
-HTNGDW	VB Infinity 
-QBWE	JJ Infinity 
-FIQWP	NNT Infinity NN Infinity 
-AIDIALIM	NN Infinity 
-ARHUB	NNP Infinity 
-FIQWL	NNT Infinity NN Infinity 
-LHIPQX	VB Infinity 
-FNTIIM	JJ Infinity NN Infinity 
-SIBWB	NNT Infinity NN Infinity 
-MXPF	VB Infinity 
-ILDH	NN Infinity 
-MCDIQH	VB Infinity 
-ILDI	NNT Infinity 
-RPWAIT	JJ Infinity 
-XTK	NN Infinity 
-IIWWCR	VB Infinity 
-XTM	VB Infinity 
-ASISJIM	NN Infinity 
-XTN	NN Infinity NNT Infinity 
-SWKNWIWT	NNT Infinity 
-NZRQW	VB Infinity 
-QWBNJRI	NNP Infinity 
-DIRWTIW	NN Infinity 
-QRIAT	NNT Infinity 
-LHTPRF	VB Infinity 
-TIAJRLI	JJ Infinity 
-MIFHW	PRP Infinity NN Infinity 
-2,162	CD Infinity 
-HTNGFH	VB Infinity 
-14.46	CD Infinity 
-NZRQH	VB Infinity 
-XANWN	NNP Infinity 
-TQWPTW	NN Infinity 
-ARWJIWT	JJ Infinity 
-XUL	NNP Infinity 
-XUK	NN Infinity 
-TRXIF	NN Infinity 
-SBLNWTW	NN Infinity 
-KRIS	NNP Infinity 
-AIMPRSIWNISJIWT	JJ Infinity 
-QRIAH	NN Infinity 
-BIHUD	NN Infinity 
-TRXIB	VB Infinity 
-SALMINH	NNP Infinity 
-LHTPRQ	VB Infinity 
-BIHUS	NN Infinity 
-TQWPTH	NN Infinity 
-LHTPWCC	VB Infinity 
-BXRW	VB Infinity 
-QLSIQH	NN Infinity 
-FRIPWT	NN Infinity 
-MXRT	NN Infinity 
-MXWQQIM	NN Infinity 
-LWNDWNI	JJ Infinity 
-NKFLH	VB Infinity 
-SIBT	NNT Infinity 
-NXLQT	VB Infinity 
-NTMLAH	VB Infinity 
-TCLIX	VB Infinity 
-BXRH	VB Infinity 
-MLAKWT	NN Infinity 
-752	CD Infinity 
-753	CD Infinity 
-PIJWRI	NNT Infinity 
-SWLJN	NNP Infinity 
-LHRJIJ	VB Infinity 
-NKFLW	VB Infinity 
-ETWDWT	NNT Infinity 
-XBRIW	NN Infinity 
-XWB	NN Infinity 
-WWALAS	NNP Infinity 
-XWD	NN Infinity 
-XWC	MOD Infinity NN Infinity IN Infinity 
-MXQH	VB Infinity 
-XWF	NNT Infinity 
-HIBJ	NN Infinity 
-MXQR	NN Infinity 
-XWG	NN Infinity NNT Infinity 
-SWLIT	NNT Infinity 
-XWL	NNT Infinity NN Infinity 
-PWRJLND	NNP Infinity 
-HTQPIM	NN Infinity 
-XWM	NN Infinity 
-XWP	NNT Infinity 
-XBRIH	NN Infinity 
-IWFRW	NN Infinity 
-761	CD Infinity 
-XWR	NN Infinity 
-TMIHH	NN Infinity 
-XWQ	NN Infinity NNT Infinity 
-TBIET	NNT Infinity 
-HTQPIT	JJ Infinity 
-SIBH	NN Infinity 
-XBRIM	NN Infinity 
-PRIDLNDR	NNP Infinity 
-SWLIH	NN Infinity 
-SIDR	VB Infinity 
-PLIATW	NN Infinity 
-KFIRH	JJ Infinity 
-JRMPISJ	NN Infinity 
-LHTPLX	VB Infinity 
-XWNWT	JJ Infinity 
-ZABIM	NN Infinity 
-QLILWT	NN Infinity 
-772	CD Infinity 
-HFTWLLWT	NN Infinity NNT Infinity 
-775	CD Infinity 
-LHIPK	RB Infinity 
-MILIARD	CD Infinity 
-RPSWDH	NN Infinity 
-SIEH	NN Infinity 
-KRMI	NNP Infinity 
-TWFBI	NNT Infinity 
-KRML	NN Infinity NNP Infinity 
-ELBWNWT	NN Infinity 
-HTGWNNWT	NN Infinity 
-SINTJIT	JJ Infinity 
-QRIJRIWNIM	NN Infinity 
-DRWFIM	VB Infinity JJ Infinity 
-RFAI	VB Infinity 
-TELWLI	NNT Infinity 
-HCEWTIW	NN Infinity 
-RMZWRIM	NN Infinity 
-MGZRIM	NN Infinity 
-HTNQFWIWT	NN Infinity 
-5102	CD Infinity 
-XZH	VB Infinity NN Infinity 
-GWPRIT	NN Infinity 
-XZQ	JJ Infinity RB Infinity 
-LHTPJR	VB Infinity 
-XZR	VB Infinity 
-MXWC	IN Infinity 
-ARWJIQH	NN Infinity 
-XZW	VB Infinity 
-FNIIDR	NNP Infinity 
-MSPQIM	VB Infinity 
-PNJZIH	NN Infinity 
-HIFG	NN Infinity 
-NKFLTI	VB Infinity 
-SIET	NNT Infinity 
-MKLWL	NN Infinity 
-5111	CD Infinity 
-MXUJ	NNT Infinity 
-QJRQJ	NN Infinity 
-BXWR	NN Infinity 
-HTLHBWTM	NN Infinity 
-LHTPLL	VB Infinity 
-LHIWT	VB Infinity 
-5107	CD Infinity 
-EIWWT	NN Infinity 
-HIGD	NN Infinity 
-TBIEH	NN Infinity 
-AWMDNIM	NN Infinity 
-HIIT	AUX Infinity 
-SIIE	VB Infinity 
-LIWWRPWL	NNP Infinity 
-HIJB	RB Infinity MOD Infinity 
-ILMD	VB Infinity 
-HTIIBFW	VB Infinity 
-SIIP	NN Infinity 
-SIIM	VB Infinity 
-LILWT	NN Infinity 
-MFXRIM	VB Infinity 
-7791	CD Infinity 
-LHIPJR	VB Infinity 
-4.00	CD Infinity 
-QRIIT	NNT Infinity 
-KISAW	NN Infinity 
-MXWZ	NNT Infinity NN Infinity 
-ILKW	VB Infinity 
-BZBZNIT	JJ Infinity 
-NSIEWT	NN Infinity 
-PEILI	NNT Infinity 
-LTLWT	VB Infinity 
-PEILH	JJ Infinity NN Infinity 
-BRADPWRD	NNP Infinity 
-HIID	NNP Infinity 
-SWCIAL	JJ Infinity NN Infinity 
-MLAKTW	NN Infinity 
-MTQNIM	VB Infinity 
-LRFWM	VB Infinity 
-HIKL	NN Infinity 
-HIKN	QW Infinity 
-MXZR	NN Infinity 
-FWNAIM	VB Infinity 
-IPSID	VB Infinity 
-LHTQIN	VB Infinity 
-AWWIRT	NNT Infinity 
-SIKT	NNT Infinity 
-HILH	NN Infinity 
-IPSIQ	VB Infinity 
-SIKM	VB Infinity 
-SIKN	VB Infinity 
-HIJL	NNT Infinity 
-XSIDIM	NN Infinity 
-AIMPRIIT	NNT Infinity 
-NWTNWT	VB Infinity 
-TWFLM	VB Infinity 
-ADIPWS	NNP Infinity 
-PDRALIIM	JJ Infinity 
-QRIST	NNT Infinity 
-TWFME	VB Infinity 
-SIJI	NNP Infinity NN Infinity 
-EMIDIM	VB Infinity JJ Infinity 
-MXZH	NN Infinity NNT Infinity 
-SLWCQI	NNP Infinity 
-TXILT	NNT Infinity 
-TMIMH	JJ Infinity 
-TXILH	MOD Infinity RB Infinity 
-LHTQFR	VB Infinity 
-BHEDR	IN Infinity 
-TMIMI	JJT Infinity 
-SIMN	NNT Infinity VB Infinity NN Infinity 
-GWSMN	NNP Infinity 
-KRWK	VB Infinity JJ Infinity 
-SIMS	NNP Infinity 
-HINH	AGR Infinity 
-SWLTM	NNP Infinity 
-IDPIS	VB Infinity 
-MWBILWT	JJ Infinity 
-AWWIRH	NN Infinity 
-MWSRARH	NNP Infinity 
-DRWRI	NNP Infinity 
-MFWNWT	JJ Infinity 
-HILT	NNT Infinity 
-NMRCWT	JJ Infinity 
-PWLIJWRH	NN Infinity 
-SNSACIH	NN Infinity 
-NRGFWT	JJ Infinity 
-QCHW	NN Infinity 
-FKWNT	NNT Infinity 
-AIMPRSIWNISJIIM	JJ Infinity 
-HAMIN	VB Infinity 
-LHTQDM	VB Infinity 
-PITWXIM	NN Infinity 
-TMIKH	NN Infinity 
-DRWQR	NNP Infinity 
-PIJWRIN	NN Infinity 
-PIJWRIM	NN Infinity 
-FKWNH	NN Infinity 
-QCIN	NN Infinity 
-DISQWJQIM	NN Infinity 
-AHRWNWB	NNP Infinity 
-ABIBIWT	NN Infinity 
-QRINT	NNT Infinity 
-SIMPAJIM	JJ Infinity 
-XWGGIM	JJ Infinity 
-PRSJRWIQH	NNP Infinity 
-QRINH	NN Infinity 
-TMIKT	NNT Infinity 
-HIPK	NN Infinity 
-AXZWR	VB Infinity 
-IPANIT	JJ Infinity 
-KRWZ	NN Infinity 
-SING	NNP Infinity 
-HINW	AGR Infinity 
-IPANIM	NN Infinity JJ Infinity 
-JWRQIWT	JJ Infinity NN Infinity 
-SINI	NNP Infinity 
-MAWLCT	JJ Infinity 
-NWKXWTN	NN Infinity 
-AINKM	RB Infinity 
-HIQP	NNT Infinity NN Infinity 
-IIWWTR	VB Infinity 
-PJRWLGZ	NNP Infinity 
-MIFXQIM	NN Infinity 
-XJIBT	NNT Infinity 
-AINNH	RB Infinity 
-TXIIB	VB Infinity 
-CPWPH	JJ Infinity 
-AINNI	RB Infinity 
-AINNW	RB Infinity 
-MIFWR	NN Infinity 
-QRIRH	JJ Infinity 
-DWMLIH	NNP Infinity 
-XJIBH	NN Infinity 
-TXIIH	NN Infinity 
-BNWSP	RB Infinity IN Infinity 
-SIPQ	VB Infinity 
-RFMI	JJ Infinity 
-IEILWTW	NN Infinity 
-HIQF	NN Infinity 
-MSIIRIM	VB Infinity 
-IWZMWT	NN Infinity 
-MIFXQ	NNT Infinity NN Infinity 
-RFMT	VB Infinity 
-QRAQSI	NNP Infinity 
-SIPR	VB Infinity 
-HISS	VB Infinity 
-MAPIH	NN Infinity 
-DRWMH	NN Infinity 
-DRWMI	JJ Infinity 
-HIQPIM	NN Infinity 
-2,132	CD Infinity 
-MIJWWX	NN Infinity 
-LHWZIL	VB Infinity 
-CPWNH	NN Infinity 
-DIPNDRH	NNP Infinity 
-HITH	AUX Infinity VB Infinity 
-DPWSIM	NN Infinity 
-AFDWDI	JJ Infinity 
-MFQWLWT	NN Infinity 
-HWMRWS	NNP Infinity 
-NWJRDM	NNP Infinity 
-HITR	NN Infinity 
-SIRB	VB Infinity 
-XJIPT	NNT Infinity 
-WNCWALH	NNP Infinity 
-ZRWEWT	NNT Infinity NN Infinity 
-JEMIM	NN Infinity 
-ALWPT	NNT Infinity 
-TLUG	NN Infinity 
-HXLIMW	VB Infinity 
-HTAPFRH	VB Infinity 
-ALWPH	NN Infinity 
-XJIPH	NN Infinity 
-ARMISJ	NNP Infinity 
-DIQJIM	NN Infinity 
-PIIGINS	NNP Infinity 
-LHIQBR	VB Infinity 
-HXLIJW	VB Infinity 
-IWGFW	VB Infinity 
-NSXRWT	VB Infinity 
-DWDWT	NN Infinity 
-KSPIM	NN Infinity 
-MJWWXI	NNT Infinity 
-MWPFJ	NN Infinity 
-LIMDT	VB Infinity 
-LIMDW	VB Infinity 
-HXLIJH	VB Infinity 
-MAPFR	VB Infinity 
-KSPIT	JJ Infinity 
-DIWWIZIWT	NNT Infinity 
-AINJR	NNP Infinity 
-MSPQWT	VB Infinity 
-NIFWAIW	NN Infinity 
-NIFWAIN	NN Infinity 
-IBJIX	VB Infinity 
-NIFWAIM	NN Infinity 
-ALIPWIWT	NNT Infinity 
-MWPEL	VB Infinity 
-XINWKIIM	JJ Infinity 
-XFBWNWTIW	NN Infinity 
-DINACI	NNP Infinity 
-TLWI	VB Infinity JJ Infinity 
-MWPEI	NNT Infinity 
-DLDWL	NNT Infinity 
-XBRWT	NN Infinity NNT Infinity 
-TLWT	NN Infinity 
-LIMWDI	NNT Infinity 
-AMRIQAI	JJ Infinity 
-XWJPIM	NN Infinity 
-HIWW	AUX Infinity 
-SIWE	NN Infinity NNT Infinity 
-KRMLH	NNP Infinity 
-XBRWN	NNP Infinity 
-SIWM	NN Infinity NNT Infinity 
-MFTEMM	VB Infinity 
-RFTW	NN Infinity 
-IWGIN	NNP Infinity 
-SIWR	NN Infinity NNT Infinity 
-ZNIAL	NNP Infinity 
-1,776	CD Infinity 
-QALIARI	NNP Infinity 
-MTGBF	JJ Infinity 
-LHJIL	VB Infinity 
-PQIDWT	NNT Infinity NN Infinity 
-AQDXW	NN Infinity 
-WWLGRIWT	NN Infinity 
-DWDTN	NN Infinity 
-MAWKZB	VB Infinity 
-HIWM	MOD Infinity RB Infinity 
-LRAFWNH	RB Infinity 
-QRIWT	NNP Infinity 
-HIWT	IN Infinity 
-LJPLL	VB Infinity 
-HSBIRH	VB Infinity 
-HXLIFW	VB Infinity 
-HWMRI	JJ Infinity 
-DRWFWT	JJ Infinity 
-GIJRH	NN Infinity 
-XBRTN	NN Infinity 
-HPRIZW	VB Infinity 
-CIWNWT	NN Infinity 
-XSIDIW	NN Infinity 
-HSBIRW	VB Infinity 
-XBRTW	NN Infinity 
-PTRWNWTIHM	NN Infinity 
-MWPIE	VB Infinity 
-AXZQH	NN Infinity 
-XBRTI	JJ Infinity 
-TCLWM	NN Infinity 
-QCRH	VB Infinity JJ Infinity 
-DRWFH	VB Infinity 
-KIFWRIM	NN Infinity 
-IWZMNW	VB Infinity 
-ALWNI	NNP Infinity 
-IESWQ	VB Infinity 
-LTMID	RB Infinity 
-PRSPQJIWWH	NN Infinity 
-KIFWRIW	NN Infinity 
-LWXCIM	VB Infinity 
-CPWIH	JJ Infinity 
-8.3	CD Infinity 
-EMIDWT	NN Infinity 
-QRDIWLWG	NN Infinity 
-8.5	CD Infinity 
-HTELMW	VB Infinity 
-AZIQIM	NN Infinity 
-QRIJIIM	JJ Infinity 
-MWBFWBIC	NNP Infinity 
-GILWP	NN Infinity 
-HTELMH	VB Infinity 
-TFXRR	VB Infinity 
-CIWRIM	NN Infinity 
-SJIBN	NNP Infinity 
-HTNHGWTW	NN Infinity 
-RFWM	NN Infinity 
-MRCDS	NNP Infinity 
-CIWRIT	JJ Infinity 
-RFWT	NNT Infinity NN Infinity 
-800	CD Infinity 
-HTNHGWTH	NN Infinity 
-801	CD Infinity 
-803	CD Infinity 
-MERIKH	VB Infinity 
-HTNHGWTM	NN Infinity 
-AIPFR	VB Infinity 
-NICBH	VB Infinity 
-TEFIITI	JJ Infinity 
-GIRSAWT	NN Infinity 
-RWZNBRG	NNP Infinity 
-DMIWN	NN Infinity 
-HPGINW	VB Infinity 
-NICBT	VB Infinity 
-811	CD Infinity 
-814	CD Infinity 
-XWRGT	JJ Infinity 
-HWXRMW	VB Infinity 
-XARBI	NNP Infinity 
-CMCWMIM	NN Infinity 
-MZHMIM	VB Infinity 
-QFIIM	NN Infinity 
-PICWXIM	NN Infinity 
-MIIJH	NNP Infinity 
-821	CD Infinity 
-RDWMIM	JJ Infinity 
-ADIRIM	JJ Infinity 
-HSTKSKNW	VB Infinity 
-MWRXT	VB Infinity 
-MRCIM	NN Infinity VB Infinity 
-SIJWNAI	NNT Infinity 
-AQDWXW	NN Infinity 
-MWRXQ	NN Infinity 
-LWGISJIT	JJ Infinity 
-MKRSMIM	VB Infinity 
-XWRIN	NNP Infinity 
-AXRWNH	NN Infinity JJ Infinity 
-MWRWT	NN Infinity 
-IMCA	VB Infinity 
-QICWNIM	NN Infinity 
-XRIGWT	JJ Infinity 
-HTPWRRWTH	NN Infinity 
-QICWNIT	JJ Infinity 
-HTIIXSNW	VB Infinity 
-NCRWT	NN Infinity 
-TMCA	VB Infinity 
-WWAFINGJWN	NNP Infinity 
-AWMAHRH	NNP Infinity 
-NTPRIM	VB Infinity 
-HXZRIM	NN Infinity 
-840	CD Infinity 
-IXLWP	VB Infinity 
-FTWLIM	VB Infinity 
-857	CD Infinity 
-ARIZH	NN Infinity 
-MARXT	VB Infinity 
-EDIPT	NN Infinity 
-MXWDFT	JJ Infinity 
-MARXW	NN Infinity 
-SJAR	NNP Infinity 
-FIRWT	NNT Infinity NN Infinity 
-SJAZ	NN Infinity 
-MTWSKLIM	JJ Infinity 
-QIRWT	NN Infinity 
-QIRWR	NN Infinity 
-ZBWBIM	NN Infinity 
-ITXZQW	VB Infinity 
-NICLH	VB Infinity 
-DXIPH	NN Infinity 
-MIISR	VB Infinity 
-LHPGIN	VB Infinity 
-ICIRTM	NN Infinity 
-LHPGIF	VB Infinity 
-RGBH	NNP Infinity 
-NICLW	VB Infinity 
-MIIXLT	VB Infinity 
-JRNSPR	NN Infinity 
-KPIWT	NN Infinity 
-BLEDIWT	JJ Infinity 
-IWRFIHM	NN Infinity 
-XIIBT	VB Infinity 
-QHILTIIM	JJ Infinity 
-NSIBWT	NNT Infinity NN Infinity 
-RGFIT	JJ Infinity 
-1,900	CD Infinity 
-MJLWN	NNP Infinity 
-QWRDRWI	NNP Infinity 
-MGIBWT	VB Infinity 
-MXWIIBIM	JJ Infinity 
-KSPI	JJ Infinity NNT Infinity 
-NWSIIR	NNP Infinity 
-KSPH	NN Infinity 
-KSPM	NN Infinity 
-BIIQR	NNP Infinity 
-KSPW	NN Infinity 
-FIRTW	NN Infinity VB Infinity 
-891	CD Infinity 
-MIIQL	NNP Infinity 
-RIALIT	RB Infinity JJ Infinity 
-FJWJGARJ	NNP Infinity 
-QFWXIM	JJ Infinity 
-EICWMIM	NN Infinity 
-NICIM	NN Infinity 
-TMHR	VB Infinity 
-RILQH	NNP Infinity 
-IMIM	NN Infinity 
-IMIN	NN Infinity NNT Infinity 
-LHTMNWT	VB Infinity 
-IMIT	JJ Infinity NNP Infinity 
-TMHW	VB Infinity 
-MQWRBIM	VB Infinity NN Infinity 
-IMIW	NN Infinity 
-TMID	RB Infinity 
-TLIIH	NN Infinity 
-PQWLJH	NN Infinity 
-LHLWM	VB Infinity 
-ASPNIM	NN Infinity 
-5203	CD Infinity 
-TMIM	JJ Infinity 
-DWALIWT	NN Infinity 
-HJIG	NNP Infinity 
-ICIRWT	NNT Infinity NN Infinity 
-HJIL	VB Infinity 
-MFWXRRRIM	JJ Infinity 
-HJIP	VB Infinity 
-GWNZALS	NNP Infinity 
-TMLA	VB Infinity 
-HWPET	NNT Infinity 
-BWRXS	NNP Infinity 
-SJIB	NNP Infinity 
-HWPEH	NN Infinity 
-IMMH	NN Infinity 
-SJIM	NN Infinity 
-RGFI	NNT Infinity 
-IMMF	VB Infinity 
-7891	CD Infinity 
-NRCXIM	NN Infinity 
-TXLIJ	VB Infinity 
-ZRQWRIM	NN Infinity 
-TLWNTM	NN Infinity 
-TXLIP	VB Infinity 
-HRKIBH	VB Infinity 
-MLWNWT	NN Infinity 
-TMKH	VB Infinity 
-ALMNTW	NN Infinity 
-IWNIIJD	NNP Infinity 
-HAMBWRG	NNP Infinity 
-LHQJIN	VB Infinity 
-MIIXS	VB Infinity 
-IMLA	VB Infinity 
-RGEI	NNT Infinity 
-ZKWIWTIH	NN Infinity 
-HPRIIT	NNT Infinity 
-TLWNWT	NN Infinity 
-EDIIN	RB Infinity MOD Infinity 
-SJIIN	NNP Infinity 
-SJIIH	NN Infinity 
-RIBAWND	NNP Infinity 
-SJIIJ	NNP Infinity 
-DXIIT	NNT Infinity 
-BIWLWGIH	NN Infinity 
-LHISPG	VB Infinity 
-TMNE	VB Infinity 
-SWCIALIT	JJ Infinity 
-CWLMW	VB Infinity 
-ICIRTW	NN Infinity 
-HWPIE	VB Infinity 
-PWJBWL	NN Infinity 
-CHRIIM	NN Infinity 
-WNQAJRMAN	NNP Infinity 
-DXIIH	NN Infinity 
-ZAB	NNP Infinity NN Infinity 
-BHFWWAH	IN Infinity 
-IMNH	VB Infinity 
-IMNI	JJ Infinity 
-IKWLIM	VB Infinity 
-GIBALIH	NNP Infinity 
-LPCWT	VB Infinity 
-LECWR	VB Infinity 
-NIHILISJI	JJ Infinity 
-ZAT	PRP Infinity JJ Infinity AGR Infinity 
-6591	CD Infinity 
-XIILI	NNT Infinity 
-LECWM	VB Infinity 
-HIELMW	NN Infinity 
-IMMFW	VB Infinity 
-FKXTI	VB Infinity 
-MIIXDT	VB Infinity 
-HMLICH	VB Infinity 
-JQSIW	NN Infinity 
-IAWFRW	VB Infinity 
-HTGBF	VB Infinity 
-ZBL	NN Infinity 
-JQSIM	NN Infinity 
-AINDIANIT	JJ Infinity 
-HJLT	NNT Infinity 
-JQSIT	JJ Infinity 
-HBEWTIHN	NN Infinity 
-MIJWSIS	NN Infinity 
-AZRXIIM	JJ Infinity 
-MWJIWWACIH	NN Infinity 
-RGIL	JJ Infinity NN Infinity 
-DWMIHN	NN Infinity 
-FDIM	NN Infinity 
-PAFB	NNP Infinity 
-QRIJIWT	JJ Infinity 
-MWSDI	JJ Infinity 
-RGLI	NNT Infinity 
-QDIF	NN Infinity 
-AINDIANIM	NN Infinity 
-HWPKT	VB Infinity 
-MSWRTIIM	JJ Infinity 
-HJPH	NN Infinity 
-XWRXH	NNP Infinity 
-PBRWAR	NNP Infinity 
-LHCJIID	VB Infinity 
-SJND	NNP Infinity 
-DMWQRJIWT	NN Infinity 
-BIIJS	NNP Infinity 
-EZIBT	NNT Infinity 
-HDRGTIIM	JJ Infinity 
-BWRSH	NN Infinity 
-ZEH	NN Infinity 
-ZEM	VB Infinity NN Infinity 
-HWPNH	VB Infinity 
-XIIHM	NN Infinity 
-PAHD	NNP Infinity 
-LIPIN	NNP Infinity 
-NICXW	VB Infinity 
-SJAZRIM	NN Infinity 
-JPXH	VB Infinity 
-KNWPIWT	NN Infinity 
-RGLW	NN Infinity 
-FIRIT	JJ Infinity 
-RIWZABWRW	NNP Infinity 
-FIRIM	NN Infinity 
-HERIKW	VB Infinity 
-TQNWNI	JJ Infinity 
-NICXL	VB Infinity 
-CLLIM	NN Infinity 
-MWSIP	VB Infinity 
-BTIHM	NN Infinity 
-NICXH	VB Infinity 
-TPAWRH	NN Infinity 
-MSWBSDWT	JJ Infinity 
-EIDKNH	VB Infinity 
-PAIZ	NNP Infinity 
-TWMRIN	NNP Infinity 
-MTKWWNT	VB Infinity 
-QDMH	NN Infinity VB Infinity 
-ERWMIM	JJ Infinity 
-LWAI	NNP Infinity 
-NICWL	NNT Infinity NN Infinity 
-TKFIJ	NN Infinity 
-LIWWIT	VB Infinity 
-ZHB	NN Infinity 
-QDMW	VB Infinity 
-NICWC	NNT Infinity 
-ZHH	JJ Infinity 
-AHWBIM	JJ Infinity 
-400,000	CD Infinity 
-CWLET	VB Infinity 
-FARLWJ	NNP Infinity 
-AWBD	JJ Infinity 
-MZBX	NNT Infinity 
-ZHW	PRP Infinity 
-PDIWN	NN Infinity NNT Infinity 
-TMUS	NN Infinity NNP Infinity 
-MWSGR	JJ Infinity 
-BIJWIIM	NN Infinity 
-KBIKWL	RB Infinity MOD Infinity 
-GBRIALI	NNP Infinity 
-GBRIALH	NNP Infinity 
-KTIBTW	NN Infinity 
-1,800	CD Infinity 
-TMUT	NN Infinity 
-MZIQIM	NN Infinity 
-ZIT	NN Infinity NNP Infinity 
-LIPMN	NNP Infinity 
-ZIW	NNP Infinity 
-ANJIFMIWT	NN Infinity 
-HWDEWTIW	NN Infinity 
-PALC	NNP Infinity 
-XWRMH	NN Infinity 
-BRIJIM	NN Infinity 
-BWRLI	NNP Infinity 
-HWPQW	VB Infinity 
-BRIJIT	JJ Infinity 
-MINISJR	NNP Infinity 
-AMINWTM	NN Infinity 
-PALS	NNP Infinity 
-HLPRJ	NNP Infinity 
-RAFLUC	NNP Infinity 
-MWSMK	NNT Infinity 
-IMWT	NNT Infinity 
-AMNWTIT	JJ Infinity 
-LHTPWRR	VB Infinity 
-MQWLQLIM	VB Infinity 
-RGFIIM	JJ Infinity 
-LWBF	VB Infinity 
-SJTH	VB Infinity 
-TMWH	JJ Infinity 
-TMWT	VB Infinity 
-LWBI	NN Infinity 
-BARNM	NNP Infinity 
-BWRMH	NNP Infinity 
-ZKH	VB Infinity 
-BARNS	NNP Infinity 
-75.90	CD Infinity 
-MINSWJIIM	JJ Infinity 
-AWCR	NN Infinity NNT Infinity 
-ZKR	NN Infinity NNT Infinity 
-ZKW	VB Infinity 
-MZHH	VB Infinity 
-PANI	NNP Infinity 
-PANL	NN Infinity 
-NDKAIM	NN Infinity 
-KTBH	NN Infinity VB Infinity 
-HWPTE	VB Infinity 
-BWRIS	NNP Infinity 
-WWDI	NNP Infinity 
-PRMIWT	NN Infinity 
-KTBI	NNT Infinity 
-FDRH	NN Infinity 
-WWED	NN Infinity NNT Infinity 
-KTBT	VB Infinity 
-MDWWXIM	VB Infinity 
-IKWLNW	VB Infinity 
-KTBW	NN Infinity VB Infinity 
-AWDN	NNP Infinity 
-PRSMH	VB Infinity 
-PNGAB	NNP Infinity 
-BIQWRT	NN Infinity NNT Infinity 
-SNIPIM	NN Infinity 
-HTGLH	VB Infinity 
-LHMIR	VB Infinity 
-HIFWWTH	VB Infinity 
-FKIXIM	JJ Infinity 
-MZGN	NNT Infinity NN Infinity 
-PWLIJI	JJ Infinity 
-QBIEWT	NN Infinity 
-BIQWRW	NN Infinity 
-ZMN	NNT Infinity NN Infinity 
-ZMR	NNT Infinity 
-IFAIRW	VB Infinity 
-NWGEWT	VB Infinity 
-XZIR	NN Infinity 
-XZIT	NN Infinity NNT Infinity 
-MWSRI	JJ Infinity 
-BRBWR	NN Infinity 
-PAPA	NN Infinity 
-HTGMD	VB Infinity 
-ZNB	NN Infinity 
-ATLJIQH	NN Infinity 
-99.90	CD Infinity 
-SJIWT	NN Infinity 
-AWFR	NN Infinity VB Infinity 
-GGWT	NN Infinity 
-KWZBWT	JJ Infinity 
-BINTIIM	RB Infinity 
-AWXNH	NNP Infinity 
-FDRT	NNT Infinity 
-AWHL	NN Infinity 
-CIBWR	NNT Infinity NN Infinity 
-TLIWN	NN Infinity 
-AWHD	NNP Infinity 
-AWHB	VB Infinity 
-BLWWIW	NNP Infinity 
-MZIQ	JJ Infinity 
-SIJWACIH	NN Infinity 
-AWGW	NNP Infinity 
-NIDAL	NNP Infinity 
-9.1	CD Infinity 
-LFGFG	VB Infinity 
-EISWQW	NN Infinity 
-MSGDI	NNT Infinity 
-RWJFILD	NNP Infinity 
-LWIH	NNP Infinity 
-MZLM	NN Infinity 
-XTIMT	NNT Infinity 
-GIMWR	NN Infinity 
-LWIJ	NNP Infinity 
-AWIB	NNT Infinity NN Infinity 
-BIJAWN	NN Infinity 
-LWIN	NNP Infinity 
-PARQ	NNP Infinity NN Infinity 
-XTIMH	NN Infinity 
-ARIAL	NNP Infinity 
-1,875	CD Infinity 
-IZREAL	NNP Infinity 
-RGFWT	NNT Infinity NN Infinity 
-2,200	CD Infinity 
-AWJWNWMIT	JJ Infinity 
-ZQN	NN Infinity JJ Infinity 
-HTAKZBW	VB Infinity 
-PRSIM	NN Infinity 
-XIILT	NN Infinity 
-AWJWNWMIH	NN Infinity 
-905	CD Infinity 
-MWJEIT	VB Infinity 
-yyRRB	yyRRB Infinity 
-LINQR	NNP Infinity 
-RXWQH	JJ Infinity 
-TNAI	NN Infinity NNT Infinity 
-MSWBKT	JJ Infinity 
-JENTW	NN Infinity 
-QDWF	NN Infinity NNP Infinity 
-ZRA	NN Infinity 
-AWKL	NN Infinity VB Infinity 
-ZRWEW	NN Infinity 
-ZRE	NN Infinity 
-PWNDMLISJIIM	JJ Infinity 
-LKTWB	VB Infinity 
-ZRM	NN Infinity NNT Infinity 
-JENTH	NN Infinity 
-MWJEIM	JJ Infinity 
-ZRWEM	NN Infinity 
-HSBIR	VB Infinity 
-JENTN	NN Infinity 
-JENTM	NN Infinity 
-MNWXH	NN Infinity 
-MAHBIM	NN Infinity 
-AWLM	NN Infinity CC Infinity NNT Infinity 
-MZMN	RB Infinity 
-LWJH	NNP Infinity 
-CIDWQ	NN Infinity 
-AWLI	RB Infinity MOD Infinity 
-MQCWEW	NN Infinity 
-NIBAW	VB Infinity 
-RWMNJIWT	JJ Infinity 
-MNWXT	NNT Infinity 
-IIECRW	VB Infinity 
-MILIJNJIWT	NN Infinity 
-TQWPH	NN Infinity 
-IZQWP	VB Infinity 
-921	CD Infinity 
-TQWPT	NNT Infinity 
-LWJW	NN Infinity 
-FDWT	NNT Infinity 
-MQCWEN	NN Infinity 
-MSEDH	NN Infinity 
-RIKWZIIM	JJ Infinity 
-LWMD	VB Infinity 
-HWNXW	VB Infinity 
-BJIXWT	NN Infinity 
-JWBIM	NN Infinity JJ Infinity 
-NXNKW	VB Infinity 
-AWMR	VB Infinity 
-LFEFE	VB Infinity 
-MQCWEI	JJ Infinity 
-MNWWJ	VB Infinity 
-TNCX	VB Infinity 
-MNWWL	JJ Infinity 
-SNIQRS	NNP Infinity 
-TFWMT	NNT Infinity 
-WWLP	NNP Infinity 
-MSEDT	NNT Infinity 
-MCWWH	VB Infinity 
-AWMH	NN Infinity 
-IKWLWT	VB Infinity NN Infinity 
-JWBIH	NNP Infinity 
-WWLS	NN Infinity 
-AWMC	NN Infinity 
-MFQIEIM	NN Infinity 
-LWMR	VB Infinity 
-EIQRIT	JJ Infinity 
-EIQRIW	NN Infinity 
-AWNW	NN Infinity 
-LWLA	IN Infinity 
-MXTRT	NN Infinity 
-ZUL	NN Infinity 
-WWLF	NNP Infinity 
-MZRIMIM	VB Infinity 
-WWLJ	NNP Infinity 
-941	CD Infinity 
-RBWTA	NN Infinity 
-BGDWL	RB Infinity 
-PRJNIWT	JJ Infinity 
-INCX	VB Infinity 
-SJJISJIIM	JJ Infinity 
-MWQPA	JJ Infinity 
-WWLB	NNP Infinity 
-MTQIIMT	VB Infinity 
-PAXM	NNP Infinity 
-IWMIIM	NN Infinity 
-XZRH	RB Infinity VB Infinity NN Infinity 
-MZRX	NNT Infinity NN Infinity JJ Infinity 
-BGDTI	VB Infinity 
-NTBET	NN Infinity 
-MWBNWT	VB Infinity 
-LWPA	NNP Infinity 
-JENWT	NN Infinity NNT Infinity 
-MKNSI	NNT Infinity 
-ASJRAJGIWT	JJ Infinity 
-AWPQ	NNP Infinity 
-AWPN	NN Infinity NNT Infinity 
-HBRAH	NN Infinity 
-ZWG	NNT Infinity NN Infinity 
-GILWPIN	NN Infinity 
-ZWL	JJ Infinity 
-XZQH	JJ Infinity 
-AWPI	NNT Infinity NN Infinity 
-XRARDW	NNP Infinity 
-HTERB	VB Infinity 
-SIDWN	NNP Infinity 
-965	CD Infinity 
-SIDWR	NN Infinity 
-LHTRXQ	VB Infinity 
-BIJWX	NNT Infinity NN Infinity 
-LWQH	NN Infinity VB Infinity 
-HWMWRISJI	JJ Infinity 
-BRWRIM	JJ Infinity 
-PTWRH	JJ Infinity 
-HTIIXSWTW	NN Infinity 
-LWQS	NN Infinity 
-ZXL	NN Infinity 
-AWZLT	NNT Infinity 
-BNWIIM	JJ Infinity 
-LWQX	VB Infinity 
-XWQIM	NN Infinity 
-TNHL	VB Infinity 
-XWQIT	JJ Infinity 
-LWRD	NNP Infinity 
-HBRAT	NNT Infinity 
-XWQIW	NN Infinity 
-IKWLTW	NN Infinity 
-AWRX	NN Infinity NNT Infinity 
-MLWNAI	NN Infinity 
-KTMI	NNT Infinity 
-IKWLTN	NN Infinity 
-IKWLTM	NN Infinity 
-HTAQLMW	VB Infinity 
-SPCIPIWT	JJ Infinity 
-EBDLL	NNP Infinity 
-AWRN	NN Infinity NNP Infinity NNT Infinity 
-AINTIPADH	NN Infinity 
-XZRW	VB Infinity 
-AWRM	NN Infinity 
-IKWLTH	NN Infinity 
-AWRK	NNT Infinity NN Infinity 
-AWRH	NNP Infinity 
-AWRI	NNP Infinity 
-HKREWT	NN Infinity 
-987	CD Infinity 
-MIFNHW	PRP Infinity 
-BRIHUM	NNP Infinity 
-INJF	VB Infinity 
-EIZAT	NNP Infinity 
-MFKNET	JJ Infinity 
-AWSR	VB Infinity 
-AWSP	NN Infinity NNT Infinity 
-TQWWH	NN Infinity 
-HSBRH	NN Infinity 
-TQWWT	NN Infinity NNT Infinity 
-HISJWRIWNIM	NN Infinity 
-QWRCIM	VB Infinity 
-HWBQEW	VB Infinity 
-MSWBSD	VB Infinity 
-WWSJ	NNP Infinity 
-GREWN	NN Infinity 
-LWRH	NNP Infinity 
-QPSPQW	ZVL Infinity 
-HIFNWT	NNT Infinity 
-LWRM	NNP Infinity 
-AWTW	DT Infinity 
-AWTR	VB Infinity 
-AWTN	DT Infinity 
-HKFR	NN Infinity 
-BIJWI	NN Infinity 
-AWTM	DT Infinity 
-XLQIT	JJ Infinity RB Infinity 
-AWTH	DT Infinity 
-WWRN	NNP Infinity 
-XLQIM	NN Infinity 
-MGBLH	NN Infinity 
-PNJWMIMH	NN Infinity 
-BIJWL	NN Infinity NNT Infinity 
-LHKWT	VB Infinity 
-RHIJIM	NN Infinity 
-FISWI	NNT Infinity 
-BIJWN	NNP Infinity 
-MRBIM	VB Infinity 
-ZKAIM	VB Infinity NN Infinity 
-EMITWTIH	NN Infinity 
-PCEIHM	NN Infinity 
-DWGMH	NN Infinity 
-HKIN	VB Infinity 
-XWFBIM	VB Infinity 
-MRBIT	DT Infinity NNT Infinity 
-ZKAIT	VB Infinity 
-HKIR	VB Infinity 
-MGBIT	NN Infinity 
-DWGMA	NN Infinity 
-MGBIR	VB Infinity 
-AWUM	NN Infinity NNP Infinity 
-MPQDIW	NN Infinity 
-GILAI	NNT Infinity 
-SKIN	NN Infinity NNT Infinity 
-DWGMT	NNT Infinity 
-MZWN	NN Infinity 
-NBNTH	VB Infinity 
-MPQDIH	NN Infinity 
-MPQDIM	NN Infinity 
-LWTR	NNP Infinity 
-BKIRWT	JJ Infinity 
-RGEIM	NN Infinity 
-INKW	VB Infinity 
-SJRIAWJIPIT	JJ Infinity 
-DWGLT	VB Infinity 
-QLIJTM	NN Infinity 
-RGEIT	JJ Infinity 
-QWNSRBJWRIWN	NN Infinity 
-KLKWTH	NNP Infinity 
-IDRFW	VB Infinity 
-PTWXH	JJ Infinity 
-WWRIACIH	NN Infinity 
-AWWT	NNT Infinity 
-SWNJH	NN Infinity 
-JBEWN	NNP Infinity 
-FISTH	VB Infinity 
-RIKJR	NNP Infinity 
-BIJRN	NNP Infinity 
-JBEWT	NN Infinity 
-MEWWTT	JJ Infinity 
-LHTRPA	VB Infinity 
-7,685	CD Infinity 
-AWXZ	VB Infinity 
-DAGLS	NNP Infinity 
-SWNIH	NNP Infinity 
-LHTRPQ	VB Infinity 
-BGDIM	NN Infinity 
-EBDH	VB Infinity 
-6691	CD Infinity 
-NIFWAI	NNT Infinity 
-HBRIQ	VB Infinity 
-FILMNW	VB Infinity 
-KTWB	VB Infinity 
-PCEIH	NN Infinity 
-5357	CD Infinity 
-TFWRH	NN Infinity 
-HKNH	NN Infinity 
-KTWM	NN Infinity 
-HMRIA	VB Infinity 
-FMWTIHM	NN Infinity 
-NJENT	VB Infinity 
-FQIDH	NN Infinity 
-LWXM	NN Infinity 
-PCEIW	NN Infinity 
-TFWRT	NNT Infinity 
-XMIFIT	JJ Infinity 
-AWZN	NN Infinity NNP Infinity 
-JWBTM	NN Infinity 
-AWZL	VB Infinity 
-IMLAW	VB Infinity 
-HXRIP	VB Infinity 
-NWRMLIWT	JJ Infinity 
-SJRAWS	NNP Infinity 
-JQSJ	NN Infinity 
-JQSI	JJ Infinity NNT Infinity NN Infinity 
-XMIFIM	CD Infinity 
-BRWRWT	JJ Infinity 
-KDAIWT	NNT Infinity NN Infinity 
-MWRDI	NNT Infinity 
-JWBWT	JJ Infinity NN Infinity 
-LHSPIQ	VB Infinity 
-ZGWGIWT	NN Infinity 
-JWBWL	NNP Infinity 
-BTXILH	RB Infinity 
-INSH	VB Infinity 
-RIKWZIWT	JJ Infinity 
-NTBQF	VB Infinity 
-XWQTI	JJ Infinity 
-HKNT	NNT Infinity 
-ASKWLWT	NN Infinity 
-DWAGIM	VB Infinity 
-MWCRIM	NN Infinity 
-SKNH	NN Infinity 
-NICNIM	NN Infinity NNP Infinity 
-LHGMIF	VB Infinity 
-SKNT	NNT Infinity 
-LEBWD	VB Infinity 
-BWLGRIH	NNP Infinity 
-AIPWA	RB Infinity 
-HRISWTIHM	NN Infinity 
-QBLNIM	NN Infinity 
-HDXTW	NN Infinity 
-MHWDQT	JJ Infinity 
-PEILWIWT	NN Infinity 
-HKRH	NN Infinity 
-MABQIH	NN Infinity 
-BIJLH	VB Infinity 
-MABQIM	NN Infinity 
-NWKXI	JJ Infinity 
-CIDDW	VB Infinity 
-IFXQW	VB Infinity 
-HWLMWT	JJ Infinity 
-TNSH	VB Infinity 
-BIJLW	VB Infinity 
-INSW	VB Infinity 
-XUKIM	NN Infinity 
-NWKXT	NN Infinity 
-RIKWZ	NN Infinity 
-MRAIIN	NN Infinity VB Infinity 
-MWRAL	NN Infinity 
-MCXIQ	JJ Infinity 
-LHSPID	VB Infinity 
-IFXRR	VB Infinity 
-IZRMW	VB Infinity 
-HICEIM	NN Infinity 
-INWE	VB Infinity 
-HFTTPWT	NN Infinity NNT Infinity 
-DIZNGWP	NNP Infinity 
-MNDJIM	NN Infinity 
-GILWII	NNT Infinity 
-ADIRWT	JJ Infinity 
-ILIDI	NNT Infinity 
-HKRT	NNT Infinity 
-HKRX	NN Infinity 
-AWMNWT	NNT Infinity 
-HDXWT	NNT Infinity 
-TNUC	NN Infinity 
-EIQRWN	NN Infinity 
-TNUK	NNP Infinity 
-SKRT	NN Infinity 
-TWHIM	VB Infinity 
-BGDAD	NNP Infinity 
-NCIGWIWT	NNT Infinity 
-MWRFE	NN Infinity 
-LWXMT	NN Infinity 
-LHSTIIG	VB Infinity 
-LEBWT	VB Infinity 
-MWCRIW	NN Infinity 
-IXLIP	VB Infinity 
-LEBWR	VB Infinity 
-LSLAW	NNP Infinity 
-MWRFI	NNT Infinity 
-LXCH	VB Infinity NN Infinity 
-MWRFT	NNT Infinity 
-LXCN	NN Infinity 
-IXZIQW	VB Infinity 
-IWMIWT	JJ Infinity 
-HXRPT	NNT Infinity 
-LWXMI	NNT Infinity 
-GILMW	VB Infinity 
-GI51	ZVL Infinity 
-LHSTIIM	VB Infinity 
-LWXMH	NN Infinity 
-HKLLT	NNT Infinity 
-MCLIXIN	VB Infinity 
-MCLIXIM	VB Infinity 
-RHIJWT	NN Infinity 
-TNWR	NNT Infinity 
-IXLIJ	VB Infinity 
-CLMIM	NN Infinity 
-CAWFSQW	NNP Infinity 
-MNGNWNIM	NN Infinity 
-AINDIWWIDWALIWT	NN Infinity 
-MIICR	VB Infinity 
-NWLDW	VB Infinity 
-FKNWTIH	NN Infinity 
-GAWWRILWB	NNP Infinity 
-SKWM	NN Infinity NNT Infinity 
-MBWGRT	JJ Infinity 
-MIICG	VB Infinity JJ Infinity 
-TRBWTIT	JJ Infinity 
-PTXNW	VB Infinity 
-RPWBLIQH	NN Infinity 
-NWLDH	VB Infinity 
-FERH	NN Infinity 
-FERI	NNT Infinity 
-NIQWLH	NNP Infinity 
-HIFGI	NNT Infinity JJ Infinity 
-EINIIM	NN Infinity 
-MIIDI	NNT Infinity JJ Infinity 
-LXDF	VB Infinity 
-MWRKN	JJ Infinity 
-LXDD	VB Infinity 
-GLAWQWMH	NN Infinity 
-MESIQIM	NN Infinity 
-MFKWRWT	NN Infinity 
-MEWBDWT	JJ Infinity 
-ATPJR	VB Infinity 
-MRWKZIM	VB Infinity 
-EINIHM	NN Infinity 
-NALCT	VB Infinity 
-NALCW	VB Infinity 
-JRAC	NNP Infinity 
-SJJISJIQH	NN Infinity 
-HJILW	VB Infinity 
-HTNDND	VB Infinity 
-MWRKB	JJ Infinity 
-HJILH	VB Infinity 
-WLDISLB	NNP Infinity 
-HBRWT	NN Infinity 
-MWRIH	NNP Infinity 
-FERW	NN Infinity 
-MWRIC	NNP Infinity 
-AQDXIM	NN Infinity 
-PRNCSQW	NNP Infinity 
-MWRIM	NN Infinity 
-LXFB	VB Infinity 
-SWNJWT	NN Infinity 
-NAMNWIWTIW	NN Infinity 
-NALCH	VB Infinity 
-MWNWPWL	NN Infinity 
-SIEWT	NNT Infinity NN Infinity 
-HBRXT	NNT Infinity 
-EBRW	NN Infinity VB Infinity 
-GLADIW	NNP Infinity 
-MTENIINIM	VB Infinity 
-AXIM	NN Infinity 
-LGIIS	VB Infinity 
-BWSIM	NN Infinity 
-AXIH	NN Infinity 
-AXID	JJ Infinity 
-MFKWRTW	NN Infinity 
-HTABDWTW	NN Infinity 
-BIJAH	VB Infinity 
-MJLJL	VB Infinity 
-NXIFWT	NN Infinity 
-PSIQWTIH	NN Infinity 
-MIIGE	JJ Infinity 
-TXKWM	NN Infinity 
-MFKWRTM	NN Infinity 
-BIJAW	VB Infinity 
-LWXWT	NNT Infinity 
-DCMBR	NNP Infinity 
-TPWXIM	JJ Infinity 
-AWJWBWSIM	NN Infinity 
-EBRH	VB Infinity 
-EBRI	NNP Infinity 
-NLWWIT	VB Infinity 
-AXIW	NN Infinity 
-GSIQH	NNP Infinity 
-SIETW	NN Infinity 
-XWQQH	VB Infinity 
-LAXWR	MOD Infinity 
-HTIIXSWT	NN Infinity 
-GWRBCWB	NNP Infinity 
-MJLIT	NNT Infinity 
-KPIIH	NN Infinity 
-XWQRI	NNT Infinity 
-MIIFM	VB Infinity 
-LAXWZ	VB Infinity 
-APRWXIM	NN Infinity 
-KPIIM	NN Infinity 
-BWDAPFJ	NNP Infinity 
-IXZQALI	NNP Infinity 
-ZWEBI	NNP Infinity 
-XWQRT	NN Infinity VB Infinity JJ Infinity 
-LLXWF	VB Infinity 
-FEWN	NN Infinity NNT Infinity 
-LLXWC	VB Infinity 
-GILWI	NN Infinity 
-BASJN	NNP Infinity 
-FEWT	NN Infinity NNT Infinity 
-QLASIT	JJ Infinity 
-LTQWE	VB Infinity 
-JRGI	JJ Infinity 
-HLAH	RB Infinity 
-LAWJNBRG	NNP Infinity 
-MMLKTIIM	JJ Infinity 
-LXMI	NN Infinity 
-MKINIM	VB Infinity 
-LXMM	VB Infinity 
-AXMD	NNP Infinity 
-MGEIM	NN Infinity 
-ICRNIM	NN Infinity 
-DIRQJWRIM	NN Infinity 
-LIQWI	NNT Infinity NN Infinity 
-WDAWT	NN Infinity 
-EBWR	IN Infinity 
-XRDWT	NN Infinity 
-EBWT	JJ Infinity 
-ZWGWT	NN Infinity 
-LXLC	VB Infinity 
-MTKNN	VB Infinity 
-AIRGN	VB Infinity 
-APGNISJAN	NNP Infinity 
-BQBWQ	NN Infinity NNT Infinity 
-IJENW	VB Infinity 
-LXLQ	VB Infinity 
-GLWBWS	NN Infinity 
-MCWMCMIM	JJ Infinity 
-RWZLSR	NNP Infinity 
-MWTXM	JJ Infinity 
-HFRATH	NN Infinity 
-HWLMIM	JJ Infinity 
-KWKBIHN	NN Infinity 
-MIWBAT	VB Infinity JJ Infinity 
-RCIPWT	NN Infinity 
-BEQIPIN	RB Infinity 
-NSTIIM	VB Infinity 
-MRIDWR	NNP Infinity 
-JRIQ	NNP Infinity 
-HTGLMWTH	NN Infinity 
-NWKXWT	NNT Infinity 
-MRIDWT	NN Infinity 
-ATRIM	NN Infinity 
-JRIZ	NN Infinity 
-MXWZI	JJ Infinity 
-XWTKT	VB Infinity 
-JLWWIZIH	NN Infinity 
-HNXIITW	NN Infinity 
-AIRIT	JJ Infinity 
-TAWZKR	VB Infinity 
-JWENT	VB Infinity 
-LXNK	VB Infinity 
-CIBWRIIM	JJ Infinity 
-AMCEIM	NN Infinity 
-SLAX	NNP Infinity 
-TPWQH	NN Infinity 
-MGZINIM	NN Infinity 
-AIRIM	NN Infinity 
-WEDWT	NNT Infinity 
-IIBNH	VB Infinity 
-QWMIQAIM	NN Infinity 
-TPWQT	NNT Infinity 
-25.90	CD Infinity 
-TIAWM	NN Infinity 
-RIAL	NNP Infinity 
-GIBE	NNP Infinity 
-TIAWR	NN Infinity 
-GIBF	VB Infinity 
-HWRAT	NNT Infinity 
-MIKST	NNT Infinity 
-LIPCIN	NNP Infinity 
-EDKWN	NNT Infinity 
-XWTMH	NN Infinity 
-MTKTF	VB Infinity 
-HWRAH	NN Infinity 
-FWTPIM	JJ Infinity NN Infinity 
-XWTMT	NN Infinity NNT Infinity 
-MTWART	VB Infinity 
-HCMDWT	NN Infinity 
-XWTMW	NN Infinity 
-LXPF	VB Infinity 
-EFWRIM	NN Infinity 
-MQBIL	VB Infinity NN Infinity 
-WILIAM	NNP Infinity 
-AXRT	RB Infinity NN Infinity JJ Infinity 
-13.90	CD Infinity 
-HNXIH	NN Infinity 
-HEWWIH	NN Infinity 
-37.40	CD Infinity 
-AXRI	IN Infinity 
-TEFIITIWT	JJ Infinity 
-HISJWRI	JJ Infinity 
-HGBRT	NNT Infinity 
-HCXIQ	VB Infinity 
-ERWKWT	VB Infinity 
-XWDFIIM	NN Infinity 
-MGIEIM	VB Infinity 
-GIAW	MOD Infinity 
-RIAD	NNP Infinity 
-TEWPH	NN Infinity 
-FWRWTIHM	NN Infinity 
-MWRALI	JJ Infinity 
-GIDI	NNP Infinity 
-LXSL	VB Infinity 
-JRMP	NN Infinity 
-CWRKIM	VB Infinity 
-QMPSINWS	NNP Infinity 
-ITBRR	VB Infinity 
-MIDLSBWRW	NNP Infinity 
-RWWQH	JJ Infinity 
-MIKRZ	NN Infinity 
-ICRNIT	NNT Infinity 
-FRIMPS	NN Infinity 
-AIREW	VB Infinity 
-MKWWNT	JJ Infinity 
-HWRDT	NNT Infinity 
-ARIZWT	NN Infinity 
-MFBIE	JJT Infinity 
-HWRDH	NN Infinity 
-RICH	NN Infinity 
-AIREH	VB Infinity 
-5405	CD Infinity 
-QRQEIT	JJ Infinity 
-GIFH	NN Infinity 
-GIAWGRP	NN Infinity 
-MTKWT	NN Infinity 
-TBWSWT	NN Infinity 
-HLIK	NN Infinity NNT Infinity 
-EWBIW	NN Infinity 
-HFLKWTIW	NN Infinity 
-QCBIT	JJ Infinity 
-GIFT	NNT Infinity 
-MRXQIM	NN Infinity 
-PTIXWT	NN Infinity 
-MTKXF	VB Infinity 
-NCIGIM	NN Infinity 
-EWBIH	NN Infinity 
-PENWX	NN Infinity 
-TWKNN	VB Infinity 
-CNIEWT	NN Infinity 
-RIDN	NNP Infinity 
-TWKNH	NN Infinity 
-LWQRSIH	NNP Infinity 
-JRNR	NNP Infinity 
-HWRFH	VB Infinity 
-XMWRW	NN Infinity 
-ITBSS	VB Infinity 
-HWRFE	VB Infinity 
-HXLFWT	NNT Infinity 
-LXWN	VB Infinity 
-HLKH	VB Infinity NN Infinity 
-HNXNW	VB Infinity 
-LRKWF	VB Infinity 
-AMBIWWLNJIIM	JJ Infinity 
-AXWZ	NN Infinity NNT Infinity 
-XMWRH	JJ Infinity 
-MQBLT	VB Infinity 
-LRKWB	VB Infinity 
-GII.	NNP Infinity 
-IIBWA	NN Infinity NNT Infinity 
-LXWT	NN Infinity 
-HLKT	NNT Infinity 
-TWKKI	NNT Infinity 
-HLKW	VB Infinity 
-XBWRH	NN Infinity 
-TFLWBWT	NNT Infinity 
-HWRGL	VB Infinity 
-IIBWF	NN Infinity 
-XBWRT	NNT Infinity 
-AIRAN	NNP Infinity 
-TTBCE	VB Infinity 
-MFQAWT	NN Infinity 
-EIRAQIIM	JJ Infinity 
-QRNWT	NN Infinity NNT Infinity 
-ANJIFMI	JJ Infinity 
-TEWZH	NN Infinity 
-FITWP	NNT Infinity NN Infinity 
-FITWQ	NN Infinity 
-LXWF	VB Infinity 
-QJGWRIWT	NNT Infinity NN Infinity 
-MQBLI	NNT Infinity 
-HFLKWTIH	NN Infinity 
-PRNSISQW	NNP Infinity 
-GIREWN	NN Infinity 
-6791	CD Infinity 
-LPEWL	VB Infinity 
-RWWXT	JJ Infinity 
-HARKH	NN Infinity 
-XIBWRW	NN Infinity 
-PIRSMW	VB Infinity 
-RWWXH	NN Infinity VB Infinity 
-RWWXI	JJ Infinity 
-RIJH	NNP Infinity 
-EWBDT	VB Infinity NNT Infinity NN Infinity 
-WWIMBLDWN	NNP Infinity 
-HARJS	NNP Infinity 
-HWRIM	NN Infinity 
-JRIJWRIALI	JJ Infinity 
-HWRIH	NN Infinity 
-TWKIX	VB Infinity 
-HWRIF	VB Infinity 
-EWBDH	NN Infinity 
-EWBDI	NNT Infinity 
-BIQWRIM	NN Infinity 
-HWKIXT	VB Infinity 
-MGWNIM	JJ Infinity 
-HWRKB	VB Infinity 
-RIIMWN	NNP Infinity 
-HWKIXW	VB Infinity 
-NTIBWT	NN Infinity 
-HTQWMMWT	NNT Infinity NN Infinity 
-DIRQJWRIWN	NNT Infinity NN Infinity 
-AZBIW	NNP Infinity 
-HLLW	JJ Infinity 
-SNIGWRIM	NN Infinity 
-ALJRNJIWWH	NN Infinity 
-EQWRIM	NN Infinity 
-ICRIM	NN Infinity 
-NMKRWT	VB Infinity 
-EBRIINIM	NN Infinity 
-RIIK	NNP Infinity 
-PCEW	VB Infinity 
-RIKZ	VB Infinity 
-NIERW	VB Infinity 
-GILM	NN Infinity 
-FFIM	CD Infinity 
-FQLIM	NN Infinity 
-FFIT	JJ Infinity 
-3.23	CD Infinity 
-GILW	VB Infinity 
-PRWPWRCIWNLIT	JJ Infinity 
-MWSDWT	NN Infinity NNT Infinity 
-QFII	NNT Infinity 
-MFWTPT	JJ Infinity 
-ITGWRRW	VB Infinity 
-TAWLWGIH	NN Infinity 
-49.90	CD Infinity 
-QFIF	NN Infinity 
-QFIM	JJ Infinity 
-LXZQ	VB Infinity 
-BFBIL	IN Infinity 
-CHBHB	JJ Infinity 
-NTEQF	VB Infinity 
-BIKRW	VB Infinity 
-TLKID	NN Infinity 
-NEWCWT	VB Infinity 
-CRPTIWT	NN Infinity 
-MSMKIM	NN Infinity 
-PCEI	NNT Infinity 
-PCEH	VB Infinity 
-XIBWRI	NNT Infinity 
-49.80	CD Infinity 
-MHDQIM	VB Infinity 
-XWFPIM	VB Infinity 
-GILH	VB Infinity 
-MWFPLWT	JJ Infinity 
-JRWR	NN Infinity 
-MBXNH	NN Infinity 
-MILAN	NNP Infinity 
-BIQWRTW	NN Infinity 
-LBQPSPBIN	NNP Infinity 
-PDRJIWWI	JJ Infinity 
-HNXTT	NNT Infinity 
-MWEMDWTM	NN Infinity 
-MQBWL	NNP Infinity 
-MILANW	NNP Infinity 
-ICRNI	NNT Infinity 
-LIRJH	NN Infinity 
-MWKNIM	VB Infinity 
-FITQW	VB Infinity 
-HIIFR	RB Infinity 
-IRWDWT	JJ Infinity 
-AINJRSIM	NN Infinity 
-NXRDW	VB Infinity 
-RIMH	NN Infinity 
-PFIJWT	NNT Infinity 
-JRWD	JJ Infinity VB Infinity 
-MILAW	VB Infinity 
-HXMIRH	VB Infinity 
-MWEMDWTW	NN Infinity 
-MBXNM	NN Infinity 
-MKRET	JJ Infinity 
-MMLKTIWT	JJ Infinity 
-FITPW	VB Infinity 
-RFMIWT	JJ Infinity 
-GRIIJ	NNP Infinity 
-AITNIM	JJ Infinity 
-LHFMID	VB Infinity 
-LHFMIC	VB Infinity 
-SAJIRH	NN Infinity 
-ECIM	NN Infinity 
-JRXW	VB Infinity 
-ICRNW	VB Infinity 
-BIQWRWT	NNT Infinity 
-HDGMTI	VB Infinity 
-MRIEIM	VB Infinity 
-TXNWT	NN Infinity NNT Infinity 
-MAWRGNIM	VB Infinity JJ Infinity 
-HNXWT	NN Infinity 
-GWAJMALH	NNP Infinity 
-HRCAH	NN Infinity 
-LHTGWRR	VB Infinity 
-MXIAWT	NNT Infinity 
-TXNTW	NN Infinity 
-GWPNIT	JJ Infinity 
-KWWNWTIW	NN Infinity 
-RWXBH	NN Infinity 
-MSIBT	NNT Infinity 
-ECMH	PRP Infinity 
-ECMI	PRP Infinity 
-ZWHMH	NN Infinity 
-ECMK	PRP Infinity 
-NWKXIM	NN Infinity 
-ECMM	PRP Infinity 
-ECMN	PRP Infinity 
-MBXNIM	NN Infinity 
-GFFIM	NN Infinity 
-PITRWNWT	NN Infinity 
-MWFMCIM	VB Infinity 
-NWKXIT	JJ Infinity 
-RIQH	JJ Infinity 
-RIQI	NNP Infinity 
-XFWDIM	NN Infinity VB Infinity 
-ESWQH	JJ Infinity 
-GRILH	NN Infinity 
-HFTGEW	VB Infinity 
-IICAW	VB Infinity 
-MTNHLT	VB Infinity 
-MKRIX	VB Infinity 
-MLMILIAN	NNP Infinity 
-MKRIZ	VB Infinity 
-HWRTH	VB Infinity 
-FWTPWT	NN Infinity 
-PRLMNJ	NN Infinity 
-HRAWBNI	NNP Infinity 
-HINDIM	NN Infinity 
-QBILIM	JJ Infinity 
-HINDIT	JJ Infinity 
-CINWRWT	NNT Infinity 
-ECMW	PRP Infinity 
-MTLBJ	JJ Infinity 
-IRDNIT	JJ Infinity 
-GRIMT	NNT Infinity 
-MTIIXST	VB Infinity 
-TWKPL	VB Infinity 
-TBWSTW	NN Infinity 
-MKRIE	JJ Infinity 
-BIQWRTI	JJ Infinity 
-FIJWTIW	NN Infinity 
-RISN	VB Infinity 
-EREWRI	NN Infinity 
-MKRIM	NN Infinity 
-HLWK	NNT Infinity 
-PIRSWN	NNP Infinity 
-LHTGWNN	VB Infinity 
-RWXNI	JJ Infinity 
-AISLAMIIM	JJ Infinity 
-ZQWQH	VB Infinity 
-CLBINSN	NNP Infinity 
-MWZIAWN	NN Infinity 
-QWSMJI	JJ Infinity 
-DMIWNH	NN Infinity 
-LHFTNWT	VB Infinity 
-DMIWNI	JJ Infinity 
-GIWS	NNT Infinity NN Infinity 
-HTARGNW	VB Infinity 
-RWXMH	NNP Infinity 
-MTLHJ	VB Infinity 
-MILIJNJI	JJ Infinity 
-XFBNW	VB Infinity 
-HIINW	AUX Infinity VB Infinity RB Infinity 
-QFRI	NNT Infinity 
-NDXSW	VB Infinity 
-QFRH	VB Infinity 
-MEMIDWT	VB Infinity 
-HTARGNH	VB Infinity 
-HARXH	NN Infinity 
-NDXTH	VB Infinity 
-NIFAH	VB Infinity 
-ECRT	NN Infinity 
-FNATW	NN Infinity 
-ECRW	VB Infinity 
-HWRXQ	VB Infinity 
-100,000	CD Infinity 
-CWEDIM	VB Infinity 
-SPWLDING	NNP Infinity 
-RIXP	VB Infinity 
-DETKM	NN Infinity 
-FNATM	NN Infinity 
-ERWKIM	VB Infinity 
-PRICWT	NN Infinity 
-HZDQQWT	NN Infinity 
-IKINW	VB Infinity 
-MTLHB	VB Infinity 
-NCIGWT	NN Infinity NNT Infinity 
-SSGWNI	JJ Infinity 
-PCIEH	NN Infinity 
-NWTRIM	VB Infinity 
-IICGH	VB Infinity 
-IFIBTH	NN Infinity 
-IWDPSW	VB Infinity 
-EIMWTIM	NN Infinity 
-HPSIQW	VB Infinity 
-NXFBWT	VB Infinity 
-25.11	CD Infinity 
-ECRH	VB Infinity 
-IICGW	VB Infinity 
-RIWS	NNP Infinity 
-GRGRIM	NN Infinity 
-AILWLA	IN Infinity 
-ASJRAJGI	JJ Infinity 
-NJIIH	NN Infinity 
-ANWJWNIWS	NNP Infinity 
-FIQWLIM	NN Infinity 
-MEWZIM	NN Infinity 
-NKLLH	VB Infinity 
-13.00	CD Infinity 
-AIZMIRLI	NNP Infinity 
-EMDWT	NNT Infinity NN Infinity 
-BRWMIC	NNP Infinity 
-JXINH	NN Infinity 
-GRIST	NNT Infinity 
-TTBQF	VB Infinity 
-NKLLW	VB Infinity 
-QFWR	VB Infinity JJ Infinity 
-FIQWLIW	NN Infinity 
-QFWT	JJ Infinity RB Infinity 
-NKLLT	VB Infinity 
-PRNSIS	NNP Infinity 
-FLIJTNW	NN Infinity 
-GRISH	NN Infinity 
-ALMGWR	NNP Infinity 
-MSIIM	VB Infinity 
-MWKFRIM	JJ Infinity NN Infinity 
-13.11	CD Infinity 
-MILNR	NNP Infinity 
-MICGIM	NN Infinity 
-ECTI	NN Infinity 
-IPAN	NNP Infinity 
-01.00	CD Infinity 
-HIITH	VB Infinity 
-HIITI	VB Infinity AUX Infinity 
-BWTIW	ZVL Infinity 
-ECWB	JJ Infinity 
-SWRDI	NNP Infinity 
-DIWWXW	VB Infinity 
-HMAN	NNP Infinity 
-ECWM	JJ Infinity 
-CNZWRH	NN Infinity 
-ECWR	JJ Infinity 
-MDINAIM	NN Infinity 
-LQIIM	VB Infinity 
-MSIIE	VB Infinity 
-EMDTH	NN Infinity 
-DIWWXI	NNT Infinity 
-HTMWJJWT	NN Infinity 
-HTPWRRWT	NN Infinity 
-FMWRWT	NNT Infinity 
-104.90	CD Infinity 
-TWKXT	NNT Infinity 
-EMDTW	NN Infinity 
-MWSEIM	VB Infinity 
-HWLLIM	JJ Infinity 
-HXMICW	VB Infinity 
-MLBSQI	NNP Infinity 
-TPEL	VB Infinity 
-WWIIJNAM	NNP Infinity 
-JSIM	VB Infinity 
-TCPIT	NN Infinity 
-PIRWFIM	NN Infinity 
-MWGBLT	VB Infinity JJ Infinity 
-HTNXLWT	NN Infinity 
-RFMIIM	JJ Infinity 
-FPIWT	NN Infinity 
-PCWE	NN Infinity JJ Infinity 
-NKWNWTH	NN Infinity 
-NKWNWTM	NN Infinity 
-IPEL	VB Infinity 
-SWPIT	RB Infinity JJ Infinity 
-GALJASRAI	NNP Infinity 
-KWTRTH	NN Infinity 
-NIIDWT	NNT Infinity 
-ARCIIM	JJ Infinity 
-JKNIQWT	NN Infinity 
-BIMAI	NNT Infinity NN Infinity 
-SEIPIM	NN Infinity 
-SMDR	NN Infinity 
-HIDRWGNCIH	NN Infinity 
-AFLIWT	NN Infinity 
-NKWNWTW	NN Infinity 
-AISLM	NN Infinity 
-GWWEH	VB Infinity 
-NAMNI	NNT Infinity 
-NAMNH	JJ Infinity 
-FWLXIM	VB Infinity 
-GIBWRH	NN Infinity 
-GIBWRI	NNT Infinity 
-T.D.	NNP Infinity 
-IPGE	VB Infinity 
-TPFW	VB Infinity 
-BFWRTH	NN Infinity 
-GIBWRW	NN Infinity 
-DMWQRJI	JJ Infinity 
-GIBWRT	NNT Infinity 
-TPGE	VB Infinity 
-RPWRMWT	NN Infinity 
-HSDRT	NNT Infinity 
-SLJIQS	NNP Infinity 
-MFRDIM	NN Infinity 
-HSDRI	NNT Infinity 
-MFRDIH	NN Infinity 
-SWXRIM	NN Infinity 
-PEMIM	NN Infinity 
-KTWBH	JJ Infinity 
-XWSKT	VB Infinity NN Infinity 
-IIAMR	VB Infinity 
-MTPQDIM	VB Infinity 
-HCJIIDWTH	NN Infinity 
-KTWBT	NNT Infinity NN Infinity 
-MFMEWIWT	NN Infinity 
-MWEDPIM	JJ Infinity 
-HMFK	NN Infinity NNT Infinity 
-IEWDW	NN Infinity 
-MFAIR	VB Infinity 
-MFAIT	NN Infinity 
-HLQAH	NN Infinity 
-LSMWK	VB Infinity 
-QMIJIM	JJ Infinity 
-GLWIH	JJ Infinity 
-MRDKI	NNP Infinity 
-XWSLW	VB Infinity 
-LTPWF	VB Infinity 
-LEDKN	VB Infinity 
-HGBLWT	NN Infinity 
-QLIPRS	NNP Infinity 
-EWCMT	NNT Infinity 
-MGDIR	VB Infinity 
-FPIRA	NNP Infinity 
-CIJWJIM	NN Infinity 
-NAMRW	VB Infinity 
-EWCMH	NN Infinity 
-SMIM	NN Infinity 
-NAMRH	VB Infinity 
-FWJRIM	NN Infinity 
-IFIBWT	NN Infinity 
-LHZEIQ	VB Infinity 
-NIDWNW	VB Infinity 
-LHCBIE	VB Infinity 
-MIIXSIM	VB Infinity 
-NIDWNH	VB Infinity 
-AWRXIM	NN Infinity 
-FWLXNM	NN Infinity 
-GAWLH	NN Infinity NNP Infinity 
-MSGRT	NN Infinity NNT Infinity 
-SBSWD	NN Infinity 
-SWNWWRW	VB Infinity 
-GLWLH	NN Infinity 
-IPNH	VB Infinity 
-ITARK	VB Infinity 
-HPSIDH	VB Infinity 
-TPNH	VB Infinity 
-SWPRT	NN Infinity 
-ITARX	VB Infinity 
-MXWCH	IN Infinity 
-SWPRH	VB Infinity 
-HWQCH	VB Infinity 
-SWPRI	NNT Infinity 
-HPSIDW	VB Infinity 
-MXFIBIM	VB Infinity 
-ANGLIH	NNP Infinity 
-I.K.	NNP Infinity 
-ANGLIT	JJ Infinity NN Infinity 
-AWLJIMAJWM	NN Infinity 
-IIXWDIWT	JJ Infinity 
-PIRMIDH	NN Infinity 
-MMWCE	JJ Infinity NN Infinity 
-MXWBR	VB Infinity 
-AWMLLWTM	NN Infinity 
-SMJH	NN Infinity 
-MBWDD	JJ Infinity 
-6891	CD Infinity 
-IFWLMW	VB Infinity 
-NWSPWT	JJ Infinity 
-MWNXIM	NN Infinity VB Infinity 
-IBWCEW	VB Infinity 
-HMTIN	VB Infinity 
-HWQET	NNT Infinity 
-MWGBRT	JJ Infinity 
-PLAJW	NNP Infinity 
-MRDNI	JJ Infinity 
-DIIQNWTW	NN Infinity 
-JQSJIM	NN Infinity 
-HMLJ	NNP Infinity 
-FXWRIM	JJ Infinity NN Infinity 
-MIJTW	NN Infinity 
-LKWDH	JJ Infinity 
-SMLI	NNT Infinity 
-QNAIM	JJ Infinity 
-EQRWT	NN Infinity NNT Infinity 
-MAWPQT	JJ Infinity 
-MJMWN	NN Infinity 
-TIABQ	VB Infinity 
-NKBDIM	JJ Infinity 
-BAXRWNH	RB Infinity 
-EFRWT	CDT Infinity CD Infinity 
-ZABI	NNP Infinity NNT Infinity 
-FPILD	NNP Infinity 
-DQDQNI	JJ Infinity 
-LIWWTH	VB Infinity 
-PSIKIAJRI	JJ Infinity 
-MGLMIM	VB Infinity 
-MCWDDT	JJ Infinity 
-EQRWN	NNT Infinity 
-MBWGR	JJ Infinity NN Infinity 
-TPRH	VB Infinity 
-IIAWF	NN Infinity 
-MQIIMT	VB Infinity 
-DABL	NNP Infinity NN Infinity 
-MRKZIIT	NNT Infinity 
-CIPWRH	NNP Infinity 
-MBWJLT	JJ Infinity 
-5591	CD Infinity 
-MRKZIIM	JJ Infinity 
-ANGLMN	NNP Infinity 
-BSISH	NN Infinity 
-BSISI	NNT Infinity JJ Infinity 
-XIILIM	NN Infinity 
-PRSWM	NNT Infinity NN Infinity 
-NWRMWT	NN Infinity 
-MRKZIIH	NN Infinity 
-MXWFB	JJ Infinity 
-HNZILT	ZVL Infinity 
-NIDRF	VB Infinity 
-BILWI	NN Infinity 
-MSMLIM	VB Infinity 
-BSISW	NN Infinity 
-DACH	NNP Infinity 
-PWLNIT	JJ Infinity 
-GINII	NNP Infinity 
-BIQWRTIT	JJ Infinity 
-TPSW	VB Infinity 
-MWNIJIN	NN Infinity 
-IPTX	VB Infinity 
-MTXFBT	VB Infinity 
-NDWDI	NNT Infinity 
-APWQLIPJI	JJ Infinity 
-BIWRWQRJIM	NN Infinity 
-ALMWNIWTW	NN Infinity 
-BIWRWQRJIT	JJ Infinity 
-APFRI	JJ Infinity NN Infinity 
-INQIM	NN Infinity 
-BIWRWQRJIH	NN Infinity 
-RJNR	NNP Infinity 
-PWLNIM	NN Infinity JJ Infinity 
-MMWFK	JJ Infinity 
-LHTXIIB	VB Infinity 
-HWLKWT	VB Infinity 
-LHFKIL	VB Infinity 
-QRMRB	NNP Infinity 
-MXWDF	JJ Infinity 
-MWAFMIM	VB Infinity 
-MXWDD	JJ Infinity 
-MWTAM	JJ Infinity 
-IMNEW	VB Infinity 
-HIMNEWT	NN Infinity 
-TKWNWTIHM	NN Infinity 
-TPSH	VB Infinity 
-MZDHWT	JJ Infinity 
-LHFKIX	VB Infinity 
-IEWRRW	VB Infinity 
-AISLAMIWT	JJ Infinity 
-JRWPIT	JJ Infinity 
-DAGH	NN Infinity 
-MSWIIM	JJ Infinity 
-MNQRWT	JJT Infinity 
-HKNIS	VB Infinity 
-GWRSIM	VB Infinity 
-ENIIN	NN Infinity NNT Infinity 
-LDAWG	VB Infinity 
-HLWWAWT	NN Infinity 
-MEWRERT	JJ Infinity 
-FPIGL	NNP Infinity 
-DLILH	JJ Infinity 
-LHFLIM	VB Infinity 
-PXDTI	VB Infinity 
-HWQMH	VB Infinity 
-TIALC	VB Infinity 
-LHFLIK	VB Infinity 
-EDIM	NN Infinity JJ Infinity 
-EDIN	MOD Infinity JJ Infinity 
-LHFLIJ	VB Infinity 
-HGINWTW	NN Infinity 
-TESWQH	NN Infinity 
-EDIP	VB Infinity 
-HKTIBW	VB Infinity 
-CIBWRIWT	JJ Infinity 
-FIEWRI	NNT Infinity 
-MATIW	NNP Infinity 
-MKSIQW	NNP Infinity 
-SMRI	NNP Infinity 
-XCWCRWT	NN Infinity 
-MCWMCMT	JJ Infinity 
-AIRWX	NNT Infinity NN Infinity 
-IPXT	VB Infinity 
-FMALNIIM	JJ Infinity 
-RMZIM	NN Infinity 
-DLIIM	NN Infinity 
-ANJWNIW	NNP Infinity 
-NDIBIM	JJ Infinity 
-GAWWH	NN Infinity 
-MWARKT	JJ Infinity 
-HWQMW	VB Infinity 
-QWPCIM	NN Infinity 
-SJJWS	NN Infinity 
-DIJRIK	NNP Infinity 
-DWQJRINH	NN Infinity 
-MBWKH	NN Infinity 
-LHTPRNS	VB Infinity 
-IPWT	NN Infinity JJ Infinity 
-MBWJX	NN Infinity 
-MWNJIPIWRI	NNP Infinity 
-ENIFH	NN Infinity 
-SWWILIH	NNP Infinity 
-TPWL	VB Infinity 
-TEFIITIIM	JJ Infinity 
-HCDIQH	VB Infinity 
-IMNIT	JJ Infinity 
-TPWS	VB Infinity 
-MSWIMT	JJ Infinity 
-IXNKW	VB Infinity 
-SMWK	RB Infinity IN Infinity JJ Infinity 
-KWBD	NN Infinity 
-IRXIBW	VB Infinity 
-KWBF	VB Infinity NN Infinity JJT Infinity 
-FGRH	NN Infinity 
-MNDLMN	NNP Infinity 
-MBIIMIM	VB Infinity 
-MSDRWN	NN Infinity 
-MAPFRIM	VB Infinity 
-AIDIAWLWGI	JJ Infinity 
-IGBILW	VB Infinity 
-QLANMCH	NNP Infinity 
-2,500	CD Infinity 
-KWAB	VB Infinity 
-NDWNH	VB Infinity 
-EDNH	NNP Infinity NN Infinity 
-PWAMH	NN Infinity 
-LHNIA	VB Infinity 
-LHNIB	VB Infinity 
-MIWSRIM	JJ Infinity 
-HMWN	DT Infinity NN Infinity 
-MWJLIM	NN Infinity 
-MTMFKT	JJ Infinity 
-MIKAL	NNP Infinity 
-MWSQJRIM	NN Infinity 
-AISLMI	JJ Infinity 
-ALXIAT	NNP Infinity 
-HBXINH	VB Infinity 
-11,005	CD Infinity 
-AIRWE	NN Infinity 
-MMWNH	VB Infinity NN Infinity 
-HBXINW	VB Infinity 
-IAKLW	VB Infinity 
-PJIRTW	NN Infinity 
-AWMFLAGPLAC	NN Infinity 
-BWXRIM	VB Infinity NN Infinity 
-PRQLIJW	NN Infinity 
-WEDWTIW	NN Infinity 
-FGRT	NNT Infinity 
-RIMWN	NNT Infinity 
-MXWLL	NNT Infinity 
-NIDWN	VB Infinity 
-PRQLIJT	NNT Infinity 
-TRGWLWT	NN Infinity 
-XFDNWT	NN Infinity 
-PRQLIJH	NN Infinity 
-PRQLIJI	NNT Infinity 
-MWTIR	VB Infinity 
-RAWBN	NNP Infinity 
-ENIBH	NN Infinity 
-ZAWWIH	NNP Infinity 
-MXWLQ	VB Infinity 
-IIXWDIIM	JJ Infinity 
-FRIRWTI	JJ Infinity 
-DWIDI	NNP Infinity 
-MXWSN	VB Infinity 
-ZANR	NN Infinity 
-IWKLW	VB Infinity 
-PDRL	NN Infinity 
-KWFI	NN Infinity 
-PWRMING	NNP Infinity 
-KWFL	JJ Infinity 
-KIWWN	VB Infinity NN Infinity NNT Infinity IN Infinity 
-ZANW	NNP Infinity 
-KWFR	NN Infinity NNT Infinity 
-MBWSS	VB Infinity 
-AIRPN	NNP Infinity 
-86.90	CD Infinity 
-GINTH	VB Infinity 
-BLWBFJIIN	NNP Infinity 
-ITBCE	VB Infinity 
-RPAUL	NNP Infinity 
-EQRIM	JJ Infinity 
-KWES	JJ Infinity 
-PIDIWN	NN Infinity 
-MWTNH	VB Infinity 
-HFKLTN	NN Infinity 
-LRKFW	VB Infinity 
-MLXMTIWT	JJ Infinity 
-AWZNIW	NN Infinity 
-IQBE	VB Infinity 
-MXWQQ	NN Infinity 
-IWKNS	VB Infinity 
-IQBL	VB Infinity 
-LHNIX	VB Infinity 
-KWHN	NNT Infinity 
-HKNST	NNT Infinity 
-MAPFRWT	VB Infinity 
-EFRIM	CD Infinity 
-HKNSH	NN Infinity 
-ETWDWTIHN	NN Infinity 
-SPRIIH	NN Infinity 
-HWQWS	NN Infinity 
-TIARH	VB Infinity 
-AZLM	NNP Infinity 
-FIWWIWN	NN Infinity 
-DARN	NNP Infinity 
-LAZWR	VB Infinity 
-MMWQM	VB Infinity 
-MERKWNIM	NN Infinity 
-GINWI	NN Infinity 
-EDTI	JJ Infinity 
-AITIXAD	NNP Infinity 
-HPIKTH	NN Infinity 
-AISLAM	NNP Infinity 
-ELBWN	NN Infinity 
-NWSPIM	VB Infinity RB Infinity JJ Infinity 
-EWBRIM	VB Infinity NN Infinity 
-RAWIH	JJ Infinity VB Infinity 
-TQCH	VB Infinity 
-MXWLQT	VB Infinity 
-XFAIT	JJ Infinity 
-JWEIM	VB Infinity 
-HNAH	NN Infinity 
-LZMN	VB Infinity 
-HGDRWT	NNT Infinity 
-HGBIH	VB Infinity 
-HGBIR	VB Infinity 
-EDWT	NN Infinity NNT Infinity 
-FQSPIR	NNP Infinity 
-TQBL	VB Infinity 
-KTWMIM	JJ Infinity 
-HTHPK	VB Infinity 
-IQCC	VB Infinity 
-AWGWSJ	NNP Infinity 
-IMNIIM	JJ Infinity 
-PSWLT	NNT Infinity 
-QWLXWZ	NN Infinity 
-HWLKIM	VB Infinity JJ Infinity 
-MXWWH	NN Infinity 
-FJXIT	JJ Infinity 
-FJXIM	NN Infinity 
-HGBLH	NN Infinity 
-IQFH	VB Infinity 
-MWTRT	VB Infinity 
-KWLI	RB Infinity 
-KWLH	PRP Infinity JJ Infinity 
-TIAMN	JJ Infinity 
-MDINIWTW	NN Infinity 
-RWWIW	NNP Infinity 
-RCINWT	NNT Infinity 
-KWLN	PRP Infinity 
-KWLM	PRP Infinity 
-KWLL	JJ Infinity VB Infinity IN Infinity 
-XRDIM	NN Infinity JJ Infinity 
-HKNWT	NN Infinity NNT Infinity 
-EGWMIM	JJ Infinity 
-KWLW	PRP Infinity JJ Infinity 
-ARBEIM	CD Infinity 
-WDAIT	JJ Infinity 
-TEWDT	NNT Infinity 
-RWZNJL	NNP Infinity 
-HKTIBH	VB Infinity 
-IQFW	VB Infinity 
-HNCW	VB Infinity 
-KWKB	NNT Infinity NN Infinity 
-PLJINH	NN Infinity 
-HGDRTK	NN Infinity 
-EWBRW	NN Infinity 
-SNAJ	NN Infinity 
-HGDRTH	NN Infinity 
-EWBRT	VB Infinity 
-MRKZIWT	JJ Infinity 
-TTAMT	VB Infinity 
-MTXBJIM	VB Infinity 
-BRWMPILD	NNP Infinity 
-IWKRE	VB Infinity 
-MDINIWTH	NN Infinity 
-KWNH	VB Infinity 
-DAWS	NNP Infinity 
-NPRSWT	VB Infinity 
-QIBLTI	VB Infinity 
-HGDRH	NN Infinity 
-GZIZWLIN	NNP Infinity 
-IMNIWT	JJ Infinity 
-NTGLH	VB Infinity 
-KWNS	NNT Infinity VB Infinity 
-HNET	NNT Infinity 
-HXWDF	RB Infinity 
-KWNW	VB Infinity 
-MQWRBW	NN Infinity 
-IDWEH	JJ Infinity VB Infinity 
-AZRX	NN Infinity 
-THIINH	VB Infinity 
-MRWKZT	JJ Infinity 
-AWBIIQJIWWIT	JJ Infinity 
-AZRN	NNP Infinity 
-BINIIM	NN Infinity 
-HGDRT	NNT Infinity 
-JRANSPR	NN Infinity 
-MRWFEWT	JJ Infinity 
-QDWFTW	NN Infinity 
-XILWNIM	NN Infinity 
-JBIEWT	NNT Infinity 
-TQIP	JJ Infinity 
-IIDRS	VB Infinity 
-TLMIDIW	NN Infinity 
-TQIN	JJ Infinity 
-MKSXI	NNT Infinity 
-BAIIRN	NNP Infinity 
-KWPR	NN Infinity 
-TLMIDIM	NN Infinity 
-AITNH	JJ Infinity 
-PWRMIIQH	NN Infinity 
-MIWTRWT	JJ Infinity 
-SIMPJWMJI	JJ Infinity 
-FBWEIWT	JJ Infinity 
-IIDQR	VB Infinity 
-XWFNIT	JJ Infinity 
-RKBW	NN Infinity 
-LSPWG	VB Infinity 
-BLWMH	NNP Infinity 
-RKBT	NN Infinity 
-LHIXFB	VB Infinity 
-LHTXFB	VB Infinity 
-MKSWT	NNT Infinity 
-TLMID	NN Infinity 
-LZRZ	VB Infinity 
-LHPWK	VB Infinity 
-MIMRH	NN Infinity 
-LHIXFP	VB Infinity 
-MTMQD	VB Infinity 
-HNIE	VB Infinity 
-HTENIINWT	NN Infinity 
-MGIJWLW	NNP Infinity 
-BLWMNJL	NNP Infinity 
-KWRT	VB Infinity 
-NRAIM	VB Infinity 
-KWRX	NNT Infinity NN Infinity 
-IQLW	VB Infinity 
-MTMXH	NN Infinity VB Infinity 
-HFART	NNT Infinity 
-HNIX	VB Infinity 
-IWZRMW	VB Infinity 
-MIMWN	NNT Infinity NN Infinity 
-QFMIR	NNP Infinity 
-NRAIT	JJ Infinity VB Infinity 
-MRGRJ	NNP Infinity 
-GZBRWT	NNT Infinity 
-TQLH	NN Infinity 
-MIMWF	NN Infinity NNT Infinity 
-MFIMTW	NN Infinity 
-FMALN	NN Infinity 
-DWKNIAN	NNP Infinity 
-NWPXH	VB Infinity 
-LFJWP	VB Infinity 
-IWLIKW	VB Infinity 
-FMALI	JJ Infinity 
-MWDIEINI	JJ Infinity 
-MLWAW	NN Infinity 
-RWZNSL	NNP Infinity 
-WBRAFT	NNP Infinity 
-LIHNWT	VB Infinity 
-BIQRNW	VB Infinity 
-WILBWFBIC	NNP Infinity 
-ANJWAN	NNP Infinity 
-IQNH	VB Infinity 
-PRANSWAH	NNP Infinity 
-SNJR	NN Infinity 
-KWTL	NN Infinity 
-AZWR	NN Infinity NNT Infinity 
-NIGNH	VB Infinity 
-TQNH	VB Infinity NN Infinity 
-MJPXT	NN Infinity NNT Infinity 
-TWPEWT	NNT Infinity NN Infinity 
-IQNW	VB Infinity 
-3,086	CD Infinity 
-LGMWL	VB Infinity 
-ICIRWTIHN	NN Infinity 
-AZWB	NN Infinity 
-AJWMI	JJ Infinity 
-LGMWR	VB Infinity 
-MLWAH	NN Infinity 
-TQNI	NNT Infinity 
-HMWLT	NNT Infinity 
-ERWBH	NN Infinity 
-FINNTI	VB Infinity 
-SNIP	NN Infinity NNT Infinity 
-MQWRIT	JJ Infinity 
-RKFW	VB Infinity 
-HMWLH	NN Infinity 
-LRMWS	VB Infinity 
-KWTB	VB Infinity NNT Infinity 
-LJWBT	IN Infinity 
-LHQNWT	VB Infinity 
-XFWBWT	JJ Infinity VB Infinity 
-LRMWZ	VB Infinity 
-SNJH	NNP Infinity 
-LPGWE	VB Infinity 
-IBQFW	VB Infinity 
-JWRDNI	JJ Infinity 
-MFDRT	VB Infinity 
-HWTIR	VB Infinity 
-MXZIQ	VB Infinity NNT Infinity 
-112,000	CD Infinity 
-MAWFR	JJ Infinity 
-HMWMH	JJ Infinity 
-MXZIR	VB Infinity 
-QJNIWT	NN Infinity 
-DXISWT	NN Infinity 
-HTXIIBH	VB Infinity 
-CIWNIM	NN Infinity JJ Infinity 
-FXWQIM	JJ Infinity 
-MAWHB	VB Infinity 
-CIWNIT	JJ Infinity 
-MKTBW	NN Infinity 
-LQSIQWN	NN Infinity 
-IIHPKW	VB Infinity AUX Infinity 
-RIPWI	NNT Infinity NN Infinity 
-IIDXH	VB Infinity 
-HMWNI	NNT Infinity 
-LFWKRH	RB Infinity 
-CNWEH	JJ Infinity 
-RKIM	JJ Infinity 
-IPWRSM	VB Infinity 
-KWXN	NN Infinity 
-MRKIBI	NNT Infinity 
-KWXM	NN Infinity 
-MFTMFT	VB Infinity 
-KWXW	NN Infinity 
-IZWMH	JJ Infinity 
-MSPRIM	NN Infinity 
-HTXIIBW	VB Infinity 
-TQRH	NN Infinity 
-KBDWT	JJT Infinity 
-TSTIIM	VB Infinity 
-FNIAWR	NNP Infinity 
-MKTBH	NN Infinity 
-TQPW	VB Infinity 
-HBWQR	RB Infinity 
-IRMIHW	NNP Infinity 
-KRISJH	NNP Infinity 
-HNNW	PRP Infinity 
-KRISJI	NNP Infinity 
-IQRA	VB Infinity 
-IQRH	JJ Infinity VB Infinity 
-HTRGFWT	NN Infinity 
-RCINIT	JJ Infinity 
-FWXZRW	VB Infinity 
-KWXH	NN Infinity 
-LHZHIR	VB Infinity 
-MINAI	NNP Infinity 
-BIMWT	NN Infinity 
-ANALI	JJ Infinity 
-NWQBT	JJ Infinity 
-MTIIXDIM	VB Infinity 
-MLWKH	NN Infinity 
-PJRIWJIWT	NN Infinity 
-KHWNH	NN Infinity 
-JRAWMWT	NN Infinity 
-HNRI	NNP Infinity 
-KWNNWIWT	NN Infinity 
-XWCPNIT	JJ Infinity 
-QHIR	NNP Infinity 
-IEZRW	VB Infinity 
-ARMWN	NN Infinity NNT Infinity 
-HNPT	NNT Infinity 
-ITQIIM	VB Infinity 
-LIIQRS	NNP Infinity 
-GRPIJI	NN Infinity 
-MLWJF	JJ Infinity 
-ELWMIM	JJ Infinity 
-KWZB	JJ Infinity 
-TWMNW	NN Infinity 
-DBEI	NNP Infinity 
-LHCEID	VB Infinity 
-TWMKI	NNT Infinity 
-FAIPWTIW	NN Infinity 
-4391	CD Infinity 
-NIGWD	NNT Infinity NN Infinity 
-QTDRLH	NN Infinity 
-BRWNZH	NN Infinity 
-TWMKT	JJ Infinity VB Infinity 
-ABHWTW	NN Infinity 
-IQWM	NN Infinity 
-NHIGTN	NN Infinity 
-PLDMN	NNP Infinity 
-HAFMWTIW	NN Infinity 
-BAWAR	NNP Infinity 
-LHDHIR	VB Infinity 
-HTPTXWTH	NN Infinity 
-TQUM	NNP Infinity NN Infinity 
-MRGWE	NN Infinity 
-XJIBWT	NN Infinity 
-BIMWI	NN Infinity NNT Infinity 
-PEIL	NN Infinity JJ Infinity 
-AKZBH	NN Infinity 
-IQXW	VB Infinity 
-MINIMLIWT	JJ Infinity 
-PELH	VB Infinity 
-MXZQT	VB Infinity 
-TLMIDWT	NN Infinity 
-FIQWMM	NN Infinity 
-900,000	CD Infinity 
-NWQFH	JJ Infinity 
-FIQWMH	NN Infinity 
-MIWTRIM	JJ Infinity 
-NCWLT	NN Infinity 
-IWNIT	JJ Infinity 
-TQWH	NN Infinity 
-RKWFW	NN Infinity 
-IWNIM	NN Infinity 
-QBWRTW	NN Infinity 
-TQWE	VB Infinity 
-BPIRWF	RB Infinity MOD Infinity 
-HTENGTI	VB Infinity 
-TQWM	VB Infinity 
-DBIQ	JJ Infinity 
-MILIARDI	CDT Infinity 
-IEZWR	VB Infinity 
-NRATH	VB Infinity 
-MIQRQSIM	NNP Infinity 
-LNAWM	VB Infinity 
-MIXFWB	NN Infinity 
-SJWQJWN	NNP Infinity 
-CWPRI	NNT Infinity 
-IIEDH	VB Infinity 
-MTIXWT	NN Infinity 
-MTNCL	VB Infinity 
-HNXH	VB Infinity NN Infinity 
-MTMCAT	VB Infinity 
-TWFIIH	NN Infinity 
-PELW	VB Infinity 
-LHQIM	VB Infinity 
-MPAUI	NNP Infinity 
-MQHIIL	NNP Infinity 
-PEMI	JJ Infinity 
-ACJDIWN	NN Infinity 
-NXTMW	VB Infinity 
-LAXRWNH	RB Infinity 
-NWQJT	VB Infinity 
-IIEFH	VB Infinity 
-MTPLLT	VB Infinity 
-MINIT	JJ Infinity 
-SKINIM	NN Infinity 
-NGINTW	NN Infinity 
-MINIM	NN Infinity 
-MINIH	RB Infinity 
-HCHRWTIW	NN Infinity 
-IIPGFW	VB Infinity 
-MNXILI	NNT Infinity 
-MQCWEWT	NNT Infinity NN Infinity 
-SMWAL	NNP Infinity 
-HCHRWTIH	NN Infinity 
-CIIDIM	NN Infinity 
-MQWRWT	JJ Infinity NN Infinity NNT Infinity NNP Infinity 
-TLMWD	NNP Infinity 
-MTNHL	VB Infinity 
-AWMLLIM	JJ Infinity 
-HFBEH	NN Infinity 
-IIPGEW	VB Infinity 
-MRKINH	VB Infinity 
-ASPQT	NNT Infinity 
-MTNGD	VB Infinity 
-HTPRSMH	VB Infinity 
-HTPRSMW	VB Infinity 
-NKNEW	VB Infinity 
-TMIKWT	NN Infinity 
-IMQUA	NNP Infinity 
-BLIIND	NN Infinity 
-LHIXRC	VB Infinity 
-HTMWJJWTH	NN Infinity 
-MLWQQ	JJ Infinity 
-QDWFIM	NN Infinity 
-MTNFA	VB Infinity 
-MINHL	NNT Infinity NN Infinity 
-NRAWT	VB Infinity 
-ITEFR	VB Infinity 
-RKWF	NNT Infinity NN Infinity 
-AISWR	NN Infinity NNT Infinity 
-AISWP	NNT Infinity 
-NWQFWT	JJ Infinity 
-GIBWFN	NN Infinity 
-MTBCET	VB Infinity 
-ARCIWT	JJ Infinity 
-MINIWT	JJ Infinity 
-NKNEH	VB Infinity 
-ARMLI	NNP Infinity 
-WLSJWN	NNP Infinity 
-MLWWH	JJ Infinity VB Infinity NN Infinity 
-DBQI	NNT Infinity 
-MASIWWIT	JJ Infinity 
-TXILTH	NN Infinity 
-QRWWANIM	NN Infinity 
-MSPRWT	VB Infinity 
-IRBW	VB Infinity 
-PRWSJ	NNP Infinity 
-MAWXR	JJ Infinity RB Infinity 
-ANWFIWTM	NN Infinity 
-DBRI	NN Infinity NNT Infinity 
-MSKIM	VB Infinity 
-MEFIWT	JJ Infinity NNT Infinity 
-FHWA	MOD Infinity 
-XFWBIM	JJ Infinity 
-IRAH	VB Infinity 
-DBQW	VB Infinity 
-LAWMNIT	JJ Infinity 
-HWNPQW	VB Infinity 
-IRAW	VB Infinity 
-IRAT	NNT Infinity 
-KIFLWNW	NN Infinity 
-FHWT	NN Infinity 
-IIELM	VB Infinity 
-TRCH	VB Infinity 
-MXBLIM	NN Infinity 
-HIKTH	VB Infinity 
-XQLAWT	NN Infinity 
-MQCWEIT	JJ Infinity 
-MXZWT	NNT Infinity NN Infinity 
-MINKN	NNP Infinity 
-QIWSQ	NN Infinity 
-MXZWR	NNT Infinity NN Infinity 
-MWWTR	VB Infinity JJ Infinity 
-ASPQH	NN Infinity 
-IRDN	NN Infinity NNP Infinity 
-XNIKIW	NN Infinity 
-JMWNIM	VB Infinity 
-TRCW	VB Infinity 
-CWPIM	VB Infinity NN Infinity 
-RANGWN	NNP Infinity 
-DBRW	NN Infinity 
-IRDW	VB Infinity 
-TRBH	VB Infinity 
-MNWCXIM	JJ Infinity 
-IRCH	VB Infinity 
-LHTXMM	VB Infinity 
-XLWCI	NNT Infinity 
-HIMLAIH	NNP Infinity 
-HGENW	VB Infinity 
-WWILWN	NN Infinity 
-IRCW	VB Infinity 
-NXRCWT	RB Infinity 
-QIWMM	NN Infinity 
-HQBLH	NN Infinity 
-QIWMH	NN Infinity 
-QTWLI	JJ Infinity 
-MWDIEIN	NN Infinity 
-ELWLWT	VB Infinity 
-NAWRLWG	NN Infinity 
-MWDIEIM	VB Infinity 
-MNCLIM	VB Infinity 
-KLBIM	NN Infinity 
-MTNPL	VB Infinity 
-XIMWM	NN Infinity 
-SMWIH	JJ Infinity 
-LHIXLC	VB Infinity 
-MTNPX	VB Infinity 
-LHTXKM	VB Infinity 
-PEWJ	JJ Infinity 
-MSKMT	VB Infinity 
-MELIMIM	VB Infinity 
-ALGNJIWT	NN Infinity 
-MKRIHM	NN Infinity 
-yySCLN	CC Infinity yySCLN Infinity 
-MTNQF	NN Infinity 
-QPSPBINKN	ZVL Infinity 
-DIILIM	NN Infinity 
-QIWMW	NN Infinity 
-NPLAIM	JJ Infinity 
-LFKNE	VB Infinity 
-EFTWNWTIW	NN Infinity 
-3,000	CD Infinity 
-MWDBQWT	JJ Infinity VB Infinity 
-HIKWN	NN Infinity 
-NWQPT	VB Infinity 
-MFWRRIM	NN Infinity 
-PASIWWIWT	NN Infinity 
-MEBDT	VB Infinity 
-SXWJH	JJ Infinity 
-LHTXIL	VB Infinity 
-SMWKH	JJ Infinity 
-MEBDH	NN Infinity 
-QIBLNW	VB Infinity 
-AGMIM	NN Infinity 
-BWHDNH	NNP Infinity 
-TERWBT	NN Infinity 
-GRNDIWZIWT	JJ Infinity 
-FIAH	NN Infinity 
-FIAM	NN Infinity 
-EWLMNW	NN Infinity 
-FIAN	NN Infinity 
-MILQN	NNP Infinity 
-XFBWN	NN Infinity NNT Infinity 
-HRMJIT	MOD Infinity 
-IWNPQW	VB Infinity 
-SIIEW	VB Infinity 
-MILQI	NNP Infinity 
-DIBWR	NN Infinity 
-FIAW	NN Infinity 
-PWCCW	VB Infinity 
-IRIB	NN Infinity NNT Infinity 
-PRWIND	NNP Infinity 
-SIIEH	VB Infinity 
-BRIAH	JJ Infinity 
-QLINQR	NNP Infinity 
-LHSTBK	VB Infinity 
-BRIAN	NNP Infinity 
-TXMWFT	NN Infinity 
-NJILT	NNT Infinity 
-DALAS	NNP Infinity 
-MEFIRIM	VB Infinity 
-PRWIQJ	NNT Infinity NN Infinity 
-LIRWT	NN Infinity VB Infinity 
-BMPWRF	RB Infinity 
-MRFIM	JJ Infinity VB Infinity 
-QIBL	VB Infinity 
-TWLET	NNT Infinity 
-QPIJL	NNP Infinity 
-MCXIQN	NN Infinity 
-MDGRWT	NN Infinity 
-MCXIQH	JJ Infinity 
-FIBA	NNP Infinity 
-MSIKH	NN Infinity 
-GLED	NNP Infinity 
-JIRWNIM	NN Infinity 
-PNIMI	JJ Infinity 
-EITWIH	NN Infinity 
-PNIMH	RB Infinity MOD Infinity 
-SKSKWK	NN Infinity 
-LIBRLIM	NN Infinity 
-XFBTI	VB Infinity 
-MHIMN	JJ Infinity 
-HSLJIIN	NNP Infinity 
-LTRWM	VB Infinity 
-LIBRLIT	NN Infinity JJ Infinity 
-FIBX	VB Infinity 
-HWXMCH	VB Infinity 
-QIBH	NN Infinity 
-EKBRI	NNT Infinity 
-RWXWT	NN Infinity 
-BRANDJ	NNP Infinity 
-QIDR	NNP Infinity 
-MTPREIM	NN Infinity 
-MSIRT	NNT Infinity 
-FIEI	JJ Infinity 
-QWLWNL	NN Infinity 
-TRMW	VB Infinity 
-FLWXWT	NN Infinity 
-FIER	NN Infinity 
-QWLWNIWT	NN Infinity 
-NWBLGIN	NNP Infinity 
-MHIRH	JJ Infinity 
-MHIRI	NNT Infinity 
-24.90	CD Infinity 
-LGLWT	VB Infinity 
-SWRIT	JJ Infinity 
-LAFWRM	RB Infinity 
-SWKNIM	NN Infinity 
-TWLDH	NN Infinity 
-MILWA	NNP Infinity 
-QICN	NNP Infinity 
-SWRIM	NN Infinity 
-SIMWLCIH	NN Infinity 
-QWMWNIZM	NN Infinity 
-EWLMIT	JJ Infinity 
-31.5	CD Infinity 
-MWKRXIM	VB Infinity 
-SWRIH	NNP Infinity 
-BEBWR	IN Infinity 
-MSIRH	NN Infinity 
-EWLMIM	NN Infinity 
-MLAKWTI	JJ Infinity 
-BQBWQI	NNT Infinity 
-PSIKWLWGI	JJ Infinity 
-FIGR	VB Infinity 
-RWWXIWTW	NN Infinity 
-PNIHM	NN Infinity 
-KXWF	JJ Infinity 
-PNIIH	NN Infinity 
-FIFH	CD Infinity 
-TTEWRR	VB Infinity 
-FIFI	NNP Infinity NN Infinity JJ Infinity 
-CWRBT	JJ Infinity 
-GLIM	NN Infinity 
-GLIL	NNP Infinity NN Infinity 
-GLIQ	NNP Infinity 
-HTIIXSWIWTIHM	NN Infinity 
-PJRIWJ	NN Infinity 
-MNPRDI	NNP Infinity 
-PNIIT	NNT Infinity 
-WWLGARI	JJ Infinity 
-EITWNIM	NN Infinity 
-FIIK	JJ Infinity 
-BFETW	RB Infinity 
-IICWB	NNT Infinity 
-IICWA	NN Infinity 
-FIIX	NNP Infinity 
-IICWR	NNT Infinity NN Infinity 
-QIIM	VB Infinity JJ Infinity 
-KXWL	NN Infinity JJ Infinity 
-5791	CD Infinity 
-ALWHIM	NNP Infinity 
-HKPFT	NNT Infinity 
-HRCXW	NN Infinity 
-MERIKIM	VB Infinity 
-ALWHIT	JJ Infinity 
-SIIMW	VB Infinity 
-MHDRIN	NN Infinity 
-SIIMH	VB Infinity 
-GILRDI	NNP Infinity 
-SBIBTN	NN Infinity 
-FIKL	VB Infinity 
-FBBIT	NN Infinity 
-IAMCW	VB Infinity 
-PNITI	VB Infinity 
-XSIDI	NNT Infinity 
-FGRTIIM	JJ Infinity 
-HWSIP	VB Infinity 
-QNCLR	NN Infinity 
-GWRWDNH	NNP Infinity 
-BRHUM	NNP Infinity 
-TPWCTH	NN Infinity 
-FWJPIM	JJ Infinity 
-TXBWLH	NN Infinity 
-MILWI	NNT Infinity NN Infinity 
-FILH	NNP Infinity 
-FIJH	NN Infinity 
-04833280	CD Infinity 
-SWKNWT	NNT Infinity NN Infinity 
-FIJT	NNT Infinity 
-QIJF	NN Infinity 
-EWLMWT	NN Infinity 
-QIJL	NNP Infinity 
-IRTH	VB Infinity 
-TXBWRH	NN Infinity 
-QILW	NN Infinity 
-SJLMK	NNP Infinity 
-SWBSIDIWT	NN Infinity 
-RGILH	JJ Infinity 
-IRWD	JJ Infinity 
-LHDGIF	VB Infinity 
-FINH	VB Infinity NN Infinity 
-FINI	NN Infinity 
-HIQLJWT	NN Infinity 
-SILBIH	NNP Infinity 
-FARIWT	NN Infinity 
-SMINRIM	NN Infinity 
-FILM	VB Infinity 
-EFIR	JJ Infinity 
-FILX	VB Infinity 
-AFKWL	NNP Infinity 
-MQCTH	NN Infinity 
-ILMDW	VB Infinity 
-NXFBIM	VB Infinity 
-FIMF	VB Infinity 
-AWSJRLIIM	JJ Infinity 
-LHTPTWT	VB Infinity 
-RIFQWLNIQ	NNP Infinity 
-HZRIMW	VB Infinity 
-LEFWT	VB Infinity 
-NJIWT	NN Infinity 
-IXWDIIM	JJ Infinity 
-ARGWNI	NNT Infinity 
-MFWRIINT	JJ Infinity 
-HZRIMH	VB Infinity 
-FIPA	NNP Infinity 
-FIPC	VB Infinity 
-AWRLNDW	NNP Infinity 
-IRWQ	JJ Infinity 
-IRWN	NNP Infinity 
-SBIBWT	NNT Infinity 
-HKPLT	NNT Infinity 
-HWBLWT	NN Infinity 
-AZEQT	NNT Infinity 
-QING	NNP Infinity 
-BLAQMN	NNP Infinity 
-QINI	NNP Infinity 
-TZRZNH	VB Infinity 
-AZEQH	NN Infinity 
-HWSPH	NN Infinity 
-NISIWNW	NN Infinity 
-AIKWTW	NN Infinity 
-EITWNAI	NN Infinity NNT Infinity 
-BHKRX	MOD Infinity RB Infinity 
-TRZH	NNP Infinity 
-NISIWNH	NN Infinity 
-MSWRTIT	JJ Infinity 
-MTNGDI	NNT Infinity 
-AWSIFQIN	NNP Infinity 
-HTGLWT	NN Infinity 
-MMLKTI	JJ Infinity 
-FIRH	NN Infinity 
-FIRI	NNT Infinity 
-AIKWTI	JJ Infinity 
-MKWWNIM	VB Infinity 
-3,100	CD Infinity 
-FBWEIIM	NN Infinity 
-AIKWTM	NN Infinity 
-TXRWIWT	NNT Infinity NN Infinity 
-FIBWCIM	NN Infinity 
-2.81	CD Infinity 
-HMLCWT	NNT Infinity NN Infinity 
-FIPR	VB Infinity 
-LHPIL	VB Infinity 
-RWMANIM	NN Infinity 
-LHPIQ	VB Infinity 
-QLWWIN	NNP Infinity 
-IRQWNI	NNP Infinity 
-FIWWQ	NN Infinity NNT Infinity 
-XSIMH	NN Infinity 
-MKSIM	VB Infinity 
-BINWI	NN Infinity 
-LHPIC	VB Infinity 
-MXWZQWT	VB Infinity 
-AZKRWT	NN Infinity 
-MZDMNWT	JJ Infinity 
-MFBXIM	VB Infinity 
-MQCWE	NNT Infinity NN Infinity 
-GLWB	NNP Infinity 
-QISR	NNP Infinity 
-SMWKIM	JJ Infinity 
-DWQRNI	JJ Infinity 
-5.11.90	CD Infinity 
-FIRT	VB Infinity 
-IWMIT	JJ Infinity 
-LHSTPX	VB Infinity 
-IWMIN	NN Infinity 
-NMKRIM	VB Infinity 
-PIGWEIM	NN Infinity 
-MZMINIM	VB Infinity 
-EFRT	CDT Infinity 
-STIRH	NN Infinity 
-SIIRT	NNT Infinity 
-HWAILW	VB Infinity 
-PFRH	NN Infinity 
-2,734	CD Infinity 
-SIIRW	VB Infinity 
-MXMMIM	VB Infinity 
-TTAKSN	VB Infinity 
-FRIJWT	NN Infinity 
-EWWLWT	NN Infinity 
-PRNQPWRJ	NNP Infinity 
-ARNQW	NN Infinity 
-FITQ	VB Infinity 
-RWDPIM	NN Infinity VB Infinity 
-GLWT	NN Infinity 
-PNIWT	NN Infinity 
-TRGILI	NNT Infinity 
-HWXLPH	VB Infinity 
-FWQDIM	VB Infinity 
-MTMFK	JJ Infinity 
-IIWWTRW	VB Infinity 
-HIJLR	NNP Infinity 
-EFRH	CD Infinity 
-AITWT	NN Infinity 
-ARJILRI	JJ Infinity 
-AGRWPW	NN Infinity 
-QIWM	NNT Infinity NN Infinity 
-MTXDFT	VB Infinity 
-MATIIM	CD Infinity 
-LHSTKN	VB Infinity 
-FIXH	NN Infinity 
-FIXI	NNT Infinity 
-FIXQ	VB Infinity 
-QIWW	VB Infinity 
-MSWGLT	VB Infinity 
-FRPWT	NN Infinity 
-XSINWT	NN Infinity 
-MTMDT	JJ Infinity 
-EFTH	VB Infinity 
-MCBIEI	NNT Infinity 
-LHSTMK	VB Infinity 
-MGIEWT	VB Infinity 
-GLZR	NNP Infinity 
-FIWR	NNT Infinity NN Infinity 
-DPWSI	NNT Infinity 
-TICWR	VB Infinity 
-LHSTIR	VB Infinity 
-EFWI	VB Infinity JJ Infinity 
-HGDIR	VB Infinity 
-IAMRW	VB Infinity 
-ZREWNIM	NN Infinity 
-EFWR	NN Infinity NNT Infinity 
-NWPLT	VB Infinity 
-HGDIL	VB Infinity 
-QLINIT	JJ Infinity 
-HFTDLW	VB Infinity 
-CRPTIIM	JJ Infinity 
-KWABT	JJ Infinity 
-DRMJIWT	JJ Infinity 
-SWSIIDAD	NNP Infinity 
-QPTMWNH1	ZVL Infinity 
-MERKWT	NNT Infinity NN Infinity 
-LWXIWT	NNT Infinity 
-MERKWN	NN Infinity 
-AWBSSIWWIT	JJ Infinity 
-MJPLT	VB Infinity 
-MTMID	JJ Infinity RB Infinity 
-HPCT	NNT Infinity 
-ECWBIM	JJ Infinity 
-FIEWRIM	NN Infinity 
-HRXIQH	VB Infinity 
-NWPIT	JJ Infinity 
-HTPFJH	VB Infinity 
-XILWT	NNT Infinity 
-IIDIF	NN Infinity 
-XILWL	NNT Infinity 
-PFWJ	JJ Infinity RB Infinity 
-HTPFJW	VB Infinity 
-MNGNWNI	NNT Infinity 
-XILWP	NN Infinity NNT Infinity 
-NWPIM	NN Infinity 
-HGDLT	NNT Infinity 
-MHWTIIM	JJ Infinity 
-EMLWTIHN	NN Infinity 
-MPIQIM	VB Infinity 
-HMLCTW	NN Infinity 
-HTPTXWT	NN Infinity NNT Infinity 
-QRSWLIHN	NN Infinity 
-MQDFT	VB Infinity 
-AIWWLIN	NNP Infinity 
-HPEM	RB Infinity 
-HWLIDW	VB Infinity 
-IXPWC	VB Infinity 
-HWZRMW	VB Infinity 
-ZCUL	JJ Infinity 
-XDIFWT	JJ Infinity 
-QWBLSQI	NNP Infinity 
-LTSWS	VB Infinity 
-XILWPIM	NN Infinity 
-IEZBW	VB Infinity 
-MAWRGN	JJ Infinity 
-ARNHM	NNP Infinity 
-LGMRI	MOD Infinity RB Infinity 
-MRGIF	VB Infinity 
-MRGIE	VB Infinity 
-EGWMH	JJ Infinity 
-NIGFH	VB Infinity 
-NMSRH	VB Infinity 
-RAPIDIH	NNP Infinity 
-EITWNI	NNT Infinity 
-LIRJWT	NN Infinity 
-NMSRW	VB Infinity 
-SPGH	VB Infinity 
-NMSRT	VB Infinity 
-EITWNW	NN Infinity 
-MINHLI	JJ Infinity 
-QLINGR	NNP Infinity 
-MMMNIM	JJ Infinity 
-LHSTDR	VB Infinity 
-HTQIIM	VB Infinity 
-TSRIJIM	NN Infinity 
-GMCI	NNP Infinity 
-HTQIIR	VB Infinity 
-XWBBIM	NN Infinity 
-HXWCH	RB Infinity 
-IXWDIT	JJ Infinity 
-HAWJWN	NNP Infinity 
-ALWMINIWM	NN Infinity 
-HPIC	VB Infinity 
-NICWLT	NN Infinity JJT Infinity 
-QARPIW	NNP Infinity 
-BHMFK	IN Infinity 
-HSIXH	VB Infinity 
-GRWNDMN	NNP Infinity 
-WEIDH	NN Infinity 
-IEILIM	JJ Infinity 
-QDIMH	RB Infinity 
-AWLIMPIWT	JJ Infinity 
-AQDMIT	JJ Infinity 
-ISKL	VB Infinity 
-LFLWJ	VB Infinity 
-SPGW	VB Infinity 
-LQLWJ	VB Infinity 
-AGPIM	NN Infinity 
-ITPRSMW	VB Infinity 
-ECMAI	JJ Infinity 
-LFLWX	VB Infinity 
-HWDRKH	VB Infinity 
-HMWCET	JJ Infinity 
-HPKH	AUX Infinity VB Infinity 
-TWKNIWT	NNT Infinity NN Infinity 
-LWXMIM	VB Infinity 
-HTNCLWT	NN Infinity 
-NTINI	NNT Infinity 
-NFENIM	VB Infinity 
-RFIMH	NN Infinity 
-HPKW	AUX Infinity VB Infinity 
-IIFWB	NN Infinity 
-QJEI	NNT Infinity 
-AFMIM	NN Infinity JJ Infinity 
-RFIMT	NNT Infinity 
-4500	CD Infinity 
-IIFWM	NN Infinity NNT Infinity 
-MXZIQIM	VB Infinity 
-KNISH	NN Infinity 
-SPIR	NNP Infinity 
-TKLIT	NN Infinity 
-KNIST	NNT Infinity 
-TSLX	VB Infinity 
-GINWNI	NNT Infinity 
-MIWZIQL	NN Infinity 
-LHFTKNE	VB Infinity 
-RGLIW	NN Infinity 
-MQFRT	VB Infinity 
-RGLIT	RB Infinity 
-ISPQ	VB Infinity 
-FLILIT	JJ Infinity 
-HFTDLNW	VB Infinity 
-SPRDIT	NN Infinity JJ Infinity 
-AINDWQJRINCIH	NN Infinity 
-SPRDIM	NN Infinity 
-GWLIANW	NNP Infinity 
-ECMAWT	NNT Infinity NN Infinity 
-ANRGIH	NN Infinity 
-ELIWNWT	NN Infinity 
-TIFAR	VB Infinity 
-IIFWT	NN Infinity 
-THLIKIM	NN Infinity 
-GMII	NNP Infinity 
-MBJIXH	VB Infinity 
-HWMWRISJ	NN Infinity 
-HGBIRW	VB Infinity 
-HPLT	NNT Infinity 
-HPLW	VB Infinity 
-MMFLTIWT	JJ Infinity 
-MWXFIIM	JJ Infinity 
-MHWLLT	JJ Infinity 
-FIERTI	VB Infinity 
-LHIZHR	VB Infinity 
-GMLH	VB Infinity 
-QWNWWQJWRIM	NN Infinity 
-HFKIRH	VB Infinity 
-PGEW	VB Infinity 
-NCXWNW	NN Infinity 
-MECMT	NNT Infinity 
-RMLH	NNP Infinity 
-HRCLIH	NNP Infinity 
-ALIZBT	NNP Infinity 
-MQFQF	JJ Infinity VB Infinity 
-BJWXIM	VB Infinity 
-MSLWL	NNT Infinity NN Infinity 
-HGBIRH	VB Infinity 
-HSTXRR	VB Infinity 
-MECMH	NN Infinity 
-QJIN	NN Infinity 
-5891	CD Infinity 
-TSPR	VB Infinity 
-EDKWNI	NNT Infinity 
-TSPQ	VB Infinity 
-MWMXIM	NN Infinity 
-EWFRW	NN Infinity 
-HPNR	NNP Infinity 
-ZHWIWT	NN Infinity 
-JWNIACI	NNP Infinity 
-AIXWDH	NN Infinity 
-ISRB	VB Infinity 
-HTGLEW	VB Infinity 
-PGEH	VB Infinity 
-IXSIT	RB Infinity MOD Infinity 
-MKIRIM	VB Infinity 
-IXSIM	NN Infinity 
-AJWMIM	JJ Infinity 
-TIFME	VB Infinity 
-HPQT	NNT Infinity 
-TAILND	NNP Infinity 
-MWFBWT	NNT Infinity NN Infinity 
-EBWDWT	NN Infinity NNT Infinity 
-QDWMIM	NN Infinity JJ Infinity 
-EMITW	NN Infinity 
-ELIAWP	NNP Infinity 
-SPQN	NN Infinity JJ Infinity 
-HPRF	NN Infinity NNT Infinity 
-MQFWT	VB Infinity 
-BJWXWT	JJ Infinity 
-IXSIW	NN Infinity 
-CACA	NN Infinity 
-MIEWJIM	NN Infinity 
-MWKRIM	NN Infinity VB Infinity JJ Infinity 
-IAPFR	VB Infinity 
-MINSWJIM	NN Infinity 
-CEQNIT	JJ Infinity 
-PWFRT	JJ Infinity 
-MCWIIN	JJ Infinity 
-MCWIIM	VB Infinity JJ Infinity 
-MTRPSIM	VB Infinity 
-BQFWT	NN Infinity 
-IWCQIM	VB Infinity 
-GWBANI	NNP Infinity 
-HPQH	NN Infinity 
-4591	CD Infinity 
-BRAFWNH	RB Infinity 
-QJLW	VB Infinity 
-XLXWL	NNT Infinity NNP Infinity 
-SPRW	NN Infinity 
-NACR	NNP Infinity 
-XRIGH	NN Infinity JJ Infinity 
-PWMBIWT	JJ Infinity 
-SPSL	NN Infinity 
-IWPIE	VB Infinity 
-34,028	CD Infinity 
-ISWD	NN Infinity NNT Infinity 
-RMPH	NN Infinity 
-BQFTN	NN Infinity 
-BRIWN	NN Infinity 
-BQFTW	NN Infinity 
-LHXDIR	VB Infinity 
-BRIXH	NN Infinity 
-XGIGH	NN Infinity 
-TXRWT	NN Infinity NNT Infinity 
-XGIGI	JJ Infinity 
-EBIRT	NNT Infinity 
-SPRD	NNP Infinity 
-EBIRH	NN Infinity 
-HPRT	NNT Infinity 
-PMGWSJH	NNP Infinity 
-MECRW	NN Infinity 
-3271	CD Infinity 
-CADQ	NNP Infinity 
-SPRH	NN Infinity 
-HPSD	NN Infinity NNT Infinity 
-FIPWCNIQ	NN Infinity 
-MECRM	NN Infinity 
-NACI	JJ Infinity 
-BRIXT	NNT Infinity 
-87591	CDT Infinity 
-IXSMW	VB Infinity 
-HPTIEW	VB Infinity 
-KNSIIT	NNT Infinity 
-IIGBH	VB Infinity 
-LHSIR	VB Infinity 
-MCWINT	JJ Infinity 
-EBWDTI	NN Infinity 
-EBWDTH	NN Infinity 
-TWKNIWTIW	NN Infinity 
-MWSIPIM	VB Infinity 
-NAFM	NN Infinity 
-MWQDMIM	VB Infinity 
-LHBDIL	VB Infinity 
-EBWDTW	NN Infinity 
-GRWZINIM	NN Infinity 
-BIJXWN	NNT Infinity NN Infinity 
-MFJRTI	JJ Infinity 
-KNSIIH	NN Infinity 
-HLWIIT	NNT Infinity 
-QJNH	JJ Infinity 
-MILWAIM	NN Infinity 
-PWRMLIT	JJ Infinity 
-QLPIWT	NN Infinity 
-MXBRIM	NN Infinity 
-BIWGRPIIM	JJ Infinity 
-RMTM	NN Infinity 
-RMTW	NN Infinity 
-BRISL	NNP Infinity 
-FJRI	NNT Infinity 
-MTXIIB	NN Infinity 
-NWSDH	VB Infinity 
-SPWR	NN Infinity 
-FWABT	JJ Infinity VB Infinity 
-HTRKZW	VB Infinity 
-MFLXWT	NNT Infinity 
-WEIDT	NNT Infinity 
-DWEKWT	VB Infinity 
-HRGFH	NN Infinity 
-LHSIG	VB Infinity 
-BRITH	NN Infinity 
-MTPRQT	JJ Infinity 
-IDIDWTIT	JJ Infinity 
-MTBIIF	VB Infinity 
-FJPW	VB Infinity 
-SILQW	VB Infinity 
-LHSIQ	VB Infinity 
-GRMNI	JJ Infinity NN Infinity 
-BITURI	JJ Infinity 
-RMSW	VB Infinity 
-QANCLR	NN Infinity 
-BWXNIM	VB Infinity 
-XTWNWT	NN Infinity 
-EWFIM	VB Infinity 
-LHCHIR	VB Infinity 
-WWTIQWT	JJ Infinity 
-FIXZR	VB Infinity 
-MXZIQWT	NNT Infinity 
-ZKINW	VB Infinity 
-HRGFT	NNT Infinity 
-NAJS	NNP Infinity 
-GMWL	NN Infinity NNT Infinity 
-FGRTI	JJ Infinity 
-LHNHIG	VB Infinity 
-FJRN	NNP Infinity 
-HPXT	NNT Infinity 
-HTMNH	VB Infinity 
-BRIRH	NN Infinity 
-NAIM	JJ Infinity 
-XRIPH	JJ Infinity 
-MECBWT	JJ Infinity 
-LHZKIR	VB Infinity 
-HRGIF	VB Infinity 
-PGRH	NN Infinity 
-MIPGF	NNT Infinity 
-CIINI	NNP Infinity 
-HCHRWT	NN Infinity 
-NALC	VB Infinity 
-MKXIFIM	VB Infinity 
-NRCXW	VB Infinity 
-CIINH	VB Infinity 
-TMWNWT	NN Infinity 
-JRIISI	NNP Infinity 
-NIGWDIM	NN Infinity 
-IWPQD	VB Infinity 
-NRCXH	VB Infinity 
-MXWIBIM	VB Infinity 
-RAFWTW	NN Infinity 
-CWRWT	NN Infinity 
-ITGFM	VB Infinity 
-MTPFJ	VB Infinity JJ Infinity 
-LJINIT	JJ Infinity 
-FIXWT	NNT Infinity NN Infinity 
-ZWLTW	NN Infinity 
-MTPFR	JJ Infinity 
-JWBH	NN Infinity RB Infinity JJ Infinity 
-MSTLQIM	VB Infinity 
-JWBE	VB Infinity 
-RMWN	NNP Infinity 
-CALX	NNP Infinity 
-JWBI	NNT Infinity 
-MTXILH	JJ Infinity VB Infinity 
-HGIWNIT	JJ Infinity 
-CIINT	VB Infinity 
-MMFLTIIM	JJ Infinity 
-MWDRNIIM	JJ Infinity 
-JWBT	NNT Infinity 
-RMWT	NN Infinity 
-CIINW	VB Infinity 
-PZIZIM	JJ Infinity 
-098891	CD Infinity 
-RFIWN	NNT Infinity NN Infinity 
-CWRTH	NN Infinity 
-ITBE	VB Infinity 
-FQRIWT	JJ Infinity 
-HDGIFW	VB Infinity 
-JWEN	VB Infinity 
-FJXH	NN Infinity 
-FJXI	NNT Infinity 
-MGWRIW	NN Infinity 
-AHRWN	NNP Infinity 
-HMCIAW	VB Infinity 
-HADRTW	NN Infinity 
-HDGIFH	VB Infinity 
-SPJMBR	NNP Infinity 
-HWJBEH	VB Infinity 
-HQDIM	VB Infinity 
-HMCIAH	VB Infinity 
-MTPLL	VB Infinity 
-NAMD	VB Infinity 
-MGWRIM	NN Infinity 
-NAMN	NNP Infinity JJ Infinity 
-MQWPXIM	VB Infinity 
-HBNIIH	NN Infinity 
-CWRTW	NN Infinity 
-ZKITI	VB Infinity 
-NAMR	VB Infinity 
-APILW	RB Infinity MOD Infinity 
-SILWN	NN Infinity 
-KPLIIM	NN Infinity 
-DIRQJWR	NN Infinity 
-FIXTW	NN Infinity 
-LHENIF	VB Infinity 
-FWRFIM	NN Infinity 
-LHENIQ	VB Infinity 
-NAPH	VB Infinity 
-FWRFIW	NN Infinity 
-ZWLWT	JJ Infinity 
-HCHRTI	JJ Infinity 
-NISIWNWT	NNT Infinity NN Infinity 
-NQSWNH	NNP Infinity 
-SIJWNI	JJ Infinity 
-MWRFEI	NNT Infinity 
-TIMHWN	NN Infinity 
-IEILWT	NNT Infinity NN Infinity JJ Infinity 
-TTBE	VB Infinity 
-MFJRIM	NN Infinity 
-BRIKT	NNT Infinity 
-LNDAW	NNP Infinity 
-AQDMAIIM	JJ Infinity 
-WMWNJH	NNP Infinity 
-PWRNWGRPI	JJ Infinity 
-MQRIWT	NN Infinity 
-JJRSJN	NNP Infinity 
-TIPQWD	NN Infinity 
-NJXNIM	JJ Infinity 
-FIXRR	VB Infinity 
-XFFWT	NN Infinity 
-ZWLIM	JJ Infinity 
-MWKRXH	VB Infinity 
-NKPPW	VB Infinity 
-TBIETM	NN Infinity 
-JJRINPWRM	NNP Infinity 
-FWALT	VB Infinity 
-MGALWMANIT	JJ Infinity 
-MTPRC	JJ Infinity 
-EMIDR	NNP Infinity 
-FIXQW	VB Infinity 
-ITGLW	VB Infinity 
-MWSIPH	VB Infinity 
-MDWBRT	JJ Infinity 
-MFGIM	NN Infinity 
-BRIJI	JJ Infinity 
-FIXQH	VB Infinity 
-TAPFR	VB Infinity 
-JWHR	NNT Infinity 
-CWRPW	VB Infinity 
-QHILTI	JJ Infinity 
-ZKIIH	NN Infinity 
-NWSPW	VB Infinity 
-CATN	NN Infinity 
-CATM	NN Infinity 
-MRJIN	NNP Infinity 
-SAQRMNJW	NNP Infinity 
-EITWNWT	NNT Infinity NN Infinity 
-MSMLT	VB Infinity 
-FSWEH	JJ Infinity 
-GNBH	NNP Infinity 
-ICWAN	NN Infinity 
-TWPET	NNT Infinity 
-TWPEH	NN Infinity 
-RAFWNH	NN Infinity JJ Infinity 
-RAFWNI	JJ Infinity 
-GNBW	VB Infinity 
-NWSPT	JJ Infinity 
-HQDMT	NNT Infinity 
-HIMWR	NN Infinity 
-NASRH	VB Infinity 
-FGRIR	NN Infinity NNT Infinity 
-PWGFT	VB Infinity 
-APLIIT	NNT Infinity 
-HIRLAP	NNP Infinity 
-LHFQIE	VB Infinity 
-LHFQIP	VB Infinity 
-AGWDLIHM	NN Infinity 
-HTMXH	VB Infinity 
-ZWLLI	JJT Infinity 
-HGBILW	VB Infinity 
-NASR	NNP Infinity VB Infinity 
-GNAQ	NNP Infinity 
-JWJW	NN Infinity 
-MWKRWT	JJ Infinity 
-TBIEWT	NNT Infinity NN Infinity 
-JLWWIZIWNIIM	JJ Infinity 
-EMIAL	NNP Infinity 
-EMWDIM	NN Infinity 
-DIKPIN	NN Infinity 
-SWBLWT	VB Infinity 
-HFKILH	VB Infinity 
-HCJRPWT	NN Infinity 
-QHILWT	NN Infinity 
-MSTKMWT	VB Infinity 
-NKPTH	VB Infinity 
-AIMWNIT	NN Infinity 
-AIMWNIM	NN Infinity 
-MEDIP	VB Infinity 
-TTIR	VB Infinity 
-RWBINSWN	NNP Infinity 
-FMALNIM	NN Infinity 
-AFLIH	NN Infinity 
-MXWIBWT	NN Infinity 
-FWAPT	VB Infinity 
-RWDIAW	NNP Infinity 
-LWWIWT	NN Infinity 
-PTRWNW	NN Infinity 
-WWALIWM	NNP Infinity 
-AMNWIWT	NN Infinity 
-MTPTX	VB Infinity 
-INWAR	NNP Infinity 
-HITRIM	NN Infinity 
-HSJWN	NNP Infinity 
-HQFR	NN Infinity 
-NSGIR	VB Infinity 
-HFKILW	VB Infinity 
-MWSIQH	NN Infinity 
-ATNXTA	NN Infinity 
-HQIM	VB Infinity 
-SPWGIWT	NN Infinity 
-MSBIRIM	VB Infinity 
-BWXRI	NNT Infinity 
-NAXZ	VB Infinity 
-IIFLXW	VB Infinity 
-GNFR	NNP Infinity 
-NIJLW	VB Infinity 
-NHGIM	NN Infinity 
-QWLANWBIC	NNP Infinity 
-3,247	CD Infinity 
-CWRKI	NNT Infinity 
-HTKWWC	VB Infinity 
-JWNH	NN Infinity 
-RNDI	NNP Infinity 
-NAWR	JJ Infinity NNP Infinity 
-FKBH	VB Infinity NN Infinity 
-BGIDH	NN Infinity 
-HXZIR	VB Infinity 
-HXZIQ	VB Infinity 
-NAWM	NN Infinity 
-MTPRS	VB Infinity 
-NAWN	NN Infinity 
-DALDH	NNP Infinity 
-HTKWWN	VB Infinity 
-NAWT	NNP Infinity NNT Infinity 
-NINWXH	JJ Infinity 
-PWLNSQI	NNP Infinity 
-AQLIM	NN Infinity 
-PTLTLIM	JJ Infinity 
-INWDH	VB Infinity 
-ITERB	VB Infinity 
-AWPRJIWWIM	JJ Infinity 
-NICXNW	VB Infinity 
-SWTRT	VB Infinity 
-HGETI	VB Infinity 
-MEBIR	VB Infinity 
-PRWZH	NN Infinity 
-MMWNIM	VB Infinity NN Infinity 
-ITNW	VB Infinity 
-TKKIM	NN Infinity 
-LFKTW	NN Infinity 
-HMXFT	NNT Infinity 
-MFWBCWT	JJ Infinity 
-BKWRH	JJ Infinity NN Infinity 
-DBQIT	NN Infinity 
-EBDALLH	NNP Infinity 
-AWFWWIC	NNP Infinity 
-NKNSH	VB Infinity 
-DBQIM	NN Infinity 
-JWPL	VB Infinity 
-MFEMM	JJ Infinity 
-JWPZ	NNP Infinity 
-IIERK	VB Infinity 
-MWDRNIWT	JJ Infinity 
-NKNSW	VB Infinity 
-NKNST	VB Infinity 
-BMRWKZ	RB Infinity 
-MTPWRRT	VB Infinity 
-SIKLH	VB Infinity 
-NIHLH	VB Infinity 
-XLWMH	NN Infinity 
-LHTPNWT	VB Infinity 
-PRIFTW	NN Infinity 
-HQMT	NNT Infinity 
-NIHLW	VB Infinity 
-HBXIN	VB Infinity 
-WILIAMS	NNP Infinity 
-ITQE	VB Infinity 
-MITWLWGIH	NN Infinity 
-LWBLIN	NNP Infinity 
-HQLH	NN Infinity VB Infinity 
-GNIM	NN Infinity 
-DANDI	NNP Infinity 
-JWRS	NNP Infinity 
-SMNKUL	NNT Infinity NN Infinity 
-GNIN	NNP Infinity 
-IIFMEW	VB Infinity 
-HFBTH	NN Infinity 
-PRIFTM	NN Infinity 
-JWRX	VB Infinity 
-NIIJLIIN	NNP Infinity 
-MHLKIW	NN Infinity 
-PRJIWT	JJ Infinity 
-MINTH	VB Infinity 
-MTBJAT	VB Infinity 
-ITRH	JJ Infinity RB Infinity NN Infinity MOD Infinity 
-LHELWT	VB Infinity 
-HKRET	NNT Infinity 
-XFDWT	NN Infinity 
-HKREH	NN Infinity 
-FKIR	NN Infinity 
-NELIIM	NN Infinity 
-FKIX	JJ Infinity 
-20.1	CD Infinity 
-IIEWC	NN Infinity 
-EFWIH	VB Infinity JJ Infinity 
-BIJWLW	NN Infinity 
-BNIINIM	NN Infinity 
-ASTJI	JJ Infinity 
-IIEWL	NN Infinity 
-PRJIZN	NNP Infinity 
-CBWRIIM	JJ Infinity 
-SIRNWT	NN Infinity 
-TQRIWT	NN Infinity 
-QRIIRISJIT	JJ Infinity 
-2000	CD Infinity 
-PRWWH	NN Infinity 
-6.6.82	CD Infinity 
-SBWRH	VB Infinity 
-AIWMM	NN Infinity 
-AIWMH	JJ Infinity 
-AIWMI	NNT Infinity 
-MTNWT	NN Infinity 
-HFBWE	RB Infinity 
-QIWWI	NN Infinity 
-LABIANW	NNP Infinity 
-QIWWH	VB Infinity 
-ZMNIM	NN Infinity 
-JWWX	NNT Infinity NN Infinity 
-MAPIINIM	NN Infinity VB Infinity 
-HBXNH	NN Infinity 
-MFENT	NN Infinity 
-AWRLANDW	NNP Infinity 
-CBAI	JJ Infinity 
-MINWI	NN Infinity NNT Infinity 
-LFKWT	NN Infinity 
-LFKWR	VB Infinity 
-TQFWRTIT	JJ Infinity 
-ALMNJIM	NN Infinity 
-CRWRWT	NN Infinity 
-BIQFH	VB Infinity 
-MIWEDT	VB Infinity 
-MIGWWN	NN Infinity 
-NLQXH	VB Infinity 
-FKJR	NNP Infinity 
-MKHNIM	VB Infinity 
-SXWRH	NN Infinity 
-SJRWISQI	NNP Infinity 
-AWPRJIWWIT	JJ Infinity 
-JWWH	VB Infinity 
-NLQXW	VB Infinity 
-LFKWX	VB Infinity 
-TXQIR	NN Infinity 
-ZMNIT	RB Infinity JJ Infinity 
-BIQFW	VB Infinity 
-AWZNIIM	NN Infinity 
-HWBJXH	VB Infinity 
-BIJWXI	NNT Infinity 
-4691	CD Infinity 
-ISBWL	VB Infinity 
-XINWKI	JJ Infinity 
-XINWKM	NN Infinity 
-FKMW	NN Infinity 
-XQLAIM	NN Infinity 
-BDRNINW	NN Infinity 
-NBDL	VB Infinity 
-XQLAIT	JJ Infinity 
-MLXIM	NN Infinity 
-FKNH	NN Infinity 
-TXQWR	NNT Infinity 
-FKLI	JJ Infinity 
-MDWBRIM	JJ Infinity 
-LWWIIT	NNT Infinity 
-CLSIWS	NNP Infinity 
-MEBRT	NNT Infinity 
-SQRI	NNT Infinity 
-XINWKW	NN Infinity 
-HKRIZ	VB Infinity 
-QPDNWT	NN Infinity 
-SQRN	JJ Infinity 
-FEMWM	NN Infinity 
-GNRL	NN Infinity 
-MIWXDWT	JJ Infinity 
-EZIQRI	NNP Infinity 
-EQWBH	JJ Infinity 
-NQBEIM	VB Infinity 
-CBEW	NN Infinity 
-MFTNIM	JJ Infinity 
-XWWIH	NN Infinity 
-LIPFIC	NNP Infinity 
-XWWIM	VB Infinity 
-CBEI	NNT Infinity 
-CBEH	VB Infinity 
-LHMCIA	VB Infinity 
-MSKWT	NN Infinity 
-ITWM	JJ Infinity 
-NADIRH	NNP Infinity 
-NBDQ	VB Infinity 
-ECMWT	NNT Infinity 
-MTWGBR	VB Infinity 
-AWFPZW	VB Infinity 
-FKNW	NN Infinity 
-NBEH	VB Infinity 
-QPKWT	ZVL Infinity 
-AWFPZH	VB Infinity 
-BWLJIM	JJ Infinity NN Infinity 
-IWCRIM	NN Infinity VB Infinity 
-DEIM	NN Infinity 
-MBWGRIM	NN Infinity 
-LHTHWWT	VB Infinity 
-MBIEIM	VB Infinity 
-NBEJ	VB Infinity 
-QRQWB	NNP Infinity 
-DEKH	VB Infinity 
-MHLKIM	NN Infinity 
-KRJISIM	NN Infinity 
-ANDRW	NNP Infinity 
-MWXLJ	JJ Infinity 
-XTNIM	NN Infinity 
-SIKNW	VB Infinity 
-DWMWT	JJ Infinity 
-LHNFIM	VB Infinity 
-MMWRMRIM	JJ Infinity 
-MLXMH	NN Infinity 
-PWELI	NNT Infinity 
-HTRXQWT	NN Infinity 
-LHRIC	VB Infinity 
-HKRNW	VB Infinity 
-CIJWJ	NNT Infinity NN Infinity 
-NICXIT	JJ Infinity 
-CMWDH	JJ Infinity 
-PWELW	NN Infinity 
-HTLHB	VB Infinity 
-LIIBWBIC	NNP Infinity 
-PRIFMN	NNP Infinity 
-PWELT	VB Infinity 
-CMWDT	JJT Infinity 
-LHRIM	VB Infinity 
-AWZNINW	NN Infinity 
-LHRHR	VB Infinity 
-AIPSWWIC	NNP Infinity 
-EISQWT	NNT Infinity NN Infinity 
-TZWZH	NN Infinity 
-TDWWX	VB Infinity 
-ZEIR	JJ Infinity 
-XLWQT	NNT Infinity 
-XLWQI	NNT Infinity 
-XLWQH	NN Infinity 
-NCXIT	JJ Infinity 
-BDIQWT	NNT Infinity NN Infinity 
-ECMTI	VB Infinity 
-IAKJWT	NN Infinity 
-FKRM	NN Infinity 
-XLWPH	NN Infinity 
-RIQWD	NN Infinity 
-NWRAH	JJ Infinity 
-NSETI	VB Infinity 
-XLWPI	JJ Infinity 
-NBIA	NN Infinity 
-QJIGWRIWT	NN Infinity 
-FKRW	NN Infinity 
-XICWNI	JJ Infinity 
-NIHWL	NNT Infinity NN Infinity 
-IIFAR	VB Infinity 
-ALMNJRI	JJ Infinity 
-TIEFH	VB Infinity 
-ELWLIM	VB Infinity 
-LCBWE	VB Infinity 
-MWXIM	VB Infinity 
-KFRIM	JJ Infinity 
-MFEWL	NN Infinity 
-MSTWRIN	NN Infinity 
-HQLJWT	NNT Infinity 
-MINIMWM	NN Infinity NNT Infinity 
-WLDIMIR	NNP Infinity 
-HSTWBB	VB Infinity 
-IFRALI	JJ Infinity NN Infinity 
-MGALWMANI	JJ Infinity 
-HQCAH	NN Infinity 
-HFTLBWT	NN Infinity 
-AJRQCIH	NN Infinity 
-MAXRI	IN Infinity 
-ZEMM	NN Infinity 
-QAWBWIIM	NN Infinity 
-AWNIBRSIJAWT	NN Infinity 
-MAXWRI	IN Infinity NNT Infinity 
-KNIET	NNT Infinity 
-DWRSNI	JJ Infinity 
-RCIWNALIZM	NN Infinity 
-NBKI	NNT Infinity 
-MWRGFT	VB Infinity 
-ZEMW	NN Infinity 
-LHIENWT	VB Infinity 
-NBNH	VB Infinity 
-LHRIX	VB Infinity 
-TTEQF	VB Infinity 
-AIRWPIT	JJ Infinity 
-MLXMT	NNT Infinity 
-MWXMD	NNP Infinity 
-MJRIM	NN Infinity 
-PERIM	NN Infinity 
-TIERK	VB Infinity 
-HTAWFFWT	NNT Infinity NN Infinity 
-HKRTW	NN Infinity 
-GIRWF	NNT Infinity 
-APJUA	NNP Infinity 
-MWCLXIM	JJ Infinity 
-FILFWM	RB Infinity 
-AMITIT	JJ Infinity 
-MGIEH	VB Infinity 
-HRAH	VB Infinity 
-RFWIWT	NNT Infinity NN Infinity 
-ECMNW	PRP Infinity 
-NIIDT	NNT Infinity 
-CRKNWT	NN Infinity 
-HRAL	NNP Infinity 
-BNGQWQ	NNP Infinity 
-DETM	NN Infinity 
-DETI	NN Infinity 
-DETH	NN Infinity 
-AWPWRJWNISJI	JJ Infinity 
-MGIFH	VB Infinity 
-REIFWT	NN Infinity 
-HWDPSW	VB Infinity 
-AWMNSQI	NNP Infinity 
-JWJNHAM	NNP Infinity 
-HRFIM	VB Infinity 
-NITWXIM	NN Infinity 
-ZETR	NN Infinity 
-TSBIK	NNT Infinity 
-AJLNJH	NNP Infinity 
-PLIJIM	NN Infinity 
-HFTAWT	NN Infinity 
-FLJWNWT	NN Infinity NNT Infinity 
-DETW	NN Infinity 
-IIFMRW	VB Infinity 
-DIMWNH	NNP Infinity 
-MGMTIT	JJ Infinity 
-RFAIWT	VB Infinity 
-IHWDIM	NN Infinity JJ Infinity 
-RIBWIN	NN Infinity 
-HRAW	VB Infinity 
-IHWDIT	JJ Infinity NNP Infinity 
-MDENIM	NN Infinity 
-NWRIT	NNP Infinity 
-MRIBH	NN Infinity 
-ASIPWT	NN Infinity 
-JRGDIH	NN Infinity 
-NWRIC	NNP Infinity 
-HRBH	DT Infinity RB Infinity VB Infinity MOD Infinity 
-WITWR	NN Infinity 
-ADWQIM	JJ Infinity 
-MTPRCWT	NN Infinity 
-SIKWI	NN Infinity 
-IJILW	VB Infinity 
-AFMTM	NN Infinity 
-SIKWM	NNT Infinity NN Infinity 
-LHEMID	VB Infinity 
-HKRXI	JJ Infinity 
-IHWDIH	JJ Infinity 
-HRBW	VB Infinity 
-SIKWN	NNT Infinity NN Infinity 
-DEWT	NN Infinity 
-WWIKWX	NN Infinity 
-RCIWNLISJIM	JJ Infinity 
-HKRZH	NN Infinity 
-KWLSJRWL	NN Infinity 
-MIWXDIM	JJ Infinity 
-DWRSWN	NNP Infinity 
-IIFLX	VB Infinity 
-MIKAIL	NNP Infinity 
-XWLWNIM	NN Infinity 
-ASJRJGI	JJ Infinity 
-NEDRWT	VB Infinity 
-LHFPIE	VB Infinity 
-HWPSQH	VB Infinity 
-HGFNW	VB Infinity 
-DWMIW	NN Infinity 
-MWSJRL	NNP Infinity 
-MWXWT	NN Infinity 
-KFRWN	NN Infinity 
-NCXWN	NN Infinity NNT Infinity 
-HKRZT	NNT Infinity 
-ECMIT	JJ Infinity 
-LPIKK	RB Infinity 
-APFRIWT	JJ Infinity NN Infinity 
-HWPSQW	VB Infinity 
-ECMIM	NN Infinity 
-MTPRCIM	VB Infinity 
-LHQPID	VB Infinity 
-IBRXW	VB Infinity 
-TXRIP	VB Infinity 
-LHQPIA	VB Infinity 
-MAXWR	MOD Infinity 
-MJRPT	JJ Infinity 
-MERKWNIHM	NN Infinity 
-QRWBIHM	NN Infinity 
-ZWKIM	NN Infinity VB Infinity 
-HRGL	NN Infinity 
-HPSDIM	NN Infinity 
-BEQBWTI	IN Infinity 
-DWMIM	JJ Infinity 
-LEIIN	VB Infinity 
-HRGW	VB Infinity 
-DWMIH	NN Infinity 
-MECBT	VB Infinity 
-MHLKW	NN Infinity 
-MWSJPA	NNP Infinity 
-IIFMH	VB Infinity 
-TNAIHN	NN Infinity 
-MEWRBWTW	NN Infinity 
-MWSJPH	NNP Infinity 
-HRFH	VB Infinity 
-MHLKM	NN Infinity 
-MECBI	NNT Infinity 
-DIBWRW	NN Infinity 
-CBWE	JJ Infinity 
-NAMNWTW	NN Infinity 
-IIFMW	VB Infinity 
-MMWMNT	VB Infinity 
-NICXWN	NNT Infinity NN Infinity 
-NWRMN	NNP Infinity 
-HRFW	VB Infinity 
-MFIMWT	NN Infinity NNT Infinity 
-LPIIS	VB Infinity 
-GIBSWN	NNP Infinity 
-IIFPK	VB Infinity 
-HQCNH	NN Infinity 
-NBXR	VB Infinity 
-RIMWNI	NNT Infinity 
-MEWJRWT	VB Infinity 
-HRIM	NN Infinity 
-PRWPIL	NN Infinity 
-ALKSNDRWNI	NNP Infinity 
-ZMNNW	NN Infinity 
-TWFBIH	NN Infinity 
-MBWCEIM	VB Infinity 
-TWFBIM	NN Infinity 
-SRGL	NN Infinity 
-PIGWEI	NNT Infinity 
-PRIMAQWB	NNP Infinity 
-NBWK	VB Infinity 
-MJRWT	NN Infinity NNT Infinity 
-FLBI	NNT Infinity 
-NBWN	JJ Infinity 
-XWDFIM	NN Infinity 
-MDAIGIM	VB Infinity 
-XWDFIT	JJ Infinity 
-HSITW	VB Infinity 
-FKIRWT	NN Infinity 
-HRKB	NNT Infinity NN Infinity 
-ILIDIM	NN Infinity 
-LAWJMN	NNP Infinity 
-SRJN	NN Infinity 
-MWQDMWT	JJ Infinity 
-MJRTW	NN Infinity 
-SRJW	NN Infinity 
-HGFTI	VB Infinity 
-DRMAJI	JJ Infinity 
-MJRTN	NN Infinity 
-JWLSJWI	NNP Infinity 
-MJRTM	NN Infinity 
-MJRTH	NN Infinity 
-HXMCWT	NN Infinity 
-TWKNITW	NN Infinity 
-PIRWFW	NN Infinity 
-BEQBWT	IN Infinity 
-MGILT	NNT Infinity 
-XINWK	NN Infinity 
-PIRWFM	NN Infinity 
-PIRWFH	NN Infinity 
-MWQDMT	JJ Infinity 
-LHRWG	VB Infinity 
-SRJI	NNT Infinity 
-NBHLIM	VB Infinity 
-LAWMIM	NN Infinity 
-MWULWT	NN Infinity 
-IGBRW	VB Infinity 
-EIDN	NNT Infinity NNP Infinity 
-FLIJIM	NN Infinity 
-HRMT	NNT Infinity 
-HIDRDRWT	NN Infinity 
-TWQPNWT	NN Infinity 
-QWBET	VB Infinity 
-MWJLWT	VB Infinity 
-GDWLIM	JJ Infinity NN Infinity 
-GIBRIL	NNP Infinity 
-LAWMIT	JJ Infinity 
-DBRIW	NN Infinity 
-ADIDS	NNP Infinity 
-SWLIDARIWT	NN Infinity 
-QLEW	VB Infinity 
-MGWWNWT	JJ Infinity 
-PIBW	NNP Infinity 
-SINNW	VB Infinity 
-BIRWRIM	NN Infinity 
-MNWSBIC	NNP Infinity 
-PRSJIGQWSMJIQS	NNP Infinity 
-MWTIRH	VB Infinity 
-FLIF	NN Infinity 
-IWRDI	NNT Infinity 
-FLIH	NN Infinity 
-FLIJ	NN Infinity 
-NIKRH	VB Infinity 
-FMEWN	NNP Infinity 
-AIXWD	NNT Infinity 
-LQNWT	VB Infinity 
-QLIE	NN Infinity 
-GNBWT	NN Infinity 
-FLIX	NN Infinity NNT Infinity 
-XRIPIM	JJ Infinity 
-MFTQWT	VB Infinity 
-APLIM	JJ Infinity 
-GALAJASRI	NNP Infinity 
-IWRDT	JJ Infinity 
-QLIM	JJ Infinity 
-CILCL	VB Infinity 
-21.9	CD Infinity 
-NIKRT	VB Infinity JJ Infinity 
-FBEWT	NNT Infinity 
-TWQPM	NN Infinity 
-PIDL	NNP Infinity 
-DBRIM	NN Infinity 
-APLIH	NN Infinity 
-FLHI	NNT Infinity 
-DBRII	NN Infinity 
-MMWQMT	VB Infinity 
-DBRIH	NN Infinity 
-HWXLJ	VB Infinity 
-HWXLH	VB Infinity 
-AIILWT	NNP Infinity 
-TWQPW	NN Infinity 
-BELWTW	NN Infinity 
-PIGR	VB Infinity 
-MTKWNNT	VB Infinity 
-IARGN	VB Infinity 
-HTPIISWT	NN Infinity 
-BZBWZ	NNT Infinity NN Infinity 
-DISQRCIH	NN Infinity 
-ZEZWE	NN Infinity 
-IWRFH	VB Infinity NN Infinity 
-QLJW	VB Infinity 
-IWRFE	VB Infinity 
-LZHWT	VB Infinity 
-MRKZI	JJ Infinity NNT Infinity 
-MRKZH	NN Infinity 
-IWRFW	VB Infinity 
-HIEDRM	NN Infinity 
-MRKZM	NN Infinity 
-PIHM	NN Infinity 
-NCBE	VB Infinity 
-ASIRIM	NN Infinity 
-TWQNH	VB Infinity 
-MIRBI	JJ Infinity 
-FLJH	VB Infinity 
-NIKWR	NN Infinity 
-HDRGTI	JJ Infinity 
-HIEDRW	NN Infinity 
-FMETI	VB Infinity 
-NIKWI	NNT Infinity 
-FLJT	JJ Infinity 
-HJRID	VB Infinity 
-MDBQT	NNT Infinity 
-FLJW	VB Infinity 
-CWWXWT	NN Infinity 
-MSCWSJS	NNP Infinity 
-TCWRP	VB Infinity 
-JXWB	JJ Infinity 
-MQWBLIM	JJ Infinity 
-FLMH	JJ Infinity NNP Infinity 
-MRKWS	NNP Infinity 
-JLWWIZIWNI	JJ Infinity 
-QANARI	NNP Infinity 
-AIXRH	VB Infinity 
-TNWRI	NNT Infinity 
-TKNIH	NN Infinity 
-PIQRIH	NNP Infinity 
-TKNIM	NN Infinity 
-EIKB	VB Infinity 
-HTMQDWTW	NN Infinity 
-HRTH	NNP Infinity 
-TKNIT	NN Infinity NNT Infinity 
-NCBR	VB Infinity 
-HLWWIWT	NNT Infinity 
-NTWNIM	VB Infinity NN Infinity 
-HGIBW	VB Infinity 
-EIIP	JJ Infinity 
-RIIKMN	NNP Infinity 
-AZWRIM	NN Infinity 
-AINJWNCIH	NN Infinity 
-HZHIRH	VB Infinity 
-PJRIARKLIT	JJ Infinity 
-IRWFLMIIM	JJ Infinity 
-EILH	NN Infinity 
-FIJTIIM	JJ Infinity 
-HTBJAWIWTIH	NN Infinity 
-IARKW	VB Infinity 
-CMXIM	NN Infinity 
-MAWREWT	NN Infinity 
-2151	CD Infinity 
-TKNWN	NNT Infinity NN Infinity 
-EILT	NNT Infinity 
-HIDRDRNW	VB Infinity 
-ILDWTN	NN Infinity 
-TGBWRT	NN Infinity 
-IWRKB	VB Infinity 
-LBWFWT	VB Infinity 
-ILDWTW	NN Infinity 
-CMXIH	NN Infinity 
-HXZIRW	VB Infinity 
-MTABLIM	VB Infinity NN Infinity 
-LBBWT	NN Infinity 
-PIJR	NNP Infinity 
-HIFGIM	NN Infinity 
-IWRIM	VB Infinity 
-NFBRH	VB Infinity 
-MJENIM	NN Infinity 
-HXMCNW	VB Infinity 
-KPRIM	NN Infinity 
-MFTQPT	VB Infinity 
-KPRIT	JJ Infinity 
-HRUI	NNP Infinity 
-MMWQDT	JJ Infinity 
-HFTATH	VB Infinity 
-RIBWNWT	NN Infinity NNT Infinity 
-SRWG	JJ Infinity 
-HGIEW	NN Infinity VB Infinity 
-EINW	NN Infinity 
-MWRXBWT	JJ Infinity 
-RLWWNJI	JJ Infinity 
-PINI	NNP Infinity 
-PINH	NN Infinity 
-AWPNWE	NN Infinity 
-HGIEH	VB Infinity 
-PINT	NNT Infinity 
-XIDWFW	NN Infinity 
-KDLQMN	RB Infinity 
-KFRWNM	NN Infinity 
-HGIFW	VB Infinity 
-HRIEW	VB Infinity 
-XWQIWT	JJ Infinity NNT Infinity 
-BLWNIM	NN Infinity 
-XWPFTM	NN Infinity 
-MKXIF	VB Infinity 
-HRWF	NNP Infinity 
-IPRGNW	VB Infinity 
-HGIFH	VB Infinity 
-HRWG	NN Infinity 
-PJRARQH	NNP Infinity 
-EINH	VB Infinity 
-CWWXIM	VB Infinity 
-EINI	NNT Infinity NN Infinity 
-HQFBH	NN Infinity 
-NCIT	JJ Infinity 
-HTQFRW	VB Infinity 
-LHACIL	VB Infinity 
-QBENW	VB Infinity 
-GWRLIWT	JJ Infinity 
-HSTGLWT	NN Infinity 
-XWZQH	NN Infinity 
-FLBIW	NN Infinity 
-PEILWTW	NN Infinity 
-CCIM	VB Infinity 
-FLBIM	NN Infinity 
-MLWWIM	NN Infinity 
-DRIFWTIHM	NN Infinity 
-HRXQ	RB Infinity 
-AQZWJIT	JJ Infinity 
-HKNSTM	NN Infinity 
-59.90	CD Infinity 
-ISWDIT	JJ Infinity 
-HKNSTW	NN Infinity 
-NCIB	NNT Infinity 
-HFTQPWT	NNT Infinity NN Infinity 
-TIHNH	VB Infinity 
-TQIPWT	NN Infinity 
-LHWCIA	VB Infinity 
-1.73	CD Infinity 
-QIBWCNIQ	NN Infinity 
-HRIGT	NNT Infinity 
-HTGWRRW	VB Infinity 
-XSKWNWT	NN Infinity 
-ETIQWT	NN Infinity 
-NCIG	NNT Infinity 
-HRIGH	NN Infinity 
-XWZRT	VB Infinity 
-TIKWNISJIT	NN Infinity 
-RPPWRJ	NNP Infinity 
-HKNSWT	NN Infinity NNT Infinity 
-BRIAIM	JJ Infinity 
-XIFWQIM	NN Infinity 
-XWPFWT	NNT Infinity 
-NIDXIM	JJ Infinity 
-BRKWT	NN Infinity 
-DMWIWTIW	NN Infinity 
-MTRGM	NNT Infinity 
-QIDWMM	NN Infinity 
-EISH	NN Infinity 
-HZKRTI	VB Infinity 
-TIQWNM	NN Infinity 
-HSLMH	NN Infinity 
-PEILWTM	NN Infinity 
-MAWXDT	JJ Infinity 
-EIQR	NN Infinity NNT Infinity 
-PEILWTH	NN Infinity 
-TXTWM	VB Infinity 
-TXTWN	JJ Infinity 
-AWPNTI	JJ Infinity 
-HPCCT	NNT Infinity 
-XFMLIIM	JJ Infinity 
-MDAIGWT	VB Infinity 
-SRZW	NNP Infinity 
-ZDWNI	JJ Infinity 
-EIRK	NN Infinity 
-NBXRW	VB Infinity 
-XWWIWTIH	NN Infinity 
-NBXRT	NN Infinity NNT Infinity JJ Infinity 
-MHNDSIM	NN Infinity 
-QLWF	JJ Infinity 
-FBEIM	CD Infinity 
-XWWIWTIW	NN Infinity 
-FLXH	VB Infinity 
-JPXWT	NNP Infinity 
-AZHRH	NN Infinity 
-QLWT	NN Infinity JJ Infinity RB Infinity 
-PISI	JJ Infinity 
-KBIFI	NNT Infinity 
-HQFIB	VB Infinity 
-DWGMAWT	NN Infinity 
-NBXRH	VB Infinity 
-FLWF	CD Infinity CDT Infinity 
-KMIHT	NNT Infinity 
-yyEXCL	yyEXCL Infinity 
-XWPFIT	JJ Infinity 
-PINIQS	NNP Infinity 
-FLWM	NN Infinity NNT Infinity NNP Infinity 
-HWXZR	VB Infinity 
-PLIAH	NN Infinity 
-PIST	NNT Infinity 
-MRHIBWT	JJ Infinity 
-TAWWTW	NN Infinity 
-NCPH	VB Infinity 
-HTECMW	VB Infinity 
-GWRNAL	NNP Infinity 
-ZWNWT	NN Infinity 
-MIQWMH	NN Infinity 
-HWBILH	VB Infinity 
-QFRIM	NN Infinity 
-MTEWRRT	VB Infinity 
-EIWN	NN Infinity 
-MIQWMW	NN Infinity 
-FLXW	VB Infinity 
-HWBILW	VB Infinity 
-MWSIQLI	JJ Infinity 
-HRIMW	VB Infinity 
-BRKTW	NN Infinity 
-HIEDRWTW	NN Infinity 
-BRKTI	VB Infinity 
-BIQWR	NN Infinity 
-KLFHI	JJ Infinity 
-ERKAWT	NN Infinity 
-FIKTBTI	VB Infinity 
-TQDIMIM	NN Infinity 
-PRJIIM	JJ Infinity 
-KLFHM	JJ Infinity 
-KLFHN	JJ Infinity 
-KLFHW	JJ Infinity 
-DWNQL	NNP Infinity 
-NCRT	NNP Infinity 
-CRIKWT	VB Infinity 
-IARXW	VB Infinity 
-NHIGH	NN Infinity 
-MFWKNEIM	VB Infinity 
-MFKWRT	NN Infinity NNT Infinity 
-SPRWTIWT	JJ Infinity 
-HLWWIIH	NN Infinity 
-200,000	CD Infinity 
-LINDAW	NNP Infinity 
-PIWS	NN Infinity 
-HSBH	VB Infinity 
-ZIKRWNWT	NN Infinity 
-HLWWIIT	NNT Infinity 
-NSIEH	NN Infinity 
-EWCMTW	NN Infinity 
-LBNWNIT	JJ Infinity 
-HSBR	NN Infinity 
-AKZRIT	JJ Infinity 
-FMLWTIHN	NN Infinity 
-HPCIR	VB Infinity 
-PIZH	NNP Infinity 
-LHZMIN	VB Infinity 
-MGLIM	VB Infinity 
-AWLIMPI	JJ Infinity 
-HSPIQH	VB Infinity 
-RPAL	NNP Infinity 
-NSTIIMH	VB Infinity 
-MGWWNIM	JJ Infinity 
-GILWIIM	NN Infinity 
-EKBRIM	NN Infinity 
-HSEIRH	VB Infinity 
-AWRWWLIANI	JJ Infinity 
-IRIBWTIH	NN Infinity 
-SWTBIS	NNP Infinity 
-LTXWM	VB Infinity 
-HKNSNW	VB Infinity 
-HGIRH	NN Infinity 
-HSDR	NN Infinity NNT Infinity 
-GIRWFIM	NN Infinity 
-GIRWFIN	NN Infinity 
-BIQWF	NN Infinity 
-HSPIQW	VB Infinity 
-BRIAWT	NN Infinity NNT Infinity 
-MEFIW	NN Infinity 
-LGRWR	VB Infinity 
-MEFIT	JJ Infinity 
-HTGIIS	VB Infinity 
-HRISH	NN Infinity 
-SGIDH	NN Infinity 
-MEFIM	NN Infinity 
-SWXRI	NNT Infinity 
-FMAL	NN Infinity 
-MBWQFT	JJ Infinity 
-HSGR	NN Infinity 
-FPNIM	NN Infinity 
-LGRWM	VB Infinity 
-MMSDIM	NN Infinity 
-REIDT	NNT Infinity 
-MAZNIIM	NN Infinity 
-RPIDH	NN Infinity 
-MFIMT	NNT Infinity 
-HZDMNWIWT	NN Infinity 
-ANDWQRINWLWGI	JJ Infinity 
-MFIMH	NN Infinity 
-23.90	CD Infinity 
-PLIJH	NN Infinity 
-NCXI	JJ Infinity 
-QMBL	NNP Infinity 
-PLIJI	NNT Infinity 
-HSIE	VB Infinity 
-MGLMT	VB Infinity 
-MBWSSWT	VB Infinity JJ Infinity 
-HSIR	VB Infinity 
-NTWNWT	VB Infinity 
-ENNIM	NN Infinity 
-TWRIM	NN Infinity 
-PLIJT	NNT Infinity 
-LMCER	RB Infinity 
-MEFHW	NN Infinity 
-MFIKT	NNT Infinity 
-HTBWNNH	VB Infinity 
-GDWLTH	NN Infinity 
-LAWMNI	JJ Infinity NN Infinity 
-MQIIM	VB Infinity 
-MFIKH	NN Infinity 
-QNIIH	NN Infinity 
-HTBWNNW	VB Infinity 
-NSIGH	NN Infinity 
-GDWLTW	NN Infinity 
-LIBRIWM	NNP Infinity 
-SJRIJ	NNP Infinity 
-HRIWN	NN Infinity 
-TGBWR	NN Infinity NNT Infinity 
-HSKM	NN Infinity NNT Infinity 
-BRKIH	NN Infinity 
-AIDIAWLWG	NN Infinity 
-HTRIEW	VB Infinity 
-FMEW	VB Infinity 
-DWNIH	NNP Infinity 
-TWRGM	VB Infinity 
-XWQIIM	JJ Infinity 
-TINWQWT	NN Infinity 
-FMALNI	JJ Infinity 
-PRDWQSLI	JJ Infinity 
-TRBWT	NN Infinity 
-MQWWIM	VB Infinity 
-HWERKW	VB Infinity 
-QMCW	VB Infinity 
-HWRXQW	VB Infinity 
-RIBWNIT	JJ Infinity 
-MILIWNI	CDT Infinity 
-MCIIRIM	VB Infinity 
-MCIAWT	NN Infinity 
-35.5	CD Infinity 
-PGIFWT	NN Infinity 
-MQIPH	JJ Infinity 
-GDWLWT	NN Infinity JJ Infinity 
-PLIFH	NN Infinity 
-MHWMWT	NN Infinity 
-RPIX	NNP Infinity 
-LXCIM	NN Infinity 
-PLIFT	NNT Infinity 
-MIRWN	NNP Infinity 
-MQIPIM	VB Infinity 
-IIZHRW	VB Infinity 
-MWRDIM	NN Infinity 
-BWRMZIM	JJ Infinity 
-TARIM	NN Infinity 
-TARIK	NN Infinity 
-MTRXF	NN Infinity VB Infinity 
-MIRWC	NNT Infinity NN Infinity 
-ISWDWT	NN Infinity NNT Infinity 
-AXBAR	NNP Infinity 
-AIKRIM	NN Infinity 
-MTRWEE	VB Infinity 
-MILIWNIM	CD Infinity 
-EQWMH	NN Infinity 
-SJRIQ	NNP Infinity 
-ETIQIM	JJ Infinity 
-SIMNI	NNT Infinity 
-TTGFM	VB Infinity 
-FMIM	NN Infinity 
-FMIR	NNP Infinity NN Infinity 
-22.5	CD Infinity 
-MFWLBWT	VB Infinity 
-MFTPWT	VB Infinity 
-MKWBD	JJ Infinity 
-AJRQJIWWIT	JJ Infinity 
-HDGFTI	VB Infinity 
-ZDWNIWT	JJ Infinity NN Infinity 
-AIWWAN	NNP Infinity 
-INWEW	VB Infinity 
-AJRQJIWWIM	JJ Infinity 
-ARSNL	NNP Infinity 
-ABA	NN Infinity 
-ELWIWT	NNT Infinity 
-SRGIW	NNP Infinity 
-ARWGNJIT	JJ Infinity 
-ICWIN	VB Infinity 
-ABI	NNP Infinity NNT Infinity 
-AILWCI	NNT Infinity 
-ABL	CC Infinity NN Infinity 
-ABN	NN Infinity 
-CRIKIM	VB Infinity 
-HSQT	NNT Infinity 
-HWMWRISJIM	JJ Infinity 
-MFTKRIM	VB Infinity 
-ABQ	NN Infinity 
-ABR	NNT Infinity 
-MEDKN	VB Infinity 
-NWSXT	NNT Infinity 
-ABW	NNP Infinity 
-HWWIH	NN Infinity 
-FMWNIM	CD Infinity 
-NDBK	NN Infinity 
-QTWLIM	NN Infinity 
-SRGII	NNP Infinity 
-LFMWR	VB Infinity 
-QTWLIT	JJ Infinity 
-QMIM	VB Infinity 
-PRJNRIM	NN Infinity 
-NWSXH	NN Infinity VB Infinity 
-SPRWTIIM	JJ Infinity 
-ACL	IN Infinity 
-XIPFW	VB Infinity 
-LFMWE	VB Infinity 
-QWLQJIWWIWT	NN Infinity JJ Infinity 
-SIMNW	VB Infinity 
-MDAIG	VB Infinity 
-RISWN	NNT Infinity NN Infinity 
-MAKZBIM	VB Infinity 
-NGDIT	JJ Infinity 
-GIDWLM	NN Infinity 
-FMFWT	NN Infinity 
-FBIEWT	NNT Infinity 
-CIMCM	VB Infinity 
-4891	CD Infinity 
-IHDWT	NN Infinity 
-MKWER	JJ Infinity 
-ADI	NNP Infinity NNT Infinity 
-NXWCH	VB Infinity 
-MRDNIWT	JJ Infinity 
-FMFWN	NNP Infinity 
-RISRC	NNP Infinity 
-ADM	NN Infinity 
-NAFMIM	NN Infinity 
-RIAQCIH	NN Infinity 
-MPWXDIM	JJ Infinity 
-NSGRT	VB Infinity 
-INWKW	VB Infinity 
-PIIBWRIJIT	JJ Infinity 
-EJIH	NNP Infinity 
-EWZRIW	NN Infinity 
-HSRT	NNT Infinity 
-KDWRSL	NN Infinity 
-FMLT	NNT Infinity 
-MAZIN	NN Infinity 
-RISQI	NNP Infinity 
-EJIW	NN Infinity 
-HTNCL	VB Infinity 
-TKFIJIM	NN Infinity 
-PCWEIM	NN Infinity 
-HIGIWN	NN Infinity 
-IWQCW	VB Infinity 
-NFALT	VB Infinity 
-EWZRIM	NN Infinity 
-HFAIRW	VB Infinity 
-MABQ	NNT Infinity NN Infinity 
-IRIBTH	NN Infinity 
-AFF	NNP Infinity 
-LEJWT	VB Infinity 
-GPRI	NNP Infinity 
-AFH	NN Infinity 
-RISSW	VB Infinity 
-LEJWP	VB Infinity 
-AFM	JJ Infinity 
-AFP	NNT Infinity 
-AFR	NNP Infinity IN Infinity REL Infinity 
-AFT	NNT Infinity 
-AWNIWT	NN Infinity 
-MFGRI	NNT Infinity 
-TWPIM	NN Infinity 
-MMTINIM	VB Infinity 
-AGB	RB Infinity 
-MIWFNWT	JJ Infinity 
-JIWJWT	NN Infinity 
-ELIZH	NNP Infinity 
-FNIWT	NN Infinity 
-MEWGLIM	JJ Infinity 
-SPWRJAI	NNT Infinity NN Infinity 
-AGP	NNT Infinity NN Infinity 
-FMFTH	NN Infinity 
-FJWJGRJ	NNP Infinity 
-KIFLWNWT	NNT Infinity 
-HTNER	VB Infinity 
-HXZQT	NNT Infinity 
-PIINBRG	NNP Infinity 
-MFRDIHM	NN Infinity 
-129.90	CD Infinity 
-KDWRSLNI	NNT Infinity 
-AHB	VB Infinity 
-HXZQH	NN Infinity 
-AHH	NN Infinity 
-HTNGD	VB Infinity 
-97125480	CD Infinity 
-MTRWPP	VB Infinity 
-PQWDT	NNT Infinity 
-AMWCIWNLIT	JJ Infinity 
-HIPLJWTM	NN Infinity 
-BADR	NNP Infinity 
-HXZRT	NNT Infinity 
-PJNJ	NN Infinity 
-NFARH	VB Infinity 
-HKTMH	NN Infinity 
-ZKIWN	NN Infinity 
-SSJRI	NNP Infinity 
-LHPNWT	VB Infinity 
-LNDWD	VB Infinity 
-FMRH	VB Infinity 
-AIF	NN Infinity N
+RQMT	NNT 8.948715833843691 
+HTXZQH	VB 9.399968503952575 
+CINIT	JJ 7.7829461999708665 
+XIWNIIM	JJ 7.7829461999708665 
+JKNWLWGIH	NN 9.375515769935166 
+IBWJL	VB 9.399968503952575 
+IWTM	NNP 8.797246236703527 
+NPALI	NN 10.068662950495112 
+DIWNIH	NN 10.068662950495112 
+IWTR	RBR 0.19083224646186325 
+RQMW	VB 9.399968503952575 
+IXWIB	VB 9.399968503952575 
+QCINIM	NN 7.989221408815276 
+HTXZQW	VB 8.70682132339263 
+EIRIWT	NN 10.068662950495112 
+HWZMN	VB 8.70682132339263 
+IWSH	NNP 6.717804695023691 
+NIMWQ	NN 10.068662950495112 
+TWRT	NNT 8.948715833843691 
+BCD	IN 8.648045999835 
+NIMWS	NN 10.068662950495112 
+MPGRT	VB 9.399968503952575 
+TWRQ	NNP 8.797246236703527 
+IWSI	NNP 6.1581889070882685 
+MCANW	VB 9.399968503952575 
+IWSP	NNP 7.4109518755836366 
+BCL	NN 10.068662950495112 
+IWSR	VB 8.70682132339263 
+0	CD 3.7580945231354095 
+10.6	CD 7.564757012905729 
+BQIAIH	NN 10.068662950495112 
+1	CD 3.901195366776083 
+2	CDT 3.7455747977904816 JJ 8.881558488638976 CD 4.345881188037528 
+3	JJ 8.881558488638976 CD 4.0383964882895675 
+10.3	CD 7.564757012905729 
+4	CD 4.163559631243574 
+5	CD 4.569024739351738 CDT 5.942799375126701 JJ 8.188411308079031 
+6	CD 4.620318033739289 JJ 8.188411308079031 
+MITAR	NN 8.970050661827003 
+7	CD 5.772997543677674 CDT 5.942799375126701 
+8	CD 4.569024739351738 JJ 8.881558488638976 
+9	CD 5.485315471225893 JJ 8.188411308079031 
+AIZWR	NN 10.068662950495112 
+RQMH	NN 10.068662950495112 
+AIZWN	NN 8.970050661827003 
+HWLDTW	NN 8.970050661827003 
+A	NNP 5.270885712087366 
+B	ZVL 4.3694478524670215 NNP 6.3123395869155265 IN 0.9631088113498433 
+NECR	VB 7.4540583548972625 
+D	NNP 6.600021659367308 NN 7.583756300707112 
+NIKRIM	JJ 8.188411308079031 
+E	NNP 7.005486767475472 
+F	REL 0.33464438632832216 NN 9.375515769935166 NNP 7.4109518755836366 COM 0.4341290104756551 
+BDI	NNT 8.948715833843691 
+G	NNP 5.752723798980104 
+H	REL 1.3427650160716629 HAM 2.803360380906535 NNP 6.600021659367308 H 0.0 COM 6.328531844740506 ZVL 1.5968591302272404 
+I	NNP 8.104099056143582 
+K	IN 3.793414954215325 NN 10.068662950495112 MOD 2.9029436643918185 
+L	IN 1.5540878173509354 NNP 7.698633948035417 
+M	NNP 5.270885712087366 NN 9.375515769935166 IN 2.5175444107098075 CD 6.871609832345784 ZVL 4.3694478524670215 
+IBWLW	NN 10.068662950495112 
+N	NNP 8.797246236703527 
+BDQ	NNT 8.948715833843691 VB 8.013674142832684 
+O	NN 5.240349213192811 NNP 7.698633948035417 
+HTQFR	VB 8.70682132339263 
+P	NNP 8.797246236703527 
+Q	NNP 8.104099056143582 
+R	NN 10.068662950495112 
+S	NNP 7.698633948035417 
+LNGRT	ZVL 4.3694478524670215 
+AMBWLNS	NN 10.068662950495112 
+W	CC 0.21490487665007818 REL 5.387409909741491 NNP 6.494661143709481 COM 6.040849772288725 ZVL 3.676300671907076 
+X	NN 9.375515769935166 
+TWSST	JJ 8.881558488638976 
+HTQFH	VB 8.70682132339263 
+31.3.90	CD 7.564757012905729 
+JKNWLWGIIT	NNT 8.948715833843691 
+BED	IN 7.181708931041572 
+DRWZIM	NN 10.068662950495112 JJ 8.881558488638976 
+BEJ	VB 7.4540583548972625 
+BEL	NN 8.276903481267057 NNT 5.514728629358545 
+IWUR	NN 8.970050661827003 NNT 5.016890201119366 
+MCWIINIM	JJ 8.881558488638976 
+CEDW	NN 9.375515769935166 
+CEDT	NNT 8.255568653283746 
+BET	NN 10.068662950495112 IN 9.74665828850311 
+MRGIFIM	VB 9.399968503952575 
+DIWNIM	NN 7.766077857501067 
+XISLW	VB 9.399968503952575 
+CEDI	NNT 7.850103545175582 
+XWDRWT	VB 9.399968503952575 
+SRJNI	NNT 8.948715833843691 
+XIZWRIW	NN 10.068662950495112 
+TWTXNIM	NN 10.068662950495112 
+BECLTIIM	RB 8.069029328774958 
+XISLH	VB 8.70682132339263 
+IMWNH	VB 8.70682132339263 
+LHWJH	VB 9.399968503952575 
+BFL	IN 6.488561750481627 JJ 8.881558488638976 
+XWZRWT	JJ 8.881558488638976 
+WWRIIRS	NNP 8.797246236703527 
+HRKBW	NN 10.068662950495112 
+HRKBT	NNT 8.948715833843691 
+BFR	NN 10.068662950495112 NNT 8.948715833843691 
+EFWIWT	VB 8.70682132339263 JJ 8.188411308079031 
+ASWPT	NNT 8.948715833843691 
+MBCE	NN 8.682368589375221 NNT 7.850103545175582 
+NRXBIM	JJ 8.188411308079031 
+HRKBI	NNP 8.797246236703527 
+LHRXIB	VB 8.301356215284466 
+SRJIM	NN 7.989221408815276 
+HRKBH	NN 10.068662950495112 
+NEFH	VB 6.6919183028503655 NN 8.970050661827003 
+BGD	VB 8.70682132339263 
+NEDR	JJT 4.564348191467836 
+IWTIR	VB 9.399968503952575 
+NKTBW	VB 8.301356215284466 
+LBDWQ	VB 7.202743926616356 
+LHRXIQ	VB 7.7905305915184755 
+IWWN	NNP 6.851336087648214 
+BGR	VB 9.399968503952575 
+ZIWPIM	NN 10.068662950495112 
+GIWRA	NNP 7.4109518755836366 
+TWWK	NN 9.375515769935166 
+ZAPJWT	NN 10.068662950495112 
+MEWDKNIM	JJ 8.881558488638976 
+IXLIJW	VB 8.70682132339263 
+XTIRTH	NN 10.068662950495112 
+HWZRQ	VB 8.70682132339263 
+ALPIIM	CD 7.564757012905729 
+HTQIM	VB 9.399968503952575 
+AIKLSW	VB 9.399968503952575 
+LNGWE	VB 9.399968503952575 
+SIPRH	VB 9.399968503952575 
+BI.	NNP 8.797246236703527 
+TQCIBI	NNT 8.255568653283746 JJ 8.881558488638976 
+SIPRW	VB 8.013674142832684 
+LMDTI	VB 8.301356215284466 
+2371	CD 7.564757012905729 
+MBED	IN 8.360363927383219 
+MFJRTIT	JJ 7.7829461999708665 
+NKTBH	VB 9.399968503952575 
+SIPQW	VB 8.70682132339263 
+TQCIBW	NN 10.068662950495112 
+BIB	NNT 8.948715833843691 
+QNQN	NNT 8.948715833843691 NN 10.068662950495112 
+MFJXI	NNT 7.562421472723801 
+CLWLH	JJ 8.881558488638976 
+BIH	RB 8.069029328774958 
+BIL	NNP 8.797246236703527 
+BIN	MOD 4.299188356364877 IN 4.394800155027043 
+AXRIWTW	NN 8.970050661827003 
+BIR	NNP 7.698633948035417 
+MWECWT	NN 7.072930676941121 
+BIT	NNT 3.8012213570302382 NNP 8.797246236703527 NN 5.974318388273011 
+NEFW	VB 7.608209034724521 
+RGLIIM	NN 10.068662950495112 
+MTKWWNWT	VB 9.399968503952575 
+ZHIM	JJ 8.188411308079031 
+MEIZIM	VB 8.70682132339263 
+TWSPT	NN 7.871438373158893 NNT 6.751491256507472 
+IWTNW	VB 9.399968503952575 
+MNCSJR	NNP 7.4109518755836366 
+QWDRI	NNP 8.797246236703527 
+RGLIHM	NN 10.068662950495112 
+2391	CD 7.564757012905729 
+MPTIEWT	VB 9.399968503952575 
+BJX	RB 6.970417040106848 
+HIDALGW	NNP 7.698633948035417 
+NQLEIM	VB 9.399968503952575 
+CEIR	JJ 6.5789733956449306 NN 8.459225038061012 
+PILIPS	NNP 8.797246236703527 
+TFALW	VB 9.399968503952575 
+FWBTIM	NN 9.375515769935166 
+FNTI	JJ 7.272120576204876 
+HIQNW	VB 9.399968503952575 
+JRIWWIALIWT	NN 10.068662950495112 
+BKI	NN 9.375515769935166 NNT 8.948715833843691 
+FAPTNWT	NN 10.068662950495112 
+IMWQM	VB 9.399968503952575 
+BKR	NNP 8.797246236703527 
+XISWL	NNT 8.255568653283746 
+SWLWDR	NNP 7.698633948035417 
+IPANIWT	JJ 8.188411308079031 
+BLA	IN 7.181708931041572 
+AXDWT	JJ 7.089799019410921 NNT 8.948715833843691 
+MTKWWNIM	VB 9.399968503952575 
+MITIT	JJ 8.881558488638976 
+BLI	IN 6.379362458516635 
+DWQJWR	NN 9.375515769935166 
+NEIM	NNP 7.4109518755836366 VB 9.399968503952575 
+BLM	VB 9.399968503952575 NN 9.375515769935166 NNT 8.255568653283746 
+GIWWN	NN 10.068662950495112 
+BLS	NNP 8.797246236703527 
+MBIA	VB 7.202743926616356 
+LXDWR	VB 8.70682132339263 
+BLW	NN 9.375515769935166 
+NELI	NNT 5.690619295822209 
+BHQDM	RB 7.3758821482150125 
+MBIK	JJ 8.881558488638976 
+WWADI	NN 10.068662950495112 
+MBIE	VB 9.399968503952575 
+HTQNT	NNT 8.948715833843691 
+SNJIANH	NNP 8.797246236703527 
+TBWDD	VB 9.399968503952575 
+MBIF	JJ 8.881558488638976 
+BMH	NN 8.970050661827003 
+NELM	VB 8.301356215284466 
+MBIN	VB 7.7905305915184755 IN 7.4440731955090635 
+HTQPI	JJ 7.7829461999708665 
+QRWIP	NNP 8.797246236703527 
+QWRSIM	NN 9.375515769935166 
+HTQPH	NN 7.296074228255331 
+BRNAR	NNP 8.797246236703527 
+FNTW	NN 10.068662950495112 
+SPWNSRIM	NN 10.068662950495112 
+BMW	IN 8.648045999835 
+CPIRWT	NNT 8.948715833843691 NN 10.068662950495112 
+HIQPW	NN 10.068662950495112 
+HIQPI	NNT 8.948715833843691 
+TBWCE	VB 9.399968503952575 
+PEWLH	NN 6.156639945066966 
+HIQPN	NN 10.068662950495112 
+BNI	NNT 4.759061091817266 NNP 7.698633948035417 NN 10.068662950495112 
+MCATI	VB 9.399968503952575 
+BNH	VB 9.399968503952575 NN 9.375515769935166 
+ASWMN	NNP 8.104099056143582 
+QRWBH	JJ 6.6843339113027564 
+BNM	NN 8.682368589375221 
+QRWBI	NNT 8.255568653283746 
+FNWT	NNT 5.211046215560323 
+BNQ	NN 5.941528565450021 NNT 5.514728629358545 
+DWNALD	NNP 8.797246236703527 
+BNW	VB 9.399968503952575 NN 7.766077857501067 
+MCLMWT	NN 9.375515769935166 
+MRKZIWTW	NN 10.068662950495112 
+NENH	VB 8.70682132339263 
+QWDMW	NN 10.068662950495112 
+HTQPT	NNT 8.255568653283746 
+BJXWNH	NN 9.375515769935166 
+QWDMT	JJ 6.5789733956449306 
+SIPWQ	NNT 8.948715833843691 NN 8.682368589375221 
+PLJWT	NN 10.068662950495112 
+SIPWR	NNT 7.002805684788378 NN 7.583756300707112 
+BBLI	NNP 8.797246236703527 
+NELW	VB 9.399968503952575 
+SLZAR	NNP 8.797246236703527 
+MBJA	VB 9.399968503952575 NN 8.970050661827003 
+QJLNIT	JJ 8.881558488638976 
+NWBEWT	VB 8.013674142832684 
+XBIB	JJ 8.881558488638976 
+FWWQIM	NN 10.068662950495112 
+HTQRB	VB 8.301356215284466 
+BWDPFJ	NNP 7.187808324269427 
+SIPWX	NN 9.375515769935166 
+EIRIIT	NNT 6.240665632741481 
+FNWA	JJ 8.881558488638976 
+MBJL	VB 9.399968503952575 
+034,000	CD 7.564757012905729 
+BHSTMK	IN 9.74665828850311 
+LPNIM	RB 8.069029328774958 
+FNWI	JJ 8.188411308079031 
+MWSMKT	VB 9.399968503952575 
+XBIT	NN 8.970050661827003 NNT 8.948715833843691 
+FNWN	JJ 8.881558488638976 
+JWNIM	NN 10.068662950495112 
+MILIMJR	NN 10.068662950495112 
+PWFEIM	NN 8.970050661827003 
+NAWMW	NN 10.068662950495112 
+MMWSDT	JJ 8.881558488638976 
+HTWWDE	VB 8.301356215284466 
+QLABRIH	NNP 7.698633948035417 
+NAWMI	NNT 8.948715833843691 
+ZHRH	NNP 8.797246236703527 
+XBLH	NN 8.122752801439798 
+MEMDIT	JJ 8.881558488638976 
+MTXMQT	VB 9.399968503952575 
+EIRIIH	NN 6.701367120508638 
+IXDF	VB 9.399968503952575 
+NMFKWT	VB 9.399968503952575 
+AIJIIM	JJ 8.881558488638976 
+AMPIRIT	JJ 8.881558488638976 
+HQHIL	VB 9.399968503952575 
+NALCIM	VB 8.70682132339263 
+CEQN	JJ 8.881558488638976 
+NENW	VB 8.301356215284466 
+LHKBID	VB 9.399968503952575 
+REILIM	JJ 8.881558488638976 
+NHIRIM	JJ 8.881558488638976 
+HIRRKIH	NN 10.068662950495112 
+BRD	NNP 8.797246236703527 
+MBLI	IN 7.54943371116689 
+BRI	JJ 8.881558488638976 
+BRL	NNP 7.187808324269427 NN 10.068662950495112 
+XWLIIT	NNT 7.562421472723801 
+BRQ	NNP 8.104099056143582 
+MSQNH	NN 7.871438373158893 
+XMNIIH	NNP 8.797246236703527 
+BIBLIWGRAPIT	JJ 8.881558488638976 
+NERH	NN 8.459225038061012 
+NERI	NNT 8.255568653283746 
+MPELWT	NNT 8.948715833843691 
+BRZ	NN 8.970050661827003 
+NERC	JJ 8.188411308079031 
+HTBWNNWT	NN 10.068662950495112 
+SPWJNIQ	NNP 8.104099056143582 
+NERK	VB 7.202743926616356 
+NTNIH	NNP 6.23229687924199 
+NALCWT	VB 9.399968503952575 
+MTQBLWT	VB 8.70682132339263 
+HWZMNW	VB 9.399968503952575 
+MWFGIM	NN 10.068662950495112 
+EKWR	JJ 8.881558488638976 
+MFKIT	NN 10.068662950495112 
+MRWWAN	NNP 8.797246236703527 
+JKNWLWGIWT	NN 8.682368589375221 
+LHWWT	VB 8.70682132339263 
+MBNH	NNT 7.850103545175582 NN 7.989221408815276 
+TXDL	VB 9.399968503952575 
+JIPWSI	JJ 8.881558488638976 
+HTIIXSW	VB 8.70682132339263 NN 9.375515769935166 
+HTRGLW	VB 9.399968503952575 
+MITRI	NNT 8.948715833843691 
+HTIIXST	VB 9.399968503952575 
+MBNI	NNT 8.948715833843691 
+NIILWN	NN 10.068662950495112 
+BTI	NNT 5.016890201119366 
+BTH	NN 9.375515769935166 
+GRIPIN	NNP 8.797246236703527 
+HPEIL	VB 9.399968503952575 
+RCIXWT	NN 9.375515769935166 
+SINNTI	VB 9.399968503952575 
+LHAFIM	VB 8.70682132339263 
+LIZWM	VB 9.399968503952575 
+MGNIM	VB 9.399968503952575 
+NWCRIIM	JJ 8.881558488638976 
+4,000	CDT 5.942799375126701 CD 7.564757012905729 
+AWRNIM	NN 10.068662950495112 
+MBQF	VB 8.301356215284466 
+MJWSI	NNT 7.850103545175582 
+MBQR	NN 9.375515769935166 
+GRBR	NNP 8.797246236703527 
+MBWSST	JJ 8.188411308079031 VB 8.70682132339263 
+RCIXTW	NN 10.068662950495112 
+LHWFIJ	VB 9.399968503952575 
+HPELH	NN 9.375515769935166 
+JWRNIRIM	NN 10.068662950495112 
+LEWLMIM	RB 8.069029328774958 
+LHWFIE	VB 9.399968503952575 
+BSIWNI	NNP 8.797246236703527 
+ITKNS	VB 8.70682132339263 
+HWZMNH	VB 9.399968503952575 
+DHWA	NNP 8.797246236703527 
+SKWMI	NNT 7.850103545175582 
+SMKWTIWT	NN 10.068662950495112 
+DHWI	JJ 8.881558488638976 
+TPAWRWT	NNT 8.948715833843691 
+MJWRP	NN 9.375515769935166 
+HTLHBWT	NN 7.989221408815276 
+PWNQCIH	NN 10.068662950495112 
+PEWLT	NNT 7.562421472723801 
+MSQRN	JJ 8.881558488638976 
+TXIH	NN 10.068662950495112 NNP 8.104099056143582 
+XBRT	NNT 4.57926798137667 
+NLWWH	VB 9.399968503952575 
+XBRW	NN 8.459225038061012 
+XBRI	NNT 5.285154187714045 
+XBRH	VB 9.399968503952575 NN 5.49395197199173 
+XBRK	NN 10.068662950495112 
+BWA	NNT 7.850103545175582 VB 9.399968503952575 
+BWC	NNP 8.797246236703527 
+BWF	NNP 6.3123395869155265 
+QIIZRSLAWJRN	NNP 8.797246236703527 
+AIBRIM	NN 10.068662950495112 
+BWL	NN 10.068662950495112 
+BWN	NNP 7.4109518755836366 
+HPELT	NNT 7.339277921409591 
+MWDAGT	JJ 8.881558488638976 VB 9.399968503952575 
+BWR	NNT 8.948715833843691 
+TXWFH	NN 7.429605620879854 
+BWQ	NNP 8.797246236703527 
+ZHWT	NN 8.682368589375221 JJ 8.881558488638976 
+BWZ	NN 10.068662950495112 
+DINGIAW	NNP 8.797246236703527 
+IXID	JJ 6.6843339113027564 NN 8.122752801439798 
+TXWFT	NNT 7.1569563646156364 
+AWBIIQJ	NNT 8.948715833843691 
+NISIWN	NN 6.81056641247363 
+MBRQ	NN 9.375515769935166 
+BXN	VB 9.399968503952575 
+TMWHH	JJ 8.881558488638976 
+PWLIWWINIL	NN 10.068662950495112 
+BXR	VB 7.32052696227274 
+NISITI	VB 8.70682132339263 
+XWZRIM	NN 10.068662950495112 JJ 7.7829461999708665 VB 8.301356215284466 
+WWRQRS	NNP 8.797246236703527 
+HARWWI	NNP 7.698633948035417 
+TIJWL	VB 9.399968503952575 
+NRXBWT	JJ 7.7829461999708665 
+KIWWNI	NNT 8.948715833843691 
+KIWWNH	VB 9.399968503952575 
+MENIINIM	JJ 8.881558488638976 
+HTBGRWTW	NN 10.068662950495112 
+IXLW	VB 9.399968503952575 
+PTAWM	RB 7.3758821482150125 
+ZIGWG	NN 10.068662950495112 
+NXZWR	VB 9.399968503952575 
+NMHRWT	JJ 8.881558488638976 
+AHWBH	NN 9.375515769935166 
+MWEDIM	NN 9.375515769935166 VB 8.70682132339263 
+MMWQMIM	VB 8.70682132339263 
+HKXDH	NN 10.068662950495112 
+XIPFNW	VB 9.399968503952575 
+NEWC	VB 9.399968503952575 
+ZWHRIM	JJ 8.881558488638976 
+GANAJH	NNP 8.797246236703527 
+MINWIIM	NN 7.871438373158893 
+NEWT	VB 9.399968503952575 
+NPALIM	NN 10.068662950495112 
+AWRTWDWQSIT	JJ 8.881558488638976 
+LMEFH	RB 4.736824818599754 
+BZQ	NNP 7.698633948035417 NN 10.068662950495112 
+XIWNIWT	NN 10.068662950495112 
+AWRTWDWQSIH	NN 10.068662950495112 
+ABDNW	NN 10.068662950495112 
+TFWBWT	NN 8.970050661827003 
+PLAJ	NNP 8.797246236703527 
+TBWSH	NN 8.682368589375221 
+TMWRT	IN 7.181708931041572 
+NEZR	VB 9.399968503952575 
+ANGLH	NNP 8.797246236703527 
+ANGLI	JJ 7.7829461999708665 
+IQBLW	VB 7.202743926616356 
+ABDIH	NNP 8.797246236703527 
+LHCLIX	VB 8.70682132339263 
+TXNH	NN 7.989221408815276 
+QWMIQAI	NN 10.068662950495112 
+MRWWIX	VB 9.399968503952575 
+LWBIC	NNP 8.104099056143582 
+PNQSK	NN 10.068662950495112 
+LMELH	RB 7.3758821482150125 RBR 3.2666072276893905 
+TMWTH	NN 10.068662950495112 
+LABJX	VB 9.399968503952575 
+MWNJRIAWL	NNP 8.797246236703527 
+AWJWMJ	NN 10.068662950495112 
+BHTXFB	IN 8.648045999835 
+MILIWN	CD 3.234023672619398 
+IXPF	VB 8.70682132339263 
+BWLGRI	JJ 8.881558488638976 
+MITWS	NN 8.682368589375221 
+HDBQH	NN 9.375515769935166 
+LWBFI	NNT 8.948715833843691 
+MITWN	NN 8.970050661827003 
+MFKNH	NN 10.068662950495112 
+MFKNE	JJ 8.881558488638976 
+FIEMWM	NN 10.068662950495112 
+QWNCRJIM	NN 10.068662950495112 
+EMMIT	JJ 8.881558488638976 
+SKWUM	NN 10.068662950495112 
+BDRIAN	NNP 8.797246236703527 
+MDEIT	JJ 8.881558488638976 
+TKWNWTIW	NN 9.375515769935166 
+MCWMCM	JJ 8.188411308079031 
+CEIRWT	JJ 7.7829461999708665 
+MBXR	NNT 8.255568653283746 NN 8.459225038061012 
+AXDIM	CD 5.772997543677674 JJ 6.483663215840606 
+TXNT	NNT 7.002805684788378 
+GRIM	VB 8.301356215284466 
+MBXN	NNT 8.255568653283746 NN 9.375515769935166 
+FPREM	NNP 8.104099056143582 
+TMWRH	NN 7.766077857501067 
+MPTXWT	NNT 8.255568653283746 
+GRIN	NN 10.068662950495112 
+LWBFT	VB 9.399968503952575 
+HTRAH	NN 8.970050661827003 
+PSJIBL	NNT 8.948715833843691 
+LFQWD	VB 9.399968503952575 
+ANGLS	NNP 7.005486767475472 
+LFQWL	VB 9.399968503952575 
+ANGLW	JJ 8.881558488638976 
+XFMWNAIM	NNP 8.797246236703527 
+PWJRIM	VB 9.399968503952575 
+HTRBW	VB 9.399968503952575 
+HKXIF	VB 8.301356215284466 
+TBWNT	NNT 8.948715833843691 
+SNAJWR	NN 8.122752801439798 
+MGNWM	NNP 8.797246236703527 
+NISINW	VB 9.399968503952575 
+AMINWT	NN 10.068662950495112 NNT 8.948715833843691 
+MBZH	VB 9.399968503952575 
+MAIIMIM	VB 8.013674142832684 
+FWKNWT	VB 9.399968503952575 
+DIBR	VB 7.09738341095853 
+HIRCW	VB 9.399968503952575 
+MWEDPT	JJ 8.881558488638976 
+MCLMIM	VB 9.399968503952575 NN 10.068662950495112 
+CBA	NN 6.849787125626912 NNT 7.562421472723801 
+MPELIM	NN 7.766077857501067 
+TXSR	VB 9.399968503952575 
+NFAL	VB 8.70682132339263 
+CBE	NN 7.670767677696742 
+DIEH	NN 10.068662950495112 
+NFAW	VB 9.399968503952575 
+CBI	NNP 6.3123395869155265 
+AWJWBIWGRAPI	JJ 8.881558488638976 
+LHERIK	VB 8.301356215284466 
+MCBIM	NN 8.459225038061012 
+NTQBLH	VB 9.399968503952575 
+NFAR	VB 7.32052696227274 
+LENWD	VB 8.70682132339263 
+QIBWCI	JJ 8.881558488638976 
+CBR	VB 7.4540583548972625 NN 10.068662950495112 
+TWTIR	VB 9.399968503952575 
+TMWMF	VB 9.399968503952575 
+MCBIE	VB 9.399968503952575 
+LHPRID	VB 8.301356215284466 
+HTBJAWT	NN 10.068662950495112 
+MPELIT	JJ 8.881558488638976 
+ENPIM	NN 7.360612749392902 
+LENWT	VB 8.70682132339263 
+MTRXFIM	VB 9.399968503952575 
+CNWEWT	JJ 8.881558488638976 
+NFBE	VB 9.399968503952575 
+345,000	CD 7.564757012905729 
+SNDINISJI	JJ 8.881558488638976 
+TXWMI	NNT 6.869274292163856 
+IXSI	NNT 6.869274292163856 NN 10.068662950495112 
+GRMH	VB 8.301356215284466 
+IXSR	VB 8.301356215284466 
+MARJIN	NNP 7.4109518755836366 
+LPNWT	IN 8.648045999835 VB 7.202743926616356 
+NWBEIM	VB 9.399968503952575 
+GRMW	VB 7.202743926616356 
+TXWMW	NN 8.970050661827003 
+CCW	VB 9.399968503952575 
+HTREH	NN 8.970050661827003 
+FAPTNIT	JJ 8.881558488638976 
+PLGI	NNT 8.948715833843691 
+TMWNH	NN 7.583756300707112 VB 9.399968503952575 
+NTQBLW	VB 8.70682132339263 
+IISWRIM	NN 8.970050661827003 
+MSGIRIM	VB 9.399968503952575 
+MQRNIM	NN 10.068662950495112 
+ADWMWT	JJ 8.881558488638976 
+CDI	NNT 8.948715833843691 
+CDN	NN 10.068662950495112 
+CDM	NN 8.970050661827003 
+AINDWNZIH	NNP 8.797246236703527 
+CDQ	NN 7.989221408815276 VB 8.70682132339263 
+FMALIT	JJ 7.7829461999708665 
+REIWNWTIHM	NN 10.068662950495112 
+MSLQIM	VB 9.399968503952575 
+CDW	NN 8.459225038061012 
+IXWF	VB 9.399968503952575 
+BJXWN	NN 10.068662950495112 
+CED	VB 8.70682132339263 NN 7.1242239713286715 
+PLIQS	NNP 8.104099056143582 
+MZHIRIM	VB 9.399968503952575 
+ELIH	NN 9.375515769935166 
+NHIRH	NN 10.068662950495112 JJ 8.881558488638976 
+LHWDWT	VB 8.70682132339263 
+NFBW	VB 9.399968503952575 
+FERIM	NN 7.296074228255331 
+CEQ	VB 8.70682132339263 
+MWEDWN	NN 8.682368589375221 NNT 8.948715833843691 
+CER	NN 8.682368589375221 
+ELIT	NN 10.068662950495112 
+PLIJ	NN 10.068662950495112 
+PLII	NNP 7.698633948035417 
+PIRZWL	NN 10.068662950495112 
+TWRTW	NN 8.682368589375221 
+NHIRT	NNT 8.948715833843691 
+HXLJWTIW	NN 10.068662950495112 
+MCBM	NN 8.682368589375221 
+MCBN	NN 9.375515769935166 
+FKBWT	NNT 7.562421472723801 NN 8.459225038061012 
+DIIL	NNP 8.797246236703527 
+NTLTH	VB 9.399968503952575 
+DIIN	NNP 7.187808324269427 
+DIIBI	NNP 8.797246236703527 
+MCBT	NNT 8.255568653283746 
+DIIQ	VB 8.70682132339263 
+MCBW	NN 7.989221408815276 
+LPLWJ	VB 9.399968503952575 
+GRRW	VB 9.399968503952575 
+AXRITW	NN 10.068662950495112 
+NRFMT	VB 8.70682132339263 
+KWFRM	NN 10.068662950495112 
+NRFMW	VB 7.32052696227274 
+LELWT	VB 8.70682132339263 
+ANIIT	NNT 8.948715833843691 
+NILSN	NNP 8.797246236703527 
+3791	CD 6.871609832345784 
+WSJRIS	NNP 8.797246236703527 
+MCAW	VB 7.608209034724521 
+NRFMH	VB 8.301356215284466 
+DWRIT	NNP 8.797246236703527 
+XCAI	NNT 8.948715833843691 
+TXWM	NN 7.360612749392902 NNT 5.729840008975491 
+TCLWMI	NNT 8.255568653283746 
+PLILI	NN 10.068662950495112 JJ 6.6843339113027564 
+IXZQ	VB 9.399968503952575 
+EIBWD	NNT 8.948715833843691 NN 7.989221408815276 
+NSIWN	NN 8.970050661827003 
+TAILNDIT	JJ 8.881558488638976 
+KWABIM	JJ 8.881558488638976 VB 9.399968503952575 
+XBRWTM	NN 9.375515769935166 
+AWJWBWS	NN 8.122752801439798 NNT 8.948715833843691 
+PLILT	JJ 8.881558488638976 
+MFIXH	NN 10.068662950495112 
+CID	NN 10.068662950495112 NNT 8.948715833843691 
+MFIXI	JJ 8.881558488638976 
+MWRKBT	VB 8.301356215284466 JJ 7.495264127519086 
+GRSI	NNP 8.797246236703527 
+ZIID	NNP 8.797246236703527 
+GRSH	NN 8.970050661827003 
+1151	CD 7.564757012905729 
+CIR	NNT 8.948715833843691 NN 9.375515769935166 
+GRST	NNT 8.948715833843691 
+IIAPFRW	VB 9.399968503952575 
+DRBWN	NN 10.068662950495112 
+FKBTI	JJ 8.881558488638976 
+TWRPH	NN 10.068662950495112 
+MWGDLIM	JJ 7.7829461999708665 
+MZLGWT	NN 10.068662950495112 
+ZIIN	NNP 8.797246236703527 
+MCDH	NNP 7.698633948035417 
+KIKRWT	NN 10.068662950495112 
+LHFTBC	VB 9.399968503952575 
+DWRFI	NNT 8.948715833843691 
+NFIT	JJ 8.188411308079031 
+XDFIMIFNIM	JJ 8.881558488638976 
+EWDPIM	NN 8.459225038061012 JJ 8.881558488638976 
+DWRFT	VB 8.70682132339263 
+PWINJ	NNP 8.797246236703527 
+HWZLWT	NN 10.068662950495112 
+HRJBT	NNT 8.948715833843691 
+IRIDWT	NNT 8.948715833843691 NN 8.682368589375221 
+GRWE	JJ 7.495264127519086 
+MIWTMIM	RB 8.069029328774958 
+GRWF	NN 10.068662950495112 
+BIQFTI	VB 9.399968503952575 
+TWRMT	VB 9.399968503952575 
+DINH	NNP 8.797246236703527 
+MTBCEWT	VB 9.399968503952575 
+DIBRTI	VB 8.70682132339263 
+QCINI	NNT 7.1569563646156364 
+NFIA	NNT 6.17612711160391 NN 6.890609120147166 
+KWBEIM	NN 10.068662950495112 
+NFIM	VB 9.399968503952575 NN 6.379783496381176 
+GFMIM	NN 8.682368589375221 
+CLE	NN 10.068662950495112 
+CLH	NN 10.068662950495112 
+FINIIM	NN 10.068662950495112 
+NXFLWT	NN 9.375515769935166 
+NFKX	VB 9.399968503952575 
+MILWWQI	NNP 8.104099056143582 
+EIIPWT	NN 10.068662950495112 
+MCIG	VB 8.013674142832684 
+HTPJR	VB 9.399968503952575 
+MCIE	VB 7.4540583548972625 
+ZINQ	VB 9.399968503952575 
+RBWEIM	JJ 8.881558488638976 
+NFLL	VB 9.399968503952575 
+MCIL	VB 8.301356215284466 
+ZIMH	NN 10.068662950495112 
+MRFIMIM	JJ 8.881558488638976 
+PINNSI	JJ 8.188411308079031 
+GRWN	NN 10.068662950495112 NNT 8.948715833843691 
+DINM	NN 10.068662950495112 
+GRWS	NNP 8.797246236703527 
+CMR	NN 10.068662950495112 
+CEIRIM	JJ 6.80211694695914 NN 7.296074228255331 
+CMW	NNP 8.797246236703527 
+DINW	NN 9.375515769935166 
+CMX	VB 9.399968503952575 
+QNIWT	NN 9.375515769935166 
+QNIWN	NN 10.068662950495112 
+ZIMN	VB 8.70682132339263 
+ALBWM	NN 8.970050661827003 
+NFKR	JJ 8.881558488638976 
+CNE	NN 10.068662950495112 
+QLGSIW	NN 10.068662950495112 
+MPTXIM	VB 9.399968503952575 
+DIQN	NNT 8.948715833843691 
+AIGWDIM	NN 7.178291192598947 
+RPIWN	NN 10.068662950495112 
+NJIFTW	NN 10.068662950495112 
+HTPLL	VB 9.399968503952575 
+DIRH	NN 7.296074228255331 
+SIJWACIWT	NN 9.375515769935166 
+NFLX	VB 8.70682132339263 
+3,825	CD 7.564757012905729 
+SBWRIM	VB 7.7905305915184755 
+XCIH	NN 10.068662950495112 
+PLFTINAIIM	JJ 8.881558488638976 
+REIWN	NNT 7.339277921409591 NN 7.296074228255331 
+XQIIN	NN 10.068662950495112 
+LMCWT	VB 8.013674142832684 
+KHNISJIM	NN 10.068662950495112 
+PIIBWRIJ	JJ 8.881558488638976 
+TIIRT	NN 8.682368589375221 
+NFME	VB 9.399968503952575 
+NFMH	NN 9.375515769935166 
+NFMR	VB 8.301356215284466 
+CPH	VB 9.399968503952575 
+ELTH	VB 7.202743926616356 
+GRZI	NNP 8.797246236703527 
+BHDGFH	RB 8.069029328774958 
+CPI	NN 10.068662950495112 
+GRZN	NN 10.068662950495112 
+LMCWA	VB 6.509596746056411 
+TWRWT	NN 10.068662950495112 
+CPT	NNP 8.797246236703527 
+MGRFIM	NN 10.068662950495112 
+NKSIW	NN 10.068662950495112 
+RFLNIT	JJ 8.881558488638976 
+CPW	VB 8.013674142832684 
+MIFXQI	NNT 7.850103545175582 
+ZIRH	NN 8.682368589375221 
+IWBNJWS	NNP 8.104099056143582 
+ELWB	NN 10.068662950495112 
+PSIKWLWG	NN 10.068662950495112 
+CNWEIM	JJ 8.188411308079031 NN 10.068662950495112 
+MTWKNN	VB 8.013674142832684 
+NFPK	VB 9.399968503952575 
+IFTKNE	VB 9.399968503952575 
+FWLPIM	VB 9.399968503952575 
+ZIRT	NNT 8.948715833843691 
+ELWL	VB 6.3554460662291525 
+ELWN	NNT 8.948715833843691 NN 9.375515769935166 
+ZIRW	NNP 8.797246236703527 
+LHCJRP	VB 8.013674142832684 
+DIRT	NNT 8.948715833843691 
+ZIQH	NN 10.068662950495112 
+NKSIM	NN 8.970050661827003 
+CRH	NN 10.068662950495112 JJ 8.188411308079031 
+FWAPIM	VB 9.399968503952575 
+AWPIINIWT	JJ 8.881558488638976 
+SGIRT	NNT 7.562421472723801 
+MISIM	NN 10.068662950495112 
+JMPRJWRH	NN 8.970050661827003 
+AWPIIM	NN 10.068662950495112 
+CRW	VB 9.399968503952575 
+MAWXDIM	VB 9.399968503952575 
+PWBLICISJIQH	NN 10.068662950495112 
+LEMEM	VB 9.399968503952575 
+WWLSJWN	NNP 6.089196035601317 
+ARGNJINAI	JJ 8.881558488638976 
+BHRBH	MOD 7.518064181233078 
+TARIKIM	NN 10.068662950495112 
+SGIRH	NN 8.970050661827003 
+15716281	CD 7.564757012905729 
+NFRW	VB 9.399968503952575 
+QNITI	VB 9.399968503952575 
+MRINWB	NNP 8.104099056143582 
+MISJR	NN 10.068662950495112 
+ELWT	NN 9.375515769935166 NNT 8.948715833843691 
+MISJI	JJ 8.881558488638976 
+LHWDIE	VB 9.399968503952575 
+HTPRC	VB 9.399968503952575 
+RAFWNIWT	JJ 8.881558488638976 
+NFQM	NN 10.068662950495112 
+LIWBWFIC	NNP 8.797246236703527 
+ADRIKLWT	NN 10.068662950495112 
+PLWR	NNP 8.797246236703527 
+NFQP	VB 8.70682132339263 
+MDBIQH	VB 8.013674142832684 
+DIWR	NN 6.9776204971367966 
+AFRAI	NN 9.375515769935166 
+01	CDT 5.249652194566756 CD 4.163559631243574 JJ 8.881558488638976 
+02	JJ 7.272120576204876 CD 4.197461182919255 
+03	CD 4.674385255009565 
+04	CD 4.674385255009565 
+05	CD 4.520234575182306 
+06	JJ 8.881558488638976 CD 5.079850363117729 
+NISWIIT	JJ 8.881558488638976 
+07	CD 6.466144724237619 
+08	CD 5.36753243556951 
+XLWMWTIW	NN 10.068662950495112 
+09	CD 6.466144724237619 
+JIWLIM	NN 10.068662950495112 
+SRJNIM	NN 10.068662950495112 
+MWPIEIM	VB 9.399968503952575 
+NISWIIM	NN 9.375515769935166 
+PLFTINI	JJ 7.089799019410921 
+10	CD 6.178462651785838 CDT 5.249652194566756 
+11	CD 4.473714559547413 
+12	CD 5.262171919911683 JJ 8.881558488638976 
+13	CDT 5.942799375126701 CD 6.178462651785838 
+HFLKWTIHN	NN 10.068662950495112 
+14	CD 6.178462651785838 
+15	CD 6.466144724237619 
+16	JJ 8.881558488638976 CD 6.871609832345784 CDT 5.942799375126701 
+17	CD 6.871609832345784 
+18	JJ 8.881558488638976 CD 6.178462651785838 
+19	CD 6.466144724237619 
+MCPH	VB 7.608209034724521 
+LHWEID	VB 9.399968503952575 
+MSIIEIM	VB 8.70682132339263 
+AZKWR	NN 9.375515769935166 
+HFTXRRH	VB 9.399968503952575 
+DIWN	NN 6.7728260844907835 
+20	CD 5.772997543677674 
+21	CD 4.569024739351738 JJ 7.495264127519086 
+DIWQ	NN 9.375515769935166 
+PSNTRN	NN 8.970050661827003 
+22	CD 5.485315471225893 
+23	CD 6.871609832345784 JJ 8.881558488638976 
+24	CD 5.618846863850416 
+25	CD 6.178462651785838 
+26	CD 6.871609832345784 
+27	CD 6.871609832345784 
+28	CD 6.871609832345784 
+29	CD 7.564757012905729 
+MGMGM	JJ 8.188411308079031 
+XQIRT	NNT 8.255568653283746 
+FRIDIM	NN 10.068662950495112 
+HTPTX	VB 9.399968503952575 
+XQIRH	NN 6.849787125626912 
+HEDIP	VB 8.301356215284466 
+30	CD 5.955319100471629 
+31	CD 5.166861740107358 JJ 7.495264127519086 
+CWR	NN 10.068662950495112 NNP 7.698633948035417 
+32	CD 5.955319100471629 
+33	CD 6.466144724237619 JJ 8.881558488638976 
+34	CD 6.178462651785838 JJ 8.188411308079031 
+36	JJ 8.881558488638976 CD 6.871609832345784 
+37	CD 5.955319100471629 
+38	CD 6.466144724237619 
+MCRI	JJ 8.881558488638976 
+MHPKH	NN 9.375515769935166 
+CXI	NNP 8.797246236703527 
+MSPIQ	DT 6.665683717782408 MOD 7.518064181233078 RB 7.3758821482150125 VB 8.013674142832684 
+XQIQH	NN 8.970050661827003 
+CXQ	VB 9.399968503952575 
+41	CD 4.999807655444192 JJ 8.188411308079031 
+42	CD 5.618846863850416 JJ 8.881558488638976 
+43	CD 6.871609832345784 
+44	CD 6.178462651785838 
+45	CD 6.871609832345784 JJ 8.188411308079031 
+46	CD 7.564757012905729 
+MJWRPWT	JJ 8.881558488638976 
+47	JJ 8.881558488638976 CD 7.564757012905729 
+ITNHGW	VB 9.399968503952575 
+DLQWT	NN 9.375515769935166 
+49	CD 7.564757012905729 
+BGNWT	IN 9.74665828850311 
+ZIKRWNWTIW	NN 10.068662950495112 
+LHFTTP	VB 7.4540583548972625 
+NFXQ	VB 9.399968503952575 
+HBRPLD	NNP 8.797246236703527 
+NTMKH	VB 9.399968503952575 
+50	CD 7.564757012905729 
+51	CD 4.429262796976579 CDT 5.942799375126701 
+52	CD 5.079850363117729 CDT 5.942799375126701 
+MCUX	NNP 8.797246236703527 
+53	CD 5.485315471225893 
+54	CD 6.466144724237619 
+55	CD 7.564757012905729 
+56	CD 6.871609832345784 
+57	CD 6.466144724237619 
+58	CD 6.871609832345784 
+59	CD 7.564757012905729 
+APWSJRWP	NNP 7.4109518755836366 
+XFIPT	NNT 8.255568653283746 
+XFIPH	NN 10.068662950495112 
+TLMWDIT	JJ 8.881558488638976 
+MXWIBWTW	NN 10.068662950495112 
+LHBHIR	VB 8.301356215284466 
+NFWI	NN 10.068662950495112 
+NFWT	NNT 8.255568653283746 
+MFQIEH	VB 9.399968503952575 
+MIDRDR	VB 8.70682132339263 
+61	CD 4.386703182557784 JJ 8.881558488638976 
+62	CD 5.485315471225893 CDT 5.942799375126701 
+63	CD 6.466144724237619 
+64	CD 6.466144724237619 
+65	CD 5.772997543677674 
+66	CD 6.466144724237619 
+67	CD 7.564757012905729 JJ 8.881558488638976 
+68	JJ 8.881558488638976 CD 7.564757012905729 
+MCWA	NN 10.068662950495112 
+IFAIR	VB 9.399968503952575 
+BWDHISJIT	JJ 8.188411308079031 
+MPGEI	NNT 8.948715833843691 
+MCWI	VB 7.7905305915184755 JJ 7.495264127519086 
+KWABWT	JJ 8.881558488638976 
+QPDN	JJ 8.881558488638976 
+MCWR	NN 9.375515769935166 
+70	CD 6.178462651785838 
+71	CD 5.079850363117729 
+72	CD 6.178462651785838 JJ 8.881558488638976 
+73	CD 6.466144724237619 
+74	CD 6.871609832345784 
+75	CD 6.466144724237619 JJ 8.188411308079031 
+76	CD 7.564757012905729 
+77	CD 6.871609832345784 
+MPRSMIM	VB 9.399968503952575 
+78	CD 6.466144724237619 
+79	CD 6.871609832345784 
+QPCH	VB 9.399968503952575 
+MDRXWB	NNT 8.948715833843691 
+XIRWT	NN 9.375515769935166 
+MJBEWT	NN 9.375515769935166 
+XIRWM	NN 8.122752801439798 
+MNWKRT	JJ 8.881558488638976 
+QPCW	VB 9.399968503952575 
+80	CD 7.564757012905729 
+81	CD 5.36753243556951 
+82	CD 5.772997543677674 
+83	CD 5.955319100471629 JJ 8.881558488638976 
+84	CD 6.466144724237619 
+85	CD 7.564757012905729 
+86	CD 6.871609832345784 
+87	CD 7.564757012905729 JJ 8.881558488638976 
+88	CD 5.955319100471629 JJ 8.881558488638976 
+89	CD 7.564757012905729 
+ZRIQWT	NNT 8.948715833843691 
+HEDPH	NN 10.068662950495112 
+AWPIINIIM	JJ 8.881558488638976 
+EMDH	NN 8.122752801439798 VB 8.301356215284466 
+LHZNIX	VB 9.399968503952575 
+QWLQJIWWIT	JJ 7.7829461999708665 
+NWZLIM	NN 10.068662950495112 
+MISWI	NNT 8.948715833843691 NN 9.375515769935166 
+90	CD 6.466144724237619 CDT 5.942799375126701 
+EMDT	NNT 6.869274292163856 
+91	JJ 7.089799019410921 CD 4.999807655444192 
+92	CD 5.485315471225893 
+93	JJ 8.881558488638976 CD 6.466144724237619 
+94	CD 7.564757012905729 
+MISWD	NNT 8.255568653283746 
+QARSWN	NNP 8.797246236703527 
+EMDW	VB 8.301356215284466 
+95	CD 7.564757012905729 
+96	CD 6.871609832345784 
+IRDNI	JJ 7.7829461999708665 
+IRDNH	NNP 8.104099056143582 
+98	CD 5.955319100471629 
+RFMIT	JJ 7.272120576204876 RB 6.682734967655067 
+99	CD 6.466144724237619 
+XCWT	NN 10.068662950495112 
+MCXH	NN 10.068662950495112 
+RFMIW	NN 10.068662950495112 
+34.90	CD 7.564757012905729 
+PLAJINI	NNP 8.797246236703527 
+DWUXWT	NN 8.459225038061012 NNT 8.948715833843691 
+MTNDBIM	NN 10.068662950495112 
+MFQIPIM	NN 8.682368589375221 
+HFGTH	NN 10.068662950495112 
+IBWAN	NN 9.375515769935166 
+IBWAW	VB 8.70682132339263 
+HNHLTH	NN 10.068662950495112 
+LFPWJ	VB 8.70682132339263 
+HEDPT	NNT 8.948715833843691 
+NIMNI	NNP 8.104099056143582 
+QDMNI	NNP 8.104099056143582 
+MSPRM	NN 8.970050661827003 
+MPGIF	VB 8.301356215284466 
+MSPRT	VB 8.70682132339263 
+DNWWR	NNP 7.4109518755836366 
+BITWR	NN 10.068662950495112 
+MXFBIM	NN 8.459225038061012 
+HWCIAH	VB 8.301356215284466 
+XWWITI	VB 8.70682132339263 
+MSPQT	VB 9.399968503952575 JJ 8.881558488638976 
+DAG	VB 8.70682132339263 
+FRWIH	VB 9.399968503952575 
+HWCIAW	VB 8.70682132339263 
+DAL	NNP 8.797246236703527 
+ALBIJ	NNP 7.4109518755836366 
+IRDNW	VB 9.399968503952575 
+WWLWNJARI	JJ 8.881558488638976 
+MTGBFIM	JJ 8.881558488638976 
+DAZ	MOD 6.824917000673133 
+NFDDH	VB 9.399968503952575 
+LHFTLJ	VB 8.301356215284466 
+QPJN	NNT 8.948715833843691 
+LHFTLB	VB 7.4540583548972625 
+MFQWLAIM	NN 10.068662950495112 
+MFJRT	NNT 6.463809184055691 
+LEMWD	VB 6.915061854164575 
+BITUR	NNP 5.801513963149536 
+AMRIQN	NNP 8.797246236703527 
+MAWXDWT	VB 9.399968503952575 
+DBQ	NN 7.871438373158893 NNT 8.948715833843691 
+LHPQID	VB 9.399968503952575 
+DBR	NN 5.649822342698514 NNT 6.383766476382155 
+LHPQIE	VB 9.399968503952575 
+AIJIWT	NNT 8.948715833843691 
+RFWMWT	VB 9.399968503952575 
+MFJRH	NN 5.1486820246669875 
+NGBH	NNP 8.797246236703527 
+TWSIP	VB 8.70682132339263 
+LHFTMF	VB 7.7905305915184755 
+HFGXH	NN 10.068662950495112 
+FRIRWTIT	JJ 8.881558488638976 
+XWWIWT	NN 9.375515769935166 NNT 8.948715833843691 
+EDINIM	JJ 8.881558488638976 
+LMDNW	VB 8.70682132339263 
+CWWTI	NNT 8.255568653283746 
+PWQDWT	VB 9.399968503952575 
+FWAPWT	VB 9.399968503952575 
+QPLN	NNP 7.005486767475472 
+DDI	NNP 8.104099056143582 
+HTMXTH	VB 9.399968503952575 
+ADWMIM	NN 10.068662950495112 NNP 8.797246236703527 JJ 8.881558488638976 
+HWZKR	VB 9.399968503952575 
+HTLWNNW	VB 9.399968503952575 
+HTQBL	VB 8.013674142832684 
+HTQBC	VB 9.399968503952575 
+NGDI	JJ 8.881558488638976 
+BIHMUF	NN 10.068662950495112 
+MWPIEWT	VB 8.70682132339263 
+ARKIJQJIT	JJ 8.881558488638976 NN 9.375515769935166 
+MQPIDH	VB 9.399968503952575 
+ANRCIH	NN 10.068662950495112 
+EMID	JJ 8.188411308079031 
+ARTWR	NNP 8.104099056143582 
+DEH	NN 8.276903481267057 
+FPLH	NN 10.068662950495112 
+MGMTW	NN 10.068662950495112 
+NGBW	VB 9.399968503952575 
+AWBDN	NNT 7.562421472723801 
+EMIM	NN 7.871438373158893 
+AINPLCIWNI	JJ 8.188411308079031 
+EMIR	NNP 8.797246236703527 
+DET	NN 7.583756300707112 NNT 6.240665632741481 
+EMIT	NNP 7.698633948035417 
+AMRIQH	NNP 6.600021659367308 
+LHFTKR	VB 9.399968503952575 
+BJWXH	JJ 7.7829461999708665 
+DFA	NN 8.682368589375221 
+HTLWNNH	VB 9.399968503952575 
+CWWTW	NN 10.068662950495112 
+HIKRWT	NN 9.375515769935166 
+MDBR	NN 8.459225038061012 VB 7.4540583548972625 
+WINGIIJ	NNP 8.797246236703527 
+EMLH	NN 9.375515769935166 
+2551	CD 7.564757012905729 
+IRIETK	NN 10.068662950495112 
+FWTPWIWT	NN 8.970050661827003 
+A.	NNP 8.797246236703527 
+NGEW	VB 9.399968503952575 
+EMLT	NNT 7.562421472723801 
+QILWMJR	NN 10.068662950495112 
+EMLW	VB 9.399968503952575 
+AXWZIM	NN 8.276903481267057 
+IQCWR	VB 9.399968503952575 
+AB	NN 7.296074228255331 
+DGF	NN 8.276903481267057 
+AD	NNP 8.797246236703527 
+KLBIHM	NN 10.068662950495112 
+REIWNWTIH	NN 10.068662950495112 
+AF	NN 7.2354496064388965 
+DGL	NN 8.970050661827003 NNT 8.255568653283746 
+AI	NNP 6.3123395869155265 RB 5.989587787095122 NN 8.682368589375221 NNT 8.948715833843691 MOD 3.8291847271191415 
+AK	MOD 7.518064181233078 CC 3.387445853923911 
+LMFWK	VB 8.70682132339263 
+AL	IN 5.587775205143437 NN 7.670767677696742 RB 7.3758821482150125 VB 9.399968503952575 NNP 5.752723798980104 
+DGM	NNT 7.339277921409591 NN 8.276903481267057 
+||START||	**START** 0.0 
+AM	IN 4.433452309461322 NN 7.429605620879854 MOD 6.131769820113187 HAM 2.803360380906535 NNP 7.698633948035417 
+SIRWS	NNT 8.948715833843691 
+AN	NNP 7.698633948035417 
+SIRWT	NNT 8.948715833843691 
+ZWRNL	NNP 8.797246236703527 
+AP	NN 8.970050661827003 DT 4.2677884449840375 RB 4.977986875416642 MOD 3.7803945629497093 IN 6.312671084017963 NNP 6.600021659367308 
+FXCNWT	NN 10.068662950495112 
+AS	NNP 8.104099056143582 
+AT	PRP 7.050700554967235 AT 0.16075266468769378 IN 9.053511107943164 
+FWWIICRIIM	JJ 8.881558488638976 
+REIWNWTIW	NN 8.682368589375221 
+AW	NNP 8.797246236703527 CC 3.0440531744581247 
+AX	NN 8.970050661827003 
+RDIPT	NNT 8.948715833843691 
+AZ	RB 4.485510390318848 
+TQCIB	NNT 6.240665632741481 NN 6.667465568832957 
+GLAZGW	NNP 7.698633948035417 
+BA	NNT 8.948715833843691 VB 6.509596746056411 JJ 6.108969766399195 
+BD	NNT 8.255568653283746 NN 7.766077857501067 
+BF	NNP 8.797246236703527 
+CRKNIT	NN 8.970050661827003 NNT 8.948715833843691 
+BI	NNP 7.187808324269427 
+MQLXT	NN 8.970050661827003 
+BK	NNP 8.797246236703527 
+BL	RB 8.069029328774958 NNP 8.797246236703527 
+PWLXN	NN 8.276903481267057 
+C.	NNP 8.797246236703527 
+BN	NN 7.766077857501067 IN 9.74665828850311 NNT 4.941382648611221 NNP 5.852807257537087 
+SNQCIWT	NN 10.068662950495112 
+CRKNIM	NN 8.682368589375221 
+BQ	NNP 8.104099056143582 
+BR	JJT 4.564348191467836 NNP 7.4109518755836366 
+LHPTIE	VB 9.399968503952575 
+MFLXT	NN 7.503713593033575 NNT 7.850103545175582 
+EMNW	NN 8.970050661827003 
+BS	NNP 8.104099056143582 
+BT	NNT 5.337797921199467 NN 7.871438373158893 
+LABD	VB 7.608209034724521 
+TGFIM	VB 8.70682132339263 
+ACJLH	NN 10.068662950495112 
+EWMDT	VB 7.32052696227274 
+MDEI	JJ 8.188411308079031 NNT 8.255568653283746 
+CD	NN 6.849787125626912 NNT 7.002805684788378 
+DIH	MOD 7.518064181233078 
+HGMFT	NNT 8.948715833843691 
+CH	NNP 8.797246236703527 
+DII	NNP 8.797246236703527 
+MQLWT	JJ 8.881558488638976 NNT 8.948715833843691 
+DIN	NNP 7.698633948035417 NN 6.156639945066966 NNT 7.850103545175582 
+CL	NN 8.970050661827003 
+DIR	NNP 8.797246236703527 
+IIMCA	VB 8.70682132339263 
+CBINSQH	NNP 8.797246236703527 
+DIQ	NNP 8.797246236703527 
+CR	VB 9.399968503952575 JJ 8.881558488638976 
+DIS	NNP 8.797246236703527 
+CWWTIM	NN 10.068662950495112 
+CW	NNT 7.339277921409591 NN 8.276903481267057 
+DA	NNP 7.698633948035417 
+SXWRWT	NN 10.068662950495112 
+DB	NN 10.068662950495112 NNP 8.104099056143582 
+TSIIE	VB 8.70682132339263 
+DH	NNP 8.797246236703527 NN 10.068662950495112 
+DI	NNP 8.797246236703527 RB 5.584122678986957 DT 5.279389356662518 MOD 6.419451892564968 
+XDFH	JJ 5.24397232891259 
+DL	JJ 7.495264127519086 JJT 3.4657359027997265 
+DM	NN 7.429605620879854 NNT 8.948715833843691 
+DN	VB 8.70682132339263 NNP 6.851336087648214 
+DQ	JJ 8.881558488638976 ZVL 4.3694478524670215 
+DR	NNT 8.948715833843691 
+HSPIQ	VB 7.608209034724521 
+DT	NN 8.276903481267057 NNT 8.255568653283746 
+DW	MOD 5.215479088239032 
+IIMFK	VB 7.7905305915184755 
+IRIEWT	NNT 8.948715833843691 
+MTPTLT	JJ 8.881558488638976 
+MDGM	NN 10.068662950495112 
+EC	NNT 6.751491256507472 NN 6.890609120147166 
+ED	NNT 8.948715833843691 NN 7.2354496064388965 IN 4.616759573580036 
+HFERWT	NN 10.068662950495112 
+QIRBTM	NN 10.068662950495112 
+MDEN	NN 8.682368589375221 
+EL	IN 2.7008817116235977 NNP 7.4109518755836366 NN 9.375515769935166 
+EM	IN 3.801237679896534 NN 6.542302425878951 NNT 7.562421472723801 
+SLIMZIANWB	NNP 8.797246236703527 
+TKNNTM	VB 9.399968503952575 
+ER	VB 9.399968503952575 
+BFMIM	NN 10.068662950495112 
+ET	NNT 6.115502489787476 NN 7.1242239713286715 
+MIICGT	VB 8.70682132339263 
+NGID	NNT 7.339277921409591 NN 10.068662950495112 VB 8.301356215284466 
+NGIE	VB 9.399968503952575 
+EZ	JJ 7.495264127519086 
+RDIPWT	NN 10.068662950495112 
+FB	VB 9.399968503952575 
+FD	NNT 8.948715833843691 NN 8.682368589375221 
+FF	CDT 5.942799375126701 CD 5.485315471225893 
+DLH	JJ 8.881558488638976 
+HFTLMWT	NN 10.068662950495112 
+FI	NNP 8.797246236703527 
+EICWB	NNT 7.850103545175582 NN 8.459225038061012 
+FL	ZVL 4.3694478524670215 POS 0.0 IN 8.648045999835 
+FM	NNT 6.646130740849646 NN 7.2354496064388965 RB 3.6870026941010763 VB 7.7905305915184755 
+G.	NNP 8.797246236703527 
+DLQ	NN 6.7728260844907835 
+LXFWP	VB 8.70682132339263 
+FQ	NN 8.459225038061012 NNT 8.255568653283746 
+FR	NN 6.602927047695386 VB 9.399968503952575 NNT 4.426927256794651 
+NGIXH	NN 10.068662950495112 
+DLT	NNT 7.562421472723801 NN 7.871438373158893 
+KWKBIM	NN 8.276903481267057 
+MRPAH	NN 8.970050661827003 
+LXFWF	VB 9.399968503952575 
+DWMINNJIT	JJ 8.881558488638976 
+AWNRWWUA	NNP 8.797246236703527 
+MNFNGLDBAK	NNP 8.797246236703527 
+HTIIBFWT	NN 10.068662950495112 
+NECRW	VB 8.70682132339263 
+GB	NN 8.970050661827003 NNT 8.948715833843691 
+LXFWB	VB 7.608209034724521 
+GD	NNP 8.104099056143582 
+DMH	NN 9.375515769935166 
+EMSI	NNP 8.797246236703527 
+LXFWD	VB 9.399968503952575 
+MDIM	NN 10.068662950495112 
+GG	NN 8.459225038061012 NNT 8.948715833843691 
+DMI	NNT 7.1569563646156364 
+FPTM	NN 9.375515769935166 
+FLFWT	NN 10.068662950495112 
+XSRIM	VB 8.301356215284466 
+GL	NNT 7.562421472723801 NNP 7.698633948035417 NN 7.989221408815276 
+DMM	NN 10.068662950495112 
+GM	RB 3.6870026941010763 MOD 1.6209103135963372 
+GN	NNT 7.339277921409591 NN 7.2354496064388965 
+FLFWM	RB 4.701733498788483 
+GSWT	NN 10.068662950495112 NNT 8.948715833843691 
+QWSMJIQH	NN 10.068662950495112 
+14.3.89	CD 7.564757012905729 
+FLFWL	NN 10.068662950495112 
+MBQIEIM	VB 9.399968503952575 
+FPTW	NN 10.068662950495112 
+DMW	NN 10.068662950495112 MOD 6.824917000673133 
+XIIQIN	NNP 8.104099056143582 
+GW	NNP 8.797246236703527 
+SSGWNIT	JJ 8.881558488638976 
+GZ	NN 6.513314889005699 
+THIIH	AUX 6.327936783729195 
+DNI	JJ 8.188411308079031 NNP 8.104099056143582 
+HTREWT	NN 10.068662950495112 
+DNH	VB 8.70682132339263 
+FPWP	JJ 8.881558488638976 
+DIPLWMJI	JJ 8.881558488638976 
+MIICBT	VB 9.399968503952575 
+HM	AGR 2.0907410969337694 PRP 1.9467773264474217 
+I.	NNP 8.104099056143582 
+HN	PRP 3.3701893505238147 AGR 3.235873401236772 MOD 4.573625202066637 
+FPWT	NN 8.970050661827003 
+GIDWLIM	NN 8.682368589375221 
+HR	NNT 6.17612711160391 NNP 8.797246236703527 
+HS	NNP 8.797246236703527 
+DNW	VB 8.013674142832684 
+FBWIIM	NN 10.068662950495112 
+HWLNDIIM	JJ 8.881558488638976 
+HWZKRW	VB 8.70682132339263 
+ID	NN 7.296074228255331 NNT 7.339277921409591 
+FPXH	NN 10.068662950495112 
+IF	VB 4.010896774136074 
+XDIF	JJ 8.188411308079031 
+BRAFIT	RB 8.069029328774958 
+LAFR	VB 7.7905305915184755 
+IM	NNT 8.948715833843691 NN 7.429605620879854 
+XBRTIT	JJ 6.483663215840606 
+IN	NN 8.459225038061012 
+MFMEI	JJ 8.188411308079031 
+IS	NNP 8.797246236703527 
+XSRWT	JJT 3.1780538303479458 VB 9.399968503952575 
+IHIRWTH	NN 10.068662950495112 
+JWPIQ	NNP 8.797246236703527 
+ITMID	VB 9.399968503952575 
+AQHWIZ	NNP 8.797246236703527 
+GRSTH	NN 10.068662950495112 
+THIWT	NN 10.068662950495112 
+AGWCNJRI	JJ 8.881558488638976 
+PICWI	NN 10.068662950495112 
+PICWL	NN 10.068662950495112 
+XDIM	JJ 8.881558488638976 
+MWGZMIM	JJ 8.881558488638976 
+XDIR	JJ 8.881558488638976 
+DPI	NNT 8.255568653283746 
+NGML	VB 9.399968503952575 
+FPWI	JJ 8.881558488638976 
+JI	NNP 6.851336087648214 
+MTNUSIM	NN 10.068662950495112 
+XDLH	VB 8.70682132339263 
+JL	NNP 8.104099056143582 
+ITMKW	VB 8.70682132339263 
+NIPCW	VB 8.70682132339263 
+WWITWR	NN 10.068662950495112 
+GRSTW	NN 10.068662950495112 
+IIMLJ	VB 9.399968503952575 
+DHIINW	RB 7.3758821482150125 MOD 6.824917000673133 
+MAPFRT	VB 7.202743926616356 
+JWPLW	VB 8.70682132339263 
+EMWD	NNT 8.948715833843691 
+KC	NNP 7.4109518755836366 
+DQH	JJ 8.881558488638976 NN 6.602927047695386 
+HQJIN	VB 9.399968503952575 
+KF	IN 5.141488102515018 COM 7.427144133408616 
+KH	RB 4.736824818599754 MOD 5.1201689084347075 
+KI	COM 1.0572431505803885 MOD 7.518064181233078 IN 6.488561750481627 
+IIMFKW	VB 8.70682132339263 
+KK	RB 3.4739094786403677 PRP 3.0076492871326845 NNP 5.396048855041371 
+KL	DT 0.5811843047072371 
+PLSJIQ	NN 10.068662950495112 
+KN	MOD 4.522331907679087 PRP 4.141979658402874 RB 4.603293425975231 
+JWPLH	VB 9.399968503952575 
+DQR	VB 8.70682132339263 
+KP	NN 10.068662950495112 
+DQT	NNT 8.255568653283746 
+FPXT	NNT 8.948715833843691 
+KR	NNT 8.948715833843691 
+KS	NNT 8.948715833843691 
+KT	NN 9.375515769935166 
+KW	RB 6.459591416340857 
+KX	NNT 8.948715833843691 
+TILXM	VB 9.399968503952575 
+IIMKR	VB 9.399968503952575 
+LA	RB 1.6638008707441163 MOD 2.1520881662112266 
+PNSIM	NN 10.068662950495112 
+LB	NNP 6.717804695023691 NNT 7.562421472723801 NN 6.9776204971367966 
+10000	CD 7.564757012905729 
+PNSIH	NN 7.296074228255331 
+DRG	NN 8.682368589375221 NNT 8.948715833843691 
+DRF	VB 7.202743926616356 
+LF	NNP 7.4109518755836366 
+DRK	NNT 5.514728629358545 IN 8.137220376069008 VB 9.399968503952575 NN 6.284473316576851 
+LH	NNP 7.005486767475472 
+PWMBI	NN 9.375515769935166 
+LK	VB 7.608209034724521 
+CECWE	NN 10.068662950495112 
+LM	NNP 8.797246236703527 
+LN	VB 9.399968503952575 NN 10.068662950495112 
+XDFIM	JJ 5.3262104271495625 
+SWBL	NNP 8.104099056143582 VB 8.301356215284466 
+LW	IN 8.137220376069008 RB 6.970417040106848 
+HTREMW	VB 9.399968503952575 
+LX	JJ 8.188411308079031 
+NWQFWTW	NN 10.068662950495112 
+HWCA	VB 8.70682132339263 
+LALC	VB 8.301356215284466 
+NGRM	VB 8.301356215284466 
+HWCG	VB 9.399968503952575 
+IKRIEW	VB 9.399968503952575 
+HWCE	VB 8.70682132339263 
+SQIRH	NN 10.068662950495112 
+MWTNIT	VB 8.013674142832684 
+MF	IN 9.053511107943164 
+HTRXFWTM	NN 10.068662950495112 
+MH	QW 0.7280160062107692 
+MI	QW 1.3287898666396996 NNT 8.255568653283746 
+NGRS	VB 9.399968503952575 
+MN	IN 5.327817680706511 
+EMWQ	JJ 7.089799019410921 
+EMWS	NNP 7.4109518755836366 
+MR	JJ 8.881558488638976 NNP 7.005486767475472 NN 8.970050661827003 
+PWGFIM	VB 8.70682132339263 
+MS	NNT 8.255568653283746 NN 7.429605620879854 
+MT	JJ 6.80211694695914 VB 7.202743926616356 
+GRSWT	NN 10.068662950495112 
+HWBA	VB 8.301356215284466 
+HFTTPWTW	NN 10.068662950495112 
+MFMIE	VB 9.399968503952575 
+MFMIC	VB 9.399968503952575 
+MPRGNIM	VB 9.399968503952575 
+DTIWT	JJ 7.495264127519086 
+NA	NNP 8.797246236703527 RB 8.069029328774958 
+FBITT	NNT 8.948715833843691 
+NE	VB 8.70682132339263 
+FBITH	NN 7.989221408815276 
+DTI	NN 9.375515769935166 JJ 6.6843339113027564 
+HTKWWNH	VB 9.399968503952575 
+TSISH	NN 9.375515769935166 
+FWMRIM	VB 8.70682132339263 
+FERIIM	NNP 8.104099056143582 
+HWDW	NN 9.375515769935166 NNP 6.717804695023691 VB 8.70682132339263 
+MDWIQT	JJ 8.188411308079031 
+MJMIEH	VB 9.399968503952575 
+HWDX	VB 8.301356215284466 
+EWLWT	JJ 8.881558488638976 VB 7.32052696227274 
+NQ	NN 7.178291192598947 
+NR	NNT 8.948715833843691 
+NS	NNT 8.948715833843691 NN 8.970050661827003 
+BRIAWTI	JJ 8.881558488638976 
+NW	RB 8.069029328774958 
+HTQBLW	VB 8.013674142832684 
+CNCNWT	NN 10.068662950495112 
+SWDI	JJ 8.881558488638976 
+EWBDTIT	JJ 8.881558488638976 
+RDIWS	NN 10.068662950495112 
+MFMEW	NN 10.068662950495112 
+HWENQW	VB 9.399968503952575 
+FMIRT	NNT 7.1569563646156364 
+HFTTPWTM	NN 10.068662950495112 
+MFMET	NN 8.682368589375221 
+P.	NNP 7.698633948035417 
+HMWNIWT	JJ 8.881558488638976 
+DUR	NN 6.849787125626912 
+PNIWTIHN	NN 10.068662950495112 
+HWCT	VB 8.70682132339263 
+LALW	NNP 8.797246236703527 
+HDDIT	JJ 8.188411308079031 
+FMIRH	NN 8.682368589375221 
+LAMC	VB 8.70682132339263 
+TWBEIM	NN 8.459225038061012 
+HGDIRW	VB 9.399968503952575 
+HWDH	VB 8.301356215284466 
+MXLQIM	VB 9.399968503952575 
+TPEWLH	NN 10.068662950495112 
+HWDI	JJ 8.188411308079031 
+PG	VB 8.301356215284466 
+BDQW	VB 9.399968503952575 
+PH	RB 5.989587787095122 NN 8.122752801439798 
+PI	NNP 6.600021659367308 NN 8.970050661827003 MOD 5.726304712005023 NNT 4.604910411990008 
+NGSW	VB 9.399968503952575 
+HWDP	NNT 8.948715833843691 
+LAMR	VB 9.399968503952575 
+FBIRH	NN 10.068662950495112 
+HTQBLH	VB 8.301356215284466 
+HQJNT	NNT 8.255568653283746 
+MENIQH	VB 8.70682132339263 
+MFMFT	VB 8.301356215284466 
+NAMDIM	VB 9.399968503952575 
+Q.	NNP 8.104099056143582 
+PN	NN 10.068662950495112 
+LAMT	VB 9.399968503952575 
+ZIKRWNW	NN 9.375515769935166 
+AWPJIT	JJ 8.881558488638976 
+BEIWT	NN 6.849787125626912 NNT 6.751491256507472 
+MCJIIN	JJ 8.881558488638976 VB 8.70682132339263 NN 10.068662950495112 
+PS	NNP 6.851336087648214 NNT 7.850103545175582 
+PT	NNP 8.797246236703527 
+QWNWJCIWT	NN 10.068662950495112 
+MCJIIR	VB 8.301356215284466 
+XDRI	NNT 7.562421472723801 
+PIQWDI	JJ 8.881558488638976 
+MEJIM	JJ 7.089799019410921 NN 8.682368589375221 
+XDRH	NNP 7.005486767475472 
+HWGF	VB 7.7905305915184755 
+MTPTXT	VB 9.399968503952575 
+BEIJWT	NN 10.068662950495112 NNT 8.255568653283746 
+DWD	NN 8.970050661827003 NNP 5.964032892647311 
+MFPIEH	VB 9.399968503952575 
+FQAF	NNP 8.797246236703527 
+HWGH	NN 10.068662950495112 
+QC	NN 8.970050661827003 
+HWGI	NNT 8.948715833843691 
+HCJRPH	VB 8.70682132339263 
+HWGN	JJ 8.188411308079031 
+QF	NN 9.375515769935166 
+DWL	NNP 8.797246236703527 
+XDRW	NN 8.970050661827003 
+LHJBIE	VB 9.399968503952575 
+DWN	NNP 7.187808324269427 
+QL	RB 6.970417040106848 JJ 6.6843339113027564 VB 7.7905305915184755 
+DWM	NNT 8.948715833843691 
+PIQWDW	NN 9.375515769935166 
+R.	NNP 8.797246236703527 
+QM	VB 8.70682132339263 
+CIRWPH	NN 10.068662950495112 
+FQAR	NNP 6.089196035601317 
+DWR	NN 8.970050661827003 
+DWQ	NN 10.068662950495112 NNP 8.797246236703527 
+QR	JJ 8.188411308079031 
+HZDHW	VB 9.399968503952575 
+QT	NNT 8.948715833843691 
+DWX	VB 9.399968503952575 
+HPGNH	NN 9.375515769935166 
+QW	NNT 7.002805684788378 NN 7.583756300707112 
+GWRIWN	NNP 8.104099056143582 
+DAQWWRT	NNP 8.797246236703527 
+PLIMWT	NNP 8.797246236703527 
+EIWWRT	JJ 7.7829461999708665 
+PRIJIM	NN 10.068662950495112 
+RB	JJT 2.9549102790337356 NN 7.296074228255331 NNT 8.255568653283746 MOD 5.438622639553242 JJ 5.4158225858392495 
+RC	VB 9.399968503952575 NNP 8.797246236703527 
+HWFG	VB 7.7905305915184755 
+RE	JJ 6.483663215840606 NN 8.276903481267057 
+IZIN	VB 9.399968503952575 
+DXH	VB 9.399968503952575 
+SWER	JJ 8.881558488638976 
+RH	MOD 7.518064181233078 
+MDLIIT	NNT 8.255568653283746 
+HWFR	VB 9.399968503952575 
+RK	JJ 8.881558488638976 
+ITMQD	VB 9.399968503952575 
+HCLXTW	NN 9.375515769935166 
+S.	NNP 7.698633948035417 
+CPCPH	NN 10.068662950495112 
+RM	NNP 8.797246236703527 
+DXQ	VB 8.70682132339263 
+DXP	VB 9.399968503952575 
+RQ	RB 4.701733498788483 MOD 2.4618183758847696 
+GWAIF	NNP 8.797246236703527 
+RS	NNP 8.797246236703527 
+DXW	VB 8.013674142832684 
+TZKH	VB 8.70682132339263 
+RX	NNT 7.562421472723801 NN 10.068662950495112 
+MDUA	NNP 5.852807257537087 
+RZ	NNP 7.187808324269427 
+SWHR	NN 8.459225038061012 NNP 8.797246236703527 
+XWLFWT	NNT 8.948715833843691 
+SISLI	NNP 8.797246236703527 
+LARI	NNP 8.797246236703527 
+SJWDIW	NNP 8.797246236703527 
+SD	NN 10.068662950495112 
+SE	NNP 8.797246236703527 
+HCLXWT	NN 8.970050661827003 
+SI	NNP 6.089196035601317 NN 10.068662950495112 
+SJ	NNP 7.4109518755836366 
+SK	NN 8.970050661827003 NNT 6.463809184055691 
+LARX	VB 9.399968503952575 
+LSIRWGIN	RB 7.3758821482150125 
+SL	NN 8.682368589375221 NNT 8.255568653283746 
+SM	NN 10.068662950495112 NNT 8.948715833843691 NNP 8.104099056143582 
+SN	NNP 7.4109518755836366 
+SP	NNT 7.850103545175582 
+IBZBZ	VB 9.399968503952575 
+SR	NN 10.068662950495112 
+HWNHGH	VB 8.70682132339263 
+SWGI	NNT 7.1569563646156364 
+FWWRCMN	NNP 8.797246236703527 
+FMINI	JJ 7.272120576204876 
+MNIETH	NN 10.068662950495112 
+NGWE	VB 9.399968503952575 
+HCJRPW	VB 8.013674142832684 
+SWGR	NNT 8.948715833843691 VB 9.399968503952575 
+WWEIDH	NN 10.068662950495112 
+IIMSR	VB 8.70682132339263 
+FERWT	NNT 8.948715833843691 
+IZKH	VB 8.013674142832684 
+DIALWG	NN 8.682368589375221 
+SWGM	NN 10.068662950495112 
+HWNHGW	VB 8.70682132339263 
+MZWWDWT	NN 9.375515769935166 
+SWGW	NN 10.068662950495112 
+TQCWB	NNT 8.948715833843691 
+MWZKRIM	VB 8.70682132339263 
+ZIKRWNI	NN 10.068662950495112 
+TL	NN 8.122752801439798 NNT 4.517899035000378 
+TM	JJ 8.188411308079031 VB 9.399968503952575 
+DIIRI	NNT 8.255568653283746 
+TT	MOD 5.033157531445077 
+TZMN	VB 9.399968503952575 
+MDWE	QW 2.8270021439635755 
+TW	NNP 8.797246236703527 NNT 8.255568653283746 RB 8.069029328774958 
+HISJWRIT	JJ 8.881558488638976 
+HISJWRIH	NN 7.766077857501067 
+PRWSWT	NN 10.068662950495112 
+FQWEH	VB 8.70682132339263 
+MRPST	NNT 8.255568653283746 
+LATR	VB 8.70682132339263 
+HWKN	VB 9.399968503952575 
+ZRWEWTIH	NN 9.375515769935166 
+JLPWN	NN 7.989221408815276 
+NGZR	VB 9.399968503952575 
+QWNDSI	JJ 8.881558488638976 
+MDWR	NN 10.068662950495112 
+MDLILH	NNP 8.797246236703527 
+HWKW	VB 8.70682132339263 
+MWFEIM	JJ 8.881558488638976 
+HWKX	VB 8.013674142832684 
+WIRFWBSQI	NNP 8.797246236703527 
+AWWRJWN	NNP 7.4109518755836366 
+IZMH	VB 9.399968503952575 
+HWJL	VB 7.4540583548972625 
+HZDMN	VB 9.399968503952575 
+WWSJHAM	NNP 8.797246236703527 
+W.	NNP 8.797246236703527 
+IZMW	VB 8.70682132339263 
+EISQIIM	NN 10.068662950495112 JJ 8.881558488638976 
+ECRWT	NN 10.068662950495112 
+FMIKH	NN 10.068662950495112 
+SWLM	NN 8.970050661827003 NNT 7.850103545175582 
+TFLWMIM	NN 8.970050661827003 
+SWLL	NN 9.375515769935166 
+BEIQR	MOD 4.116866799570922 RB 5.178657570878793 
+MSTEPT	VB 9.399968503952575 
+SWLR	NN 10.068662950495112 
+HFKBTI	VB 9.399968503952575 
+DWRWN	NNP 6.600021659367308 
+WI	NNP 7.187808324269427 NN 10.068662950495112 
+WL	ZVL 4.3694478524670215 
+ESQIWT	JJ 8.188411308079031 
+WN	NNP 8.104099056143582 
+AIMTNI	JJ 8.188411308079031 
+MFWTPIM	JJ 7.495264127519086 VB 9.399968503952575 
+DWRWT	NN 8.276903481267057 
+WS	NNP 8.797246236703527 
+WW	NNP 7.698633948035417 
+SWKN	NNT 8.948715833843691 
+60,000	CD 7.564757012905729 
+XDWT	JJ 8.188411308079031 
+SWKM	VB 7.4540583548972625 
+HBJXTW	NN 8.970050661827003 
+HWLK	VB 7.32052696227274 
+XD	MOD 5.908626268798978 JJ 7.7829461999708665 
+98891	CD 7.564757012905729 
+XF	VB 7.608209034724521 
+MENIIN	VB 8.70682132339263 JJ 7.495264127519086 
+XG	NNT 8.948715833843691 NN 10.068662950495112 
+MDGIF	VB 8.70682132339263 
+XI	NN 9.375515769935166 VB 7.4540583548972625 JJ 8.188411308079031 
+EWLMW	NN 8.459225038061012 
+HWLM	JJ 7.7829461999708665 NN 10.068662950495112 
+SJNDRJI	JJ 8.881558488638976 
+XM	JJ 7.495264127519086 
+XN	NNP 8.104099056143582 NN 8.682368589375221 
+KSPIIM	JJ 6.316609131177439 
+FMIIM	NN 10.068662950495112 
+HDWRIM	JJ 8.188411308079031 
+ITMWK	VB 8.70682132339263 
+EWLMH	NN 10.068662950495112 
+LAXD	NNP 8.104099056143582 
+EWLMI	JJ 6.5789733956449306 
+ECRTI	VB 9.399968503952575 
+LAXR	IN 4.826677362674984 
+DIILT	NN 10.068662950495112 
+EWLMN	NN 10.068662950495112 
+FQIM	NN 8.970050661827003 
+HWENFW	VB 9.399968503952575 
+EWLMM	NN 10.068662950495112 
+MZGNI	NNT 8.948715833843691 
+MGPWN	NN 10.068662950495112 
+FQIT	NN 10.068662950495112 
+HZDRZ	VB 9.399968503952575 
+LKAWRH	RB 5.671134055976587 
+SQIRWT	NN 10.068662950495112 
+IPANI	JJ 7.495264127519086 
+LHFWWT	VB 8.013674142832684 
+SWMN	VB 8.70682132339263 
+SWMK	VB 8.70682132339263 NNP 7.698633948035417 
+DWGLIM	NN 10.068662950495112 
+MXLQWT	NN 9.375515769935166 
+ZH	RB 6.1231191797196445 AGR 4.26549281841793 NN 9.375515769935166 MOD 4.684850837176862 PRP 2.881454684572016 JJ 3.6666227310299906 
+SGNWNWT	NNT 8.948715833843691 NN 9.375515769935166 
+BIJWII	NNT 8.255568653283746 
+LAWR	IN 8.360363927383219 
+ZKAI	NNT 8.948715833843691 VB 8.70682132339263 
+IFTMFW	VB 8.70682132339263 
+MAWFPZIM	VB 9.399968503952575 
+ZR	JJ 7.272120576204876 NN 8.970050661827003 NNT 8.255568653283746 
+HWNW	NN 10.068662950495112 
+SWNG	NNP 8.797246236703527 
+HWNX	VB 9.399968503952575 
+ZW	JJ 4.136626360275726 AGR 5.87493073085203 PRP 3.779864991168323 
+MCBRIM	NN 10.068662950495112 
+ZZ	VB 8.70682132339263 
+SWPR	NNT 8.948715833843691 NN 7.1242239713286715 
+CRIKH	NN 9.375515769935166 VB 7.608209034724521 
+MNDIM	VB 9.399968503952575 
+EBD	NNP 8.104099056143582 VB 8.013674142832684 
+SWGIHM	NN 9.375515769935166 
+MFMRT	NN 10.068662950495112 
+HWQL	VB 9.399968503952575 
+HWQM	VB 8.70682132339263 
+MCDIQ	VB 9.399968503952575 
+EBH	JJ 8.881558488638976 
+LAZN	VB 9.399968503952575 
+SWPX	VB 9.399968503952575 
+EICBH	VB 9.399968503952575 
+SWPW	NN 7.503713593033575 
+KSPIWT	JJ 7.7829461999708665 
+NHAR	NNP 8.104099056143582 
+ZMINIM	JJ 8.881558488638976 
+EBR	VB 5.662298885669207 NN 6.379783496381176 
+NTPST	VB 8.70682132339263 
+IXZIR	VB 9.399968503952575 
+IXZIQ	VB 8.70682132339263 
+HWPC	VB 8.301356215284466 
+NWPLIM	VB 9.399968503952575 
+BEINH	RB 7.3758821482150125 MOD 7.518064181233078 
+BEINI	IN 9.74665828850311 
+ECB	NN 9.375515769935166 
+CBIETW	NN 10.068662950495112 
+HWPK	AUX 6.327936783729195 VB 7.7905305915184755 
+IAWFR	VB 9.399968503952575 
+MFJXIM	NN 10.068662950495112 
+ECI	NNT 7.850103545175582 
+ZWRXT	VB 9.399968503952575 
+NTPSH	VB 9.399968503952575 
+SWRIIM	JJ 8.881558488638976 
+ECM	NN 10.068662950495112 NNT 7.002805684788378 
+HWPQ	VB 9.399968503952575 
+ECR	VB 8.70682132339263 
+FWXRRW	VB 7.4540583548972625 
+MEJPH	NN 10.068662950495112 
+DTIIM	NN 10.068662950495112 JJ 7.7829461999708665 
+SWPI	NNP 8.797246236703527 JJ 7.089799019410921 
+SWPH	NN 8.970050661827003 
+SWGIIT	NNT 8.948715833843691 
+PWRNWGRAPIIM	JJ 8.881558488638976 
+SWRR	JJ 8.881558488638976 
+SWRQ	NNP 8.797246236703527 
+LNJWE	VB 9.399968503952575 
+PNIK	NN 10.068662950495112 
+LHCNIE	VB 8.70682132339263 
+PNIM	NNT 8.948715833843691 NN 6.81056641247363 
+AINJLQJWALI	JJ 8.881558488638976 
+EDH	VB 9.399968503952575 NN 8.970050661827003 
+PNIW	NN 7.583756300707112 
+REIITW	NN 8.682368589375221 
+EDI	NNT 8.948715833843691 NNP 8.104099056143582 
+EWLIM	JJ 8.881558488638976 VB 7.7905305915184755 NN 6.117419231913685 
+EDN	NNP 7.698633948035417 
+MFMXT	VB 9.399968503952575 
+SISMT	NNT 8.948715833843691 
+BRISJWL	NNP 8.104099056143582 
+EDT	NNT 8.948715833843691 
+SWCIALISJIM	NN 10.068662950495112 
+MTWAR	VB 9.399968503952575 
+HWRG	NN 10.068662950495112 
+HWRH	VB 7.09738341095853 
+ENII	NNT 7.850103545175582 
+SISMH	NN 10.068662950495112 
+ENIN	NN 9.375515769935166 
+HTARGNWT	NN 9.375515769935166 
+DIIGW	NNP 8.797246236703527 
+MIWCR	VB 9.399968503952575 
+HWRW	VB 9.399968503952575 
+PNIH	NN 8.276903481267057 
+SWCIALISJIT	JJ 8.881558488638976 
+SAWTHMPJWN	NNP 8.104099056143582 
+HWWARD	NNP 8.797246236703527 
+EFH	VB 6.760911174337317 
+BEIIH	NN 9.375515769935166 
+MEBR	NN 8.276903481267057 IN 7.348763015704739 NNT 7.850103545175582 
+EFN	NN 10.068662950495112 
+ASPIRIN	NNP 8.797246236703527 
+XDFWT	NN 9.375515769935166 NNT 8.948715833843691 JJ 6.316609131177439 
+EFR	CD 6.466144724237619 CDT 5.942799375126701 
+PRWSPR	NNP 8.797246236703527 
+BEIIT	NNT 6.751491256507472 
+EFW	VB 6.760911174337317 
+HISPANI	JJ 8.881558488638976 
+MWTNWT	VB 9.399968503952575 
+ZWRMIM	JJ 8.881558488638976 
+DIDAQJI	JJ 8.881558488638976 
+AXRIWT	NN 7.503713593033575 
+FQWPH	JJ 7.7829461999708665 
+XWLFTW	NN 10.068662950495112 
+BEIJH	NN 8.459225038061012 
+AWLIMPIADT	NNT 8.948715833843691 
+FWMRWN	NNP 7.4109518755836366 
+NHDR	JJ 8.188411308079031 
+HWTR	RB 8.069029328774958 
+ESISIT	JJ 8.188411308079031 
+RMDAN	NN 10.068662950495112 
+BECM	MOD 6.824917000673133 RB 5.871804751438739 
+BEIJT	NNT 7.562421472723801 
+IZWZ	VB 9.399968503952575 
+ABIGDWR	NNP 8.104099056143582 
+TIMFK	VB 8.301356215284466 
+DMWTH	NN 10.068662950495112 
+HWWH	NN 9.375515769935166 
+NHGT	VB 9.399968503952575 
+PWLNIIH	JJ 8.881558488638976 
+JWRNIR	NNT 8.948715833843691 NN 8.122752801439798 
+LNHWG	VB 8.013674142832684 
+DMWTK	NN 10.068662950495112 
+SPRWTIT	JJ 7.272120576204876 
+JIEWN	NN 9.375515769935166 
+MZERI	JJ 8.188411308079031 
+ARWXH	NN 10.068662950495112 
+CRKIH	NN 10.068662950495112 
+NHGW	VB 8.301356215284466 
+MEDW	VB 9.399968503952575 
+01,050	CD 7.564757012905729 
+SIMNIM	NN 9.375515769935166 
+AIJLQI	JJ 7.272120576204876 
+0007	CD 6.871609832345784 
+DMWTW	NN 8.459225038061012 
+HTRFM	VB 9.399968503952575 
+HMFKIM	NN 8.970050661827003 
+0003	CD 7.564757012905729 
+LHPSID	VB 8.70682132339263 
+0001	CD 7.564757012905729 
+TTKNS	VB 9.399968503952575 
+SIPWRI	NN 10.068662950495112 NNT 8.948715833843691 
+QRISTN	NN 9.375515769935166 
+BIZBWZ	NN 10.068662950495112 
+SIPWRH	NN 10.068662950495112 
+MECR	NN 7.583756300707112 
+EIN	NNT 7.339277921409591 NNP 7.005486767475472 NN 7.670767677696742 
+LHPSIQ	VB 7.608209034724521 
+TKLITW	NN 10.068662950495112 
+MTNHLIM	VB 8.70682132339263 
+SIPWRW	NN 9.375515769935166 
+EIR	NN 6.262000460724792 NNT 7.1569563646156364 
+TKLITH	NN 10.068662950495112 
+MSMRIM	NN 10.068662950495112 
+LQRAT	IN 6.856286530606945 
+CRKIM	NN 10.068662950495112 
+NHGI	NNT 8.948715833843691 
+ZKIH	NN 10.068662950495112 
+AWQJWBR	NNP 5.752723798980104 
+CRKIW	NN 10.068662950495112 
+DXWSH	JJ 8.881558488638976 
+HIDBRWT	NN 8.970050661827003 
+LZKWR	VB 7.4540583548972625 
+ENPI	NNT 7.339277921409591 
+BIJXWNW	NN 10.068662950495112 
+LZKWT	VB 7.32052696227274 IN 8.360363927383219 
+EJI	NNP 8.797246236703527 
+MXWKMIM	JJ 8.881558488638976 
+LBCR	VB 9.399968503952575 
+HTPJRWT	NNT 8.948715833843691 
+BIJXWNM	NN 10.068662950495112 
+LHTPLSP	VB 9.399968503952575 
+SJLINISJIT	JJ 8.881558488638976 
+PWJNCIAL	NNT 8.948715833843691 NN 8.970050661827003 
+DBWRH	NNP 8.797246236703527 
+EJW	NN 10.068662950495112 
+AGWZI	NNT 8.255568653283746 
+EWNFM	NN 9.375515769935166 
+EWNFW	NN 10.068662950495112 
+MEGL	NNT 8.255568653283746 NN 8.970050661827003 
+LBDH	MOD 7.518064181233078 
+FQRH	NNP 8.797246236703527 
+HWXL	VB 8.70682132339263 
+SIQWR	NNT 8.948715833843691 
+PWGEIM	VB 8.301356215284466 
+EWNFI	NNT 8.255568653283746 
+ABDW	VB 9.399968503952575 
+PWREIM	NN 10.068662950495112 
+MSXRIT	JJ 8.881558488638976 
+EKW	NNP 7.187808324269427 
+HIEDRWT	NN 8.970050661827003 
+TIKNN	VB 8.70682132339263 
+BIJXWNI	JJ 7.089799019410921 
+RAWIWT	VB 8.70682132339263 
+ABDN	NNT 8.948715833843691 
+MSWGLIM	VB 8.013674142832684 
+SWXR	NN 10.068662950495112 NNT 8.948715833843691 
+LBCE	VB 6.22191467360463 
+ABDH	NN 10.068662950495112 
+SWXP	JJ 8.881558488638976 
+HTRIE	VB 9.399968503952575 
+RIBEWWI	NNP 8.797246236703527 
+NHIH	VB 9.399968503952575 AUX 6.327936783729195 
+MEFH	NNT 7.562421472723801 NN 7.360612749392902 
+HWXDRH	VB 9.399968503952575 
+MEFI	NNT 5.729840008975491 
+ELH	NNT 8.948715833843691 VB 6.067763993777372 
+5.6.67	CD 7.564757012905729 
+ELI	IN 5.339939041238856 NNT 8.948715833843691 NNP 7.698633948035417 
+SIQRN	VB 9.399968503952575 
+PNQS	NNP 8.797246236703527 
+HFIBH	VB 8.70682132339263 
+LHXLF	VB 9.399968503952575 
+RIWZI	NNP 8.797246236703527 
+MKIWWN	IN 7.667216746823273 
+JBRIH	NNP 7.005486767475472 
+NMCAWT	VB 8.301356215284466 
+ELT	NN 10.068662950495112 
+MTPLLIM	NN 10.068662950495112 
+ELW	VB 6.627379781712794 
+MEID	VB 7.608209034724521 
+AFTQD	RB 6.1231191797196445 
+MEIN	IN 9.74665828850311 MOD 4.684850837176862 
+DXWPH	JJ 7.7829461999708665 
+EMD	VB 7.202743926616356 
+EMI	NN 10.068662950495112 NNT 8.948715833843691 
+ENQI	JJ 8.881558488638976 
+IKRIE	VB 8.70682132339263 
+EML	NNP 8.797246236703527 
+209,000	CD 7.564757012905729 
+EMQ	NN 9.375515769935166 NNT 7.562421472723801 
+BIWTR	RB 6.970417040106848 MOD 3.161355354543486 
+PRINCIP	NN 10.068662950495112 
+LBDW	RB 8.069029328774958 
+EMR	NNP 8.104099056143582 
+ZNWWH	NNP 8.104099056143582 
+AMWTIHM	NN 10.068662950495112 
+EMW	NN 8.970050661827003 
+TLBWFWT	NN 10.068662950495112 
+BEIT	NNT 8.948715833843691 
+DWQJWRAJ	NN 8.682368589375221 
+SWZI	NNP 8.797246236703527 
+MRGIEIM	JJ 8.881558488638976 VB 9.399968503952575 
+MDEWT	NN 10.068662950495112 
+QLEIM	NN 8.970050661827003 
+MLKWTI	JJ 8.188411308079031 
+MLKWTW	NN 9.375515769935166 
+BEIH	NN 6.379783496381176 
+ENH	VB 8.70682132339263 
+IBXRW	VB 8.70682132339263 
+DIAMNJ	NNP 8.797246236703527 
+FQWL	VB 9.399968503952575 
+TWQPIM	NN 10.068662950495112 
+GLRIWT	NN 10.068662950495112 
+FQWP	NN 10.068662950495112 JJ 8.881558488638976 
+ENP	NN 8.276903481267057 NNT 6.17612711160391 
+PNSW	NNP 8.797246236703527 
+RXBEM	NNP 7.698633948035417 
+ENQ	NN 8.122752801439798 JJ 8.881558488638976 
+RKILWT	NN 9.375515769935166 
+MBKRIM	VB 9.399968503952575 
+ENT	NNP 8.797246236703527 
+MEKB	VB 9.399968503952575 
+MWQEWT	VB 9.399968503952575 
+BEJW	VB 9.399968503952575 
+NHNH	VB 7.4540583548972625 
+IPHPIH	JJ 8.188411308079031 
+HTMWJJ	VB 9.399968503952575 
+PNTH	VB 8.013674142832684 
+TWTQP	VB 8.301356215284466 
+RJWRIQH	NN 10.068662950495112 
+MSRBT	VB 9.399968503952575 
+LHXIWT	VB 9.399968503952575 
+HISJRIH	NN 10.068662950495112 
+BELH	NN 8.122752801439798 
+LBFW	VB 8.013674142832684 
+ABIB	NN 5.602754831840528 
+SWEDIM	NN 10.068662950495112 
+AGWUI	NNP 6.717804695023691 
+MEJH	NN 9.375515769935166 JJ 8.188411308079031 
+ABHR	NNP 8.797246236703527 
+ENTH	VB 8.70682132339263 
+GIXWK	NN 10.068662950495112 
+AQDMIWT	JJ 7.7829461999708665 
+EIDWD	NNT 6.869274292163856 NN 8.276903481267057 
+ZKRM	NN 10.068662950495112 
+MEMD	NNT 7.1569563646156364 NN 7.670767677696742 
+LBJA	VB 8.70682132339263 
+TIKWN	JJ 6.5789733956449306 NNP 8.797246236703527 NN 9.375515769935166 
+ABIW	NN 8.122752801439798 
+NHPK	AUX 6.327936783729195 
+NEBWD	VB 8.70682132339263 
+BELT	NNT 7.562421472723801 
+MQWMIIM	JJ 6.6843339113027564 NN 9.375515769935166 
+FXIIH	NN 9.375515769935166 
+IFIMWN	NN 10.068662950495112 
+HTMWDD	VB 9.399968503952575 
+EQB	IN 6.655615835144793 VB 8.301356215284466 
+ABIN	VB 8.70682132339263 
+QICWNI	JJ 6.935648339583663 NN 10.068662950495112 
+AIJLIH	NNP 5.906874478807363 
+LBJL	VB 6.835019146491039 
+ZKRW	NN 8.970050661827003 
+ABIH	NN 10.068662950495112 
+BELI	NNT 5.393367772354278 
+PASIWN	NN 8.970050661827003 
+MIIBAT	VB 9.399968503952575 
+NHNW	VB 9.399968503952575 
+DBRIHM	NN 8.970050661827003 
+HFIGW	NN 10.068662950495112 VB 8.301356215284466 
+BRQIN	NNP 8.797246236703527 
+MELH	NNT 7.1569563646156364 RB 7.3758821482150125 VB 8.013674142832684 
+ERB	NN 7.360612749392902 NNT 6.751491256507472 NNP 8.797246236703527 
+LHTDIIN	VB 9.399968503952575 
+HSRJWT	NN 8.970050661827003 
+ARWNW	NN 8.682368589375221 
+ERD	NNP 8.797246236703527 
+NMCAIM	VB 6.915061854164575 
+LBIN	IN 6.488561750481627 
+ERF	NNT 8.948715833843691 
+HFIGH	VB 8.301356215284466 
+MFLBT	VB 8.301356215284466 
+ANDWQRINWLWGIH	NN 10.068662950495112 
+ERI	NNT 8.948715833843691 
+ERK	NN 7.989221408815276 NNT 8.948715833843691 VB 8.013674142832684 
+MENW	NN 9.375515769935166 
+NHRG	VB 7.202743926616356 
+HWNGRIH	NNP 7.005486767475472 
+BTWLI	NNT 8.948715833843691 
+ZKTH	VB 8.013674142832684 
+10117	CD 7.564757012905729 
+PNXS	NNP 8.104099056143582 
+IXWLLW	VB 9.399968503952575 
+HCLXNW	VB 9.399968503952575 
+DWGLWT	VB 9.399968503952575 
+ESQ	VB 7.7905305915184755 NN 7.871438373158893 NNT 8.948715833843691 
+MRGFIM	VB 9.399968503952575 
+HWCAWTIHM	NN 10.068662950495112 
+NWXIM	JJ 7.495264127519086 
+PALAS	NNP 7.698633948035417 
+XIWBIWT	JJ 7.272120576204876 
+PNWI	JJ 8.881558488638976 
+MENG	VB 9.399968503952575 
+TQBLW	VB 9.399968503952575 
+ETH	RB 4.405467682645312 
+PQISJAN	NNP 8.797246236703527 
+LBKM	NN 10.068662950495112 
+DMWIT	JJT 4.564348191467836 
+ABLM	NN 10.068662950495112 
+FWFIQ	NNP 8.797246236703527 
+ETQ	NN 10.068662950495112 
+RWBRJS	NNP 8.104099056143582 
+ANWFIIM	JJ 8.881558488638976 
+MEQB	NN 9.375515769935166 
+RAWIIM	VB 7.608209034724521 
+IHIIH	VB 9.399968503952575 
+ISIIE	VB 8.301356215284466 
+CIWNIIM	JJ 8.881558488638976 
+EUC	NNP 8.104099056143582 
+LBNH	JJ 8.881558488638976 NN 10.068662950495112 
+ARWKT	JJT 4.564348191467836 
+ADIFWT	NN 10.068662950495112 
+AWDWT	IN 9.74665828850311 
+EUI	IN 7.954898819275054 
+ARWKH	JJ 5.937119509472535 
+LBNW	NN 10.068662950495112 
+EUM	NN 9.375515769935166 
+MZRXIT	JJ 8.881558488638976 
+LBNT	NNP 8.797246236703527 
+HTQIIMW	VB 8.301356215284466 
+EUP	IN 9.74665828850311 
+CHUL	NNP 4.789913051471056 
+SJWDNJIM	NN 7.503713593033575 
+BERK	MOD 6.419451892564968 
+EUR	NN 10.068662950495112 NNP 7.698633948035417 
+GILIWN	NNT 7.339277921409591 NN 10.068662950495112 
+TIKTB	VB 9.399968503952575 
+MEIDH	VB 7.608209034724521 NN 10.068662950495112 
+HTQIIMH	VB 7.32052696227274 
+RWBRJW	NNP 8.797246236703527 
+ABNR	NNP 8.797246236703527 
+XITTW	NN 10.068662950495112 
+ARWJI	JJ 8.188411308079031 
+PINLND	NNP 8.104099056143582 
+MXIIBT	VB 8.013674142832684 
+GILITI	VB 9.399968503952575 
+MTAIMH	JJ 8.188411308079031 VB 7.7905305915184755 
+SIEWDI	JJ 8.881558488638976 
+BWDQIM	VB 8.301356215284466 
+EWD	IN 7.261751638715109 RB 3.9581554646016466 MOD 3.4071903170597664 
+ZIKIWN	NN 9.375515769935166 
+EWL	NNT 8.255568653283746 
+FWFLT	NNT 8.948715833843691 
+EWR	NN 8.682368589375221 NNT 8.948715833843691 NNP 8.104099056143582 
+HFIMW	VB 9.399968503952575 
+ZKWT	NN 7.989221408815276 NNT 7.339277921409591 
+ZKWR	NN 8.970050661827003 VB 9.399968503952575 
+HQIMH	VB 7.7905305915184755 
+EWZ	NNP 8.104099056143582 
+NLXMW	VB 9.399968503952575 
+MERB	NN 7.2354496064388965 NNT 6.550820561045321 
+CHWB	NNT 8.948715833843691 JJ 8.188411308079031 NN 8.970050661827003 
+MWRIDH	VB 9.399968503952575 
+MSMRWT	NN 10.068662950495112 
+NIBWLI	NNT 8.948715833843691 
+MSRIM	NN 10.068662950495112 
+MERK	NNT 8.255568653283746 NNP 7.187808324269427 NN 7.670767677696742 
+SJWDNJ	NN 8.122752801439798 
+MAWPIINT	VB 9.399968503952575 
+QRBH	NN 10.068662950495112 VB 8.70682132339263 
+MEUC	NNP 8.797246236703527 
+LCIID	VB 9.399968503952575 
+BEUM	NN 8.276903481267057 
+MQLJI	NNT 8.948715833843691 
+ABRI	NNP 8.797246236703527 
+MWSLMI	JJ 7.495264127519086 
+QRBN	NN 9.375515769935166 
+FWFNH	NNP 7.698633948035417 
+LBRK	VB 9.399968503952575 
+FXIQH	NN 9.375515769935166 
+QRBJ	NNP 8.104099056143582 
+LCIIT	VB 9.399968503952575 
+MEUM	NN 8.682368589375221 
+QRBT	NNT 8.255568653283746 
+LBRR	VB 9.399968503952575 
+HQIMW	VB 8.013674142832684 
+FXIQT	NNT 8.948715833843691 
+LCIIN	VB 7.7905305915184755 
+NHLIM	NN 9.375515769935166 
+LSXWP	VB 9.399968503952575 
+LNIHN	NNP 8.797246236703527 
+IPHPIIH	JJ 8.881558488638976 
+METH	RB 6.1231191797196445 
+LBQF	VB 8.301356215284466 
+EZB	VB 8.301356215284466 
+QRAH	VB 9.399968503952575 
+HTRXB	VB 9.399968503952575 
+NHWG	VB 9.399968503952575 
+TTMWDD	VB 8.70682132339263 
+QRAW	VB 8.301356215284466 
+EZH	JJ 8.881558488638976 NNP 5.706203783345211 
+QRAT	VB 9.399968503952575 
+LBQR	VB 8.301356215284466 
+RXBWT	JJ 8.881558488638976 NNT 8.255568653283746 
+NQIFTIWT	NN 10.068662950495112 
+MGWWNT	VB 9.399968503952575 
+RAIWNWT	NN 8.970050661827003 
+EZR	VB 9.399968503952575 NN 10.068662950495112 
+XIIQWL	NNP 7.4109518755836366 
+KAILW	IN 7.667216746823273 RB 6.459591416340857 
+JRIBIWN	NNP 7.698633948035417 
+MCWIRWT	JJ 8.881558488638976 
+MEWN	NN 8.970050661827003 
+BIIRWT	NNP 7.698633948035417 
+BEWD	IN 7.038608087400899 
+22051	CD 7.564757012905729 
+EFWIIM	JJ 7.7829461999708665 VB 7.7905305915184755 
+JIFJF	VB 9.399968503952575 
+MEWZ	NNT 8.255568653283746 NN 10.068662950495112 
+MTELMIM	VB 9.399968503952575 
+MFLIM	NN 9.375515769935166 VB 9.399968503952575 
+QBIEH	NN 8.970050661827003 
+LBSS	VB 9.399968503952575 
+FRDW	VB 9.399968503952575 
+GZIRH	NN 10.068662950495112 
+AGWDH	NN 8.122752801439798 
+PNWIIM	JJ 8.881558488638976 
+HSTPQH	VB 9.399968503952575 
+PWPWLRI	JJ 7.089799019410921 
+AGRWNWM	NN 10.068662950495112 
+RMBUM	NNP 7.187808324269427 
+ZIHWI	NNT 8.948715833843691 NN 8.970050661827003 
+ABWT	NN 8.970050661827003 
+LFRWP	VB 9.399968503952575 
+LQRWA	VB 7.32052696227274 
+SIRBW	VB 7.4540583548972625 
+EWMRI	NNP 8.797246236703527 
+MLKWDT	NN 10.068662950495112 
+HXLH	VB 7.202743926616356 
+AIJLQIT	NN 9.375515769935166 JJ 7.495264127519086 
+ABWD	JJ 8.881558488638976 
+MEILH	NN 10.068662950495112 
+AXWZTW	NN 10.068662950495112 
+SIRBH	VB 8.013674142832684 
+ARWBH	NN 9.375515769935166 
+AIJLQIM	JJ 8.188411308079031 
+NWXWT	NN 10.068662950495112 JJ 7.495264127519086 
+HSTPQW	VB 9.399968503952575 
+HXLW	VB 7.09738341095853 
+HDWQIM	JJ 8.881558488638976 
+HXLT	NNT 8.948715833843691 
+HMGDLIT	NNP 8.797246236703527 
+BHTAM	RB 7.3758821482150125 IN 7.954898819275054 
+FRID	NNP 6.717804695023691 
+AWLIMPIADWT	NN 10.068662950495112 
+EWMQH	NN 10.068662950495112 
+HEFRH	NN 10.068662950495112 
+LHMJIR	VB 9.399968503952575 
+MNHAJN	NNP 8.797246236703527 
+RBBWT	CDT 4.844187086458591 
+RWKLIM	NN 10.068662950495112 
+FRIM	NN 7.766077857501067 
+BEIITM	NN 9.375515769935166 
+FRIR	NN 9.375515769935166 NNP 7.698633948035417 
+BEIITI	JJ 8.188411308079031 
+CIPWR	NNT 8.948715833843691 
+BEIITH	NN 10.068662950495112 
+QDWMWT	JJ 8.188411308079031 
+HMCATW	NN 10.068662950495112 
+MCIEIM	VB 8.70682132339263 
+LBWA	VB 8.013674142832684 
+FAB	VB 9.399968503952575 
+LBWF	NN 10.068662950495112 VB 9.399968503952575 
+HIMWRI	NNT 8.948715833843691 
+MXIIKT	VB 9.399968503952575 
+FAJ	MOD 7.518064181233078 
+FAL	VB 7.7905305915184755 
+QWNCRN	NN 10.068662950495112 NNT 8.948715833843691 
+FAN	NN 8.682368589375221 
+AGWDT	NNT 7.002805684788378 
+||END||	**END** 0.0 
+MFTTPI	NNT 8.255568653283746 
+FAR	DT 4.100734360320872 NN 7.296074228255331 NNT 8.948715833843691 
+MTMSRWT	VB 9.399968503952575 
+TSKWLW	NN 9.375515769935166 
+EIWNIWT	JJ 8.881558488638976 
+FBE	VB 9.399968503952575 CD 5.079850363117729 
+FLIFIT	JJ 7.089799019410921 NN 9.375515769935166 RB 8.069029328774958 
+ZLCR	NNP 8.797246236703527 
+FBH	VB 9.399968503952575 
+ITLWW	VB 9.399968503952575 
+HWEMDW	VB 8.70682132339263 
+QRJR	NNP 8.797246236703527 
+FBJ	NNT 8.948715833843691 
+CEDIH	NN 10.068662950495112 
+NQWDWT	NNT 7.562421472723801 NN 6.262000460724792 
+CEDIM	NN 8.682368589375221 
+PWLMN	NNP 8.797246236703527 
+FBT	NNP 6.399350963905157 NN 10.068662950495112 
+FBW	VB 8.013674142832684 
+FBX	NN 10.068662950495112 
+NIBA	VB 9.399968503952575 
+QRIM	JJ 8.188411308079031 NNP 8.797246236703527 
+XQLAI	JJ 7.7829461999708665 NN 10.068662950495112 
+SPWRJIWWIT	JJ 8.188411308079031 
+QRIT	NNT 6.751491256507472 
+CIPWI	NN 7.296074228255331 NNT 8.255568653283746 
+PWLNI	NN 10.068662950495112 JJ 6.5789733956449306 
+PRLMNJRIT	JJ 8.188411308079031 
+FCP	NN 10.068662950495112 
+LHBJIX	VB 8.013674142832684 
+ADMTM	NN 9.375515769935166 
+BMAIM	NN 8.970050661827003 
+MCBIEWT	VB 8.70682132339263 
+RIXWQ	NNT 8.948715833843691 
+NAIWWIT	JJ 8.188411308079031 
+NICL	VB 8.301356215284466 
+QBILH	JJ 7.7829461999708665 
+HTNCLWTW	NN 10.068662950495112 
+ZIHMH	VB 9.399968503952575 
+NICN	NNP 8.797246236703527 
+NPCEW	VB 6.627379781712794 
+NICI	NNT 8.948715833843691 
+LHCMID	VB 9.399968503952575 
+FDD	VB 8.70682132339263 
+MQWMIWT	JJ 7.495264127519086 
+FDH	NNT 7.562421472723801 NN 8.970050661827003 
+LACIW	NNP 8.797246236703527 
+QRISJL	NNP 7.698633948035417 
+ADMWT	NN 10.068662950495112 
+NPCEH	VB 8.70682132339263 
+NICX	VB 6.760911174337317 
+QRISJI	NNP 8.797246236703527 
+FDR	NN 10.068662950495112 
+LHCMIT	VB 9.399968503952575 
+IDENIM	NN 10.068662950495112 
+AMTNIIM	JJ 8.881558488638976 
+GRWJSQI	JJ 8.881558488638976 
+PRWPWRCIH	NN 10.068662950495112 
+MFAB	NN 10.068662950495112 
+LQRWT	VB 8.70682132339263 
+CIDW	NN 10.068662950495112 
+PALQW	NNP 8.797246236703527 
+FEH	VB 9.399968503952575 NN 6.667465568832957 
+FEN	NN 9.375515769935166 
+FER	NN 6.890609120147166 NNT 6.751491256507472 
+FET	NNT 7.002805684788378 
+1400	CD 7.564757012905729 
+QRLH	NNP 8.797246236703527 
+HWEMDH	VB 9.399968503952575 
+NICB	VB 7.7905305915184755 NN 7.2354496064388965 
+XFIBWT	NNT 8.255568653283746 NN 7.989221408815276 
+DLIH	NNP 8.104099056143582 
+FFI	NNP 6.089196035601317 
+FFH	CDT 5.942799375126701 CD 5.618846863850416 
+DLIL	JJ 8.881558488638976 
+MFBR	NN 6.890609120147166 NNT 7.339277921409591 
+01.3	CD 7.564757012905729 
+01.4	CD 7.564757012905729 
+NIFA	VB 8.70682132339263 
+QBIET	NNT 6.240665632741481 
+PWANJWT	NN 10.068662950495112 
+FFT	CDT 5.249652194566756 
+PWLIN	NNP 5.363259032218381 
+TQWEIM	JJ 8.881558488638976 
+MXIITN	NN 10.068662950495112 
+XFBH	VB 9.399968503952575 
+FGB	NNP 5.752723798980104 
+MFAL	NNT 7.562421472723801 
+ANJMN	NNP 8.797246236703527 
+MFAJ	NNP 8.104099056143582 
+DLHI	NNP 8.104099056143582 
+MFLWX	NNT 8.948715833843691 NN 9.375515769935166 
+RIIDAAWJ	NNP 8.797246236703527 
+SPWNJNIWT	NN 10.068662950495112 
+HWFPEH	VB 9.399968503952575 
+SIRNH	NN 9.375515769935166 
+SIRNI	NNP 8.104099056143582 
+MFDR	VB 9.399968503952575 
+NIGN	VB 9.399968503952575 
+FHH	VB 8.301356215284466 
+ALMWLZINW	NNP 8.797246236703527 
+LCAT	VB 6.56675515989636 
+ADMTH	NN 9.375515769935166 
+MWFLKWT	JJ 8.881558488638976 
+QRQE	NNT 8.948715833843691 NN 8.122752801439798 
+TKRIE	VB 9.399968503952575 
+RIINGRS	NNP 7.187808324269427 
+MEIQH	VB 9.399968503952575 
+1430	CD 6.466144724237619 
+RGWEIM	JJ 8.881558488638976 
+NIHL	VB 7.7905305915184755 
+ELMIN	NN 10.068662950495112 
+TIKWNIT	JJ 8.881558488638976 
+FIA	NN 8.276903481267057 NNT 7.339277921409591 
+HSPDW	NN 10.068662950495112 
+FRPH	NN 9.375515769935166 
+FIJ	NN 8.970050661827003 
+XFBW	VB 9.399968503952575 
+MTNHLWT	VB 9.399968503952575 
+FIM	NNT 8.948715833843691 
+FIR	NN 8.682368589375221 NNT 8.948715833843691 
+FIX	NN 8.682368589375221 
+TFPRNH	VB 9.399968503952575 
+MEIRH	VB 9.399968503952575 
+ACBE	VB 9.399968503952575 NN 9.375515769935166 NNT 8.948715833843691 
+MILJWN	NNP 8.104099056143582 
+NIGF	VB 9.399968503952575 
+MPIQH	VB 9.399968503952575 
+MWRKBWT	VB 9.399968503952575 JJ 8.881558488638976 
+NIIR	NNT 8.255568653283746 NN 8.682368589375221 
+NTRAH	VB 9.399968503952575 
+FJG	NNP 8.797246236703527 
+MIWEDIM	VB 8.70682132339263 
+LLEWG	VB 9.399968503952575 
+IWXNN	NNP 8.797246236703527 
+2791	CD 7.564757012905729 
+FJN	NN 8.276903481267057 
+MEWLPIM	JJ 8.881558488638976 
+SNDLRWT	NN 10.068662950495112 
+CIIT	VB 9.399968503952575 
+PSIKIAJRIWT	JJ 8.881558488638976 
+CIIR	NN 10.068662950495112 
+MTXIL	JJ 8.881558488638976 VB 8.301356215284466 
+AINJIMIT	JJ 8.881558488638976 
+CIIN	VB 7.002073231154205 
+FJX	NN 6.9776204971367966 NNT 7.1569563646156364 
+MWZIAWNIM	NN 10.068662950495112 
+TEBIR	VB 8.70682132339263 
+XIWWR	JJ 8.881558488638976 
+HTMWDDW	VB 8.70682132339263 
+JKNIWN	NN 9.375515769935166 
+MXBRT	VB 9.399968503952575 
+PLQJIM	NN 10.068662950495112 
+FRRH	VB 8.70682132339263 
+IEBWR	VB 8.301356215284466 
+ABWQSIS	NNP 7.4109518755836366 
+SXWR	NNP 8.797246236703527 
+FKN	IN 6.802219309336669 JJ 8.881558488638976 
+FKM	NNP 6.089196035601317 
+LERER	VB 7.32052696227274 
+HSRJT	NNT 8.948715833843691 
+FKR	NNT 6.17612711160391 NN 6.355090883790805 
+RWBIM	NN 10.068662950495112 
+RWBIN	NNP 8.797246236703527 
+KIBWF	NN 7.503713593033575 NNT 8.255568653283746 
+FKX	VB 8.301356215284466 
+KIBWD	NNT 8.948715833843691 
+QRWBIM	JJ 6.396651838850976 NN 10.068662950495112 
+KIBWI	NNT 8.255568653283746 
+HSRJH	NN 7.989221408815276 
+ABIJL	NNP 8.797246236703527 
+CIJJ	VB 8.301356215284466 
+FLA	RB 4.810932790753475 MOD 6.419451892564968 
+FLB	NNT 7.850103545175582 NN 7.024140512771689 
+FLD	NN 10.068662950495112 
+ELWBIM	JJ 8.881558488638976 
+FLJ	NNT 8.948715833843691 
+NIKR	JJ 8.188411308079031 
+FLM	NN 10.068662950495112 JJ 7.089799019410921 
+FLL	VB 8.70682132339263 NN 10.068662950495112 NNT 8.948715833843691 
+WWEDT	NNT 5.904193396120268 
+RIKWZI	JJ 8.188411308079031 
+FLP	VB 9.399968503952575 
+MFHW	NN 7.503713593033575 
+HSTIIGWT	NN 9.375515769935166 
+FAIBH	NN 9.375515769935166 
+SNAJWRIM	NN 10.068662950495112 
+MTWNIM	JJ 8.188411308079031 
+FLX	VB 7.32052696227274 NNP 8.797246236703527 
+MFIG	VB 8.70682132339263 
+MFIB	VB 9.399968503952575 
+MFIM	VB 9.399968503952575 
+FMA	IN 8.648045999835 QW 4.672828834461907 
+WWEDH	NN 7.178291192598947 
+FMC	NN 10.068662950495112 
+MFIJ	NNT 8.948715833843691 
+FMF	NN 8.970050661827003 
+FME	NNT 8.948715833843691 VB 8.301356215284466 
+FMH	NN 8.682368589375221 VB 9.399968503952575 
+HPGNTIWT	NN 10.068662950495112 
+SGNWN	NN 8.122752801439798 NNT 8.948715833843691 
+FMJ	VB 8.70682132339263 
+FMN	NN 7.871438373158893 
+FMM	NN 8.122752801439798 
+QRTA	NNP 8.797246236703527 
+HSTLQWT	NN 10.068662950495112 
+FMX	RB 8.069029328774958 
+BRZILI	NNP 8.797246236703527 
+FMW	NN 7.2354496064388965 
+TNUKIT	JJ 8.881558488638976 
+TINTN	VB 8.70682132339263 
+QRTH	VB 9.399968503952575 
+KTBTW	NN 9.375515769935166 
+KTBTK	NN 10.068662950495112 
+FNA	VB 9.399968503952575 
+ZLMN	NNP 8.797246236703527 
+GDLIM	JJ 8.881558488638976 VB 9.399968503952575 NN 9.375515769935166 
+KIHNTI	VB 9.399968503952575 
+MEWNIINT	VB 9.399968503952575 
+FNI	NN 8.682368589375221 CDT 1.180625440328945 CD 7.564757012905729 JJ 5.355197964022815 NNP 7.4109518755836366 
+MWTIRIM	VB 8.70682132339263 
+FNH	NN 5.463492764507021 
+LBIDIM	NN 8.276903481267057 
+FRWN	NN 8.122752801439798 NNP 5.706203783345211 
+AIJIPAQ	NNP 8.797246236703527 
+NIMR	NNP 8.104099056143582 
+MFJR	NN 7.670767677696742 
+IWRDIM	VB 9.399968503952575 NN 10.068662950495112 
+FRWT	NNT 8.255568653283746 
+QRWB	IN 9.74665828850311 JJ 6.396651838850976 NN 10.068662950495112 
+BELIH	NN 9.375515769935166 
+TKTWB	VB 9.399968503952575 
+FNT	NNT 5.452208272377211 
+BELIL	RB 8.069029328774958 MOD 6.419451892564968 
+BELIM	NN 10.068662950495112 
+AMADWRH	NNP 8.797246236703527 
+LKBWT	VB 9.399968503952575 
+MFKB	NN 10.068662950495112 
+CIMQ	VB 9.399968503952575 
+QRWI	VB 9.399968503952575 
+MKWBDT	JJ 7.7829461999708665 
+MGRFW	NN 10.068662950495112 
+MFKN	NN 9.375515769935166 
+KHNISJIWT	JJ 8.881558488638976 
+IXIDIM	NN 8.682368589375221 JJ 8.188411308079031 
+HFLIM	VB 8.013674142832684 
+NIQWSIH	NNP 8.797246236703527 
+DLPQ	NN 8.970050661827003 
+EBRIT	JJ 8.188411308079031 NN 8.276903481267057 
+APIPIWR	NN 10.068662950495112 
+MFIX	NN 10.068662950495112 
+FWIIC	NNP 8.797246236703527 
+NIMH	NN 8.970050661827003 
+MTKNNIM	VB 9.399968503952575 
+QJBIM	NN 10.068662950495112 
+HTIIXS	VB 9.399968503952575 
+FPE	NNT 8.948715833843691 NN 8.682368589375221 
+PWNDMNJLIZM	NN 10.068662950495112 
+XFIM	VB 9.399968503952575 
+PINSQI	NNP 8.797246236703527 
+CINI	JJ 7.7829461999708665 
+FPI	NNP 8.797246236703527 
+IRIBW	NN 8.970050661827003 
+FPH	NN 7.429605620879854 
+FPJ	VB 7.002073231154205 
+FPL	NN 10.068662950495112 NNT 8.948715833843691 
+MPWRJIM	JJ 8.881558488638976 VB 9.399968503952575 
+FPR	VB 9.399968503952575 
+AXIHM	NN 10.068662950495112 
+EWMDWT	VB 8.70682132339263 
+NIPC	VB 9.399968503952575 
+FPT	NNT 8.948715833843691 
+HFLJT	NNT 8.948715833843691 
+XFMLIT	JJ 8.881558488638976 
+LCJJ	VB 9.399968503952575 
+NKNSNW	VB 9.399968503952575 
+MFME	NN 10.068662950495112 
+MFMF	VB 7.608209034724521 
+FQD	NNP 8.104099056143582 NN 8.970050661827003 
+MFMR	NNT 6.646130740849646 NN 10.068662950495112 
+NWXIWT	NNT 8.948715833843691 NN 10.068662950495112 
+FQE	VB 9.399968503952575 
+FQJ	NN 8.122752801439798 JJ 8.881558488638976 
+KTBWT	NN 10.068662950495112 
+FQI	NNT 8.948715833843691 
+FQL	NN 6.667465568832957 
+LKBWF	VB 8.013674142832684 
+NINW	NNP 8.797246236703527 
+MGRFM	NN 10.068662950495112 
+LKBWD	IN 8.648045999835 
+HDLPWT	NN 10.068662950495112 
+MGRFH	NN 8.970050661827003 
+SINIWT	JJ 8.881558488638976 
+FQR	NN 10.068662950495112 
+MFLB	VB 8.70682132339263 
+IRIDH	NN 7.583756300707112 
+MFLH	VB 9.399968503952575 
+HQLJT	NNT 8.948715833843691 
+CIPW	VB 8.70682132339263 
+EWBDWT	NNT 8.948715833843691 NN 9.375515769935166 VB 8.70682132339263 
+IGIEW	VB 7.09738341095853 
+FRI	NNT 7.339277921409591 
+ACJJ	NN 10.068662950495112 
+HQLJH	NN 10.068662950495112 
+FRH	NNP 8.797246236703527 VB 9.399968503952575 
+TWCAWT	NN 7.766077857501067 NNT 6.869274292163856 
+MFLM	VB 8.70682132339263 NN 10.068662950495112 
+ASPQJIM	NN 9.375515769935166 
+AGTNWR	NNT 7.562421472723801 
+CIRI	NNT 7.562421472723801 
+CIRIM	NN 8.276903481267057 
+MWFKIM	JJ 8.881558488638976 VB 8.70682132339263 
+FRP	NN 9.375515769935166 NNP 7.187808324269427 
+NIQX	VB 9.399968503952575 
+FRR	VB 9.399968503952575 
+RBEWN	NN 8.970050661827003 
+NIRIT	NNP 8.797246236703527 
+HQNIWT	NN 10.068662950495112 
+IECBW	VB 9.399968503952575 
+FQWPIM	JJ 8.188411308079031 
+XFAIIM	JJ 7.7829461999708665 
+CIRIH	NN 10.068662950495112 
+MDQDQWT	VB 9.399968503952575 
+MSTKMT	VB 9.399968503952575 
+LCLM	VB 9.399968503952575 
+MFMX	VB 9.399968503952575 
+HFLMT	NNT 7.850103545175582 
+TWRNIM	NN 10.068662950495112 
+XFML	NN 6.81056641247363 
+JWRNH	NNP 8.104099056143582 
+MWMLCIM	VB 9.399968503952575 
+KLLIM	NN 8.122752801439798 
+HWELTH	VB 9.399968503952575 
+KLLIT	NN 8.970050661827003 JJ 5.514262658652502 
+RWBRS	NNP 8.797246236703527 
+NIQL	NNP 8.797246236703527 
+MFNH	NNT 8.255568653283746 NN 7.766077857501067 NNP 8.797246236703527 VB 9.399968503952575 JJ 8.881558488638976 
+RWBRJ	NNP 7.4109518755836366 
+NIQS	NNP 8.797246236703527 
+FTI	CDT 1.783916291767029 NN 10.068662950495112 
+CIRP	VB 9.399968503952575 
+ABIBI	JJ 7.272120576204876 
+XLWPIWT	JJ 7.7829461999708665 
+HPIKH	NN 8.970050661827003 
+QWNSRWWJIWWI	JJ 8.881558488638976 
+JWRQI	NN 10.068662950495112 JJ 7.495264127519086 
+TSKWL	NN 9.375515769935166 
+AXIDH	JJ 8.188411308079031 
+MFQL	NNT 7.1569563646156364 NN 8.276903481267057 
+NITN	VB 5.816449565496465 
+MFQI	NNT 8.948715833843691 
+TFTWWH	VB 9.399968503952575 
+FUS	NNP 7.698633948035417 
+FUX	NN 5.626011694004796 
+ETIDIIM	JJ 7.495264127519086 
+APLWLIT	NN 10.068662950495112 
+NISN	NNP 8.797246236703527 
+NISH	VB 7.002073231154205 
+IRIIH	NN 8.970050661827003 
+HPIKT	NNT 8.948715833843691 
+MFPJ	NNT 8.948715833843691 NN 5.764597857290942 
+4,509	CD 7.564757012905729 
+MXLWQT	NN 7.583756300707112 
+AMICH	JJ 8.881558488638976 
+NISW	VB 7.09738341095853 
+MBCEIWT	JJ 8.881558488638976 
+MELIT	NN 10.068662950495112 
+MPLIA	VB 8.70682132339263 
+ALEZR	NNP 8.797246236703527 
+MFSH	VB 9.399968503952575 
+RWBNW	NN 10.068662950495112 
+IWXZR	VB 9.399968503952575 
+FWB	NN 10.068662950495112 RB 4.701733498788483 
+MELIB	VB 9.399968503952575 
+FWD	NN 7.429605620879854 
+AWRJGH	NNP 7.698633948035417 
+MWSQWBIC	NNP 8.104099056143582 
+FWN	NNP 8.797246236703527 
+FWM	DT 3.3698468517780795 NNP 8.797246236703527 NN 10.068662950495112 
+FWR	NNP 8.797246236703527 
+FWQ	NN 6.849787125626912 NNT 6.646130740849646 
+KWLLT	VB 7.09738341095853 JJ 7.495264127519086 
+CIWN	NN 9.375515769935166 NNP 6.23229687924199 NNT 7.562421472723801 
+FWT	NN 8.276903481267057 
+MIIECT	JJ 8.881558488638976 
+MFRH	NN 9.375515769935166 
+CIWD	NN 8.970050661827003 
+MFRD	NNT 4.112433926892214 NN 7.1242239713286715 
+MWSDIIM	JJ 8.881558488638976 
+NKNSIM	VB 8.70682132339263 
+FXQ	NNP 8.797246236703527 
+MFRT	VB 8.70682132339263 NNT 7.339277921409591 
+FXP	NNP 8.797246236703527 
+FXR	NN 10.068662950495112 NNP 8.797246236703527 
+FXT	NN 10.068662950495112 
+MPLGH	NN 6.602927047695386 
+XFTI	VB 9.399968503952575 
+PWJNCIALIIM	JJ 8.188411308079031 
+MDIDH	NN 9.375515769935166 
+WWRWNIN	NNP 8.797246236703527 
+EDIPWIWT	NN 9.375515769935166 
+TINWQ	NN 10.068662950495112 
+MPLGT	NNT 6.240665632741481 
+LCRP	VB 8.70682132339263 
+CIWW	VB 9.399968503952575 
+MNIIRISJIT	JJ 8.881558488638976 
+APRIM	NNP 7.187808324269427 
+CIWR	NN 8.970050661827003 
+APRIL	NNP 7.187808324269427 
+MTXRH	NN 10.068662950495112 
+HMLCWTIH	NN 10.068662950495112 
+PWNDMNJLISJ	NN 10.068662950495112 
+NFIAT	NNT 8.255568653283746 
+MCBIEIW	NN 10.068662950495112 
+MFTP	VB 8.70682132339263 
+MTBHRIM	VB 9.399968503952575 
+MCBIEIM	VB 8.70682132339263 
+BWQRFJ	NNP 7.187808324269427 
+NIWZ	NNP 8.797246236703527 
+EWMDIM	VB 7.32052696227274 NN 10.068662950495112 
+NICWCWT	NN 10.068662950495112 
+LHTAIM	VB 9.399968503952575 
+HPIQH	VB 8.70682132339263 
+EWBDIW	NN 9.375515769935166 
+MPGINWT	NN 10.068662950495112 
+MFWM	IN 6.083096642373463 
+PWRMLI	JJ 8.881558488638976 
+SMKWIWTIW	NN 10.068662950495112 
+XFWB	JJ 6.04834514458276 VB 6.6919183028503655 
+MKFIRIHM	NN 10.068662950495112 
+XFWD	NN 7.583756300707112 JJ 8.881558488638976 VB 8.70682132339263 
+QWMPWZICIH	NN 10.068662950495112 
+MTXZH	VB 9.399968503952575 
+MBCET	VB 9.399968503952575 
+AINJNSIWWIT	JJ 8.881558488638976 
+PISARW	NNP 8.797246236703527 
+MWCBIM	VB 8.70682132339263 
+JIIMS	NNP 6.851336087648214 
+ACUL	NNP 8.797246236703527 
+QLIEH	NN 9.375515769935166 
+MBCEI	NNT 8.948715833843691 JJ 7.7829461999708665 
+TIKWNIIM	JJ 8.881558488638976 
+EWBDIH	NNP 8.104099056143582 
+HREIPW	VB 9.399968503952575 
+HEIRH	VB 9.399968503952575 
+MTWNWT	JJ 8.881558488638976 
+MXLIJIM	VB 9.399968503952575 
+HWDIIM	JJ 8.881558488638976 
+EWBDIM	NN 6.043311259759963 VB 7.608209034724521 
+HWDIEW	VB 7.32052696227274 
+MWDEIM	VB 9.399968503952575 
+LXIIG	VB 9.399968503952575 
+MARGNIM	NN 8.970050661827003 
+PSIKIAJRIIM	JJ 8.881558488638976 
+EWNWT	NN 10.068662950495112 
+TEBWR	VB 9.399968503952575 
+LXIIB	VB 9.399968503952575 
+MCWQTN	NN 10.068662950495112 
+MCWQTM	NN 9.375515769935166 
+DIKWI	NNT 8.255568653283746 NN 10.068662950495112 
+MCWQTH	NN 10.068662950495112 
+EMITIW	NN 9.375515769935166 
+KWLNW	PRP 7.050700554967235 
+PRWZAQ	NNP 8.797246236703527 
+MITMMIM	JJ 8.881558488638976 
+MMCAI	NN 10.068662950495112 NNT 8.255568653283746 
+MELLI	NNT 8.948715833843691 
+MFXH	NN 10.068662950495112 
+MFWEFET	JJ 8.881558488638976 
+HIRCXW	NN 10.068662950495112 
+MFXQ	NNT 5.9529835602897005 NN 6.117419231913685 VB 8.70682132339263 
+LXIIM	NN 10.068662950495112 
+ATLJIM	NN 10.068662950495112 
+LPRSM	VB 7.7905305915184755 
+MJIILIM	NN 8.970050661827003 VB 8.70682132339263 
+NFIMH	NN 10.068662950495112 
+AXHUC	NN 10.068662950495112 
+MZIMT	NNT 8.948715833843691 
+MDINT	NNT 5.770662003495746 
+QWLQJIWWISJIWT	JJ 8.881558488638976 
+MGRWT	VB 9.399968503952575 
+MDINI	JJ 6.80211694695914 
+MDINH	NN 5.737929610208781 
+MZINH	VB 9.399968503952575 
+ICWIDW	VB 9.399968503952575 
+MMCIA	NNT 8.255568653283746 
+BARNSLI	NNP 8.797246236703527 
+HQLWT	NN 10.068662950495112 
+NPFIT	JJ 8.188411308079031 
+GBWRWT	NN 10.068662950495112 
+GAD	NNP 6.494661143709481 
+GAH	JJ 8.881558488638976 VB 9.399968503952575 
+MZIMH	NN 10.068662950495112 
+HWDIEH	VB 7.4540583548972625 
+NEFIT	VB 7.7905305915184755 
+TWXLT	NN 10.068662950495112 
+GAN	NN 10.068662950495112 
+GAQ	NNP 8.797246236703527 
+NEFIM	VB 8.301356215284466 
+NFIAWT	NNT 8.948715833843691 NN 8.682368589375221 
+TXINTW	NN 10.068662950495112 
+LXIMH	NN 8.459225038061012 
+AMHWT	NN 9.375515769935166 
+MCJRPWT	VB 9.399968503952575 
+LERWK	VB 8.70682132339263 
+QLIBR	NN 10.068662950495112 
+LPRWE	VB 8.70682132339263 
+LPRWF	VB 9.399968503952575 
+ISLXW	VB 9.399968503952575 
+RPWBLIQAI	NN 10.068662950495112 JJ 7.272120576204876 
+LERWB	VB 9.399968503952575 
+KDWRSLN	NN 10.068662950495112 NNT 8.948715833843691 
+GBI	NNT 7.562421472723801 NNP 7.698633948035417 
+PWJNCIALI	JJ 8.881558488638976 
+FQWPWT	JJ 8.881558488638976 
+GBR	VB 8.301356215284466 NN 8.276903481267057 
+GBT	NNP 7.005486767475472 NNT 8.255568653283746 
+GINQWLWG	NNP 8.797246236703527 
+ABWTIW	NN 10.068662950495112 
+GBW	VB 9.399968503952575 NN 8.682368589375221 
+IRWQWT	JJ 8.881558488638976 
+IQWTIAL	NNP 8.104099056143582 
+MBLBLIM	VB 8.70682132339263 
+MCWQWT	NN 10.068662950495112 NNT 8.948715833843691 
+QRIAWTIHN	NN 10.068662950495112 
+SIQSRS	NNP 8.797246236703527 
+FGWIWT	JJ 8.188411308079031 
+NQIIH	JJ 8.881558488638976 
+BSISIT	JJ 8.188411308079031 
+LPRWK	VB 9.399968503952575 
+LPRWQ	VB 9.399968503952575 
+MWGNWT	JJ 8.881558488638976 
+MBINWT	JJ 8.881558488638976 
+MWRKBIM	JJ 8.881558488638976 
+QWNJRS	NNP 8.797246236703527 
+GDH	NN 8.122752801439798 
+RIALIWT	JJ 8.881558488638976 
+GDI	NNP 7.4109518755836366 
+LCLWE	VB 9.399968503952575 
+GDL	VB 7.32052696227274 
+AINJIMIIM	JJ 8.881558488638976 
+FMEWNWB	NNP 8.797246236703527 
+GDR	NN 9.375515769935166 
+IRIXW	NNP 7.698633948035417 
+HTIICB	VB 8.301356215284466 
+TEWDWT	NNT 8.948715833843691 
+IRWQIM	NN 10.068662950495112 
+TERWKH	NN 8.682368589375221 
+QSMH	NN 10.068662950495112 
+MERICIW	NN 10.068662950495112 
+ITRWNW	NN 10.068662950495112 
+LHTABD	VB 8.301356215284466 
+NFIPH	NN 10.068662950495112 
+QDRWT	NN 10.068662950495112 
+LHIABQ	VB 8.013674142832684 
+KWWIITIIM	JJ 8.881558488638976 
+MPLTW	NN 10.068662950495112 
+EPIP	NNP 8.797246236703527 
+1500	CD 7.564757012905729 
+MZIQI	NNT 8.948715833843691 
+LHSTWBB	VB 9.399968503952575 
+IRIWT	NN 7.989221408815276 
+EQRWNI	JJ 8.188411308079031 
+MBINIM	VB 8.013674142832684 
+ITRWNM	NN 10.068662950495112 
+MFTWLL	VB 9.399968503952575 
+QWNJIQJ	NNP 8.797246236703527 
+CRLJWN	NNP 8.797246236703527 
+IWRDWT	VB 9.399968503952575 JJ 8.881558488638976 
+NJEN	VB 8.013674142832684 
+RIGWFIM	NN 10.068662950495112 
+MXCIT	DT 4.468459140446189 NNT 8.948715833843691 NN 7.766077857501067 
+MPLST	VB 9.399968503952575 
+DLTWT	NNT 7.1569563646156364 NN 7.429605620879854 
+TMIMWT	NN 10.068662950495112 
+DMIM	NN 8.459225038061012 
+IIERKW	VB 9.399968503952575 
+GFM	NN 10.068662950495112 NNT 8.948715833843691 
+RCINI	JJ 7.495264127519086 
+RIALIZM	NN 10.068662950495112 
+QWNBQJWRIM	NN 10.068662950495112 
+TWRNWT	NN 10.068662950495112 
+AQDMIIM	JJ 7.7829461999708665 
+JKNIQH	NN 9.375515769935166 
+XGBI	NNP 8.104099056143582 
+TDIAWF	NNP 7.698633948035417 
+SWBIIJI	JJ 7.495264127519086 
+ZIKTH	VB 9.399968503952575 
+MHWTIT	JJ 8.881558488638976 
+IXIDWT	NNT 7.850103545175582 JJ 8.188411308079031 NN 8.970050661827003 
+IWGDRW	VB 9.399968503952575 
+QWDMWT	NN 10.068662950495112 JJ 6.6843339113027564 
+NJEH	VB 9.399968503952575 
+LXIWT	VB 6.915061854164575 
+33.90	CD 7.564757012905729 
+MGDL	NNT 8.255568653283746 NN 8.970050661827003 NNP 7.698633948035417 
+MWDEWT	NNT 8.948715833843691 NN 8.459225038061012 
+BGDR	IN 8.360363927383219 
+MGDT	NNT 8.948715833843691 
+SWPRMRQJ	NN 10.068662950495112 
+ARGNJINI	JJ 8.188411308079031 
+0203	CD 7.564757012905729 
+BGDD	NNP 6.717804695023691 
+MFTWQQ	VB 9.399968503952575 
+AFKNZIM	NN 10.068662950495112 
+LHXMIC	VB 8.301356215284466 
+WDAI	RB 6.682734967655067 
+GIA	NN 10.068662950495112 NNP 8.797246236703527 
+CRKNI	NNT 8.948715833843691 
+GII	NNP 8.797246236703527 
+IGWRFW	VB 8.70682132339263 
+GIM	NNP 8.104099056143582 
+GIL	NNT 6.869274292163856 NN 8.459225038061012 
+ZMIN	JJ 8.881558488638976 
+MDIWM	NN 9.375515769935166 
+ZMIR	NNP 5.964032892647311 
+HPLILW	VB 9.399968503952575 
+THLIK	NN 7.989221408815276 NNT 6.869274292163856 
+ICIRWTIW	NN 8.682368589375221 
+EZWTH	NN 10.068662950495112 
+QLIJT	NNT 6.646130740849646 
+MPGINIM	NN 10.068662950495112 
+INWHLW	VB 9.399968503952575 
+BPWMBI	RB 8.069029328774958 
+HFMDT	NNT 7.850103545175582 
+2891	CD 7.564757012905729 
+HFTWLLW	VB 9.399968503952575 
+MELWT	NN 9.375515769935166 NNT 8.948715833843691 
+AQWLWGI	JJ 8.881558488638976 
+DMMT	NNT 8.948715833843691 
+ALIPWT	NN 8.682368589375221 NNT 7.339277921409591 
+GJW	NN 7.871438373158893 NNT 8.255568653283746 
+QLIJH	NN 6.431076790768726 
+AISMEIL	NNP 7.187808324269427 
+MERICIM	NN 10.068662950495112 
+MRGLIM	NN 10.068662950495112 
+LDBR	VB 7.202743926616356 
+MTXRIM	NN 10.068662950495112 
+FJWXWT	RB 8.069029328774958 
+APQWJ	NNP 7.698633948035417 
+DJRWIJ	NNP 8.104099056143582 
+IRWQNW	VB 9.399968503952575 
+JARPLI	NNP 8.797246236703527 
+XISKWN	NN 8.276903481267057 
+EDWTW	NN 8.970050661827003 
+MFQPIIM	NN 8.970050661827003 
+TWDETM	NN 9.375515769935166 
+MRGLIT	NNP 8.797246236703527 
+LDET	VB 7.09738341095853 
+ZMNI	JJ 7.495264127519086 
+GLI	NNT 7.850103545175582 
+SGNWNW	NN 9.375515769935166 
+GLM	NN 8.970050661827003 
+LHZRIM	VB 9.399968503952575 
+HQFRIM	NN 9.375515769935166 
+TQDIM	NN 8.970050661827003 
+MGID	NNP 8.797246236703527 
+MGIE	VB 6.835019146491039 
+ZMNW	NN 8.682368589375221 
+MGIB	VB 9.399968503952575 
+NPSDWT	JJ 8.881558488638976 
+NKWNIM	JJ 8.188411308079031 VB 8.70682132339263 
+GLIMWT	NN 10.068662950495112 
+MWSRIT	JJ 7.7829461999708665 
+BIWRWQRJ	NN 10.068662950495112 
+JKNAI	NNT 8.948715833843691 NN 10.068662950495112 
+HKXIFW	VB 9.399968503952575 
+GML	NN 9.375515769935166 
+KPWPIM	VB 8.70682132339263 
+GMR	NNT 8.948715833843691 NN 8.682368589375221 
+HCHIRW	VB 8.70682132339263 
+BGIN	IN 6.913444944446893 NNP 6.23229687924199 
+ABJLH	NN 8.970050661827003 
+GNB	NN 10.068662950495112 
+KABI	NNT 8.255568653283746 
+HTNXLW	VB 9.399968503952575 
+DMQH	NN 10.068662950495112 
+MIWED	VB 9.399968503952575 
+MWFLMWT	VB 9.399968503952575 
+GNQ	NNP 8.797246236703527 
+GNT	NNT 8.948715833843691 
+LHIEFWT	VB 9.399968503952575 
+MEJWT	JJ 8.881558488638976 
+HWZHRW	VB 9.399968503952575 
+LHZIQ	VB 9.399968503952575 
+MSTBR	VB 8.301356215284466 
+EPUI	IN 9.74665828850311 
+MKFPWT	NN 10.068662950495112 
+NJLW	VB 8.70682132339263 
+LHTQIIM	VB 7.32052696227274 
+HTLQXWT	NN 9.375515769935166 NNT 8.948715833843691 
+MWCBWT	VB 9.399968503952575 
+DWBRWBINCQI	NNP 8.797246236703527 
+HWPKWT	VB 9.399968503952575 
+LHDRIK	VB 9.399968503952575 
+RWAIM	VB 7.32052696227274 
+ALIMWTM	NN 10.068662950495112 
+AMRIQNIT	JJ 8.881558488638976 
+IWFBIM	VB 9.399968503952575 
+IWFBIH	NN 10.068662950495112 
+MIICRIM	VB 9.399968503952575 
+XGIM	NN 9.375515769935166 
+WWDAI	NN 10.068662950495112 
+LIMWDIHM	NN 10.068662950495112 
+KAFR	IN 5.315841489659795 
+FITWQH	NN 10.068662950495112 
+GPN	NN 10.068662950495112 
+HFTLJWTH	NN 10.068662950495112 
+RPWRMI	JJ 7.7829461999708665 
+RPWRMH	NN 7.871438373158893 
+AWKSPWRD	NNP 8.797246236703527 
+BQBWQIM	NN 8.970050661827003 
+MGMH	NN 7.989221408815276 
+ADIR	JJ 7.272120576204876 NNP 8.797246236703527 
+KWKBA	NNP 8.797246236703527 
+BGLL	IN 6.250150727036629 
+EQRWNIT	RB 8.069029328774958 JJ 7.495264127519086 
+RBDIM	NNP 8.797246236703527 
+MCJRPIM	VB 8.70682132339263 
+MTBRRT	VB 9.399968503952575 
+DMWQRJIZCIH	NN 10.068662950495112 
+ESQIIM	JJ 7.7829461999708665 
+HEDRWT	NN 10.068662950495112 
+KWKBM	NN 9.375515769935166 
+TRGIL	NN 10.068662950495112 
+LGWNN	VB 9.399968503952575 
+MIIDIT	JJ 7.7829461999708665 
+MGLH	VB 8.013674142832684 
+MRQDW	NNP 8.797246236703527 
+IXZRW	VB 8.70682132339263 
+GRI	NNP 8.104099056143582 
+MGLM	VB 8.70682132339263 
+QWDMTH	NN 10.068662950495112 
+QIPAWN	NN 8.276903481267057 
+GRM	VB 8.013674142832684 NN 9.375515769935166 
+ATIWPIT	JJ 8.881558488638976 
+HQCIBH	VB 9.399968503952575 
+GRP	VB 9.399968503952575 
+GRR	VB 9.399968503952575 
+MLXMTIT	JJ 8.881558488638976 
+KPWLH	JJ 8.881558488638976 
+MRFIMH	JJ 8.881558488638976 
+HMFIKW	VB 7.608209034724521 
+LDLG	VB 9.399968503952575 
+APFRIT	JJ 7.089799019410921 
+ATIWPIH	NNP 7.4109518755836366 
+FWWIICRI	JJ 8.881558488638976 
+QIWWITI	VB 9.399968503952575 
+MTQDMIM	JJ 8.881558488638976 
+GSI	NNP 8.104099056143582 
+HCHIRH	VB 9.399968503952575 
+MJAPISIT	JJ 8.881558488638976 
+HMFIKH	VB 8.301356215284466 
+MRIRWT	NN 8.970050661827003 JJ 8.881558488638976 
+ADMH	NN 7.670767677696742 
+HNHIGH	VB 9.399968503952575 
+MGMT	NNT 8.255568653283746 
+HFKIL	VB 8.70682132339263 
+DIWQNAWT	NNT 8.948715833843691 
+JWQIW	NNP 8.104099056143582 
+AWPCIWT	NN 10.068662950495112 
+LDKA	VB 8.301356215284466 
+TIMNE	VB 9.399968503952575 
+MGNH	VB 8.70682132339263 
+HFKIB	VB 9.399968503952575 
+FWHIM	VB 8.301356215284466 
+MSTER	VB 9.399968503952575 
+MTNGFWT	VB 9.399968503952575 
+NWZPT	VB 9.399968503952575 
+LRWPP	VB 9.399968503952575 
+DMWT	NN 7.670767677696742 NNT 8.255568653283746 
+PXWTWT	JJT 4.564348191467836 
+GLIWLIN	NNP 8.797246236703527 
+IXZWR	VB 7.608209034724521 
+RWAH	VB 6.915061854164575 NNT 7.339277921409591 
+QIWWTH	VB 9.399968503952575 
+RWAI	NNT 7.002805684788378 
+HSTIIGH	VB 9.399968503952575 
+KEWSH	JJ 8.881558488638976 
+NJTH	VB 9.399968503952575 
+ADMT	NNT 7.850103545175582 
+LHTGLGL	VB 9.399968503952575 
+GWBH	VB 9.399968503952575 NN 9.375515769935166 NNT 6.869274292163856 
+MEKBT	VB 9.399968503952575 
+NKWNH	JJ 7.495264127519086 
+FALWTIH	NN 10.068662950495112 
+GRWSLM	NNP 8.104099056143582 
+BNGAL	NNP 8.797246236703527 
+DWRWTIW	NN 10.068662950495112 
+FPTWT	NNT 8.948715833843691 
+JWRPDW	NNP 8.797246236703527 
+JKNIT	JJ 8.881558488638976 
+MTWNH	JJ 8.881558488638976 
+SQJWR	NN 9.375515769935166 
+LHFXIT	VB 9.399968503952575 
+MCWPWT	VB 9.399968503952575 
+KIKWBH	NN 10.068662950495112 
+TXZIQ	VB 9.399968503952575 
+DMWI	JJT 3.871201010907891 
+AFQLWN	NNP 7.187808324269427 
+GRWSMN	NNP 8.797246236703527 
+DRWWIF	NNP 8.797246236703527 
+LHFXIR	VB 9.399968503952575 
+BRQWBIC	NNP 7.187808324269427 
+PIWRNJINH	NNP 8.797246236703527 
+MIWMN	JJ 8.881558488638976 
+MPLCWT	NN 10.068662950495112 
+MQCWEIWT	NN 10.068662950495112 
+FGIAWT	NN 9.375515769935166 
+RWCH	VB 6.141871965931093 
+NTQEW	VB 8.70682132339263 
+ITRWNWT	NN 8.970050661827003 
+MWPIEH	VB 8.013674142832684 
+GWB	NNP 8.797246236703527 
+GWDF	NNT 8.948715833843691 
+GWDH	NNP 8.797246236703527 
+GWG	NNP 8.797246236703527 
+GWF	NN 8.970050661827003 NNT 7.562421472723801 
+GWDL	NN 8.970050661827003 NNT 7.850103545175582 
+JIMIFWARH	NNP 8.104099056143582 
+RWCX	VB 9.399968503952575 
+HFKLH	NN 8.276903481267057 
+GWN	NNP 8.104099056143582 
+FITWPH	NN 10.068662950495112 
+GWP	NN 7.503713593033575 NNT 7.339277921409591 
+GWBR	VB 8.70682132339263 
+GWR	NNP 8.797246236703527 
+RWBL	NN 8.682368589375221 
+MGRF	NNT 7.339277921409591 NN 7.583756300707112 
+SIRWBM	NN 10.068662950495112 
+SIRWBH	NN 10.068662950495112 
+RWBH	NN 10.068662950495112 NNT 8.948715833843691 
+RWBE	NN 8.682368589375221 
+ISKIM	VB 8.70682132339263 
+KNISTM	NN 9.375515769935166 
+BRSLB	NNP 8.797246236703527 
+XRPTM	NN 10.068662950495112 
+DWMINNJI	JJ 8.881558488638976 
+TNWRIM	NN 10.068662950495112 
+RWBM	NN 9.375515769935166 PRP 6.2034026945800305 
+RWBN	PRP 6.539874931201244 
+SIRWBW	NN 10.068662950495112 
+HCBET	NNT 8.948715833843691 
+RIFIWN	NNT 8.948715833843691 
+MWEILH	JJ 8.881558488638976 
+GWBFH	VB 8.70682132339263 
+DWDAIM	NN 10.068662950495112 
+MRQMI	NNT 8.948715833843691 
+BGUC	NNP 6.399350963905157 
+HTKNSW	VB 9.399968503952575 
+MGUD	NN 10.068662950495112 
+RWEH	NNT 8.948715833843691 
+RWEI	NNT 8.948715833843691 
+APSIM	NN 10.068662950495112 
+NHNIT	VB 9.399968503952575 
+IWWTRW	VB 8.70682132339263 
+NHNIM	VB 8.301356215284466 
+IKTWB	VB 9.399968503952575 
+APSIQ	VB 9.399968503952575 
+APSIT	JJ 8.881558488638976 
+TIMWT	NN 10.068662950495112 
+EIFWN	NN 9.375515769935166 
+HTKNSH	VB 9.399968503952575 
+HCBEH	NN 7.766077857501067 
+IEBDW	VB 9.399968503952575 
+HRCBRG	NNP 6.851336087648214 
+AWWIRIT	JJ 7.089799019410921 
+GWDW	NN 9.375515769935166 
+MIWTR	JJ 8.881558488638976 
+RWDN	NN 10.068662950495112 
+RWDI	NNP 7.698633948035417 
+MQNIM	VB 9.399968503952575 
+NJWF	VB 9.399968503952575 
+QWDMIM	VB 8.70682132339263 JJ 7.7829461999708665 
+LINHRJ	NNP 8.797246236703527 
+GZR	NNT 7.339277921409591 VB 9.399968503952575 
+QWDMIW	NN 10.068662950495112 
+RIBWEIM	NN 10.068662950495112 
+MWFLMT	JJ 8.881558488638976 
+MTWQN	JJ 8.881558488638976 
+ZWSMN	NNP 7.698633948035417 
+MGWG	NNP 8.797246236703527 
+HKXIFH	VB 9.399968503952575 
+TAWCH	NN 10.068662950495112 
+BTMWRH	IN 9.74665828850311 
+MEWDKN	JJ 8.881558488638976 
+HSTIIMW	VB 8.70682132339263 
+GAWWTM	NN 10.068662950495112 
+HWMNIZM	NN 10.068662950495112 
+AWKLWSIIT	NNT 7.850103545175582 
+RWGZ	NN 10.068662950495112 
+BWFWWIC	NNP 5.706203783345211 
+HTLQXH	VB 9.399968503952575 
+TERIPIM	NN 10.068662950495112 
+TWRMIM	VB 8.013674142832684 
+MSTMA	NN 10.068662950495112 
+MSTMK	VB 8.70682132339263 
+RWFM	NN 8.276903481267057 
+BHIRIM	JJ 8.881558488638976 
+AWKLWSIIH	NN 7.503713593033575 
+MAWFPZWT	VB 9.399968503952575 
+AIDIAWLWGIWT	JJ 8.881558488638976 NN 10.068662950495112 
+MFNHW	NN 10.068662950495112 
+WIFINSQI	NNP 8.797246236703527 
+HGNTH	NN 10.068662950495112 
+HGNTI	JJ 8.188411308079031 
+QPIJLIZM	NN 10.068662950495112 
+QFWRH	VB 8.301356215284466 JJ 8.881558488638976 
+IINTN	VB 9.399968503952575 
+HBQIEH	VB 8.70682132339263 
+PZWRH	NN 10.068662950495112 
+HCBIE	VB 9.399968503952575 
+RWMLIH	NNP 8.797246236703527 
+TLWNH	NN 8.970050661827003 
+PWNIM	NN 10.068662950495112 
+MCEDW	NN 10.068662950495112 
+HWPKIM	VB 7.7905305915184755 
+HIRBTH	VB 9.399968503952575 
+ADWQ	RB 8.069029328774958 
+HWPKIN	NN 10.068662950495112 
+PRWQWPIIB	NNP 8.797246236703527 
+LFTWQ	VB 9.399968503952575 
+LFTWT	VB 9.399968503952575 
+ADWM	JJ 6.6843339113027564 
+ADWJ	NNP 8.104099056143582 
+MIWXS	NNP 8.797246236703527 
+MIWXL	JJ 8.881558488638976 
+MIWXD	JJ 5.4803611069768206 
+RKIFTH	NN 10.068662950495112 
+GWIS	NNP 8.797246236703527 
+GWMWLQH	NNP 8.797246236703527 
+KLKLH	NN 7.2354496064388965 
+KLKLI	JJ 5.991186730742811 
+RKIFWT	NN 10.068662950495112 
+29.9	CD 7.564757012905729 
+RWKF	VB 8.70682132339263 
+GWLD	NNP 8.104099056143582 
+GWLI	NNP 8.797246236703527 
+GWLM	NN 10.068662950495112 
+WIIJNAM	NNP 7.698633948035417 
+NKWNWT	NNT 8.948715833843691 VB 9.399968503952575 JJ 8.188411308079031 NN 8.276903481267057 
+GWLN	NNP 7.4109518755836366 
+HGNWT	NN 10.068662950495112 
+GWLP	NN 10.068662950495112 
+KLKLT	NNT 7.562421472723801 
+LPQPQ	VB 9.399968503952575 
+FRWIIM	VB 9.399968503952575 
+PQDH	VB 9.399968503952575 
+JILPNW	VB 9.399968503952575 
+RWBLIM	NN 9.375515769935166 
+EWLBIM	JJ 8.881558488638976 
+IEBIR	VB 7.7905305915184755 
+KIBDH	VB 9.399968503952575 
+LDWN	VB 7.7905305915184755 
+PSIKWLWGIT	NN 10.068662950495112 
+MWDRKIM	JJ 8.881558488638976 
+HZNH	NN 10.068662950495112 
+TAWNT	NNT 7.1569563646156364 
+PSIKWLWGIH	NN 10.068662950495112 
+HAL	NNP 8.797246236703527 
+HAM	HAM 0.12921173148000623 
+MGZR	NNT 8.948715833843691 NN 7.583756300707112 
+NRKFH	VB 9.399968503952575 
+NEWRIM	NN 9.375515769935166 
+RWKB	VB 9.399968503952575 
+TAWNH	NN 10.068662950495112 
+PWRNWGRPIIM	JJ 8.881558488638976 
+HAW	NNP 8.797246236703527 
+RWMN	NN 9.375515769935166 NNP 8.797246236703527 
+RWML	NNP 8.797246236703527 
+XLWPIIM	JJ 8.881558488638976 
+ABSWLWJIT	JJ 8.881558488638976 
+ALKWHWL	NN 9.375515769935166 
+WWDQH	NN 10.068662950495112 
+RWMW	NN 10.068662950495112 
+BIILIN	NNP 7.187808324269427 
+GWNI	NNT 7.850103545175582 
+SJIWWN	NNP 8.797246236703527 
+LEQWB	VB 8.70682132339263 
+LPQWD	VB 9.399968503952575 
+AWPNIIM	NN 10.068662950495112 
+GWNN	NNP 8.797246236703527 
+GWNS	NNP 8.104099056143582 
+RWMZ	VB 9.399968503952575 
+FWLLIM	NN 10.068662950495112 
+KTBIM	NN 9.375515769935166 
+NKBD	JJ 8.881558488638976 
+LEQWR	VB 8.301356215284466 
+AWJWBIWGRPI	JJ 8.881558488638976 
+LEQWP	VB 9.399968503952575 
+FAIPH	NN 8.970050661827003 
+BDIWQ	RB 6.682734967655067 MOD 6.131769820113187 
+MBCEIIM	JJ 8.881558488638976 
+AWFRW	VB 7.608209034724521 
+GWMI	NN 8.970050661827003 
+DNDI	NNP 8.104099056143582 
+KTBIW	NN 8.682368589375221 
+XDINJWB	NNP 8.104099056143582 
+BDIXH	NN 9.375515769935166 
+TWSPWT	NNT 8.948715833843691 NN 8.970050661827003 
+FWHWT	VB 9.399968503952575 
+XIWBI	JJ 8.881558488638976 
+GBETI	NNP 6.851336087648214 
+AWFRH	VB 8.70682132339263 
+FWALIM	VB 8.70682132339263 
+AWFRI	NNP 8.797246236703527 
+RWMA	NNP 7.005486767475472 
+RXWBWT	NNP 7.698633948035417 NN 8.122752801439798 NNT 7.562421472723801 
+BELWT	NNT 6.869274292163856 NN 9.375515769935166 
+TXZIT	NNT 8.948715833843691 NN 8.682368589375221 
+GWPI	NNT 8.255568653283746 
+FDRWT	NNT 8.255568653283746 
+GWPM	NN 9.375515769935166 
+QNIINIM	NN 10.068662950495112 
+MIWEDWT	VB 8.70682132339263 
+RWPA	NN 8.459225038061012 
+MFPJIM	NN 7.1242239713286715 
+GWPR	NNP 8.797246236703527 
+HDQ	NN 10.068662950495112 
+QLINIWT	JJ 8.881558488638976 
+HDP	VB 8.70682132339263 
+GWPW	NN 8.682368589375221 
+HDS	NNP 8.797246236703527 NN 8.970050661827003 
+HDR	NNP 8.104099056143582 NN 10.068662950495112 
+RWPI	NNP 8.797246236703527 
+TRGWL	NN 9.375515769935166 
+TRGWM	NN 8.682368589375221 
+DHIRH	NN 9.375515769935166 
+MFPJIT	JJ 7.7829461999708665 
+QIBWCIWT	JJ 7.272120576204876 
+KAXD	RB 7.3758821482150125 MOD 6.419451892564968 
+WQPKWT	ZVL 4.3694478524670215 
+MTWXH	JJ 8.881558488638976 
+NKBF	VB 9.399968503952575 
+RWNI	NNP 7.4109518755836366 
+EQRWNWT	NN 8.276903481267057 
+BXINTNW	NN 10.068662950495112 
+NSIWNWT	NNT 8.948715833843691 
+MEWDDT	JJ 8.881558488638976 
+LHKFIL	VB 9.399968503952575 
+AXIWT	NN 10.068662950495112 
+EQIP	JJ 8.881558488638976 
+ISKIMW	VB 9.399968503952575 
+PQID	NNT 8.948715833843691 NN 8.276903481267057 
+HEZ	VB 9.399968503952575 
+TLWIH	JJ 8.881558488638976 VB 8.301356215284466 
+ALKSNDRS	NNP 8.104099056143582 
+FLILI	JJ 7.495264127519086 
+MNEMI	NNT 8.948715833843691 
+GWRE	VB 9.399968503952575 
+GWRG	NNP 8.797246236703527 
+GWBRT	VB 8.301356215284466 JJ 8.188411308079031 
+ITWGBRW	VB 9.399968503952575 
+RWJCIH	NN 10.068662950495112 
+EBRWN	NNP 8.797246236703527 
+HFG	NN 10.068662950495112 
+GWRM	VB 8.301356215284466 NN 8.459225038061012 
+RWQX	NN 9.375515769935166 
+GWRL	NN 8.682368589375221 NNT 8.948715833843691 
+ALWWARW	NNP 8.797246236703527 
+GWRN	NN 10.068662950495112 NNT 8.255568653283746 NNP 7.4109518755836366 
+MTRFMIM	VB 9.399968503952575 
+RPWBLIQWT	NN 8.970050661827003 
+DNIS	NNP 8.797246236703527 
+AWSJRLIH	NNP 6.600021659367308 
+RWPP	JJ 8.881558488638976 
+NIQWI	NNT 8.948715833843691 
+NIQWL	NNP 8.797246236703527 
+XTWNH	NN 8.682368589375221 
+MRQXT	NN 7.583756300707112 
+AMIRH	NN 8.276903481267057 
+NIQWD	NN 10.068662950495112 
+HGM	IN 9.053511107943164 
+MPWJRIM	NN 10.068662950495112 
+SWBIIJIT	NN 10.068662950495112 JJ 7.495264127519086 
+MZKIRT	NNT 8.948715833843691 
+MQCWEIIM	JJ 6.173508287536766 
+FLIJT	NNT 8.255568653283746 
+SWBIIJIM	NN 10.068662950495112 
+HTPRCWT	NN 10.068662950495112 
+15.459.00	CD 7.564757012905729 
+HGW	VB 9.399968503952575 
+XIWNI	JJ 8.188411308079031 
+RWQI	NN 10.068662950495112 
+MZKIRH	NN 9.375515769935166 VB 8.301356215284466 
+HTLQJW	VB 9.399968503952575 
+FLIJH	NN 7.766077857501067 
+LHXLIJ	VB 7.7905305915184755 
+MFNTW	NN 10.068662950495112 
+QIIMWT	JJ 7.089799019410921 
+LHXLIP	VB 7.32052696227274 
+IEBRW	VB 8.70682132339263 
+MFNTM	NN 10.068662950495112 
+1630	CD 7.564757012905729 
+CIRWP	NN 8.970050661827003 NNT 8.255568653283746 
+RWTM	NN 10.068662950495112 NNP 8.104099056143582 
+JARAN	NNP 8.797246236703527 
+TLWTN	NN 10.068662950495112 
+RBEIM	NN 10.068662950495112 
+BDIQH	NN 7.503713593033575 
+LHXLIF	VB 9.399968503952575 
+MFKNEWT	JJ 8.881558488638976 
+RWKFIM	VB 9.399968503952575 
+HIA	PRP 2.0246294527411393 AGR 0.898196988431456 
+RWBCT	VB 8.70682132339263 
+HIH	AUX 0.8472978603872037 VB 5.448724785371148 
+AWFPZ	VB 8.70682132339263 
+HTXTNH	VB 9.399968503952575 
+NKFL	VB 8.70682132339263 
+BDIQT	NNT 8.255568653283746 
+AMITI	JJ 6.80211694695914 
+MCWPIM	VB 8.70682132339263 
+GWSS	JJ 8.881558488638976 
+AQJWARI	JJ 8.881558488638976 
+EBRTW	NN 10.068662950495112 
+TSBWKT	NNT 8.948715833843691 
+HCBTM	NN 10.068662950495112 
+HIW	VB 5.241085420592904 AUX 1.9459101490553135 
+TXZWR	VB 9.399968503952575 
+GIJAWT	NN 10.068662950495112 
+HCBTW	NN 10.068662950495112 
+RWSI	NN 10.068662950495112 JJ 6.80211694695914 
+MHFK	ZVL 4.3694478524670215 
+XIWKW	NN 10.068662950495112 
+2991	CD 5.955319100471629 
+BGRWT	NN 8.459225038061012 
+FLWMIT	NNP 8.104099056143582 
+CKIH	NNP 8.104099056143582 
+SGNIW	NN 9.375515769935166 
+MDMMIM	JJ 8.881558488638976 
+GWWE	VB 9.399968503952575 
+LHBLIJ	VB 9.399968503952575 
+DILMH	NN 10.068662950495112 
+HKI	MOD 6.419451892564968 RB 6.970417040106848 
+HKL	NN 6.1368373177707864 
+LEBR	VB 9.399968503952575 IN 6.750926014949118 
+QJMANDW	NNP 8.797246236703527 
+AMINH	JJ 8.881558488638976 
+BHIRWT	NN 9.375515769935166 
+JWRAI	NN 9.375515769935166 
+FLIFI	NNP 7.698633948035417 JJ 5.991186730742811 
+IWFBWT	VB 9.399968503952575 
+HLA	RB 8.069029328774958 MOD 7.518064181233078 
+GFRIM	NN 9.375515769935166 
+LHMLIC	VB 8.301356215284466 
+ABINR	NNP 8.797246236703527 
+RWWX	VB 9.399968503952575 NN 7.989221408815276 NNP 8.104099056143582 
+HTWWIIT	NNT 8.948715833843691 
+RWAIIN	VB 9.399968503952575 
+HLH	PRP 8.149312843635345 
+IWXLJ	VB 9.399968503952575 
+HLK	VB 7.32052696227274 NNT 8.948715833843691 
+SBLNWT	NN 8.682368589375221 
+HLM	NN 8.970050661827003 NNT 8.948715833843691 
+HLL	NNP 8.104099056143582 
+RWXB	NN 10.068662950495112 NNT 8.948715833843691 
+JWRDT	VB 9.399968503952575 
+RENNH	NNP 7.698633948035417 
+EQRW	VB 9.399968503952575 
+RWXH	NN 9.375515769935166 
+IHLWMIT	NNP 8.104099056143582 
+RWXC	VB 9.399968503952575 
+IEBWD	VB 8.70682132339263 
+RWXQ	NNT 8.948715833843691 
+RWWIIM	VB 9.399968503952575 
+IHLWMIM	NN 8.276903481267057 
+TSMWNT	NNT 8.948715833843691 
+NXFPWT	VB 9.399968503952575 
+GWWN	NN 10.068662950495112 
+1691	CD 7.564757012905729 
+APSWTW	NN 10.068662950495112 
+BHIR	JJ 8.188411308079031 
+RWWI	JJT 3.4657359027997265 
+TAWRT	NNT 8.948715833843691 
+KNRAH	RB 5.671134055976587 MOD 6.824917000673133 
+MIICRT	VB 8.301356215284466 
+LNKWT	VB 9.399968503952575 
+WEDT	NNT 5.42235530922753 
+PRSLNI	NNP 8.797246236703527 
+MSTDRWT	VB 9.399968503952575 
+WEDH	NN 8.970050661827003 
+HNA	NNP 8.797246236703527 
+HNC	NNP 8.797246236703527 
+PWRENWT	NN 9.375515769935166 
+MPKUL	NN 8.122752801439798 NNT 8.255568653283746 
+QANJIM	NN 10.068662950495112 
+HNH	RB 5.766444235780912 
+HNM	AGR 5.87493073085203 
+GWZP	NNP 8.797246236703527 
+FBWEIT	JJ 8.881558488638976 
+PRANQ	NN 8.682368589375221 NNP 8.797246236703527 
+ABIMWR	NNP 8.797246236703527 
+LETIM	RB 4.850153503906757 MOD 6.419451892564968 
+NKNE	VB 8.70682132339263 
+RWZI	NNP 8.797246236703527 
+QIBWCIT	JJ 6.6843339113027564 
+NJWIH	JJ 8.881558488638976 
+RWWIWT	JJT 4.564348191467836 
+RWZH	NNP 8.797246236703527 
+WWDAIT	JJ 8.881558488638976 
+JMWNH	VB 8.301356215284466 
+NITNIM	VB 7.32052696227274 
+RWZN	NNP 8.104099056143582 
+MHIR	JJ 7.089799019410921 
+SGWRIM	JJ 8.881558488638976 
+MRGIEH	JJ 8.188411308079031 
+RWXW	NN 10.068662950495112 
+ZIMND	NNP 8.104099056143582 
+FQIDTW	NN 10.068662950495112 
+MARQIM	NN 10.068662950495112 
+NIHWLIWT	JJ 8.188411308079031 
+MSWIG	JJ 8.881558488638976 
+QIBWCIM	NN 7.024140512771689 
+MSWIM	JJ 6.173508287536766 
+PIGWE	NN 8.682368589375221 
+QLJWT	NNT 8.948715833843691 
+KBDH	JJ 7.7829461999708665 
+LEGH	NN 10.068662950495112 
+SNDLR	NN 10.068662950495112 
+LEGM	NN 10.068662950495112 
+QBILWTN	NN 10.068662950495112 
+KBDI	JJT 4.564348191467836 
+NPFWTIHM	NN 10.068662950495112 
+PRDSNWT	NN 10.068662950495112 
+PIGWR	NN 8.970050661827003 
+HPK	AUX 4.248495242049359 VB 8.301356215284466 
+FEWRM	NN 10.068662950495112 
+NIAWTW	VB 9.399968503952575 
+ARMSJRWNG	NNP 8.797246236703527 
+HPR	VB 8.70682132339263 
+KBFW	VB 9.399968503952575 
+IRWFLMI	JJ 8.881558488638976 
+TIPWL	VB 8.70682132339263 
+AEIR	VB 9.399968503952575 
+BHLH	NN 9.375515769935166 
+HIWTW	AUX 5.634789603169249 VB 9.399968503952575 NN 10.068662950495112 
+MNWCLIM	VB 9.399968503952575 
+NKNS	VB 7.4540583548972625 
+RCINIIM	JJ 8.881558488638976 
+MSIIET	VB 9.399968503952575 
+LAWMIIM	JJ 6.108969766399195 
+MSWGL	VB 7.32052696227274 
+HIWTI	NN 10.068662950495112 
+MWAPL	VB 9.399968503952575 
+HSTPQ	VB 9.399968503952575 
+KDWMH	RB 6.2772698595469025 
+HRC	NNP 8.797246236703527 
+KBFH	VB 9.399968503952575 
+HRD	NNP 8.797246236703527 
+HRG	NNT 8.948715833843691 
+HRI	NNT 7.562421472723801 RB 4.850153503906757 
+MHLK	NNT 8.255568653283746 NN 8.682368589375221 
+HRH	JJ 8.881558488638976 
+LEIL	RB 8.069029328774958 
+LHIBXR	VB 8.70682132339263 
+HRP	NN 9.375515769935166 
+HRS	NN 10.068662950495112 
+GLEDI	NNP 8.797246236703527 
+IWSIPW	VB 8.301356215284466 
+HRT	JJT 4.564348191467836 
+KDWRI	NNT 7.339277921409591 
+BRIIJMN	NNP 8.104099056143582 
+KBIF	NNT 7.850103545175582 NN 9.375515769935166 
+MFRTIM	VB 8.70682132339263 
+MXFBWT	NN 9.375515769935166 
+NKPW	VB 9.399968503952575 
+MFQIP	NN 10.068662950495112 VB 9.399968503952575 
+MEWRBWT	NN 8.970050661827003 NNT 7.850103545175582 
+MHMR	VB 8.301356215284466 NN 10.068662950495112 
+ALXNDRW	NNP 8.797246236703527 
+PQWE	NNT 8.948715833843691 
+HTNXLWIWT	NN 9.375515769935166 
+BIWKIMI	JJ 8.881558488638976 
+TRISIM	NN 9.375515769935166 
+LEKB	VB 9.399968503952575 
+NJWLI	JJT 4.564348191467836 
+MSWMN	VB 9.399968503952575 
+PIGRW	VB 9.399968503952575 
+HRCAWT	NN 10.068662950495112 
+MLAWT	NN 10.068662950495112 NNT 8.948715833843691 
+DNWN	NNP 8.104099056143582 
+JAZIMH	NNP 8.797246236703527 
+AQWNWMISJ	NNP 8.797246236703527 
+MHWLH	JJ 8.881558488638976 
+LFWNI	JJ 8.881558488638976 
+MTWQNWT	JJ 8.881558488638976 
+NKTB	VB 7.7905305915184755 
+PRIMIJIBIT	JJ 8.881558488638976 
+MSWLP	JJ 8.881558488638976 
+FJIINBK	NNP 7.698633948035417 
+FWKNE	VB 8.70682132339263 
+DWWQA	MOD 4.427021727874762 RB 5.235815984718742 
+HTHDRW	VB 9.399968503952575 
+MINIBWS	NN 10.068662950495112 
+HUH	NN 10.068662950495112 
+CBEWNI	JJ 8.188411308079031 
+TIPSQ	VB 9.399968503952575 
+PCWEH	VB 9.399968503952575 
+MSTIIM	VB 8.70682132339263 
+FWKNT	VB 9.399968503952575 
+FWRCQWP	NNP 8.797246236703527 
+MSTIIG	VB 9.399968503952575 
+MWJWWSL	NNP 8.797246236703527 
+PGANI	JJ 8.881558488638976 
+MSWKN	JJ 7.272120576204876 
+MHPK	NN 8.459225038061012 
+XWBFIM	VB 9.399968503952575 
+LFWNW	NN 9.375515769935166 
+NKSI	NNT 7.562421472723801 
+AWBSSIWT	NN 9.375515769935166 
+TIPTR	VB 8.301356215284466 
+NKSP	JJ 8.881558488638976 
+IIQRH	VB 8.70682132339263 
+MENIQ	VB 8.301356215284466 
+LHTBSS	VB 8.70682132339263 
+MRGILH	VB 9.399968503952575 
+RXCH	NN 9.375515769935166 
+MECMWT	NN 10.068662950495112 NNT 7.850103545175582 
+MENIF	VB 8.70682132339263 
+NITNT	VB 8.013674142832684 
+HWA	AGR 0.9332883082427261 PRP 1.1889651145340365 
+HTNPLWT	NNT 8.948715833843691 
+HWD	NN 10.068662950495112 NNT 8.255568653283746 
+EWRRNW	VB 9.399968503952575 
+MSWRT	NNT 8.255568653283746 NN 7.989221408815276 
+AWHBT	VB 9.399968503952575 
+ZNXW	VB 9.399968503952575 
+TTQBL	VB 9.399968503952575 
+LHJEWT	VB 9.399968503952575 
+NITNH	VB 7.4540583548972625 
+HWN	NN 7.583756300707112 
+MHSS	VB 9.399968503952575 
+BIRDSLI	NNP 8.797246236703527 
+MSWRTI	JJ 7.495264127519086 
+RXBH	NN 8.459225038061012 JJ 8.188411308079031 
+RXBI	NNT 6.240665632741481 JJT 4.564348191467836 
+CKWB	NNP 8.797246236703527 
+MHRH	RB 7.3758821482150125 
+QWFRIM	VB 9.399968503952575 
+ECWMH	JJ 7.7829461999708665 
+HXL	VB 6.915061854164575 IN 7.667216746823273 
+MFQLW	NN 8.970050661827003 
+RXBT	NNT 7.850103545175582 
+QIIMIM	VB 9.399968503952575 JJ 7.495264127519086 
+JWRQIT	JJ 7.7829461999708665 
+MFXDIM	VB 9.399968503952575 
+PCIETW	NN 8.970050661827003 
+NFKBW	VB 9.399968503952575 
+JWRQIM	NN 10.068662950495112 
+QDIFZWN	NNP 8.797246236703527 
+NKXH	VB 9.399968503952575 
+LERB	VB 9.399968503952575 
+MSWPI	NNT 7.850103545175582 
+IIFWBI	NNT 8.255568653283746 
+HCEID	VB 8.70682132339263 
+LDQLM	VB 9.399968503952575 
+MSWPQ	VB 9.399968503952575 
+DWQJWRJ	NN 10.068662950495112 
+MSWPR	VB 8.70682132339263 
+NKXW	VB 8.70682132339263 
+DXWPIM	JJ 8.881558488638976 
+JWRQIH	NNP 6.23229687924199 
+067008	CD 7.564757012905729 
+AWHDT	JJ 8.881558488638976 
+GMIFIM	JJ 8.188411308079031 
+LHPXIT	VB 7.608209034724521 
+20.00	CD 6.871609832345784 
+HNHGWT	NN 10.068662950495112 
+AWHDI	NNT 7.1569563646156364 
+NKWN	RB 8.069029328774958 JJ 5.623461950617494 VB 9.399968503952575 
+MEWGNT	VB 9.399968503952575 
+LEQL	VB 9.399968503952575 
+LEQR	VB 9.399968503952575 
+NKWW	VB 9.399968503952575 
+JRWRISJI	JJ 8.188411308079031 
+NKWT	NN 10.068662950495112 
+MZKIR	NN 10.068662950495112 VB 7.608209034724521 NNT 6.463809184055691 
+MFQPT	VB 8.70682132339263 
+EWQBT	VB 8.70682132339263 
+HQNTH	VB 9.399968503952575 
+MTKWNNIM	VB 9.399968503952575 
+QWLJWRH	NNP 8.797246236703527 
+ERBH	NN 10.068662950495112 
+ERBI	NN 8.682368589375221 NNT 8.948715833843691 JJ 6.483663215840606 
+XWQRIW	NN 10.068662950495112 
+MNHGW	NN 10.068662950495112 
+HLWWIITW	NN 8.970050661827003 
+SWCIALI	JJ 8.188411308079031 
+LQWWT	VB 7.608209034724521 
+HZDHITI	VB 9.399968503952575 
+HTBJAWIWT	NN 10.068662950495112 
+MHWT	NN 10.068662950495112 NNT 8.948715833843691 
+SPWRJAIM	NN 8.970050661827003 
+XWQRIM	VB 8.70682132339263 NN 7.766077857501067 
+SIWEN	NN 10.068662950495112 
+AILMIM	NN 10.068662950495112 
+AWNIWWRSLI	JJ 8.881558488638976 
+HTRAIIN	VB 9.399968503952575 
+MHWWH	AUX 4.53617731450114 VB 8.70682132339263 
+AIWMIW	NN 10.068662950495112 
+LQWXH	NN 8.459225038061012 VB 8.70682132339263 
+EWRRIN	NN 10.068662950495112 
+AIWMIM	NN 8.122752801439798 
+MTEMLWT	NNT 8.948715833843691 
+MHWTW	NN 10.068662950495112 
+PRCH	NN 10.068662950495112 VB 8.301356215284466 
+WEUR	NNP 8.797246236703527 
+LAWMIWT	NN 10.068662950495112 JJ 7.089799019410921 
+XJWPIM	NN 10.068662950495112 
+PRCI	NNT 7.850103545175582 
+MHWTI	JJ 7.7829461999708665 
+TTPZR	VB 9.399968503952575 
+NIWWKX	VB 9.399968503952575 
+ICIATW	NN 8.970050661827003 
+MRTQT	JJ 8.881558488638976 
+PRCW	VB 7.4540583548972625 
+QWRWZIH	NN 10.068662950495112 
+RICARD	NNP 8.104099056143582 
+MTNKRIM	NN 10.068662950495112 
+FLJWN	NNT 7.850103545175582 NN 6.572155389028632 
+BAIWDIH	NNP 8.797246236703527 
+XFPTI	VB 9.399968503952575 
+NITNW	VB 8.301356215284466 
+DRGWT	NNT 8.948715833843691 
+ITQWP	VB 9.399968503952575 
+PRBR	NN 10.068662950495112 NNP 8.797246236703527 
+LFWWA	RB 8.069029328774958 
+MNWSIM	JJ 8.188411308079031 
+MWCNEIM	JJ 8.881558488638976 
+GDWDIM	NN 10.068662950495112 
+NTINIW	NN 10.068662950495112 
+MFEMMT	JJ 8.881558488638976 
+SIWRI	NNT 8.948715833843691 
+XLASQ	NNP 8.797246236703527 
+MSIIRT	VB 9.399968503952575 
+HWFMJH	VB 8.70682132339263 
+HRISWT	NN 10.068662950495112 
+HTBSSW	VB 8.013674142832684 
+PRDI	NNP 8.797246236703527 
+IPELW	VB 8.70682132339263 
+MNHJN	NNP 7.698633948035417 
+APFRWT	NN 6.9776204971367966 NNT 8.255568653283746 
+RCINIWT	JJ 8.881558488638976 
+NKTBIM	VB 9.399968503952575 
+ITBJLW	VB 9.399968503952575 
+IAH	JJ 8.881558488638976 
+MWGDRIM	VB 9.399968503952575 
+ALPWNSW	NNP 8.797246236703527 
+IAN	NNP 8.104099056143582 
+LDQWR	VB 8.70682132339263 
+MINLBAIIAB	NNP 8.797246236703527 
+KLIATM	NN 10.068662950495112 
+MNHIG	NN 7.766077857501067 NNT 7.562421472723801 
+GWERT	VB 9.399968503952575 
+KBWD	NNT 7.562421472723801 NN 7.766077857501067 
+IBF	JJ 8.188411308079031 
+KBWL	VB 9.399968503952575 
+PWLIJIWT	JJ 6.483663215840606 
+PRFH	NN 7.583756300707112 VB 8.70682132339263 
+TIQIM	NN 9.375515769935166 
+LPTWX	VB 8.013674142832684 
+ICA	VB 6.404236230398585 
+BWLEWT	VB 9.399968503952575 
+ICIAWT	NN 8.970050661827003 
+QLIPWRNIH	NNP 8.797246236703527 
+PRFN	NNP 8.797246236703527 NN 10.068662950495112 
+SIWRW	NN 9.375515769935166 
+PRFT	NNT 6.646130740849646 
+ZWWIT	NN 8.970050661827003 
+ICR	VB 8.301356215284466 NN 9.375515769935166 NNT 8.948715833843691 
+MEWRBIM	NN 10.068662950495112 JJ 7.7829461999708665 VB 8.301356215284466 
+KWNSH	VB 9.399968503952575 
+LPTWR	VB 7.202743926616356 
+SIPRTI	VB 9.399968503952575 
+HNHGTW	NN 10.068662950495112 
+MWBHQ	JJ 7.495264127519086 
+GZENWT	NN 7.670767677696742 
+MLBIM	VB 9.399968503952575 
+HCETI	NN 10.068662950495112 VB 8.013674142832684 
+PRIS	NNP 8.104099056143582 
+IDE	VB 7.608209034724521 NN 8.276903481267057 
+IDH	NN 9.375515769935166 
+IDI	NNT 4.482807715189108 
+HWFMEW	VB 9.399968503952575 
+IDM	NN 8.970050661827003 
+ECWBH	JJ 8.881558488638976 
+HTXFB	VB 9.399968503952575 
+AWRWGWWAI	NNP 8.104099056143582 
+IDW	NN 7.989221408815276 
+MWBIL	NNT 8.948715833843691 NN 8.682368589375221 VB 8.70682132339263 JJ 8.188411308079031 
+SIWMW	NN 10.068662950495112 
+MXSWMIM	NN 8.970050661827003 
+QWBEWT	VB 9.399968503952575 
+SIWMH	NN 8.970050661827003 
+IED	NN 8.459225038061012 
+ERIM	VB 8.70682132339263 NN 7.871438373158893 
+IEL	NNP 7.187808324269427 
+HCETM	NN 10.068662950495112 
+IER	NN 9.375515769935166 NNT 8.255568653283746 
+ARWXWT	NN 10.068662950495112 
+TKWNH	NN 8.276903481267057 
+HCETW	NN 8.459225038061012 
+PRANQIM	NN 10.068662950495112 
+PRWPWRCIWNALI	JJ 8.881558488638976 
+NLEG	JJ 8.881558488638976 
+IFB	VB 8.013674142832684 
+LZQWP	VB 9.399968503952575 
+5,000	CD 6.871609832345784 
+IFE	NN 10.068662950495112 
+BAIRNWBH	NNP 8.104099056143582 
+IIRAW	VB 9.399968503952575 
+IFN	JJ 6.396651838850976 
+BIBI	NNP 6.600021659367308 
+MQSIQAI	JJ 8.881558488638976 
+MWTRWT	NN 10.068662950495112 
+IFR	RB 8.069029328774958 
+NWKXIWT	JJ 8.881558488638976 
+AWGRSHIIM	NNP 8.797246236703527 
+MCXIQNIM	NN 10.068662950495112 
+DIMWI	NN 8.682368589375221 
+MFJRTIIM	JJ 8.881558488638976 
+IFW	NNP 7.698633948035417 
+XIBH	NN 8.970050661827003 
+MNHLH	NN 8.970050661827003 
+PRJI	NNT 7.562421472723801 JJ 6.173508287536766 
+MNHLI	NNT 6.869274292163856 JJ 8.881558488638976 
+MANIIRWT	NN 10.068662950495112 
+IGE	JJ 8.881558488638976 
+SPILBRG	NNP 8.104099056143582 
+ERKH	VB 8.70682132339263 
+MNHLT	VB 8.70682132339263 NNT 7.562421472723801 
+HWFMDW	VB 9.399968503952575 
+MFQWP	NN 10.068662950495112 
+ERKM	NN 10.068662950495112 
+4,677	CD 7.564757012905729 
+HTXIL	VB 8.301356215284466 
+NTWWKX	VB 9.399968503952575 
+BICI	NNT 8.948715833843691 
+HNHGTI	JJ 8.881558488638976 
+HTXIH	NNP 8.797246236703527 
+NCBEW	VB 9.399968503952575 
+BICE	VB 7.7905305915184755 
+NITWX	NNT 8.948715833843691 NN 8.122752801439798 
+ERKW	NN 10.068662950495112 VB 8.301356215284466 
+HPCRWTIH	NN 10.068662950495112 
+IIRAH	VB 9.399968503952575 
+NITWQ	NNT 7.562421472723801 NN 9.375515769935166 
+SGWRWT	JJ 8.881558488638976 
+MZWIPT	JJ 8.881558488638976 
+IHA	VB 9.399968503952575 
+MIDH	NN 6.667465568832957 
+LXKWT	VB 9.399968503952575 
+PAFISJI	JJ 8.881558488638976 
+MIDT	NNT 6.869274292163856 
+LFAT	VB 8.013674142832684 
+HCEWT	NN 10.068662950495112 NNT 7.850103545175582 
+BIDI	IN 6.1913102270136955 
+NZEMT	JJ 8.881558488638976 
+PWQWS	NN 10.068662950495112 
+LMKWR	VB 7.608209034724521 
+LFBC	VB 9.399968503952575 
+0408	CD 7.564757012905729 
+LFBF	VB 8.70682132339263 
+BWAKH	NN 10.068662950495112 
+IIB	NNP 8.797246236703527 
+ABJUA	NNP 8.104099056143582 
+IDBRW	VB 9.399968503952575 
+XIBR	VB 8.013674142832684 
+IIL	NNP 8.797246236703527 
+MZKUL	NNT 7.339277921409591 
+LAHWB	VB 9.399968503952575 
+PWQXT	VB 9.399968503952575 
+MIDE	NN 6.9776204971367966 
+MIIXLIM	VB 9.399968503952575 
+IKXIF	VB 8.70682132339263 
+XWBWTIH	NN 8.970050661827003 
+PSWQIM	NN 8.970050661827003 
+MWBJX	VB 9.399968503952575 JJ 8.881558488638976 
+IHDWTM	NN 9.375515769935166 
+ZIMWN	NN 10.068662950495112 
+IJH	VB 9.399968503952575 
+ABJXH	NN 10.068662950495112 
+PXWTIM	JJ 8.881558488638976 
+CLIL	NN 9.375515769935166 NNT 8.948715833843691 
+TKNIWT	NNT 8.255568653283746 
+TKWWN	VB 9.399968503952575 
+HTXLH	NN 9.375515769935166 
+WWHBH	NNP 8.104099056143582 
+IHDWTW	NN 8.459225038061012 
+PJRWKIMIH	NN 10.068662950495112 
+EWPRI	NNP 8.797246236703527 
+RAIWTIH	NN 10.068662950495112 
+IIRDW	VB 9.399968503952575 
+FXRWRM	NN 8.970050661827003 
+MIEJ	VB 9.399968503952575 
+BIGZ	NNP 7.698633948035417 
+XLWCIM	NN 9.375515769935166 
+MKNIZM	NN 10.068662950495112 
+TIQRA	VB 9.399968503952575 
+FXRWRW	NN 10.068662950495112 
+LFBT	VB 8.301356215284466 
+IFTQPW	VB 9.399968503952575 
+HELAT	NNT 7.002805684788378 
+MIFH	NNP 7.4109518755836366 
+LBKWT	VB 9.399968503952575 
+GPRIS	NNP 8.797246236703527 
+ILD	NN 7.583756300707112 
+LQXIM	NN 9.375515769935166 
+MIHR	VB 8.013674142832684 
+LFER	VB 8.70682132339263 
+ANARKIH	NN 10.068662950495112 
+MIHM	QW 5.771441123130016 
+RXWQ	JJ 6.80211694695914 
+ILK	VB 8.70682132339263 
+MIHW	QW 5.771441123130016 
+AIFWMIM	NN 10.068662950495112 
+MABQM	NN 10.068662950495112 
+FLJIM	NN 10.068662950495112 
+BIJA	VB 9.399968503952575 
+IMI	JJ 8.881558488638976 NNT 6.17612711160391 
+WWDAWT	NN 8.970050661827003 
+XSWMH	JJ 8.881558488638976 
+ZWJRIM	JJ 8.881558488638976 
+1791	CD 6.871609832345784 
+BMIFRIN	MOD 7.518064181233078 RB 8.069029328774958 
+NZEQW	VB 8.70682132339263 
+NLKD	VB 8.70682132339263 
+BIIM	VB 8.70682132339263 
+SLPSJIQ	NNP 8.797246236703527 
+RXWB	NNT 5.9529835602897005 NN 7.871438373158893 
+CDDIM	NN 7.429605620879854 
+DRGIM	NN 10.068662950495112 
+AINJLQJWAL	NN 10.068662950495112 
+HIRANW	NNP 7.187808324269427 
+CDDIT	JJ 8.881558488638976 
+PRQI	NNT 8.948715833843691 
+ZWWEH	NN 10.068662950495112 
+HZKIRW	VB 9.399968503952575 
+HTERERWT	NNT 8.948715833843691 
+LFGR	VB 8.70682132339263 
+XIJH	NN 10.068662950495112 
+IRWFLIM	NNP 4.026561612237862 
+MZWINT	JJ 8.881558488638976 
+MTLMDT	NN 10.068662950495112 
+HZKIRH	VB 9.399968503952575 
+ASWRIM	VB 9.399968503952575 
+NWSIIRAT	NNP 8.104099056143582 
+MTAXDIM	VB 9.399968503952575 
+RFTWT	NNT 8.948715833843691 NN 10.068662950495112 
+MIKL	NNP 7.187808324269427 NN 10.068662950495112 
+SWCIALIIM	JJ 7.7829461999708665 
+XIILWT	NN 9.375515769935166 
+LHWLID	VB 9.399968503952575 
+XIIB	NN 10.068662950495112 VB 6.627379781712794 JJ 8.881558488638976 
+IIFWMN	NN 10.068662950495112 
+SIWWG	NN 10.068662950495112 
+QJEIM	NN 8.970050661827003 
+TKNITW	NN 10.068662950495112 
+9.13	CD 7.564757012905729 
+9.11	CD 7.564757012905729 
+MIJB	NNT 7.850103545175582 
+NLMD	VB 8.301356215284466 
+PRSH	NN 9.375515769935166 
+GBIEI	NNT 7.850103545175582 
+XIIW	NN 7.360612749392902 
+HGRLH	NN 10.068662950495112 
+PRSM	VB 9.399968503952575 
+MFQPIM	VB 8.70682132339263 
+MWBNT	JJ 8.881558488638976 VB 9.399968503952575 
+IIFWMH	NN 10.068662950495112 
+XIIM	JJ 7.7829461999708665 VB 7.608209034724521 NN 6.09837103694299 NNP 5.706203783345211 
+PRSJ	NNP 8.797246236703527 
+LHWLIK	VB 8.70682132339263 
+WWEDWT	NNT 7.850103545175582 NN 10.068662950495112 
+XIIL	NN 10.068662950495112 
+PRSI	JJ 7.089799019410921 NNT 8.255568653283746 
+MIJH	NNP 7.698633948035417 NN 10.068662950495112 
+IPH	JJ 6.80211694695914 RB 8.069029328774958 
+SPRJIZM	NN 10.068662950495112 
+BWCEW	VB 8.301356215284466 
+WWLDRIDG	NNP 8.797246236703527 
+MZIZH	VB 9.399968503952575 
+KRMIAL	NNP 8.797246236703527 
+EWRQI	NNT 8.948715833843691 
+RCITI	VB 9.399968503952575 
+ALINH	NNP 7.005486767475472 
+TIKNWN	NN 9.375515769935166 
+IPW	NNP 7.005486767475472 
+MIMF	VB 9.399968503952575 
+AWPWZICIH	NN 8.276903481267057 
+PWLIJIIM	JJ 6.173508287536766 
+MIMD	NN 10.068662950495112 
+MLAKWTIIM	JJ 8.881558488638976 
+BWWDAI	MOD 6.824917000673133 RB 5.504079971313421 
+ERWC	NN 9.375515769935166 
+DISQJIM	NN 10.068662950495112 
+MKNIQH	NN 10.068662950495112 
+BILH	VB 9.399968503952575 
+IWSJWN	NNP 8.797246236703527 
+BQRWB	RB 5.766444235780912 
+XIKH	VB 9.399968503952575 
+ZWLWJWXIN	NNP 8.797246236703527 
+LWQACR	NNP 8.797246236703527 
+IQR	JJ 7.089799019410921 
+EWRPI	JJ 8.881558488638976 
+ALIMH	JJ 8.881558488638976 
+LHTAZR	VB 9.399968503952575 
+DRIIB	NNP 8.797246236703527 
+BIMT	NNT 8.948715833843691 
+KNSIM	NN 10.068662950495112 
+MILA	VB 8.301356215284466 
+HRPIH	NN 9.375515769935166 
+MQIIMWT	VB 9.399968503952575 
+IRD	VB 7.002073231154205 
+WAFINGJWN	NNP 6.494661143709481 
+MILH	NN 8.970050661827003 
+LFIM	VB 7.608209034724521 
+HFQPTW	NN 10.068662950495112 
+BIMH	NN 10.068662950495112 
+IRH	VB 7.202743926616356 
+LFKT	NNT 6.550820561045321 
+IRI	NN 9.375515769935166 NNT 8.948715833843691 
+NLQX	VB 8.70682132339263 
+XINH	NN 10.068662950495112 
+BDLNI	JJ 8.881558488638976 
+NEFTH	VB 8.70682132339263 
+IRQ	VB 9.399968503952575 
+NQIWN	NN 10.068662950495112 
+CPIIH	NN 9.375515769935166 
+IRW	VB 7.4540583548972625 
+BINW	NNP 8.797246236703527 
+LFLB	VB 9.399968503952575 
+XIZWQIM	NN 10.068662950495112 
+AZRXI	JJ 8.188411308079031 NNT 7.562421472723801 
+PRXH	VB 8.70682132339263 
+LFLM	VB 6.3554460662291525 
+XINM	NN 10.068662950495112 
+XSRWNWT	NN 10.068662950495112 
+ISD	VB 9.399968503952575 
+AWRWWLIANIT	JJ 8.881558488638976 
+BINI	IN 6.488561750481627 
+CLSI	NNP 8.104099056143582 
+ERWK	VB 9.399968503952575 
+APWDWT	NNT 8.948715833843691 
+ZILND	NNP 7.005486767475472 
+MCWRPIM	VB 9.399968503952575 
+PRWC	NNT 7.850103545175582 
+DRIFT	NNT 7.339277921409591 
+ETIDM	NN 10.068662950495112 
+MINH	NN 10.068662950495112 VB 8.70682132339263 
+LFKB	VB 8.70682132339263 
+MINI	MOD 7.518064181233078 JJ 8.881558488638976 NNT 8.948715833843691 
+LFKH	NN 8.970050661827003 
+PRWF	NNP 8.797246236703527 
+PRWE	JJ 8.881558488638976 
+IDWEIM	VB 9.399968503952575 JJ 8.188411308079031 
+SPIRH	NN 10.068662950495112 
+SPIRT	NNT 8.948715833843691 
+BILWII	NNT 8.948715833843691 
+QLASIWT	JJ 8.881558488638976 
+BWCEH	VB 9.399968503952575 
+HFMIE	VB 9.399968503952575 
+ETIDW	NN 8.970050661827003 
+PRWP	VB 9.399968503952575 NNP 8.797246236703527 NNT 8.255568653283746 NN 6.890609120147166 
+FWJIM	JJ 8.881558488638976 
+XIPH	NNP 5.108366782589591 
+IIPLA	VB 9.399968503952575 
+JARSWB	NNP 8.797246236703527 
+ITN	VB 9.399968503952575 
+BIQF	VB 7.002073231154205 
+BNIHM	NN 10.068662950495112 
+ITR	MOD 5.908626268798978 RB 6.2772698595469025 VB 9.399968503952575 DT 4.719773568727095 NN 7.871438373158893 
+MIQA	NNP 8.797246236703527 
+SWCIALISJ	NN 10.068662950495112 
+QLIPT	NNT 8.948715833843691 
+ETIDI	JJ 8.188411308079031 
+ETIDH	JJ 8.881558488638976 VB 9.399968503952575 NN 8.970050661827003 
+HFMJT	VB 9.399968503952575 
+AFMX	VB 9.399968503952575 
+MIQI	NNP 7.187808324269427 
+IIFWTI	NN 10.068662950495112 
+ALQJRWNIT	JJ 8.188411308079031 
+IUD	JJ 8.881558488638976 
+DRIFH	NN 7.989221408815276 
+LFNN	VB 9.399968503952575 
+BNIIH	NN 6.736458440319908 
+IUF	ZVL 4.3694478524670215 
+AFMH	JJ 8.188411308079031 NN 9.375515769935166 
+QLIPH	NN 10.068662950495112 
+RCINW	VB 8.70682132339263 
+BIRH	NN 8.970050661827003 
+MEMDM	NN 9.375515769935166 
+BNIIN	NNT 6.383766476382155 NN 7.670767677696742 
+XILWNI	JJ 8.188411308079031 
+MEMDH	NN 10.068662950495112 
+BIRD	NNP 8.797246236703527 
+XDIFH	JJ 8.881558488638976 
+RAMASWWAMI	NNP 8.797246236703527 
+FMWEWT	NN 9.375515769935166 
+DIIHJSW	NNP 8.797246236703527 
+MPXIDH	VB 8.70682132339263 
+BNIIT	NNT 7.850103545175582 
+ABINTN	NNP 8.797246236703527 
+PWRIWT	NN 10.068662950495112 
+LFMF	VB 8.013674142832684 
+MSIJIM	VB 9.399968503952575 
+MMWXZR	JJ 8.881558488638976 
+DQIQWT	JJ 8.881558488638976 
+FPIKWT	NNT 8.255568653283746 
+BIQR	VB 7.202743926616356 
+EWRKW	NN 10.068662950495112 
+MXWFBIM	VB 9.399968503952575 
+ALIHW	NNP 7.4109518755836366 
+EWRKT	NNT 8.948715833843691 
+LFMR	VB 9.399968503952575 
+NKLLIM	VB 8.70682132339263 
+MTINWTH	NN 10.068662950495112 
+EITWNAIIM	JJ 8.881558488638976 
+SEIPI	NNT 7.562421472723801 
+MCIAWTIIM	JJ 8.881558488638976 
+EWRKI	NNT 7.1569563646156364 
+HAFMWT	NN 9.375515769935166 
+ZKRWN	NN 10.068662950495112 
+MTIMJIWT	JJ 8.881558488638976 
+NPFWT	NN 8.970050661827003 
+DQDQNWT	NN 10.068662950495112 
+BIRT	NNT 8.948715833843691 
+HDGFH	NN 9.375515769935166 
+IWM	NN 5.849155245319006 NNT 4.333595317002432 
+LFPR	VB 8.70682132339263 
+XIQH	VB 9.399968503952575 
+AWKZBW	VB 9.399968503952575 
+FIBXW	VB 9.399968503952575 
+KWNNWT	NN 9.375515769935166 
+BITI	JJ 7.495264127519086 NN 10.068662950495112 
+BITH	NN 7.989221408815276 
+MTGWRRIM	VB 8.301356215284466 
+SPINT	NNT 8.948715833843691 
+NEFWT	VB 9.399968503952575 
+MIRB	NNT 8.948715833843691 
+HXRIMW	VB 9.399968503952575 
+QBLWT	NNT 8.948715833843691 
+QWBEIM	VB 8.70682132339263 
+AXLMH	NNP 8.797246236703527 
+RWCIM	VB 6.104131637948247 
+LCMCM	VB 8.013674142832684 
+SPINH	NN 10.068662950495112 
+IXD	IN 6.974069566263328 MOD 6.419451892564968 RB 6.970417040106848 
+9.90	CD 7.564757012905729 
+BISS	VB 8.70682132339263 
+PRWPSWR	NN 7.989221408815276 
+IXL	VB 8.301356215284466 
+MIRN	NNP 8.797246236703527 
+BIUL	JJ 8.881558488638976 
+IXS	NN 8.459225038061012 
+MFPJN	NN 10.068662950495112 
+MEBIRH	VB 9.399968503952575 
+XILWQI	NNT 7.339277921409591 
+MFPJI	JJ 7.089799019410921 
+XWLCWT	NN 10.068662950495112 
+FWLIWT	JJ 8.881558488638976 
+BIINIF	NNP 8.104099056143582 
+MJWPLIM	NN 10.068662950495112 
+MGIRWT	NN 10.068662950495112 
+SWCIALIWT	JJ 8.881558488638976 
+BXFAI	RB 8.069029328774958 
+BITW	NN 7.583756300707112 
+LEITIM	MOD 7.518064181233078 
+NLXM	VB 9.399968503952575 
+MIUL	NN 8.970050661827003 
+TIKNNW	VB 9.399968503952575 
+BITN	NN 9.375515769935166 
+FWWIWN	NNT 7.339277921409591 NN 10.068662950495112 
+BITM	NN 8.682368589375221 
+ERBWT	NN 8.682368589375221 NNT 7.850103545175582 
+MQPID	VB 9.399968503952575 
+XDIRT	NNT 7.850103545175582 
+PWLIJIQH	NN 7.871438373158893 
+CRKIHM	NN 10.068662950495112 
+NSPGW	VB 9.399968503952575 
+XDIRH	JJ 8.881558488638976 
+ERBWB	NNT 8.948715833843691 
+ELIZIM	JJ 8.881558488638976 
+AFRW	NN 10.068662950495112 
+MITH	NN 10.068662950495112 
+MAPIWT	NN 10.068662950495112 
+LFQM	VB 9.399968503952575 
+BIUX	NN 10.068662950495112 
+ZKRIH	NNP 8.797246236703527 
+AFRT	NNT 8.948715833843691 
+IZI	NNP 8.797246236703527 
+LFQP	VB 8.70682132339263 
+CLXT	NN 10.068662950495112 
+MFPJW	NN 10.068662950495112 
+GZENIT	JJ 8.188411308079031 
+IZM	VB 8.301356215284466 
+HDGIF	VB 7.7905305915184755 
+SPIXT	NNT 8.948715833843691 
+BIWN	NN 10.068662950495112 
+AFTI	NN 10.068662950495112 
+ISMNW	VB 9.399968503952575 
+MAMINIM	NN 10.068662950495112 VB 7.608209034724521 
+BIWB	NN 10.068662950495112 
+GQSWN	NNP 7.005486767475472 
+XTIMTW	NN 9.375515769935166 
+HWLQWMB	NNP 8.797246236703527 
+LFTP	VB 8.301356215284466 
+MEMDW	NN 8.122752801439798 
+XIWB	NN 8.970050661827003 
+MIWN	NNT 8.948715833843691 NN 8.459225038061012 
+RWCWT	VB 8.70682132339263 
+AFUL	NNP 8.797246236703527 
+MFPIL	JJ 8.881558488638976 
+XILWPI	NNT 7.339277921409591 JJ 8.881558488638976 
+BIXD	RB 6.682734967655067 IN 9.74665828850311 
+MFPIE	VB 8.301356215284466 
+AIWNIR	NNP 8.797246236703527 
+ITPQD	VB 9.399968503952575 
+AFTW	NN 7.766077857501067 
+SLQCIH	NN 9.375515769935166 
+MSGDIM	NN 10.068662950495112 
+MTNGDWT	VB 8.70682132339263 
+HWFLKW	VB 8.301356215284466 
+PRWJSJNJIM	JJ 8.881558488638976 NN 10.068662950495112 
+PIFWJ	NNT 8.948715833843691 
+IIPTX	VB 8.70682132339263 
+FWJRI	NNT 8.948715833843691 
+BIXS	IN 7.54943371116689 
+AFUP	NNP 6.851336087648214 
+RDIAJWRI	NNT 8.948715833843691 
+IIPTXW	VB 9.399968503952575 
+XIWN	NNP 8.104099056143582 
+DRIKWT	NN 10.068662950495112 
+CHRIM	NN 8.970050661827003 
+HDGMT	NNT 8.948715833843691 
+NQJET	VB 9.399968503952575 
+XIWT	NN 10.068662950495112 JJ 8.881558488638976 NNT 8.948715833843691 
+ALIAB	NNP 8.797246236703527 
+FBRAWWI	NNP 8.104099056143582 
+BRIJNIH	NNP 6.494661143709481 
+XIWK	NN 9.375515769935166 
+CEIPIM	NN 10.068662950495112 
+ICIBWT	NN 8.970050661827003 
+KLLIWT	JJ 8.188411308079031 
+HWFLMW	VB 9.399968503952575 
+MAWKLSIM	VB 9.399968503952575 
+NQJEH	VB 9.399968503952575 
+IDWEWT	VB 9.399968503952575 JJ 8.881558488638976 
+NIJRLH	VB 9.399968503952575 
+HQMTM	NN 10.068662950495112 
+GWDLH	NN 9.375515769935166 
+GWDLK	NN 10.068662950495112 
+FAPTNWTW	NN 10.068662950495112 
+HQMTH	NN 10.068662950495112 
+ITQIIMW	VB 9.399968503952575 
+GWDLN	NN 10.068662950495112 
+BLBWL	NN 10.068662950495112 
+LFXQ	VB 8.013674142832684 
+LHTNAWT	VB 9.399968503952575 
+PWJRWT	VB 9.399968503952575 
+ZKRNW	VB 8.70682132339263 
+BWBWT	NN 8.682368589375221 
+IEDIH	NN 9.375515769935166 
+MTRKZIM	VB 9.399968503952575 
+ITPTX	VB 9.399968503952575 
+LFWB	VB 7.32052696227274 
+SWCIALIZM	NN 8.970050661827003 
+HFQPWT	NN 9.375515769935166 
+IEDIM	NN 8.682368589375221 
+MBQFWT	VB 9.399968503952575 
+LFWJ	VB 9.399968503952575 
+DWXIM	VB 9.399968503952575 
+NDRFIM	VB 9.399968503952575 
+ALIBI	NNP 8.797246236703527 NN 10.068662950495112 
+LFWN	NNT 8.948715833843691 NN 8.682368589375221 
+IHMRW	VB 9.399968503952575 
+HWFLKH	VB 9.399968503952575 
+HQMTW	NN 9.375515769935166 
+NISTH	VB 8.013674142832684 
+PSGH	NN 9.375515769935166 
+MWGMRT	JJ 8.881558488638976 
+KWWIIT	NNP 5.706203783345211 
+HTBRRH	VB 9.399968503952575 
+HQDIMW	VB 9.399968503952575 
+JBE	NNP 8.104099056143582 NN 8.682368589375221 
+ITPWS	VB 9.399968503952575 
+CMAI	JJT 4.564348191467836 
+NJIITW	NN 9.375515769935166 
+BHXLJ	RB 5.766444235780912 MOD 6.131769820113187 
+NMAS	VB 8.70682132339263 
+APWDIM	NN 10.068662950495112 
+LESWQ	VB 7.608209034724521 
+EIBWRW	NN 10.068662950495112 
+TINWQT	NN 10.068662950495112 
+IIPWL	VB 9.399968503952575 
+EWNFIM	NN 9.375515769935166 
+EWNFIN	NN 9.375515769935166 
+MBQFIM	VB 7.7905305915184755 
+NPGFW	VB 9.399968503952575 
+HWPIEH	VB 7.608209034724521 
+MRADWNH	NNP 8.104099056143582 
+HFMCWT	NN 9.375515769935166 
+TIAWRJIT	RB 8.069029328774958 
+KWWIIH	NN 9.375515769935166 
+HWPIEW	VB 7.608209034724521 NN 10.068662950495112 
+18.6	CD 7.564757012905729 
+HTBRRW	VB 9.399968503952575 
+MSWIMWT	JJ 8.881558488638976 
+LPSWQ	VB 8.70682132339263 
+CBAIIM	JJ 6.396651838850976 
+PSIM	NN 9.375515769935166 
+TPQWDH	NN 10.068662950495112 
+TPQWDI	JJ 8.881558488638976 
+NPGET	VB 9.399968503952575 
+NPGEW	VB 8.301356215284466 
+IIDRFW	VB 9.399968503952575 
+MCIINT	VB 9.399968503952575 
+JDI	NNP 8.797246236703527 
+TPQWDM	NN 10.068662950495112 
+TPQWDW	NN 10.068662950495112 
+NPGEH	VB 9.399968503952575 
+NMDD	VB 9.399968503952575 
+RNJGN	NN 10.068662950495112 
+BRIIJWN	NNP 8.797246236703527 
+GRWEH	JJ 6.935648339583663 
+TIPGM	VB 9.399968503952575 
+CMDN	NN 10.068662950495112 
+JEH	VB 9.399968503952575 
+LHTBJA	VB 8.70682132339263 
+JEN	VB 6.181092679084375 
+JEM	NN 8.122752801439798 NNT 7.339277921409591 
+NMCA	VB 6.509596746056411 
+WSJLND	NNP 8.797246236703527 
+XJAW	NN 10.068662950495112 
+GRWFH	NN 9.375515769935166 
+MJBE	NNT 7.1569563646156364 NN 8.970050661827003 
+HBANW	VB 9.399968503952575 
+RWXNIT	JJ 8.881558488638976 
+QWWARC	NNP 8.797246236703527 
+32.40	CD 7.564757012905729 
+AGWZIM	NN 9.375515769935166 
+RWMNIM	NN 10.068662950495112 
+ANJWNIWS	NNP 8.797246236703527 
+HCDQH	NN 9.375515769935166 
+MEMSH	NN 9.375515769935166 
+MJBX	NN 7.503713593033575 
+MPWRJWT	JJ 8.881558488638976 
+RWMNIH	NNP 6.399350963905157 
+HSTBR	VB 8.301356215284466 
+PSJH	NN 10.068662950495112 
+SIBWKIM	NN 10.068662950495112 
+MXQRIIM	JJ 8.881558488638976 
+NISWI	NN 9.375515769935166 
+MNCXIM	NN 10.068662950495112 
+QAMINGS	NNP 8.797246236703527 
+RWCXW	NN 10.068662950495112 
+AINSJINQJIM	NN 8.970050661827003 
+MMDIW	NN 10.068662950495112 
+NISWX	NNT 8.948715833843691 NN 10.068662950495112 
+LBWTIHN	NN 10.068662950495112 
+XWLCTM	NN 10.068662950495112 
+MWAFM	VB 9.399968503952575 
+ZIMAN	NNP 7.698633948035417 
+RWMNJI	JJ 8.881558488638976 
+HNDST	NNT 8.948715833843691 
+HCJMCM	VB 9.399968503952575 
+HNDSH	NN 8.682368589375221 
+MEMQI	NNT 8.948715833843691 
+AGAJ	NNP 8.797246236703527 
+ERBIT	JJ 7.495264127519086 
+20.30	CD 6.466144724237619 
+0507	CD 7.564757012905729 
+LGBF	VB 8.70682132339263 
+BZKWT	IN 7.800748139447796 
+NMFK	VB 8.013674142832684 
+MWCAIM	VB 7.4540583548972625 
+JIB	NNT 6.869274292163856 
+ERBII	NNT 7.562421472723801 
+ERBIM	JJ 6.935648339583663 NN 6.485144012039002 
+JIL	NN 10.068662950495112 
+KAMWR	RB 6.682734967655067 
+MWACT	JJ 8.188411308079031 
+JIQ	NN 10.068662950495112 
+MXRTIIM	RB 6.682734967655067 
+QLJNW	VB 9.399968503952575 
+LHTBCE	VB 9.399968503952575 
+MLAKT	NNT 8.255568653283746 
+NMIR	NNP 7.698633948035417 
+LHIJWTM	NN 10.068662950495112 
+XIPAIM	NN 10.068662950495112 
+IIQBE	VB 9.399968503952575 
+CWXQIM	VB 8.70682132339263 
+HTQFRWIWT	NN 8.459225038061012 
+FIBFH	VB 9.399968503952575 
+MSWBK	JJ 7.7829461999708665 
+LGBI	IN 6.2809223857033825 
+MJEN	NN 10.068662950495112 
+MJEH	JJ 8.188411308079031 VB 9.399968503952575 
+XMQMQH	JJ 8.881558488638976 
+XLWDIM	JJ 8.881558488638976 
+AGDT	NNT 8.948715833843691 
+NMHR	JJ 8.881558488638976 
+AIRWEIM	NN 7.1242239713286715 
+AGRSIWWIT	JJ 8.881558488638976 
+JKS	NN 10.068662950495112 NNT 8.948715833843691 
+AGDH	NN 10.068662950495112 
+MNHIGWTW	NN 10.068662950495112 
+MMWXFB	JJ 8.881558488638976 
+QWMDIH	NN 10.068662950495112 
+MLAKH	NN 9.375515769935166 
+MLAIM	JJ 7.495264127519086 
+KHNISJI	JJ 8.881558488638976 
+NHPWK	VB 8.70682132339263 
+ZHIRH	JJ 8.188411308079031 
+MJHW	NN 8.682368589375221 
+HSTGR	VB 9.399968503952575 
+MFPXT	NNT 6.869274292163856 
+MXDLI	NNT 8.255568653283746 
+HRQIEW	VB 9.399968503952575 
+RIINHARDJ	NNP 8.797246236703527 
+SINMJQ	NN 10.068662950495112 NNT 8.948715833843691 
+MFPXH	NN 7.1242239713286715 
+NMLJ	VB 8.013674142832684 
+GWRDWN	NNP 8.797246236703527 
+KDAI	JJ 8.881558488638976 VB 7.608209034724521 
+ESQH	VB 8.70682132339263 NN 10.068662950495112 
+ESQI	JJ 7.495264127519086 
+DPNH	NN 10.068662950495112 
+PRAIT	JJ 8.881558488638976 
+HWDEWT	NNT 8.948715833843691 NN 8.970050661827003 
+ESQN	NN 10.068662950495112 
+AZWRIWT	JJ 8.881558488638976 
+MAPIIN	VB 9.399968503952575 NN 10.068662950495112 
+NRMSH	VB 9.399968503952575 
+ESQT	NNT 7.850103545175582 
+PFJNIWT	JJ 8.881558488638976 
+DQIRWT	NNT 8.948715833843691 NN 10.068662950495112 
+MTMQDT	VB 9.399968503952575 
+ESQW	VB 8.70682132339263 
+PSQI	NNT 8.948715833843691 
+PSQH	NN 8.970050661827003 
+HWDETI	VB 9.399968503952575 
+JNQ	NNT 8.948715833843691 
+MBDRT	JJ 8.881558488638976 
+JIPWLIWT	JJ 8.881558488638976 
+NMNE	NN 8.970050661827003 VB 8.013674142832684 JJ 7.7829461999708665 
+XLKAIM	NN 10.068662950495112 
+CXQWQW	NN 10.068662950495112 
+IKWLT	NN 7.583756300707112 NNT 6.751491256507472 
+HWDETW	NN 8.682368589375221 
+IKWLH	VB 6.3554460662291525 
+BMIWXD	MOD 4.810013980130868 RB 6.459591416340857 
+NMNH	VB 8.70682132339263 
+NMNI	NNP 8.104099056143582 
+JABH	NNP 8.797246236703527 
+MJIP	NN 10.068662950495112 
+LGFR	VB 8.70682132339263 
+MJIL	VB 8.013674142832684 
+HZMNWT	NN 10.068662950495112 
+IWZMH	NN 7.360612749392902 
+LGFT	VB 9.399968503952575 
+TTAPFR	VB 9.399968503952575 
+LHWKIX	VB 7.608209034724521 
+HTPREWT	NN 10.068662950495112 NNT 8.948715833843691 
+DIIWWID	NNP 7.698633948035417 
+MFTXRR	VB 8.70682132339263 
+PICWIIM	NN 10.068662950495112 
+IWZMT	NNT 7.339277921409591 
+HDRGTIT	JJ 8.881558488638976 
+TFWAWT	NN 8.682368589375221 
+AWFIWT	NNP 8.797246236703527 
+QWNGRS	NNT 8.948715833843691 NN 8.682368589375221 
+0591	CD 7.564757012905729 
+JPR	NNP 8.797246236703527 
+MRNFJIIN	NNP 8.104099056143582 
+PFRNIM	NN 10.068662950495112 
+HSTKM	VB 7.09738341095853 
+ATIAISJIM	NN 10.068662950495112 
+AWPJIMIWT	NN 10.068662950495112 
+FBWEWT	NN 7.2354496064388965 
+BJLH	VB 9.399968503952575 
+FBWEWN	NN 9.375515769935166 
+DWWWX	VB 9.399968503952575 
+MEBIDW	NN 10.068662950495112 
+ITQFH	VB 8.70682132339263 
+BRCLWNH	NNP 8.104099056143582 
+NMNW	VB 9.399968503952575 
+JQS	NN 8.122752801439798 
+MEMIDH	VB 8.70682132339263 
+5,191	CD 7.564757012905729 
+THLWKH	NN 9.375515769935166 
+ENWWH	NN 8.970050661827003 
+CBAIWT	JJ 7.7829461999708665 
+MSWIMIM	JJ 7.089799019410921 
+ITQFW	VB 9.399968503952575 
+ITQFR	VB 9.399968503952575 
+TWMKIM	VB 7.7905305915184755 NN 8.970050661827003 
+JRI	NNP 7.4109518755836366 
+HZMNTW	NN 10.068662950495112 
+JRM	RB 5.504079971313421 
+TWMKIH	NN 10.068662950495112 
+HGIRTM	NN 10.068662950495112 
+TWMKIW	NN 8.459225038061012 
+PTIXT	NNT 7.562421472723801 
+FIINPLD	NNP 8.104099056143582 
+JRX	VB 8.301356215284466 
+REIWNIT	JJ 8.188411308079031 
+HNGBI	NNP 8.104099056143582 
+NMRC	JJ 7.7829461999708665 
+QWWINS	NNP 8.797246236703527 
+PSXH	VB 9.399968503952575 
+LICNIM	NN 10.068662950495112 
+HRSNI	JJ 8.881558488638976 
+IHPKW	VB 9.399968503952575 
+HEMID	VB 8.301356215284466 
+CRPTI	NNP 8.797246236703527 JJ 7.7829461999708665 
+ESWQ	VB 8.70682132339263 
+EWTMNIT	JJ 8.881558488638976 
+EWSQT	VB 8.013674142832684 
+CMRT	NN 8.459225038061012 NNT 7.339277921409591 
+PSWQ	NNT 8.948715833843691 NN 10.068662950495112 
+PSWL	VB 9.399968503952575 JJ 7.7829461999708665 
+DPWS	NN 8.970050661827003 NNT 8.255568653283746 
+XNIKH	NN 9.375515769935166 
+MWCUF	NN 9.375515769935166 
+XJPW	VB 8.70682132339263 
+PINNSIT	JJ 8.881558488638976 
+FLMIM	JJ 7.7829461999708665 
+WGMN	NNP 7.698633948035417 
+KIFLWN	NNT 8.948715833843691 NN 10.068662950495112 
+AGMI	NNP 7.698633948035417 
+MFBFWT	VB 9.399968503952575 
+MXIRIM	NN 6.7728260844907835 
+ZWWEWT	NN 10.068662950495112 
+ZRIMH	NN 10.068662950495112 
+NMSR	VB 6.627379781712794 
+MJPL	VB 9.399968503952575 
+AGNH	NNP 8.797246236703527 
+AWLIMPIT	JJ 7.495264127519086 
+FWAB	VB 8.301356215284466 
+JWB	JJ 5.355197964022815 NN 8.682368589375221 NNT 8.948715833843691 RB 6.970417040106848 
+NFMEH	VB 8.301356215284466 
+GRWSBWRD	NNP 7.187808324269427 
+MCJBR	VB 9.399968503952575 JJ 7.7829461999708665 
+JWF	NN 10.068662950495112 
+FWAH	NN 7.178291192598947 
+BWDDH	JJ 8.881558488638976 
+BJRM	IN 7.348763015704739 
+FWAL	VB 8.301356215284466 
+JWL	NNP 8.797246236703527 
+XCIIT	NNT 8.948715833843691 
+HWFKRW	VB 9.399968503952575 
+AIABQ	VB 9.399968503952575 
+JWN	NN 10.068662950495112 
+TQIPH	JJ 8.881558488638976 NN 8.682368589375221 
+WWIIS	NNP 8.797246236703527 
+GZBR	NN 10.068662950495112 
+RAFNW	NN 10.068662950495112 
+NAMNWT	NN 8.459225038061012 NNT 8.948715833843691 
+JWR	NN 9.375515769935166 
+NRGZIM	JJ 8.881558488638976 
+JWS	NNP 8.797246236703527 
+CMWD	JJ 8.188411308079031 
+BZMNW	RB 7.3758821482150125 
+MJRH	NN 7.429605620879854 
+QLLWT	NN 10.068662950495112 
+WWIIJ	NNP 8.797246236703527 
+LIBRLIZM	NN 10.068662950495112 
+MJRT	NNT 8.255568653283746 
+WWIIN	NNP 8.104099056143582 
+TPWQTW	NN 10.068662950495112 
+KWPIM	VB 9.399968503952575 
+MMFIKH	VB 8.70682132339263 
+CMXI	NNT 8.948715833843691 
+MWPLGT	JJ 8.881558488638976 
+FWBW	NN 9.375515769935166 
+QWBH	NNP 8.104099056143582 
+LGRF	VB 9.399968503952575 
+NBLEIM	VB 9.399968503952575 
+ALIMIM	JJ 7.495264127519086 
+QWBE	VB 8.013674142832684 JJ 8.881558488638976 
+FWMRI	NNT 8.948715833843691 
+HKRXIWT	JJ 8.881558488638976 NN 10.068662950495112 
+QWBL	NNP 8.797246236703527 
+NMXQ	VB 9.399968503952575 
+QWLWT	NNT 8.255568653283746 NN 8.276903481267057 
+FWMRT	VB 9.399968503952575 
+GIBWRIW	NN 10.068662950495112 
+FWAP	VB 9.399968503952575 
+LHBQIE	VB 8.013674142832684 
+TQINH	NN 7.583756300707112 JJ 7.7829461999708665 
+MTRISIM	VB 9.399968503952575 
+yyDOT	yyDOT 0.0 
+GIBWRIM	NN 10.068662950495112 
+IFIRWT	JJ 8.881558488638976 RB 6.682734967655067 
+ZRIQT	NNT 8.948715833843691 
+TTRWM	VB 9.399968503952575 
+MQSIM	JJ 8.881558488638976 NNP 7.698633948035417 
+MWELIT	VB 9.399968503952575 
+MSTPQIM	VB 8.70682132339263 
+QWAN	NNP 8.797246236703527 
+FWBH	JJT 4.564348191467836 
+AWLIMPIH	NNP 8.797246236703527 
+CMXW	VB 9.399968503952575 
+NMWK	JJ 6.396651838850976 
+FWBL	NNP 8.797246236703527 
+PTIXH	NN 7.670767677696742 
+NICXWNWT	NN 8.682368589375221 NNT 8.948715833843691 
+GIRWFM	NN 9.375515769935166 
+GZEN	NN 10.068662950495112 
+FETIIM	NN 8.970050661827003 
+SDIRH	JJ 7.495264127519086 
+KLWLWT	VB 9.399968503952575 
+BJWN	NN 9.375515769935166 
+MZMIN	VB 8.70682132339263 
+MMFIIM	JJ 8.881558488638976 
+AGTH	NNP 8.797246236703527 
+HEMQT	NNT 8.948715833843691 
+BJWI	NN 10.068662950495112 
+QWDM	RB 5.296440606535176 IN 9.74665828850311 JJ 6.80211694695914 VB 9.399968503952575 
+CILWMIM	NN 10.068662950495112 
+HFPLWT	NN 10.068662950495112 
+QWDF	NN 9.375515769935166 
+HFTKRWTM	NN 10.068662950495112 
+IQIRIHN	NN 10.068662950495112 
+PWNQCIWNLIIM	JJ 8.881558488638976 
+MNHIGI	NNT 7.002805684788378 
+LIQWII	NNT 7.562421472723801 
+LHIDXQ	VB 9.399968503952575 
+FWEL	NN 10.068662950495112 
+KHNIZM	NN 8.459225038061012 
+MJWS	NN 8.682368589375221 NNT 8.948715833843691 
+MJWT	NNT 8.948715833843691 NN 10.068662950495112 
+FWER	NN 8.276903481267057 
+MWPQDIM	VB 9.399968503952575 NN 10.068662950495112 
+TISGR	VB 9.399968503952575 
+GLWSQA	NNP 7.698633948035417 
+FWDD	NN 10.068662950495112 
+QWMDI	NNP 8.104099056143582 
+QWCR	NNT 8.255568653283746 
+BWQARFJ	NNP 8.797246236703527 
+QWMPLQS	NN 10.068662950495112 
+QWBLIM	VB 9.399968503952575 
+BJWX	VB 8.301356215284466 JJ 7.7829461999708665 
+TXZIWTIW	NN 10.068662950495112 
+MTARXT	VB 9.399968503952575 
+FWDR	VB 9.399968503952575 
+HIJIBH	VB 9.399968503952575 
+DIQJJWRH	NN 10.068662950495112 
+HWAFM	VB 8.70682132339263 
+ITSWS	VB 9.399968503952575 
+TKWNWT	NNT 8.948715833843691 NN 8.970050661827003 
+RZIN	NNP 7.698633948035417 
+IRWFLMIT	JJ 8.881558488638976 
+TQPWTN	NN 10.068662950495112 
+161351	CD 7.564757012905729 
+QWFI	NN 8.970050661827003 
+HEMSH	NN 10.068662950495112 
+QWFR	VB 9.399968503952575 
+AWNIBRSIJT	NNT 6.309658504228433 
+AGUX	NNT 8.948715833843691 
+AWNIBRSIJH	NN 7.670767677696742 
+BLGRAD	NNP 7.698633948035417 
+NFMET	VB 9.399968503952575 
+NFMEW	VB 8.301356215284466 
+MDMIE	JJ 8.881558488638976 
+AICJDIWN	NNT 8.948715833843691 NN 8.682368589375221 
+IRWFLMIM	JJ 8.881558488638976 
+GZIM	NN 10.068662950495112 
+MPLIAH	JJ 8.881558488638976 
+GZIN	NNP 7.187808324269427 
+PJMIM	NN 10.068662950495112 
+IPGMW	VB 9.399968503952575 
+HEBIRW	VB 9.399968503952575 
+257.5958	CD 7.564757012905729 
+IHPWK	AUX 5.2293244950610855 VB 8.70682132339263 
+FKWNWT	NNT 8.948715833843691 NN 9.375515769935166 
+MRWWIXH	VB 9.399968503952575 
+QWHL	NNP 7.698633948035417 
+IARMQWB	NNP 8.104099056143582 
+MDWIQWT	JJ 8.881558488638976 
+HBDLI	NNT 8.948715833843691 
+PRCWP	NN 10.068662950495112 
+MINSWJH	NNP 6.23229687924199 
+MWDEH	NN 8.970050661827003 
+HQPWT	NN 10.068662950495112 
+NPRDNW	VB 9.399968503952575 
+MWDEI	NNP 6.399350963905157 
+ISPWG	VB 9.399968503952575 
+MJPXWT	NNT 8.948715833843691 
+ECMAWTM	NN 10.068662950495112 
+QICWC	NN 8.122752801439798 NNT 8.948715833843691 
+ECMAWTN	NN 10.068662950495112 
+MXPFIM	VB 8.70682132339263 
+ECMAWTH	NN 10.068662950495112 
+HWAIL	IN 9.053511107943164 
+RAFWN	NN 7.429605620879854 NNP 7.698633948035417 JJ 4.738423762247443 
+KAB	NN 9.375515769935166 
+AQRILN	NNP 8.797246236703527 
+FWHH	VB 9.399968503952575 
+MQWCRT	JJ 8.881558488638976 
+MEWNIIN	VB 8.70682132339263 
+LGWR	VB 8.013674142832684 
+RAFWT	NNT 6.646130740849646 
+FWHM	NNP 8.797246236703527 
+KAL	IN 9.053511107943164 
+KAN	RB 4.35545726207065 
+APQJIWWIWT	NN 10.068662950495112 
+HTAWFFW	VB 8.70682132339263 
+LHIDRF	VB 9.399968503952575 
+KBD	JJ 7.7829461999708665 
+KBF	VB 8.70682132339263 
+QWJL	VB 9.399968503952575 
+QICWR	NN 10.068662950495112 NNT 8.255568653283746 
+HTAWFFH	VB 9.399968503952575 
+HIDRAWLIT	JJ 8.188411308079031 
+FWKN	VB 9.399968503952575 
+KDWR	NNT 7.850103545175582 NN 7.2354496064388965 
+KBR	RB 3.738295988488627 MOD 4.473541743509655 
+SWBLNWT	NN 9.375515769935166 
+PLSJI	JJ 8.881558488638976 
+FWKX	VB 8.70682132339263 
+TRGWMW	NN 10.068662950495112 
+19.9	CD 7.564757012905729 
+MWDAG	JJ 8.881558488638976 
+MELIWT	NN 10.068662950495112 
+BILIWNI	CDT 5.942799375126701 
+XNINH	NN 10.068662950495112 
+HEBIRH	VB 8.70682132339263 
+FWJP	VB 9.399968503952575 JJ 7.089799019410921 
+MMLKTIT	JJ 8.881558488638976 
+FWJR	NN 8.459225038061012 
+19.1	CD 7.564757012905729 
+QWLM	NN 10.068662950495112 
+XWCWT	NN 10.068662950495112 
+QWLJ	VB 9.399968503952575 
+MGPIIM	NN 10.068662950495112 
+MDBRWT	VB 9.399968503952575 
+QWLT	NNP 8.797246236703527 ZVL 4.3694478524670215 
+FWME	VB 9.399968503952575 
+BWNDSLIGH	NNP 8.797246236703527 
+QWLR	NNT 8.948715833843691 
+QWLP	NNP 7.4109518755836366 
+QWLQ	NNP 6.717804695023691 
+SBIBTIWT	JJ 8.881558488638976 
+KDI	IN 4.749446014738994 MOD 7.518064181233078 
+NNCX	VB 9.399968503952575 
+LHTERB	VB 7.4540583548972625 
+FWMN	NN 7.670767677696742 
+RGFWTIW	NN 9.375515769935166 
+FWMR	NN 9.375515769935166 
+QWLW	NN 8.459225038061012 
+LCPWT	VB 7.32052696227274 
+QWMC	NNT 8.948715833843691 NN 10.068662950495112 
+HTPTXWIWT	NN 8.970050661827003 
+MWDIM	VB 9.399968503952575 
+EICWMW	NN 10.068662950495112 
+FPTIIM	NN 10.068662950495112 
+SIKWIIK	NN 10.068662950495112 
+ETID	NN 7.429605620879854 VB 8.70682132339263 NNT 8.255568653283746 
+SIKWIIM	NN 8.970050661827003 
+FWLJ	VB 8.70682132339263 
+FWLI	NNT 7.850103545175582 
+FWLL	NN 8.970050661827003 
+AIRWPIWT	JJ 8.188411308079031 
+FWLP	VB 9.399968503952575 
+SIKWIIW	NN 10.068662950495112 
+ETIQ	JJT 4.564348191467836 JJ 8.188411308079031 
+KES	VB 9.399968503952575 NN 10.068662950495112 
+ETIR	JJT 3.871201010907891 
+QBWCWT	NN 7.1242239713286715 NNT 6.869274292163856 
+KET	RB 5.360979127672747 
+TRMIT	NN 10.068662950495112 
+MHNHIGWT	NN 10.068662950495112 
+MKBI	NNT 8.948715833843691 NNP 4.520580117687472 
+MKBD	VB 9.399968503952575 
+BRZLIWT	NN 10.068662950495112 
+QWNH	NN 10.068662950495112 VB 9.399968503952575 
+AQJIWWIWT	NN 10.068662950495112 
+QWNI	NNT 8.948715833843691 
+HSTKMH	VB 9.399968503952575 
+GZRI	NNT 7.850103545175582 
+KWLLNI	JJ 8.188411308079031 
+EICWMH	NN 10.068662950495112 
+KFM	IN 8.137220376069008 
+ICANW	VB 9.399968503952575 
+DQIQ	JJ 8.188411308079031 
+PJRIWJI	JJ 8.881558488638976 
+EICWMN	NN 9.375515769935166 
+MWDGF	JJ 8.881558488638976 
+MPQXIM	VB 9.399968503952575 
+MFNIIM	JJ 8.881558488638976 
+RZRB	NNP 8.104099056143582 
+QPRISIN	NNP 7.187808324269427 
+LBNWNIIM	JJ 8.188411308079031 
+QWMI	JJ 7.7829461999708665 
+FWNA	VB 8.70682132339263 
+MTIIXS	VB 9.399968503952575 
+QWMH	NN 8.682368589375221 
+FWNH	JJ 6.173508287536766 
+QWMT	NNT 7.850103545175582 
+FWNI	NN 9.375515769935166 
+FKWNTI	NN 10.068662950495112 
+ALMWZLINW	NNP 8.797246236703527 
+FALWT	NN 7.871438373158893 
+KRISJINH	NNP 8.797246236703527 
+QWNG	NNP 7.698633948035417 
+HSTKMW	VB 9.399968503952575 
+PRQLIJWT	NNT 7.562421472723801 NN 9.375515769935166 
+PRWDWRMWL	NNP 8.797246236703527 
+QWPL	NNP 8.797246236703527 
+FWQD	VB 9.399968503952575 
+MKDI	IN 9.053511107943164 
+NICBWT	VB 9.399968503952575 
+KHH	JJ 8.188411308079031 
+BELIHM	NN 10.068662950495112 
+QWPT	NNT 6.383766476382155 
+HWCAWT	NNT 7.339277921409591 NN 8.122752801439798 
+NPJRH	VB 8.70682132339263 
+KHN	NNP 5.852807257537087 
+NQMTK	NN 10.068662950495112 
+BKDI	RB 8.069029328774958 IN 9.74665828850311 
+LHTEMT	VB 8.70682132339263 
+KHW	VB 9.399968503952575 
+HCGWT	NNT 8.948715833843691 
+AHBW	VB 9.399968503952575 
+WWIZH	NNP 8.797246236703527 
+FKIRI	NNT 8.948715833843691 
+LPWCC	VB 9.399968503952575 
+AHBT	NNT 8.948715833843691 
+IXIIBW	VB 9.399968503952575 
+FWPJ	NN 7.766077857501067 
+FWPK	VB 9.399968503952575 
+FWPN	NNP 8.797246236703527 
+KIM	NN 10.068662950495112 
+MFKILIM	VB 9.399968503952575 NN 10.068662950495112 
+HRTEH	NN 10.068662950495112 
+LEWDD	VB 7.608209034724521 
+ZQIM	NN 10.068662950495112 
+AHBH	VB 9.399968503952575 NN 8.276903481267057 
+NFMTW	NN 10.068662950495112 
+KIS	NN 10.068662950495112 
+TMHWNI	NNT 8.948715833843691 
+QWPH	NN 7.871438373158893 
+QWRS	NN 10.068662950495112 NNT 8.948715833843691 
+EIRAQI	JJ 6.6843339113027564 
+ETIRH	NN 10.068662950495112 
+QWRQ	NNP 8.797246236703527 
+QWRN	NNP 7.698633948035417 
+RWGBI	NNP 8.797246236703527 
+RBIEIT	JJ 7.089799019410921 
+EIIRT	NNT 7.562421472723801 
+NNIX	VB 8.70682132339263 
+QWMIT	JJ 8.881558488638976 
+QWRT	NNT 7.850103545175582 
+ETIRT	JJT 4.564348191467836 
+LHIELM	VB 8.70682132339263 
+HARWWARD	NNP 8.104099056143582 
+HTNTQW	VB 9.399968503952575 
+MWDRNIT	JJ 6.935648339583663 
+FALTI	NN 10.068662950495112 VB 8.70682132339263 
+LHTELM	VB 7.608209034724521 
+LHBH	NN 9.375515769935166 
+HFQEH	NN 7.2354496064388965 
+ETIQH	JJ 7.495264127519086 
+FWRF	NN 10.068662950495112 NNT 8.948715833843691 
+NPGEIM	NN 8.682368589375221 
+FWRH	NN 8.122752801439798 
+FLILIIM	JJ 8.881558488638976 
+KKL	IN 6.61116407257396 
+MCJRP	VB 9.399968503952575 
+ETIQT	JJT 4.564348191467836 
+MCLMWTIHM	NN 10.068662950495112 
+FWRR	NNP 8.104099056143582 VB 8.013674142832684 
+QARIIRH	NN 9.375515769935166 
+TPQIDIM	NN 7.871438373158893 
+FWRT	NNT 8.255568653283746 
+QWRA	JJ 8.188411308079031 NN 8.682368589375221 VB 8.70682132339263 
+EIIRH	NN 7.670767677696742 
+AHDH	NN 8.682368589375221 
+MFMFIM	VB 8.013674142832684 
+TPQIDIW	NN 9.375515769935166 
+RZUL	NNP 8.797246236703527 
+LHSBIR	VB 8.70682132339263 
+KWLLIM	VB 7.7905305915184755 
+QWRH	VB 7.09738341095853 
+GFWMH	JJ 8.881558488638976 
+1969	CD 7.564757012905729 
+QWRE	VB 9.399968503952575 
+KLB	NN 8.276903481267057 
+MKHN	VB 8.013674142832684 
+KLA	NN 9.375515769935166 NNT 7.850103545175582 VB 9.399968503952575 
+ICATM	VB 9.399968503952575 
+KLH	IN 9.74665828850311 VB 9.399968503952575 NN 8.682368589375221 
+KLI	NN 8.459225038061012 NNT 6.383766476382155 
+KLL	RB 5.671134055976587 NNT 7.1569563646156364 MOD 5.908626268798978 NNP 8.797246236703527 VB 8.301356215284466 NN 6.849787125626912 
+RWMXIM	NN 10.068662950495112 
+GJAWT	NN 10.068662950495112 
+FLILIWT	JJ 7.272120576204876 
+1975	CD 7.564757012905729 
+HFQET	NNT 8.948715833843691 
+SRSWR	NNT 8.255568653283746 
+ZQNI	NNT 8.948715833843691 
+XWCPH	NN 10.068662950495112 
+DANPRMLIN	NNP 8.797246236703527 
+MXPFWT	VB 9.399968503952575 
+PTRH	VB 9.399968503952575 
+1977	CD 7.564757012905729 
+BNWTIHN	NN 9.375515769935166 
+MRWCT	NNT 7.850103545175582 
+FXQIM	NN 10.068662950495112 
+BNWTIHM	NN 10.068662950495112 
+HWCATI	VB 9.399968503952575 
+KMH	WDT 0.6632942174102642 DT 2.2468431099858104 
+1990	CD 5.772997543677674 
+CNCNT	NNT 8.948715833843691 
+LHDQ	VB 8.70682132339263 
+FWTP	VB 9.399968503952575 NN 8.276903481267057 
+BKIR	JJ 6.173508287536766 
+FWTQ	VB 9.399968503952575 
+1986	CD 7.564757012905729 
+1985	CD 7.564757012905729 
+KMW	IN 5.019270469790769 
+QWMTW	NN 10.068662950495112 
+AQZISJNCIALISJI	JJ 8.881558488638976 
+BWSRIWTW	NN 10.068662950495112 
+HWCATW	NN 10.068662950495112 
+DRIQS	NNP 7.698633948035417 
+LHTEJP	VB 9.399968503952575 
+1989	CD 7.564757012905729 
+1988	CD 6.466144724237619 
+LHGN	VB 7.09738341095853 
+QIDMW	VB 9.399968503952575 
+FWWI	NN 10.068662950495112 NNT 7.562421472723801 
+FWWH	JJ 7.7829461999708665 
+QSJLIJW	NNP 8.104099056143582 
+LHGR	VB 9.399968503952575 
+KNH	JJ 8.881558488638976 
+MTWSKL	JJ 8.881558488638976 
+GZZT	NN 10.068662950495112 
+CEIRH	JJ 6.935648339583663 NN 8.459225038061012 
+FWWT	JJ 8.188411308079031 
+HEMIDH	VB 8.70682132339263 
+KNS	NN 8.276903481267057 
+FWQXTN	NNP 8.797246236703527 
+MWSWRGSQI	NNP 8.104099056143582 
+1994	CD 7.564757012905729 
+KNW	NN 10.068662950495112 
+HRSNIT	JJ 8.188411308079031 
+1991	CD 5.166861740107358 
+MRFMIM	NN 10.068662950495112 
+EIQWLIM	NN 9.375515769935166 
+NFMWR	VB 8.70682132339263 
+QWWI	NNT 8.948715833843691 
+NWSIIBH	NNP 8.797246236703527 
+LWJWN	NNP 8.797246236703527 
+MKIR	VB 8.301356215284466 
+MKIL	VB 8.70682132339263 
+PLILIIM	JJ 8.881558488638976 
+HFQIH	NN 10.068662950495112 
+ALIWJ	NNP 8.797246236703527 
+MKIM	VB 8.70682132339263 
+MKIN	VB 9.399968503952575 
+PNQIIBIC	NNP 6.089196035601317 
+MRQMIM	NN 10.068662950495112 
+CPIRT	NNT 8.948715833843691 
+HTPZRW	VB 9.399968503952575 
+MRWBI	JJT 3.871201010907891 
+FWWA	NN 10.068662950495112 
+MRWBH	JJ 8.188411308079031 
+XKIM	NNP 8.104099056143582 
+MKWERT	JJ 8.881558488638976 
+FWNIM	JJ 5.298039550182866 
+KPH	VB 9.399968503952575 
+FALNW	VB 8.013674142832684 
+KPI	IN 5.985458172809547 
+KPL	NNT 8.948715833843691 
+KPR	NNT 6.309658504228433 NN 7.583756300707112 
+NGWHWT	NN 10.068662950495112 
+EIILH	NNP 8.797246236703527 
+MSWLSLT	JJ 8.881558488638976 
+BIJLNW	VB 9.399968503952575 
+BKLL	RB 5.989587787095122 MOD 5.215479088239032 
+MWEMDI	NNT 8.948715833843691 
+QAMRI	JJ 8.881558488638976 NN 10.068662950495112 
+MGWRIHM	NN 10.068662950495112 
+FWXJ	NNP 7.005486767475472 
+QNSWT	NN 10.068662950495112 
+FWXR	NNT 8.948715833843691 
+MWEMDW	NN 10.068662950495112 
+LEWLM	RB 5.871804751438739 MOD 7.518064181233078 
+IITKN	VB 6.56675515989636 
+FWXX	VB 9.399968503952575 
+DQRW	VB 9.399968503952575 
+RAGIB	NNP 8.797246236703527 
+FXQNI	NNT 6.004276854677251 
+TRDMTM	NN 10.068662950495112 
+EICWBH	NN 10.068662950495112 
+MWXLFIM	JJ 8.881558488638976 
+PTWX	JJ 6.935648339583663 VB 9.399968503952575 
+KRK	VB 8.013674142832684 NN 10.068662950495112 
+JBET	NN 10.068662950495112 
+MAMCIW	NN 10.068662950495112 
+HTBQFH	VB 9.399968503952575 
+KRM	NNP 7.187808324269427 NN 8.682368589375221 
+MTNGDIM	NN 9.375515769935166 VB 8.301356215284466 
+HENIQ	VB 8.70682132339263 
+EWRRW	VB 9.399968503952575 
+PTXI	NNT 8.948715833843691 
+PTXH	VB 7.7905305915184755 
+FWLIIM	NN 8.682368589375221 
+MAMCIM	NN 8.970050661827003 VB 9.399968503952575 
+MTXWLLIM	VB 9.399968503952575 
+LHLK	VB 9.399968503952575 
+MDWIQIM	JJ 8.881558488638976 
+ABLWT	NN 10.068662950495112 
+PTXM	NN 10.068662950495112 
+LHLN	RB 6.682734967655067 
+HTMQDW	VB 9.399968503952575 
+EWRRH	VB 9.399968503952575 
+MCWJJIM	VB 9.399968503952575 
+XKMI	NNT 8.948715833843691 
+KSP	NN 6.7728260844907835 
+BITIIM	JJ 8.188411308079031 
+PIJRH	VB 9.399968503952575 
+LHIEDR	VB 8.301356215284466 
+XWLQIM	VB 9.399968503952575 
+HWCANW	VB 9.399968503952575 
+CNRT	NN 8.682368589375221 NNT 8.255568653283746 
+AWIRH	NN 9.375515769935166 
+HTBQFW	VB 9.399968503952575 
+KTB	VB 6.509596746056411 NN 7.766077857501067 NNT 6.004276854677251 
+MKNH	VB 8.70682132339263 
+MKNI	JJ 8.188411308079031 
+JBEI	JJ 6.483663215840606 
+MKPR	VB 9.399968503952575 
+LHAMIN	VB 7.002073231154205 
+DQWR	NNP 8.797246236703527 
+KTR	NNP 6.23229687924199 NN 9.375515769935166 
+JBEIIM	JJ 7.495264127519086 
+TLWIWT	VB 9.399968503952575 
+DQWT	JJ 8.188411308079031 NN 7.178291192598947 NNT 7.850103545175582 
+XGIGIT	JJ 8.188411308079031 
+HTXRW	VB 9.399968503952575 
+PRSWMIW	NN 10.068662950495112 
+PRSWMIM	NN 8.682368589375221 
+KMRIM	NN 10.068662950495112 
+BICWEI	NNT 8.948715833843691 
+MTMWDDIM	NN 10.068662950495112 
+BICWEN	NN 10.068662950495112 
+PTXW	NN 10.068662950495112 VB 8.70682132339263 
+BICWEW	NN 10.068662950495112 
+LBLBL	VB 9.399968503952575 
+IFIBH	NN 7.2354496064388965 
+SMKWTH	NN 9.375515769935166 
+IFIBT	NNT 7.1569563646156364 
+SRQZM	NN 10.068662950495112 
+MFRDI	JJ 8.881558488638976 NNT 5.9529835602897005 
+AMNWN	NNP 7.698633948035417 
+MKRZ	NN 8.276903481267057 
+MFMETI	JJ 7.089799019410921 
+AMNWT	NNT 8.255568653283746 NN 6.9776204971367966 
+MKRW	VB 8.70682132339263 
+SMKWTW	NN 10.068662950495112 
+HWPGNH	VB 9.399968503952575 
+LHPK	VB 9.399968503952575 
+NCBRW	VB 9.399968503952575 
+BMHLK	IN 6.750926014949118 
+MKST	NNT 8.255568653283746 
+LHPR	VB 9.399968503952575 
+FWLLT	VB 9.399968503952575 
+NGZRWT	JJ 8.881558488638976 
+CNWE	JJ 7.7829461999708665 
+KWR	NN 9.375515769935166 
+MENIQIM	VB 9.399968503952575 
+GBIIH	NN 10.068662950495112 
+KWX	NNT 6.004276854677251 NN 7.072930676941121 
+ZKWKIT	NN 9.375515769935166 
+MFRDW	NN 8.459225038061012 
+FWLMH	VB 9.399968503952575 
+AIRWPIIM	JJ 8.881558488638976 
+ZQWQ	VB 7.7905305915184755 
+ANDRSWN	NNP 8.797246236703527 
+HWPTETI	VB 8.301356215284466 
+DRKIM	NN 6.933168734565963 
+NDIRWT	JJ 8.881558488638976 
+MCIAH	NN 9.375515769935166 
+MQRJE	VB 9.399968503952575 
+HIDRWTRPIIM	JJ 8.881558488638976 
+NRQXIM	VB 9.399968503952575 
+BRNADJ	NNP 8.797246236703527 
+LFXRR	VB 8.70682132339263 
+NNXL	VB 9.399968503952575 
+TIQWN	NN 8.970050661827003 NNT 7.562421472723801 
+MJRWTIW	NN 10.068662950495112 
+EMWTH	NN 9.375515769935166 
+BDIDWTW	NN 10.068662950495112 
+JBLH	NN 7.2354496064388965 
+BNQAIT	JJ 8.188411308079031 
+IFIGW	VB 9.399968503952575 
+AIBDW	VB 8.70682132339263 
+PJWCINI	NN 10.068662950495112 
+EMWTT	NNT 8.948715833843691 
+QIBLW	VB 7.32052696227274 
+IFRALIIM	JJ 7.089799019410921 
+MQRIB	VB 9.399968503952575 
+EBWTH	JJ 8.881558488638976 
+NHRGW	VB 8.301356215284466 
+MKTB	NN 7.072930676941121 
+AIBDH	VB 8.70682132339263 
+TTQWP	VB 9.399968503952575 
+AWKLI	NNT 8.948715833843691 
+LHQH	NN 10.068662950495112 
+MQRIN	VB 9.399968503952575 
+QIBLH	VB 7.09738341095853 
+MQRIM	NN 7.2354496064388965 
+TNWEWTIHM	NN 10.068662950495112 
+LHQL	VB 9.399968503952575 
+XLASQW	NNP 5.752723798980104 
+MIGBLT	NNT 8.948715833843691 
+EMWSH	JJ 8.881558488638976 
+QPSPBIN	ZVL 2.172223275130802 
+MQRIT	JJ 8.881558488638976 
+LHQT	NNT 8.948715833843691 
+AHRN	NNP 7.187808324269427 
+AWLDHAM	NNP 8.797246236703527 
+BRIWNIM	NN 8.276903481267057 
+BLEDI	IN 9.053511107943164 
+MDBRIM	VB 8.013674142832684 
+JBXWT	NN 10.068662950495112 
+MKWN	NNT 6.309658504228433 NN 7.871438373158893 
+NHRGH	VB 8.70682132339263 
+XIZWQ	NN 9.375515769935166 NNT 7.562421472723801 
+MABWJ	NNP 8.797246236703527 
+XIZWR	NN 9.375515769935166 
+MKWT	NN 8.682368589375221 
+RFIMWT	NN 10.068662950495112 NNT 8.255568653283746 
+XIZWI	NN 10.068662950495112 
+JBLT	NNT 8.255568653283746 
+JILIM	NN 9.375515769935166 
+PSIMIT	JJ 8.881558488638976 
+GWFIM	NN 10.068662950495112 
+MFMEWT	NNT 7.562421472723801 NN 7.871438373158893 
+MEWPPWT	NNT 8.948715833843691 
+EMWQH	JJ 8.188411308079031 
+MFMETIT	JJ 8.881558488638976 
+MNIWTIH	NN 9.375515769935166 
+MNIEH	NN 9.375515769935166 
+MCIEH	VB 8.70682132339263 
+IWECIM	NN 10.068662950495112 
+DIQLM	VB 9.399968503952575 
+GBINH	NN 9.375515769935166 
+IGWWEW	VB 9.399968503952575 
+MNIET	NNT 7.339277921409591 
+TPWRSM	VB 9.399968503952575 
+DINMIJ	NN 9.375515769935166 
+TPEWL	NNT 8.255568653283746 NN 8.682368589375221 
+HTXZQ	VB 8.70682132339263 
+KESW	NN 10.068662950495112 
+MDLIQ	VB 9.399968503952575 
+BDIEBD	RB 8.069029328774958 
+NWCRIT	JJ 7.7829461999708665 
+PWRJR	NNP 8.797246236703527 
+PWRJW	NNP 8.797246236703527 
+LFXWQ	VB 9.399968503952575 
+MDLIH	NN 10.068662950495112 
+NQLET	VB 9.399968503952575 
+AHWD	NNP 7.005486767475472 JJ 8.881558488638976 
+HWRWBIC	NNP 8.797246236703527 
+PARQIM	NN 7.766077857501067 
+AHWB	NN 10.068662950495112 
+IQIIM	VB 8.70682132339263 
+RFIMTW	NN 8.682368589375221 
+QCRIM	JJ 7.495264127519086 
+NQLEH	VB 8.301356215284466 
+MWXZQIM	JJ 8.881558488638976 
+MFABIM	NN 7.989221408815276 
+MFABIH	NN 10.068662950495112 
+FNTIT	JJ 7.495264127519086 NN 10.068662950495112 
+HTIIPIIPWT	NN 10.068662950495112 
+MSXRI	JJ 7.272120576204876 
+FXIH	NN 10.068662950495112 
+WQMNIM	NN 10.068662950495112 
+HCJIINW	VB 9.399968503952575 
+HILWWAN	NNP 8.797246236703527 
+IFIMW	VB 9.399968503952575 
+QARLSRH	NNP 8.797246236703527 
+PARMH	NNP 8.797246236703527 
+FDWLT	NNT 7.850103545175582 
+MSTERIM	VB 8.70682132339263 
+MEIINIW	NN 10.068662950495112 
+BWLWNIH	NNP 8.104099056143582 
+MIRBIT	JJ 8.881558488638976 
+JWENIM	VB 6.835019146491039 
+HMCIA	VB 8.013674142832684 
+MNIBH	VB 9.399968503952575 
+LAH	NNP 8.797246236703527 
+DRBI	NNP 6.3123395869155265 
+LAN	QW 5.771441123130016 
+MWCGIM	VB 9.399968503952575 
+PNXSI	NNP 7.187808324269427 
+ARIZWNH	NNP 7.4109518755836366 
+MCIIR	VB 9.399968503952575 
+FIDWR	NNT 8.255568653283746 NN 10.068662950495112 
+ABNIM	NN 7.766077857501067 
+LAW	RB 8.069029328774958 MOD 6.419451892564968 
+MCIIN	VB 7.7905305915184755 
+LFXZR	VB 9.399968503952575 
+EQWBIM	JJ 8.881558488638976 
+ZILWNI	NNP 8.104099056143582 
+FIDWK	NN 8.970050661827003 
+LBD	IN 9.74665828850311 RB 6.970417040106848 
+LBF	VB 9.399968503952575 
+DWRFIM	VB 9.399968503952575 NN 10.068662950495112 
+FIDWD	NNT 8.948715833843691 
+LBH	NN 10.068662950495112 
+LBK	NN 10.068662950495112 
+LBM	NN 8.682368589375221 
+LBN	JJ 8.188411308079031 
+WTIQIM	JJ 7.089799019410921 
+JILPN	VB 8.301356215284466 
+LBW	NN 9.375515769935166 
+IQIMW	VB 8.301356215284466 
+SWBARW	NNP 8.797246236703527 
+MWCAI	NNT 8.255568653283746 
+MWCAH	NN 10.068662950495112 
+TIRAH	VB 8.70682132339263 
+EDKWNIM	NN 10.068662950495112 
+PWRFT	VB 9.399968503952575 
+MWCAT	VB 9.399968503952575 
+LCD	IN 7.667216746823273 
+PWRFW	VB 9.399968503952575 
+JBEIWT	JJ 8.881558488638976 
+LCH	NNP 8.797246236703527 
+ITRWM	VB 9.399968503952575 
+ITRWN	NN 7.360612749392902 NNT 7.562421472723801 
+HELTH	VB 8.70682132339263 
+BRWRH	JJ 7.495264127519086 
+HWSPNW	VB 9.399968503952575 
+AMWCIWNLI	JJ 8.881558488638976 
+JISIIH	NNP 8.797246236703527 
+DRGH	NN 7.871438373158893 
+HTNSWT	NN 10.068662950495112 
+CBAWT	NNT 8.255568653283746 
+QBWCTI	JJ 8.881558488638976 
+FWLXN	NN 8.970050661827003 NNT 8.948715833843691 
+LAIIM	VB 9.399968503952575 
+BRWNW	NNP 6.717804695023691 
+DRGT	NNT 6.751491256507472 
+LAIIF	VB 8.70682132339263 
+QIBWC	NN 5.6742137958226735 NNT 7.1569563646156364 
+QBWCTW	NN 8.122752801439798 
+PARIJ	NNP 8.797246236703527 
+MXFBH	NN 7.989221408815276 
+PARIS	NNP 6.851336087648214 
+BLAI	NN 10.068662950495112 
+AIFWRW	NN 10.068662950495112 
+BDLNIT	JJ 8.881558488638976 
+LEG	NN 10.068662950495112 
+DRFH	NN 10.068662950495112 
+SIDWRIM	NN 10.068662950495112 
+ZWEQIM	VB 9.399968503952575 
+NFBRWT	VB 9.399968503952575 
+IWMRNWT	NN 10.068662950495112 
+MTMWDD	VB 8.70682132339263 NN 10.068662950495112 
+CIWNI	JJ 7.495264127519086 
+AMNIM	NN 7.871438373158893 
+DRFW	VB 8.013674142832684 
+LAIJH	RB 8.069029328774958 
+MLBI	NNT 8.948715833843691 
+LZRWM	VB 9.399968503952575 
+BNWTIW	NN 9.375515769935166 
+MLBD	IN 7.954898819275054 
+LZRWQ	VB 8.70682132339263 
+ABNEL	NNP 8.797246236703527 
+LZRWE	VB 9.399968503952575 
+LFM	IN 7.54943371116689 RB 8.069029328774958 
+PWRQH	VB 8.70682132339263 
+BLBD	MOD 3.5668204626516506 RB 8.069029328774958 IN 9.053511107943164 
+JILPNTI	VB 8.70682132339263 
+QWLIN	NNP 8.104099056143582 
+PWRQN	NN 10.068662950495112 
+MQRWB	RB 8.069029328774958 
+BAJRWWRT	NNP 8.797246236703527 
+MLAH	JJ 6.483663215840606 
+GWRBIC	NNP 7.005486767475472 
+MLAI	NN 9.375515769935166 JJT 4.564348191467836 
+IFIRH	JJ 6.6843339113027564 
+MLIWNR	NN 10.068662950495112 
+MFRWT	NN 8.970050661827003 
+MMFIK	VB 7.4540583548972625 
+BNQAWT	NN 10.068662950495112 
+FIDRH	VB 9.399968503952575 
+MWCET	JJ 8.188411308079031 
+MZLNW	NN 10.068662950495112 
+MMFIT	JJ 8.188411308079031 
+MXFID	NN 10.068662950495112 
+MLAW	VB 8.301356215284466 
+LGM	VB 9.399968503952575 
+LZRWS	NNP 8.797246236703527 
+LHTAWFF	VB 9.399968503952575 
+ANJIRISJ	NNP 8.104099056143582 
+XWBWT	NN 8.970050661827003 NNT 8.255568653283746 
+MWCDQ	VB 9.399968503952575 JJ 8.188411308079031 
+MFRTT	NN 10.068662950495112 
+LIAH	NNP 8.797246236703527 
+MPLGWT	NNT 8.255568653283746 NN 7.503713593033575 
+DRKH	NN 9.375515769935166 VB 9.399968503952575 
+AIAN	NNP 8.797246236703527 
+DRKI	NN 9.375515769935166 NNT 7.339277921409591 
+SIRWBAJQW	NNP 8.797246236703527 
+FXQN	NNT 7.850103545175582 NN 7.989221408815276 
+DRKK	NN 10.068662950495112 
+LHJ	NN 9.375515769935166 NNT 8.948715833843691 NNP 7.4109518755836366 
+LIJAIM	NN 10.068662950495112 
+DRKM	NN 8.459225038061012 
+DRKN	NN 10.068662950495112 
+NHRSW	VB 9.399968503952575 
+LIAZ	NNP 8.797246236703527 
+PWRSM	VB 7.608209034724521 
+DRKW	NN 7.989221408815276 
+BRWJW	NN 9.375515769935166 
+SMRJWJ	NN 10.068662950495112 
+NAWMIW	NN 10.068662950495112 
+EBIRWT	NN 8.276903481267057 
+PIILI	NNP 8.797246236703527 
+LID	IN 6.2809223857033825 
+LDRWF	VB 8.301356215284466 
+HDIXH	VB 9.399968503952575 
+LIL	NNT 7.562421472723801 
+EIJWR	NN 10.068662950495112 
+AIBH	NN 8.682368589375221 
+LIN	NNP 8.797246236703527 
+LIP	NNP 7.698633948035417 
+EMWDW	NN 9.375515769935166 
+AIBD	VB 7.002073231154205 
+LIR	NNP 8.104099056143582 
+MSEDWT	NNT 8.948715833843691 NN 8.970050661827003 
+ZRIM	NN 7.871438373158893 JJ 8.881558488638976 
+LIT	NN 10.068662950495112 
+BLEA	NNP 8.797246236703527 
+ELIWNH	JJ 8.188411308079031 
+EBWDT	NNT 6.383766476382155 
+EMWDI	NNT 8.255568653283746 
+MINISJRIWN	NN 10.068662950495112 
+PLAGIAJ	NN 10.068662950495112 
+DRMH	NN 10.068662950495112 
+BLFR	NNP 8.104099056143582 
+LICN	NN 8.970050661827003 
+ALIMWT	NN 7.024140512771689 NNT 8.255568653283746 JJ 8.881558488638976 
+MPLGTW	NN 8.459225038061012 
+PWRMJ	NN 10.068662950495112 
+HRNJALS	NNP 8.104099056143582 
+FLMWT	NN 10.068662950495112 
+XLFH	JJ 7.7829461999708665 VB 9.399968503952575 
+LBLWM	VB 8.70682132339263 
+MPLGTI	JJ 8.881558488638976 
+PICWII	NNT 8.948715833843691 
+LBLWJ	VB 8.70682132339263 
+NPGFIM	VB 9.399968503952575 
+LKH	NN 10.068662950495112 
+TCPIWT	NN 10.068662950495112 
+LBLWE	VB 9.399968503952575 
+JRWWLIAN	NNP 8.797246236703527 
+LKN	CC 5.025054643324708 
+LIBW	NN 10.068662950495112 
+AIDH	NNP 8.104099056143582 
+LKT	NN 8.682368589375221 
+EBWDH	NN 5.614315654241604 
+FIXWTIH	NN 10.068662950495112 
+LBLWT	VB 8.70682132339263 
+MFMEIT	JJ 8.881558488638976 RB 8.069029328774958 
+LLA	IN 5.66912084459739 
+REIWNWT	NN 8.682368589375221 
+DPNSIWWI	JJ 8.881558488638976 
+MDBQWT	NNT 8.255568653283746 
+BINWNI	RB 8.069029328774958 JJ 7.7829461999708665 
+MMFLH	NN 5.216632686575495 
+TIIRWT	NNT 8.948715833843691 NN 6.7728260844907835 
+MWCHR	JJ 8.881558488638976 
+HQPAT	NNT 8.948715833843691 
+TIRFM	VB 9.399968503952575 
+FIXWTIW	NN 8.970050661827003 
+FXUL	NNP 8.797246236703527 
+LQWXWT	NNT 8.255568653283746 NN 8.459225038061012 
+LBNWNI	JJ 8.881558488638976 
+MMFLT	NNT 6.058344075947526 
+PGANIWT	NN 10.068662950495112 
+HQPAH	NN 10.068662950495112 
+MWCIA	VB 9.399968503952575 
+JRIJWRIALIWT	JJ 8.881558488638976 
+MTBWNN	NN 10.068662950495112 
+MLIH	NNP 7.187808324269427 
+MLIC	NNT 8.948715833843691 
+RBIEI	JJ 7.7829461999708665 NNP 7.187808324269427 
+LIDI	IN 7.954898819275054 
+LMD	VB 7.7905305915184755 
+LIDH	NN 10.068662950495112 
+MWCGT	VB 9.399968503952575 
+LMH	QW 3.5742165457937967 
+NEIMH	JJ 7.7829461999708665 
+IFRALIWT	JJ 7.089799019410921 
+BLIT	IN 9.053511107943164 
+AIFR	VB 8.013674142832684 
+RENNWTW	NN 10.068662950495112 
+LMN	IN 9.74665828850311 
+LIDS	NNP 8.797246236703527 
+WALIWM	NNP 8.797246236703527 
+NPILH	NN 9.375515769935166 
+AIFH	NN 8.682368589375221 
+AIFI	JJ 6.316609131177439 NNT 8.948715833843691 
+MCIPH	VB 9.399968503952575 
+91.8	CD 7.564757012905729 
+MFWBCT	VB 9.399968503952575 
+yyCLN	yyCLN 0.0 
+BRWDI	NNP 8.797246236703527 
+BLJW	VB 8.70682132339263 
+CIIRIM	NN 9.375515769935166 
+MFEFEWT	JJ 8.881558488638976 
+LIGT	NNT 8.948715833843691 
+PRISTH	NN 9.375515769935166 
+FXWR	JJ 6.6843339113027564 
+FXWQ	JJ 8.881558488638976 
+NQLWJ	VB 8.70682132339263 
+MBFRT	VB 9.399968503952575 
+ZINWQ	NN 9.375515769935166 
+BNJWB	NNP 8.797246236703527 
+LNW	VB 8.70682132339263 
+TEFIH	NN 8.970050661827003 
+BLJH	NNP 8.797246236703527 
+MLKH	NNP 8.797246236703527 NN 8.970050661827003 
+MTWKNNIM	VB 9.399968503952575 JJ 8.188411308079031 
+WWIFI	NNP 8.797246236703527 
+HTNDBWT	NN 10.068662950495112 
+MLIN	VB 9.399968503952575 
+IISDW	VB 9.399968503952575 
+HFPEH	NN 7.583756300707112 
+MLIM	NN 7.296074228255331 
+QWNSJNJINSQW	NNP 7.4109518755836366 
+APWDI	NNT 7.562421472723801 
+HTAMCW	VB 9.399968503952575 
+WISMWNSQI	NNP 8.797246236703527 
+BWDQT	VB 8.70682132339263 
+XLIJ	NNP 8.797246236703527 
+PIIRW	NNP 8.797246236703527 
+LIGH	NN 6.405101304365465 
+XLIL	NN 10.068662950495112 
+ICIEIM	NN 10.068662950495112 
+PIISL	NNP 7.698633948035417 
+MWCLX	JJ 8.881558488638976 
+LPI	IN 5.834635283074963 
+LXLWM	VB 9.399968503952575 
+MLMD	VB 8.301356215284466 
+AIIM	NN 10.068662950495112 VB 9.399968503952575 
+TQIIM	VB 8.70682132339263 
+0781	CD 7.564757012905729 
+HFPET	NNT 8.948715833843691 
+LXLWF	VB 9.399968503952575 
+LIJA	NNP 8.797246236703527 
+XLLI	NNT 7.850103545175582 
+WIIJ	NNP 5.852807257537087 
+WIIL	NNP 8.797246236703527 
+AIID	NNP 8.797246236703527 
+PWLIJIQAI	NN 7.766077857501067 
+WIIN	NNP 8.797246236703527 
+LQH	VB 9.399968503952575 
+HEMDH	NN 10.068662950495112 
+MLKT	NNT 8.948715833843691 
+KDWRGLNIM	NN 9.375515769935166 
+PRSPQS	NNP 8.104099056143582 
+HTLMDH	VB 9.399968503952575 
+LQX	VB 7.7905305915184755 NN 7.989221408815276 
+ALIMLK	NNP 8.104099056143582 
+LIIB	NNP 8.797246236703527 
+TIIRIM	NN 8.276903481267057 
+MBJIXIM	VB 7.7905305915184755 
+LHIWWKX	VB 9.399968503952575 
+AILC	VB 8.70682132339263 
+ALRGIT	JJ 8.881558488638976 
+KWTBIM	NN 9.375515769935166 VB 9.399968503952575 
+RGIFWT	JJ 8.188411308079031 NNT 8.948715833843691 NN 10.068662950495112 
+HEMDT	NNT 8.948715833843691 
+LILH	NN 7.1242239713286715 
+MHWWIM	AUX 5.634789603169249 VB 8.70682132339263 
+PARWQ	NNP 8.797246236703527 
+CBAIT	JJ 5.623461950617494 
+LSJ	NNP 8.797246236703527 
+XWBRT	NN 8.682368589375221 NNT 8.948715833843691 
+21PLIWN	ZVL 4.3694478524670215 
+ISWPQW	VB 9.399968503952575 
+PIINL	NNP 8.797246236703527 
+XWBRW	VB 9.399968503952575 
+LST	NN 10.068662950495112 
+AILW	RB 7.3758821482150125 CC 5.524045809443696 IN 7.667216746823273 WDT 2.803360380906535 
+AILT	NNP 7.698633948035417 
+CMAIM	VB 9.399968503952575 JJ 8.881558488638976 
+AILN	NNP 7.4109518755836366 
+MWCRJ	NNP 8.797246236703527 
+MWCRI	NNT 7.002805684788378 
+IFTTPW	VB 8.013674142832684 
+SPWGWT	VB 9.399968503952575 
+HFPIE	VB 8.70682132339263 
+AILK	RB 8.069029328774958 
+AZNIHM	NN 10.068662950495112 
+MFWXRRIM	JJ 8.881558488638976 
+MIFWRIM	NN 10.068662950495112 
+QWLNI	JJ 8.881558488638976 
+RAFIT	RB 6.970417040106848 NNT 6.383766476382155 JJ 7.495264127519086 
+BHTIIXSWT	IN 9.74665828850311 
+8.35	CD 7.564757012905729 
+DRWM	NN 6.9776204971367966 NNT 6.383766476382155 
+MNIWT	NN 7.670767677696742 NNT 7.002805684788378 
+XLPH	VB 8.301356215284466 
+QCRWT	JJ 7.7829461999708665 
+DRWR	NNP 8.797246236703527 NN 10.068662950495112 
+TQIEH	NN 10.068662950495112 
+IINQJW	VB 9.399968503952575 
+AIMW	NN 10.068662950495112 
+LTT	VB 6.22191467360463 
+CPWNIWT	JJ 8.881558488638976 
+PWRWM	NN 10.068662950495112 NNT 8.948715833843691 
+AIMT	IN 9.74665828850311 NNT 8.948715833843691 
+LINC	NN 10.068662950495112 
+XLPW	VB 8.013674142832684 
+LINH	NNP 8.797246236703527 
+MZLZL	VB 9.399968503952575 
+XWBTH	NN 9.375515769935166 
+TTKWWN	VB 9.399968503952575 
+XWBTM	NN 10.068662950495112 
+HQPIC	VB 9.399968503952575 
+MINWIW	NN 7.989221408815276 
+AIMH	NN 10.068662950495112 
+DWRFWT	VB 9.399968503952575 
+HQPID	VB 8.70682132339263 
+CBEWNIT	JJ 8.881558488638976 
+WILH	NNP 7.698633948035417 
+XWBTW	NN 10.068662950495112 
+WILI	NNP 7.4109518755836366 
+NFLXH	VB 9.399968503952575 
+AINW	RB 3.444056515490687 
+NAGTWLLH	NNP 8.797246236703527 
+MHLWMT	NNT 8.948715833843691 
+AINN	RB 4.933535112845808 
+NPTLIM	JJ 8.881558488638976 
+PWRXT	JJ 8.881558488638976 
+SPWNJANIT	JJ 8.881558488638976 
+AINM	RB 4.1570063233468115 
+AINK	RB 8.069029328774958 
+AINH	RB 4.061696143542487 
+AINI	RB 6.682734967655067 
+DRWF	JJ 8.881558488638976 VB 8.70682132339263 
+MHLWMH	NN 10.068662950495112 
+NFLXW	VB 8.70682132339263 
+AING	NNP 7.187808324269427 
+MERIK	VB 8.301356215284466 
+NPLAH	JJ 8.188411308079031 
+PIBRWQ	NNT 8.948715833843691 
+KFLW	VB 9.399968503952575 
+HCIGW	VB 9.399968503952575 
+8.51	CD 7.564757012905729 
+MPRIE	VB 9.399968503952575 NN 9.375515769935166 
+KTIBH	NN 8.276903481267057 
+MERIB	NNP 7.698633948035417 
+WWJPWRD	NNP 8.797246236703527 
+ZIQTW	NN 10.068662950495112 
+LHTGIIS	VB 9.399968503952575 
+MPRIK	VB 9.399968503952575 
+AKIPT	NNT 8.948715833843691 
+LWD	NNP 7.698633948035417 
+HCIGH	VB 9.399968503952575 
+KTIBT	NNT 7.339277921409591 
+DIRWG	NN 8.459225038061012 NNT 8.948715833843691 
+LWI	NNP 5.539149698682046 
+BLTI	MOD 3.711401691462758 
+LWL	NN 8.276903481267057 
+AIQH	NNP 8.797246236703527 
+XLQH	NN 8.970050661827003 
+HWCAH	VB 9.399968503952575 NN 7.766077857501067 
+XLQI	NNT 7.339277921409591 JJ 8.188411308079031 
+HXFDH	NN 10.068662950495112 
+MBIAH	VB 9.399968503952575 
+LWS	NNP 7.005486767475472 
+HRMWNIH	NN 9.375515769935166 
+GWIIM	NN 9.375515769935166 
+LWX	NNT 7.850103545175582 NN 9.375515769935166 
+ZRWE	NN 8.970050661827003 
+MRQJIM	NN 10.068662950495112 
+LWZ	NNP 8.104099056143582 
+MWFMET	VB 9.399968503952575 
+XLQW	NN 8.970050661827003 VB 9.399968503952575 
+RJRWAQJIWWIT	JJ 8.881558488638976 
+AICIQ	NNP 8.797246236703527 
+LXC	VB 9.399968503952575 NN 7.178291192598947 NNT 7.562421472723801 
+XLQN	NN 10.068662950495112 
+XLQM	NN 7.503713593033575 
+MECRIM	NN 10.068662950495112 
+AMWRIM	VB 7.32052696227274 
+ABSWRDI	JJ 8.881558488638976 
+AIPH	QW 4.672828834461907 
+XLQT	NNT 7.850103545175582 
+ZRWT	NN 10.068662950495112 
+LXM	NN 8.970050661827003 VB 9.399968503952575 
+HZIWTIW	NN 10.068662950495112 
+AIRH	VB 9.399968503952575 
+CIPIIH	NN 9.375515769935166 
+AIRI	JJ 8.188411308079031 
+DIRTH	NN 9.375515769935166 
+MGNJIIM	JJ 8.881558488638976 
+LXN	NN 10.068662950495112 
+AIRE	VB 9.399968503952575 
+DIRTM	NN 10.068662950495112 
+AWLPNIM	NN 8.970050661827003 
+ZIQWQ	NN 9.375515769935166 
+AWLPNIH	NN 10.068662950495112 
+FWPRSL	NNP 7.4109518755836366 
+DIRTW	NN 8.682368589375221 
+LGIJIMIT	JJ 8.881558488638976 
+MDWRGT	VB 7.608209034724521 
+HWCAW	VB 8.70682132339263 
+MSTMKT	VB 8.013674142832684 
+HWCAT	NNT 6.550820561045321 
+GZRTH	NN 10.068662950495112 
+BXINH	NN 7.296074228255331 
+540,000	CD 7.564757012905729 
+XIPWFIH	NN 10.068662950495112 
+BXINT	NNT 6.550820561045321 
+XIPWFIM	NN 10.068662950495112 
+LIQJ	VB 9.399968503952575 
+HWCBW	VB 8.301356215284466 
+HSTBRWT	NNT 8.948715833843691 
+KRWKIM	VB 8.70682132339263 
+AWQRAINH	NNP 8.797246236703527 
+LIQR	NN 10.068662950495112 
+HTKWNNW	VB 9.399968503952575 
+TEBWRH	NN 10.068662950495112 
+BLUL	NNP 8.797246236703527 
+ASWNWT	NN 10.068662950495112 
+GLILI	NNP 8.104099056143582 
+MLWA	NNT 7.850103545175582 
+MLWL	NNP 8.104099056143582 
+MLWN	NN 6.7728260844907835 NNT 7.850103545175582 
+GLIMH	NN 10.068662950495112 
+MLWT	NNT 8.948715833843691 
+FXRWR	NNT 7.562421472723801 NN 10.068662950495112 
+FMRNI	JJ 8.188411308079031 
+MLGLGIM	VB 9.399968503952575 
+IFLMW	VB 8.70682132339263 
+JRIJWRIALIIM	JJ 8.881558488638976 
+BLFIM	NN 10.068662950495112 
+MBIEH	VB 9.399968503952575 
+MLKTXILH	RB 6.682734967655067 
+HCILW	VB 8.70682132339263 
+LHTGBR	VB 9.399968503952575 
+NDIBH	JJ 7.495264127519086 
+DWLRIT	JJ 8.881558488638976 
+LISJ	NNP 8.797246236703527 
+GDRWT	NN 9.375515769935166 
+MSTMNT	VB 9.399968503952575 
+AWLMW	NN 9.375515769935166 
+AITN	NNP 7.005486767475472 JJ 8.881558488638976 
+MTBSST	VB 9.399968503952575 
+BLWM	JJ 8.881558488638976 NNP 8.797246236703527 
+AITM	NNP 8.797246236703527 
+ALWZIWT	NN 10.068662950495112 
+GRSAWT	NN 10.068662950495112 
+HWTRTM	NN 10.068662950495112 
+DWLRIM	NN 8.970050661827003 
+HTKWWNTI	VB 9.399968503952575 
+MERKH	NN 8.970050661827003 
+IEILH	JJ 7.7829461999708665 
+CEIRINW	NN 10.068662950495112 
+DGLIM	NN 9.375515769935166 
+TRBWTIWT	JJ 8.881558488638976 
+HIJMEWT	NN 10.068662950495112 
+HMFIK	VB 8.70682132339263 
+HWCEW	VB 9.399968503952575 
+SWBLT	VB 8.70682132339263 
+JRIIM	JJ 8.881558488638976 
+AIWM	JJ 8.881558488638976 NN 7.766077857501067 
+AIWN	NNP 8.797246236703527 
+XLWN	NN 9.375515769935166 NNT 8.255568653283746 
+XLWM	NN 7.989221408815276 
+HMFKH	NN 9.375515769935166 
+XLWP	NNT 8.948715833843691 
+ETIDWT	NN 10.068662950495112 VB 8.70682132339263 
+AWLPN	NN 8.459225038061012 
+XLWC	NN 8.970050661827003 NNT 8.948715833843691 
+CIGLHAWZ	NNP 8.797246236703527 
+AWPRJIWWI	JJ 8.881558488638976 
+HWCGH	VB 9.399968503952575 
+LBWNJIN	NNP 8.797246236703527 
+MLXH	NNP 8.797246236703527 
+QWALICIWNI	JJ 8.188411308079031 
+MERKT	NNT 5.616511323668488 NN 7.989221408815276 
+LHWPIE	VB 7.4540583548972625 
+FIRWTIM	NN 7.429605620879854 
+FIRWTIW	NN 10.068662950495112 
+BINLAWMI	JJ 7.7829461999708665 
+HNDSIWT	JJ 8.881558488638976 
+WWRWDH	JJ 8.881558488638976 
+HMFKT	VB 9.399968503952575 
+HMFKW	NN 10.068662950495112 
+HWFIJW	VB 9.399968503952575 
+EWSQIM	VB 8.70682132339263 NN 10.068662950495112 
+KDAIWTM	NN 10.068662950495112 
+TRBWTIIM	JJ 8.188411308079031 
+EITWNAIM	NN 7.1242239713286715 
+MBIIM	VB 9.399968503952575 
+ZLZWL	NN 10.068662950495112 
+ZKWTM	NN 9.375515769935166 
+ZIQNH	NN 10.068662950495112 
+ZKWTH	NN 8.682368589375221 
+MAD	MOD 5.726304712005023 RB 8.069029328774958 
+NELIM	NN 10.068662950495112 
+HWCIA	VB 8.013674142832684 
+MAI	NNP 6.717804695023691 
+MAH	CD 4.306660474884247 
+MAJ	NN 10.068662950495112 
+MAM	NNP 8.797246236703527 
+MAN	NNP 8.797246236703527 
+SWGRIM	VB 8.70682132339263 
+XWMRTH	NN 9.375515769935166 
+MAT	IN 7.667216746823273 
+FBRIM	NN 10.068662950495112 
+INCIX	VB 9.399968503952575 
+MWFBI	NNT 8.948715833843691 
+MAZ	IN 6.414453778327905 RB 6.1231191797196445 
+MWFBH	NN 8.970050661827003 
+AIZH	WDT 2.1102132003465894 DT 5.972536537222463 
+NPAL	NNP 8.797246236703527 
+HTERBWT	NN 8.970050661827003 
+FBRIH	NN 10.068662950495112 
+AWLMI	NNT 8.948715833843691 
+DWXUWT	NN 10.068662950495112 
+PILIP	NNP 8.797246236703527 
+HWKXWT	NN 10.068662950495112 
+MWFBW	NN 8.122752801439798 
+MBJ	NN 9.375515769935166 
+NFALIM	NN 10.068662950495112 
+LIZR	NNP 8.797246236703527 
+AINJLQJWALIT	JJ 8.188411308079031 
+EITWNAIT	JJ 8.881558488638976 NN 10.068662950495112 
+SIWRIM	NN 7.766077857501067 
+SWRRIM	JJ 8.881558488638976 
+ZKWTW	NN 10.068662950495112 
+AINJLQJWALIM	NN 10.068662950495112 
+RWIAL	NNP 7.698633948035417 
+LPXWT	RB 5.871804751438739 MOD 4.084076976747932 
+LPEMIM	MOD 6.824917000673133 RB 5.871804751438739 
+HTIIECWIWT	NN 9.375515769935166 
+MCA	NNP 8.797246236703527 VB 7.09738341095853 
+MCB	NNT 6.309658504228433 NN 6.09837103694299 
+MCE	NN 10.068662950495112 NNT 8.948715833843691 
+MCD	IN 7.261751638715109 
+SQRIM	NN 10.068662950495112 
+MFWEMM	JJ 8.881558488638976 
+GABDWLH	NNP 8.797246236703527 
+MPRNS	NN 10.068662950495112 VB 9.399968503952575 
+NGRMH	VB 9.399968503952575 
+MCLIX	VB 8.013674142832684 JJ 8.881558488638976 
+AIZW	DT 6.665683717782408 WDT 1.4170660197866443 
+NPCE	VB 7.002073231154205 
+CMXIIH	NN 10.068662950495112 
+EQBWT	NN 10.068662950495112 
+LCRWK	VB 9.399968503952575 
+CIPIWT	NN 8.459225038061012 
+HWFIEW	VB 9.399968503952575 
+HWQIEH	VB 9.399968503952575 
+MDD	NNT 7.562421472723801 NN 7.429605620879854 
+MAFIM	VB 9.399968503952575 
+MDE	NNT 8.948715833843691 
+MDI	RB 6.970417040106848 MOD 4.222227315228749 
+SJNDRDIIM	JJ 8.881558488638976 
+LJFJF	VB 8.70682132339263 
+MLEIJWT	VB 9.399968503952575 
+MXILH	NN 10.068662950495112 
+MAFRIM	VB 9.399968503952575 
+KWRXH	NN 10.068662950495112 
+NGRSH	VB 9.399968503952575 
+AZRXIM	NN 7.989221408815276 
+WIZH	NNP 7.698633948035417 
+BMAI	NN 8.122752801439798 NNT 8.948715833843691 
+WIZL	NNP 7.698633948035417 
+PRANQPWRJ	NNP 8.797246236703527 
+MED	VB 9.399968503952575 
+AZRXIT	JJ 7.495264127519086 
+HTARGNWIWT	NN 10.068662950495112 
+MEJ	DT 4.468459140446189 RB 6.2772698595469025 MOD 7.518064181233078 
+NELMW	VB 9.399968503952575 
+HCITH	VB 9.399968503952575 
+MEL	IN 6.750926014949118 
+NELMT	JJ 8.881558488638976 
+NELMH	VB 9.399968503952575 
+EILAI	JJ 8.188411308079031 
+MSWKNWT	JJ 8.881558488638976 
+XWBRWT	NN 8.682368589375221 NNT 7.850103545175582 
+MMILA	RB 7.3758821482150125 MOD 7.518064181233078 
+FIEWR	NNT 6.646130740849646 NN 7.583756300707112 
+MFWERT	JJ 8.881558488638976 
+MFB	NNT 8.948715833843691 
+MFA	NN 7.2354496064388965 
+FIEWL	NN 10.068662950495112 
+MPRSM	VB 8.70682132339263 
+TKWPWT	JJ 8.188411308079031 
+MFH	NNP 5.906874478807363 
+TEMWLH	NN 8.276903481267057 
+MFI	NN 10.068662950495112 
+MFL	NNT 8.948715833843691 
+MFK	VB 8.70682132339263 NNT 7.562421472723801 
+MFM	RB 7.3758821482150125 
+NXQRIM	VB 8.70682132339263 
+MFQ	NN 6.9776204971367966 NNT 7.562421472723801 
+MMCA	NN 10.068662950495112 
+BIMWIM	NN 10.068662950495112 
+SBIBWTIH	NN 10.068662950495112 
+RAIITH	NN 10.068662950495112 
+ZIQTH	NN 10.068662950495112 
+EREWR	NN 7.989221408815276 
+MGE	NN 7.989221408815276 
+MBIKH	VB 9.399968503952575 JJ 8.881558488638976 
+MGI	NNP 8.797246236703527 
+MGH	NNP 6.600021659367308 
+MXIIB	VB 8.301356215284466 
+MRKZIT	JJ 6.396651838850976 
+NIXWX	NN 10.068662950495112 
+MRKZIM	VB 8.301356215284466 JJ 8.881558488638976 NN 10.068662950495112 
+NMCAW	VB 7.32052696227274 
+MGN	VB 8.70682132339263 NN 7.989221408815276 NNT 7.850103545175582 NNP 8.797246236703527 
+MWRICIT	JJ 8.881558488638976 
+MGP	NN 9.375515769935166 
+NMCAT	VB 7.7905305915184755 
+NPLJH	VB 9.399968503952575 
+CMXIIT	NNT 8.948715833843691 
+MRKZIH	NN 10.068662950495112 
+MMDI	NNT 8.948715833843691 JJ 8.881558488638976 
+KRIZMJIT	JJ 8.881558488638976 
+NPGE	VB 7.32052696227274 
+NPGF	VB 8.013674142832684 
+RAIIT	NNT 8.948715833843691 
+XMCN	NN 9.375515769935166 NNT 8.948715833843691 
+TPIFH	NN 8.682368589375221 
+LWRIAL	NNP 8.797246236703527 
+XWMRIM	NN 7.360612749392902 
+XMDH	NN 10.068662950495112 
+MHN	QW 5.771441123130016 
+MHM	QW 5.771441123130016 
+MHR	RB 6.1231191797196445 
+KWWNTI	NN 10.068662950495112 
+KWWNTH	NN 8.970050661827003 
+BRIWNWT	NN 10.068662950495112 
+PSIKW	NNP 8.797246236703527 
+MHW	QW 4.162003210695915 
+TPIFT	NNT 7.850103545175582 
+NPFH	NN 10.068662950495112 
+PSILT	NNT 8.948715833843691 
+NPFI	JJ 7.495264127519086 
+MIC	NN 10.068662950495112 
+HNIXH	VB 9.399968503952575 
+MID	MOD 6.824917000673133 RB 5.178657570878793 
+NPFM	NN 10.068662950495112 
+ETIDIM	VB 9.399968503952575 
+DSJI	NNP 8.797246236703527 
+BMEJ	RB 8.069029328774958 
+MIM	NN 6.572155389028632 
+GBWLWTIH	NN 10.068662950495112 
+MIL	NN 10.068662950495112 
+FLWFIM	CD 6.871609832345784 
+MIN	IN 9.74665828850311 NN 8.122752801439798 NNT 8.255568653283746 MOD 7.518064181233078 
+WWLBW	NNP 8.797246236703527 
+ETIDIT	JJ 8.881558488638976 
+NPFW	NN 8.970050661827003 
+PAPJIH	NNP 8.797246236703527 
+MWFLM	JJ 8.188411308079031 
+RAIIH	NN 7.2354496064388965 
+MWFLI	NNT 8.948715833843691 
+RAIIN	VB 9.399968503952575 
+EBRIIN	NN 9.375515769935166 
+MPSIDWT	JJ 8.881558488638976 
+WWFINGJWN	NNP 7.698633948035417 
+KRWKWT	JJ 8.881558488638976 
+RWIJR	NNP 7.4109518755836366 
+MMFL	NN 7.072930676941121 NNT 8.948715833843691 
+MWFJT	VB 9.399968503952575 
+RWPAIM	NN 7.178291192598947 
+HPNIIT	NNT 8.948715833843691 
+MMFI	JJ 7.495264127519086 
+CPIR	NNP 8.104099056143582 
+MJH	NNT 6.309658504228433 NNP 8.797246236703527 NN 7.2354496064388965 
+IIALCW	VB 8.70682132339263 
+NPIQ	VB 9.399968503952575 
+BMFK	IN 6.379362458516635 
+WWLBS	NNP 8.797246236703527 
+PNIITW	NN 9.375515769935166 
+FWPCW	VB 9.399968503952575 
+MJR	NN 8.682368589375221 
+DIRDR	VB 9.399968503952575 
+FIERN	NN 10.068662950495112 
+PNIITI	NN 10.068662950495112 
+PNIITH	NN 10.068662950495112 
+QBRWT	NN 10.068662950495112 
+MKH	VB 8.70682132339263 
+BLNIGRD	NNP 8.797246236703527 
+HSTIIM	VB 8.70682132339263 
+MKS	NN 9.375515769935166 
+MKR	VB 9.399968503952575 NN 8.970050661827003 
+LALTR	RB 6.970417040106848 
+MFTXRRWT	VB 9.399968503952575 
+79.90	CD 6.466144724237619 
+MLA	JJ 5.991186730742811 JJT 4.564348191467836 
+HTEWRRH	VB 9.399968503952575 
+92.2	CD 7.564757012905729 
+MLH	NN 7.296074228255331 
+MLL	NN 9.375515769935166 
+MLK	NNT 7.339277921409591 NN 7.1242239713286715 
+MMHR	VB 9.399968503952575 
+ERERW	VB 9.399968503952575 
+BAQRAI	RB 8.069029328774958 
+MLR	NNP 8.104099056143582 
+NPLA	JJ 8.188411308079031 
+HTEWRRW	VB 8.70682132339263 
+LWWNJINIM	JJ 8.881558488638976 
+MAPIINT	VB 9.399968503952575 
+MLX	NN 9.375515769935166 
+GDEWNIM	NN 10.068662950495112 
+NPLH	VB 8.70682132339263 
+LHIGRM	VB 9.399968503952575 
+IWGWSLWWI	NN 10.068662950495112 JJ 8.881558488638976 
+MWCDQT	JJ 8.881558488638976 
+601,016	CD 7.564757012905729 
+JRIWQ	NNP 8.797246236703527 
+NDIRH	JJ 8.881558488638976 
+MMD	NN 8.970050661827003 
+MXIRW	NN 8.682368589375221 
+MMF	MOD 5.726304712005023 RB 5.989587787095122 
+LBWTNW	NN 10.068662950495112 
+BWEWT	NN 10.068662950495112 
+LHTGRF	VB 9.399968503952575 
+NPJR	VB 9.399968503952575 
+MMN	IN 5.896510686793051 NNP 8.797246236703527 
+HRGIFH	VB 8.70682132339263 
+MWFPE	JJ 8.881558488638976 VB 8.70682132339263 
+PILLW	VB 9.399968503952575 
+MEWNIINWT	VB 9.399968503952575 
+MQWDFIM	JJ 8.188411308079031 
+NZIPH	NN 9.375515769935166 
+MNE	VB 8.70682132339263 
+HPNIMW	VB 8.70682132339263 
+MNH	VB 9.399968503952575 NN 10.068662950495112 
+MNK	NN 10.068662950495112 
+MTWQCB	JJ 8.188411308079031 
+AIBWD	NN 10.068662950495112 NNT 8.948715833843691 
+MNT	IN 7.954898819275054 NNT 7.850103545175582 
+TSRIJ	NN 8.970050661827003 
+MXIRH	NN 10.068662950495112 
+MXIRI	NNT 5.42235530922753 
+MNW	NNP 8.797246236703527 
+DMWQRJIH	NN 7.360612749392902 
+EIKWB	NNT 8.948715833843691 
+FRIRIWT	JJ 8.881558488638976 
+DMWQRJIM	NN 10.068662950495112 
+MXIRM	NN 10.068662950495112 
+RWQDIM	VB 9.399968503952575 
+MMIJ	VB 9.399968503952575 
+MWLQWLWT	NN 10.068662950495112 
+DRIFWT	NNT 7.850103545175582 NN 9.375515769935166 
+MIWTRT	JJ 8.881558488638976 
+GBWLIT	JJ 8.881558488638976 
+NPLW	VB 8.70682132339263 
+HWPEWT	NN 10.068662950495112 NNT 8.948715833843691 
+XMIM	JJ 7.7829461999708665 
+TFWMWT	NN 10.068662950495112 
+MIMWNW	NN 10.068662950495112 
+AWXZIM	VB 9.399968503952575 
+MSPIQWT	JJ 8.881558488638976 
+MPH	NN 8.682368589375221 
+MPI	IN 7.54943371116689 
+AJALNJH	NNP 8.797246236703527 
+HWPETW	NN 10.068662950495112 
+PRFIIH	NN 10.068662950495112 
+NPJLIN	NN 10.068662950495112 
+MPR	VB 9.399968503952575 
+MPT	NNT 8.948715833843691 
+HIMWRIM	NN 9.375515769935166 
+JIRGWBISJH	NNP 8.797246236703527 
+XMLH	NN 9.375515769935166 
+BWERT	VB 9.399968503952575 
+FWPJI	NNT 8.948715833843691 
+MMMF	VB 9.399968503952575 
+FIRIHM	NN 10.068662950495112 
+PARAQAN	NNP 8.797246236703527 
+HFTQPWIWTIW	NN 10.068662950495112 
+JWENWT	VB 9.399968503952575 
+MMKR	NNT 8.948715833843691 
+BWRSWT	NN 10.068662950495112 
+MWBARQ	NNP 6.494661143709481 
+DMWQRJIT	JJ 6.80211694695914 
+MQL	VB 9.399968503952575 
+FWPJT	NN 7.989221408815276 
+DWBRWBICQI	NNP 7.698633948035417 
+MZEZET	JJ 8.881558488638976 
+MQS	NNP 8.797246236703527 
+MMLA	NNT 7.339277921409591 VB 9.399968503952575 
+FFINSQI	NNP 8.797246236703527 
+0891	CD 6.466144724237619 
+XICWNIT	JJ 8.188411308079031 
+MRB	DT 6.665683717782408 
+MRD	NN 9.375515769935166 NNT 8.255568653283746 VB 9.399968503952575 
+GBWLWT	NN 8.682368589375221 NNT 8.948715833843691 
+BRWQLIN	NNP 8.104099056143582 
+NIIRWT	NN 9.375515769935166 NNT 8.255568653283746 
+MRH	JJ 7.495264127519086 
+SWBBIM	NN 10.068662950495112 
+MRI	NN 10.068662950495112 NNP 8.797246236703527 
+HWKXFW	VB 9.399968503952575 
+TABD	VB 9.399968503952575 
+EQBIM	NN 10.068662950495112 
+QLIWWLND	NNP 8.104099056143582 
+XMIFH	CD 4.856706811803519 
+ECWRIM	VB 9.399968503952575 
+XMIFI	JJ 7.7829461999708665 NNP 6.024657514463746 
+TPILH	NN 9.375515769935166 
+RAITI	VB 7.7905305915184755 
+MRQ	NNP 8.797246236703527 NN 8.970050661827003 
+ITEWRR	VB 9.399968503952575 
+NPRD	NN 10.068662950495112 JJ 7.272120576204876 VB 8.70682132339263 
+TPILT	NNT 8.948715833843691 
+MLEIJIM	VB 9.399968503952575 
+MSE	NN 7.360612749392902 NNT 6.17612711160391 
+LIBRALIM	JJ 8.881558488638976 
+KLKLIT	JJ 5.991186730742811 
+MSI	NNT 7.850103545175582 
+MSK	NN 9.375515769935166 NNT 7.850103545175582 
+MINIWTN	NN 10.068662950495112 
+MMMN	VB 9.399968503952575 
+AMNWTI	JJ 8.188411308079031 
+MCWIINT	JJ 8.188411308079031 
+MFMEWTI	JJ 7.7829461999708665 
+MLMDWT	VB 9.399968503952575 
+MSR	VB 6.22191467360463 NN 7.989221408815276 
+RAISH	NNP 8.797246236703527 
+NLQXWT	VB 9.399968503952575 
+SNIPH	NN 10.068662950495112 
+SNIPI	NNT 7.850103545175582 
+NPQD	VB 9.399968503952575 
+FIEIT	JJ 8.881558488638976 
+MSWKNIM	JJ 8.188411308079031 
+XMMH	NN 10.068662950495112 
+WWLIH	NNP 7.4109518755836366 
+LHSDIR	VB 9.399968503952575 
+MTH	VB 8.70682132339263 
+HTXIIBWIWT	NNT 8.948715833843691 
+MTI	QW 5.07829394257007 
+NPSQ	VB 8.013674142832684 
+IFMFW	VB 8.301356215284466 
+LAMBR	NNP 8.797246236703527 
+MTN	NN 7.2354496064388965 NNT 6.463809184055691 
+EREWRIM	NN 9.375515769935166 
+KWWNWT	NN 10.068662950495112 
+LICWR	VB 6.835019146491039 
+MTX	NN 7.871438373158893 VB 9.399968503952575 
+MFMEWTN	NN 10.068662950495112 
+MTW	VB 9.399968503952575 
+BMHRH	RB 6.970417040106848 
+IAPFRW	VB 8.301356215284466 
+IFPIEW	VB 9.399968503952575 
+AXRAIM	JJ 8.188411308079031 NN 8.970050661827003 
+MUM	NN 10.068662950495112 NNT 7.339277921409591 
+MKRZIM	NN 8.970050661827003 
+MUQ	NN 9.375515769935166 
+AIDIAWLWGIIM	JJ 8.881558488638976 
+MTBQFIM	VB 9.399968503952575 
+MUR	NN 8.276903481267057 
+TXRWTI	JJ 8.881558488638976 
+PGFNW	VB 8.70682132339263 
+MXLIPIM	VB 9.399968503952575 
+TACR	NNP 7.005486767475472 
+MRKZWT	VB 9.399968503952575 
+HZMIN	VB 8.013674142832684 
+PILDLPIH	NNP 8.104099056143582 
+QWLWNIALISJIWT	JJ 8.881558488638976 
+IFMIE	VB 9.399968503952575 
+SCINT	NNT 8.948715833843691 
+KDWRMIM	NN 10.068662950495112 
+MENIQWT	VB 9.399968503952575 
+QJIPH	NN 10.068662950495112 
+ETIDNW	NN 10.068662950495112 
+MMSD	NN 8.970050661827003 
+LJPL	VB 7.7905305915184755 
+MQSWWL	NNP 6.851336087648214 
+CPWI	VB 7.7905305915184755 JJ 7.089799019410921 NN 9.375515769935166 
+RAINW	VB 8.301356215284466 
+MWJ	NNT 8.948715833843691 
+NPTX	VB 7.7905305915184755 
+GWLDFMIDJ	NNP 8.797246236703527 
+MWL	IN 6.527782463634908 
+KWWNTW	NN 7.766077857501067 
+MWR	NNP 8.104099056143582 NN 10.068662950495112 
+MWT	NNT 8.255568653283746 
+JQBSARN	NNP 8.797246236703527 
+MWX	NN 8.970050661827003 
+XMQW	VB 9.399968503952575 
+QLIPWTIW	NN 10.068662950495112 
+MXD	RB 8.069029328774958 
+IWRKBW	VB 9.399968503952575 
+MIMWFN	NN 10.068662950495112 
+HWPELW	VB 9.399968503952575 
+HRFETM	NN 10.068662950495112 
+MXR	RB 5.584122678986957 
+MIMWFH	NN 10.068662950495112 
+MRWKSNWT	JJ 8.881558488638976 
+MXQ	VB 9.399968503952575 
+XBIBIM	JJ 8.881558488638976 
+HWMNIJRIT	JJ 8.881558488638976 
+LHKLIL	VB 9.399968503952575 
+SWDIWT	JJ 8.881558488638976 NN 10.068662950495112 
+MXW	VB 9.399968503952575 
+MRWMH	JJ 8.881558488638976 
+XMTW	NN 10.068662950495112 
+BITIWT	NN 8.970050661827003 
+MWTQPIM	VB 9.399968503952575 
+MLAKWTIT	JJ 8.188411308079031 
+IPCICW	VB 9.399968503952575 
+HFEIIT	NNT 8.948715833843691 
+CPWN	NN 7.1242239713286715 NNT 7.002805684788378 
+MMUN	NNP 7.187808324269427 
+SIMPJWM	NN 10.068662950495112 
+MRWKZ	VB 9.399968503952575 JJ 8.188411308079031 
+MFWKLLT	JJ 8.881558488638976 
+NSTGR	VB 9.399968503952575 
+MGWNH	JJ 8.881558488638976 
+RXWQIM	JJ 7.495264127519086 
+NPWC	VB 9.399968503952575 
+MIPGFIM	NN 10.068662950495112 
+QZAN	NNP 6.494661143709481 
+HFTIIKWT	NN 10.068662950495112 
+MIWCRIM	VB 8.013674142832684 
+MZH	MOD 6.419451892564968 
+MZG	NNT 7.562421472723801 
+MFWXRRT	JJ 7.7829461999708665 
+MZL	NN 8.970050661827003 
+HFQPT	NNT 8.948715833843691 
+HZKIR	VB 9.399968503952575 
+LHIFAR	VB 7.002073231154205 
+HTAKZB	VB 9.399968503952575 
+AWMWT	NNT 8.255568653283746 NN 10.068662950495112 
+MZX	NN 9.375515769935166 
+MMWL	RB 8.069029328774958 
+HBHIRH	VB 9.399968503952575 
+AWPCIH	NN 8.682368589375221 
+EWBD	NN 8.970050661827003 NNT 8.255568653283746 
+NIQWLSWN	NNP 8.797246236703527 
+NMASH	VB 9.399968503952575 
+EWBI	NN 10.068662950495112 NNT 8.948715833843691 
+HFQPH	NN 7.989221408815276 
+MMCAIH	NN 10.068662950495112 
+IAIR	NNP 7.4109518755836366 
+MMCAIM	NN 8.970050661827003 
+NPXW	NN 10.068662950495112 
+LEWMT	IN 6.0330862217988015 
+MTWQNT	JJ 8.881558488638976 
+CMDIM	NN 10.068662950495112 
+GILAIM	NN 10.068662950495112 
+QIDWF	NNT 8.948715833843691 
+LEWMQ	RB 7.3758821482150125 
+LIAWR	NNP 8.104099056143582 
+MPQDI	NNT 7.850103545175582 
+IAJH	NNP 8.797246236703527 
+HNHGT	NNT 7.1569563646156364 
+HTAKZR	VB 9.399968503952575 
+TAIM	NN 8.970050661827003 
+HNHGH	NN 9.375515769935166 
+MPQDT	NNT 8.948715833843691 
+EWCR	NN 8.276903481267057 
+PWCC	VB 8.70682132339263 
+DIKAWN	NN 8.682368589375221 
+MBWJLIM	JJ 8.881558488638976 
+HAFIMH	VB 8.70682132339263 
+LPWRR	VB 9.399968503952575 
+ZIWWGIM	NN 10.068662950495112 
+PWCH	VB 9.399968503952575 
+MFTNH	VB 8.70682132339263 
+KNWTH	NN 10.068662950495112 
+MXSNIM	NN 10.068662950495112 
+EWDD	VB 9.399968503952575 NNP 8.797246236703527 
+MXSNIT	NN 10.068662950495112 
+HWBAW	VB 8.70682132339263 
+QWMWT	NN 8.970050661827003 
+EWDP	NNT 8.255568653283746 NN 10.068662950495112 
+IAMR	VB 8.301356215284466 
+TQLWTIW	NN 10.068662950495112 
+EWBR	NN 10.068662950495112 VB 7.7905305915184755 
+MLMDIM	VB 8.301356215284466 
+TNAIH	NN 10.068662950495112 
+FIJTIT	JJ 8.881558488638976 
+BWRRIM	NN 10.068662950495112 
+LDMIIN	VB 9.399968503952575 
+IALC	VB 9.399968503952575 
+TNAIM	NN 7.360612749392902 
+EWCB	VB 9.399968503952575 
+HFPIEW	VB 8.70682132339263 
+HAFIMW	VB 8.301356215284466 
+6,000	CD 6.871609832345784 CDT 5.942799375126701 
+MTKNNT	NNT 8.255568653283746 VB 9.399968503952575 
+XMWR	JJ 7.495264127519086 
+ISIIEW	VB 9.399968503952575 
+NTWNH	VB 8.301356215284466 
+HNHIG	VB 8.70682132339263 
+XMWT	JJ 8.188411308079031 
+NTWNI	NNT 7.562421472723801 
+LILIAN	NNP 8.797246236703527 
+TANH	NN 10.068662950495112 
+MFTLM	VB 9.399968503952575 
+HENQT	NNT 7.562421472723801 
+MPQIE	VB 9.399968503952575 
+LHXRIM	VB 9.399968503952575 
+PWEL	NN 5.536063457341856 JJ 8.881558488638976 VB 7.7905305915184755 
+ABRDIN	NNP 8.797246236703527 
+LHXRIP	VB 8.70682132339263 
+ERMWMIWT	NN 10.068662950495112 
+EWFH	VB 6.627379781712794 NNT 8.255568653283746 
+BLGIH	NNP 6.600021659367308 
+MFTKR	VB 9.399968503952575 
+IIWWDEW	VB 8.70682132339263 
+EWFR	NN 10.068662950495112 
+AJWN	NNP 8.797246236703527 
+AWMRW	VB 8.013674142832684 NN 10.068662950495112 
+BLGIM	NN 9.375515769935166 
+TAMC	VB 9.399968503952575 
+NLXMIM	VB 9.399968503952575 
+AWMRT	VB 6.141871965931093 
+HNHLH	NN 7.1242239713286715 
+MENQIM	NN 9.375515769935166 
+HWBEH	VB 9.399968503952575 
+MFTMF	VB 7.7905305915184755 
+BLGIT	JJ 8.188411308079031 
+MFTME	VB 8.301356215284466 
+AWMRM	NN 10.068662950495112 
+LEWRR	VB 8.70682132339263 
+MFTBCIM	VB 9.399968503952575 
+THPWK	AUX 5.634789603169249 
+LBNIM	JJ 8.881558488638976 
+QDWFH	JJ 8.188411308079031 
+FANNWT	NN 10.068662950495112 
+NAH	JJ 8.188411308079031 
+TAMR	VB 8.70682132339263 
+IANQ	NNP 8.797246236703527 
+LJWS	VB 9.399968503952575 
+HTKNSWT	NN 10.068662950495112 
+BWGIN	NNP 8.104099056143582 
+PWGE	JJ 8.881558488638976 VB 9.399968503952575 
+NAW	MOD 5.908626268798978 
+NRQMT	VB 9.399968503952575 
+NRQMW	VB 9.399968503952575 
+PWGM	VB 9.399968503952575 
+ALMNJ	NN 8.970050661827003 
+MTXILIM	VB 8.70682132339263 
+MFTRK	VB 9.399968503952575 
+HWTQPH	VB 9.399968503952575 
+PWGI	NNP 8.797246236703527 
+KGWN	IN 7.954898819275054 
+NBE	VB 8.70682132339263 
+MFTRE	VB 8.301356215284466 
+HNHLT	NNT 5.652878967839363 
+DGMIM	NN 7.989221408815276 
+FPIGLR	NNP 8.797246236703527 
+NRQMH	VB 9.399968503952575 
+DRMJI	JJ 7.495264127519086 
+HLBFH	NN 10.068662950495112 
+HWTQPW	VB 9.399968503952575 
+NAPWLI	NNP 7.4109518755836366 
+MXIIBWT	JJ 8.881558488638976 
+NWBMBR	NNP 5.706203783345211 
+ENIINH	NN 10.068662950495112 
+AWPIINIT	JJ 8.188411308079031 
+AWMLL	JJ 8.881558488638976 
+ENIINI	JJ 8.881558488638976 NNT 6.869274292163856 
+MQWBLT	JJ 7.495264127519086 
+NCI	JJ 8.881558488638976 
+MTGBFT	VB 9.399968503952575 
+MRWTW	NN 10.068662950495112 
+FWNWT	JJ 5.79051603528066 
+NCR	NNP 8.104099056143582 
+XLWQTH	NN 10.068662950495112 
+HENIQH	VB 8.301356215284466 
+NCX	NNP 6.717804695023691 
+RIALIIM	JJ 7.7829461999708665 
+TARI	NNT 8.948715833843691 
+AQDMAIM	NN 10.068662950495112 
+EZIBTW	NN 10.068662950495112 
+HWBHL	VB 9.399968503952575 
+RDIQLIIM	JJ 7.7829461999708665 
+DISNI	NNP 6.024657514463746 
+MXWZWT	NN 8.276903481267057 
+HENIQW	VB 8.70682132339263 
+EZIBTM	NN 10.068662950495112 
+TARX	VB 9.399968503952575 
+IASR	NNP 8.797246236703527 
+NDP	VB 9.399968503952575 
+AIZWRIT	JJ 8.881558488638976 
+NQBE	VB 6.835019146491039 
+CHWBIM	JJ 8.881558488638976 
+HWBIL	VB 8.013674142832684 
+NQBL	VB 9.399968503952575 
+AWMNM	RB 6.970417040106848 
+XBRTIIM	JJ 8.188411308079031 
+MFTQE	VB 9.399968503952575 
+NEL	NN 8.459225038061012 
+EWIN	JJ 7.7829461999708665 VB 9.399968503952575 
+NQBR	VB 9.399968503952575 
+NER	NN 7.989221408815276 
+IARX	VB 7.7905305915184755 
+MFWDRT	VB 9.399968503952575 
+NQEH	VB 9.399968503952575 
+NFA	VB 7.7905305915184755 
+AWHLIM	NN 7.871438373158893 
+QLWRIWT	NN 10.068662950495112 
+NFB	VB 9.399968503952575 
+EWLH	VB 6.181092679084375 JJ 7.7829461999708665 NN 6.667465568832957 
+EWLI	NNT 8.948715833843691 
+NFI	NNT 8.948715833843691 
+EWLM	NN 6.043311259759963 NNT 6.751491256507472 
+JEWNWT	VB 9.399968503952575 
+QIDWM	NNT 8.948715833843691 NN 8.682368589375221 
+MWNEIM	VB 8.70682132339263 
+NFQ	NN 7.072930676941121 
+HENWT	NN 10.068662950495112 
+NFP	NNT 8.948715833843691 
+NFR	NNP 7.4109518755836366 NN 10.068662950495112 
+DTIT	JJ 8.188411308079031 
+HBHIRW	VB 8.301356215284466 
+NIWWJ	VB 9.399968503952575 
+KIHNH	VB 9.399968503952575 
+MRWXQ	JJ 8.881558488638976 
+XWDFI	NNT 7.850103545175582 JJ 8.188411308079031 
+NGB	NN 8.970050661827003 
+NGD	NN 8.682368589375221 IN 5.111929300273474 
+PWJR	VB 8.70682132339263 
+QDWMH	JJ 8.881558488638976 
+NGE	NNT 8.948715833843691 VB 9.399968503952575 
+NGH	NNP 8.797246236703527 
+HCHRH	NN 10.068662950495112 
+RIBLIN	NNP 6.717804695023691 
+HCHRT	NNT 8.255568653283746 
+HSTDRWTIT	JJ 8.881558488638976 
+HWBJX	VB 8.70682132339263 
+NGX	VB 8.70682132339263 
+ALMLA	IN 8.137220376069008 
+MWEDP	JJ 8.881558488638976 
+MNDJ	NN 10.068662950495112 
+HWBLT	NNT 8.948715833843691 
+MWEDI	NNT 7.850103545175582 
+IAWF	NN 10.068662950495112 
+MFTTP	NN 10.068662950495112 VB 8.70682132339263 
+MGWWN	NNT 8.948715833843691 NN 9.375515769935166 JJ 8.188411308079031 
+EWNF	NN 7.989221408815276 NNT 7.339277921409591 
+EWNG	NN 9.375515769935166 
+NHG	NNT 7.562421472723801 VB 7.608209034724521 NN 8.682368589375221 
+EWNH	NN 8.122752801439798 VB 8.301356215284466 
+NHI	NN 9.375515769935166 
+MRWWX	NN 10.068662950495112 
+GINGIS	NNP 8.797246236703527 
+IAWT	NN 10.068662950495112 
+EWNT	NNT 7.562421472723801 
+LLKLK	VB 9.399968503952575 
+NHR	NN 10.068662950495112 NNT 8.948715833843691 
+HQRNWT	NN 9.375515769935166 
+XWBBNIWT	JJ 8.881558488638976 
+TKZIB	VB 9.399968503952575 
+PWLJ	JJT 4.564348191467836 VB 8.70682132339263 
+MBHIR	VB 9.399968503952575 
+GBEWLI	NNT 8.948715833843691 
+CRPTIT	NN 9.375515769935166 JJ 7.7829461999708665 
+PWLF	VB 9.399968503952575 
+MWECH	NN 6.2400215540060175 
+NIB	NNP 8.104099056143582 
+EWMD	VB 6.3554460662291525 
+PWLQ	NNP 8.104099056143582 
+QWNDS	NN 10.068662950495112 
+MWECT	NNT 5.259836379729755 
+CRPTIM	JJ 8.188411308079031 NN 8.682368589375221 
+NQFR	VB 9.399968503952575 
+MPQPQ	VB 9.399968503952575 
+HTXNNW	VB 9.399968503952575 
+IWPELW	VB 8.70682132339263 
+BLGAN	NN 10.068662950495112 
+XIWBIT	JJ 7.7829461999708665 
+MNCX	NN 10.068662950495112 
+NIN	NNP 8.797246236703527 
+EWMQ	NNT 8.948715833843691 
+EWMR	NN 10.068662950495112 
+EWMS	NN 10.068662950495112 
+NIW	NNP 5.108366782589591 
+PWPWLRIIM	JJ 8.881558488638976 
+IFKWN	VB 9.399968503952575 
+AWRIAL	NNP 8.797246236703527 
+GZEIIM	JJ 8.881558488638976 
+MNFR	NN 10.068662950495112 
+NJF	VB 8.70682132339263 
+MEQWT	NNT 8.948715833843691 
+CQIM	NN 9.375515769935166 
+NJH	VB 9.399968503952575 
+MAZINIM	NN 9.375515769935166 
+AWRIAH	NN 10.068662950495112 
+NJL	NN 10.068662950495112 NNT 7.850103545175582 VB 8.013674142832684 
+EWPR	NNP 7.187808324269427 
+AXWRIT	JJ 8.881558488638976 
+TITQL	VB 9.399968503952575 
+PATWS	NN 10.068662950495112 
+NJW	MOD 6.419451892564968 VB 9.399968503952575 
+AWMDN	NN 8.970050661827003 NNT 8.255568653283746 
+MNEH	VB 9.399968503952575 
+IILMAZ	NNP 8.797246236703527 
+LBNWN	NNP 6.23229687924199 
+DIPLWMJIWT	JJ 8.881558488638976 
+PWNH	VB 9.399968503952575 
+DMWNIT	JJ 8.881558488638976 
+TAWM	NN 10.068662950495112 
+LMNWE	VB 6.181092679084375 
+150,000	CD 7.564757012905729 
+HFRAH	NN 8.459225038061012 
+IAXL	VB 9.399968503952575 
+TAWR	NN 10.068662950495112 
+IAXR	VB 9.399968503952575 
+SIBWLT	NN 10.068662950495112 
+PWNW	VB 8.301356215284466 
+NKS	NN 8.276903481267057 
+MNEW	VB 8.70682132339263 
+LBNWT	VB 8.301356215284466 
+TFKIL	VB 9.399968503952575 
+MWEJH	JJ 8.881558488638976 
+ZKWIWT	NN 8.122752801439798 NNT 5.857673380485376 
+GREINIWT	JJ 8.881558488638976 
+MNHL	NNT 5.514728629358545 NN 7.583756300707112 VB 8.70682132339263 
+XWSIINI	NNP 7.698633948035417 
+MNHG	NN 10.068662950495112 
+SIMPJIT	JJ 8.881558488638976 
+MIWMNWT	JJ 8.881558488638976 NN 9.375515769935166 NNT 8.948715833843691 
+EWRK	VB 9.399968503952575 NN 8.970050661827003 NNT 7.1569563646156364 
+PWQS	NNP 8.797246236703527 
+NLK	VB 9.399968503952575 
+EWRP	NN 8.682368589375221 
+EWRR	VB 8.70682132339263 
+NQLE	VB 7.4540583548972625 
+MNIE	NN 8.970050661827003 
+PWRJ	NNP 8.797246236703527 
+IDETI	VB 8.301356215284466 
+PWRC	VB 9.399968503952575 
+QLWFIM	JJ 8.881558488638976 
+PWRE	VB 9.399968503952575 
+EWQC	NN 10.068662950495112 
+ZKAIWT	VB 8.70682132339263 
+BNIW	NN 9.375515769935166 
+SNIGWRW	NN 10.068662950495112 
+LKDI	IN 9.053511107943164 
+NAMNIM	NN 9.375515769935166 
+RFWTNW	NN 10.068662950495112 
+NML	NNT 8.255568653283746 NN 8.970050661827003 
+HFTKRWT	NN 9.375515769935166 NNT 8.255568653283746 
+QRWBWT	JJ 6.108969766399195 
+BNIN	NN 10.068662950495112 
+LNQWJ	VB 7.4540583548972625 
+AMWRWT	VB 8.013674142832684 
+LNQWM	NNP 6.600021659367308 VB 8.70682132339263 
+TEFIINIM	NN 10.068662950495112 
+WWIINFJIIN	NNP 7.698633948035417 
+HWBQE	VB 9.399968503952575 
+PWTXT	VB 9.399968503952575 
+CMCWM	NNT 8.948715833843691 NN 9.375515769935166 
+TWWIWT	NN 8.682368589375221 
+LQ.P.R.	NNP 8.797246236703527 
+XNGH	NN 10.068662950495112 
+PWQD	VB 9.399968503952575 
+LNQWT	VB 8.70682132339263 
+MNKUL	NN 7.670767677696742 NNT 5.365196895387581 
+LAKWP	VB 9.399968503952575 
+NTRMIM	VB 9.399968503952575 
+MQSIMWM	NN 10.068662950495112 
+LAKWL	VB 8.70682132339263 
+BXIRWT	NN 6.218515348785053 NNT 8.255568653283746 
+HWBRR	VB 8.70682132339263 
+NQMT	NNT 8.948715833843691 
+HTBFRNW	VB 9.399968503952575 
+QWNIM	VB 8.301356215284466 NN 9.375515769935166 
+RXWQWT	JJ 8.188411308079031 
+PXWTH	JJ 8.881558488638976 
+PWLISWT	NNT 8.948715833843691 
+350,000	CD 7.564757012905729 
+QJWRZH	NNP 8.104099056143582 
+ISRBW	VB 9.399968503952575 
+BNIMIN	NNP 8.104099056143582 
+XFBWNH	NN 10.068662950495112 
+MNIN	QW 5.771441123130016 
+HTEWPP	VB 8.70682132339263 
+ALTWRIM	NN 10.068662950495112 
+HGINWT	NN 10.068662950495112 
+HWBSW	VB 9.399968503952575 
+MMISIM	NN 9.375515769935166 
+PWRT	NNP 7.4109518755836366 
+EWSQ	VB 7.4540583548972625 
+TDIRAN	NNP 8.797246236703527 
+MNIX	VB 8.70682132339263 
+ALMWNIWT	NN 10.068662950495112 
+HWBSH	VB 9.399968503952575 
+MRXBI	NNT 8.948715833843691 
+NQMH	NN 8.459225038061012 
+PWSJ	NNP 7.187808324269427 MOD 7.518064181233078 
+XNIH	NN 10.068662950495112 
+HBEWT	NNT 8.948715833843691 
+AWSJRLI	JJ 8.881558488638976 
+FWERIM	NN 10.068662950495112 
+NPC	NN 10.068662950495112 
+RFWTW	NN 8.970050661827003 
+NPF	NN 7.670767677696742 
+NPJ	NN 7.072930676941121 
+NPL	VB 7.4540583548972625 
+NPT	NNT 7.339277921409591 
+XRWFT	NN 8.682368589375221 
+MWEMD	NN 8.276903481267057 
+MILWLIT	JJ 8.881558488638976 
+LMNWT	VB 7.4540583548972625 
+MWJIWWBCIH	NN 10.068662950495112 
+EWUD	NN 7.2354496064388965 
+MASIWWI	JJ 8.881558488638976 
+MKBIH	NN 8.682368589375221 
+HTEWRR	VB 8.70682132339263 
+LKHN	VB 7.7905305915184755 
+MNKL	NNT 8.948715833843691 
+NQJ	VB 8.70682132339263 
+NQI	JJ 8.188411308079031 
+XFBWNN	NN 10.068662950495112 
+XFBWNW	NN 10.068662950495112 
+XLWPWT	NN 8.459225038061012 
+MKBIM	NN 9.375515769935166 
+MPQXT	VB 9.399968503952575 
+NQM	NN 8.970050661827003 
+ZKWRH	VB 9.399968503952575 
+NQNS	VB 9.399968503952575 
+PWTX	VB 8.013674142832684 
+NIMWSIM	NN 10.068662950495112 
+NQNSH	VB 8.70682132339263 
+RFWTH	NN 8.970050661827003 
+0991	CD 5.772997543677674 
+AMTISJ	NNP 8.797246236703527 
+RFWTM	NN 8.970050661827003 
+XNKH	VB 9.399968503952575 
+0998	CD 7.564757012905729 
+LKIF	NNP 8.797246236703527 
+AXIHWD	NNP 8.797246236703527 
+SPNSR	NNP 8.797246236703527 
+RAWWTNIT	JJ 8.881558488638976 
+IBBT	NNT 8.948715833843691 
+LIBRH	NN 10.068662950495112 
+EILWM	NNT 8.948715833843691 
+NQRA	VB 7.7905305915184755 
+RZRWWH	NN 10.068662950495112 
+PWXD	VB 8.70682132339263 
+NWIHAWZR	NNP 8.797246236703527 
+QRNIIM	NN 10.068662950495112 
+NSE	VB 8.301356215284466 
+BXIRTM	NN 10.068662950495112 
+MERBB	VB 9.399968503952575 
+MWCEWT	JJ 8.188411308079031 VB 8.70682132339263 
+BXIRTH	NN 10.068662950495112 
+AKLW	VB 9.399968503952575 
+AKLS	VB 9.399968503952575 
+GZRIM	NN 10.068662950495112 
+NZHRW	VB 9.399968503952575 
+FJIPT	NNT 8.255568653283746 
+LHIFMR	VB 9.399968503952575 
+LHIFME	VB 8.70682132339263 
+IFLBW	VB 9.399968503952575 
+PEMIIM	RB 6.682734967655067 NN 9.375515769935166 
+EWZI	NNP 8.104099056143582 
+QWNPWRMISJI	JJ 8.881558488638976 
+HICQWQ	NNP 8.797246236703527 
+NTN	NNP 8.104099056143582 VB 7.32052696227274 
+14132830	CD 7.564757012905729 
+PQWLJWT	NN 8.682368589375221 
+EWZR	NN 10.068662950495112 VB 8.70682132339263 NNT 7.1569563646156364 
+NTQ	NN 10.068662950495112 
+CBWEIM	VB 9.399968503952575 JJ 8.881558488638976 
+MTWEFWT	JJ 8.881558488638976 
+HQRIN	VB 9.399968503952575 
+HWRJWN	NNP 7.698633948035417 
+NTX	NN 9.375515769935166 NNT 8.948715833843691 
+BWGRWT	JJ 8.881558488638976 
+CMCMW	VB 9.399968503952575 
+BXIRTW	NN 8.459225038061012 
+DWRJMWND	NNP 8.797246236703527 
+AWSJRIH	NNP 7.698633948035417 
+MNQH	VB 9.399968503952575 
+MABDIM	VB 9.399968503952575 
+BWRRWT	NN 8.970050661827003 
+KHIM	JJ 8.188411308079031 
+MTQIIMIM	VB 9.399968503952575 
+NUL	JJ 8.881558488638976 NN 10.068662950495112 
+IHRGW	VB 9.399968503952575 
+PSIKIT	JJ 8.881558488638976 
+RWWXIM	NN 8.459225038061012 
+MXIIBIM	JJ 8.881558488638976 VB 8.70682132339263 
+NQRW	VB 9.399968503952575 
+BRIJIIM	JJ 8.881558488638976 
+RIBAWNDIM	NN 10.068662950495112 
+CMWDWT	VB 9.399968503952575 JJ 8.881558488638976 
+BNQS	NNP 8.797246236703527 
+RWWXIT	JJ 8.881558488638976 
+DQIRH	NN 8.970050661827003 
+GASQWIN	NNP 8.797246236703527 
+DQIRT	NNT 8.948715833843691 
+JJRIM	NN 7.871438373158893 
+HNIBW	VB 9.399968503952575 
+GLIDH	NN 10.068662950495112 
+NTXIM	NN 10.068662950495112 
+IBFT	NN 10.068662950495112 NNT 8.948715833843691 
+MAXDIM	VB 9.399968503952575 
+TBEW	VB 8.70682132339263 
+JJRIT	NN 9.375515769935166 JJ 7.7829461999708665 
+RPWAIIM	JJ 8.881558488638976 
+NXQRWT	VB 8.70682132339263 
+HRWWIX	VB 8.70682132339263 
+ZIKRWN	NN 7.989221408815276 NNT 8.255568653283746 
+MNSH	VB 7.09738341095853 
+HNIBH	VB 9.399968503952575 
+HTIIQRW	VB 9.399968503952575 
+MPWRFWT	RB 8.069029328774958 
+PWRNIR	NN 9.375515769935166 
+BAFRI	NNP 8.797246236703527 
+QWFINSQI	NNP 8.797246236703527 
+NXWCIM	JJ 8.881558488638976 
+NWN	MOD 7.518064181233078 NNP 8.797246236703527 
+NWP	NN 8.970050661827003 NNT 8.255568653283746 
+LKNS	VB 9.399968503952575 
+NWR	NNP 8.104099056143582 
+NWX	JJ 7.495264127519086 
+AKPT	RB 8.069029328774958 
+AICMT	NNP 8.797246236703527 
+XNQW	VB 9.399968503952575 
+TBEH	VB 9.399968503952575 
+IBFH	JJ 8.881558488638976 NN 10.068662950495112 
+FIFIM	CD 6.871609832345784 
+NXH	VB 9.399968503952575 
+EWSQWT	VB 8.70682132339263 
+NXL	VB 8.70682132339263 
+ISTIIM	VB 9.399968503952575 
+NRDPIM	NN 10.068662950495112 
+GLIFH	NN 10.068662950495112 
+NXT	VB 9.399968503952575 NN 9.375515769935166 
+MILICIH	NN 10.068662950495112 
+LJEWN	VB 8.301356215284466 
+IBIA	VB 8.013674142832684 
+IBIN	VB 9.399968503952575 
+MERBI	JJ 7.7829461999708665 
+MERBH	RB 7.3758821482150125 
+LGIJIMI	JJ 8.188411308079031 
+SWGRWT	VB 9.399968503952575 
+HDLIP	VB 9.399968503952575 
+LKPR	VB 8.70682132339263 
+BXIRH	NN 8.276903481267057 
+PWGIMWRI	NNP 8.797246236703527 
+DIRWT	NN 8.682368589375221 NNT 8.948715833843691 
+TFIEIT	JJ 8.881558488638976 
+QWNCNZWS	NN 10.068662950495112 
+MNTH	VB 9.399968503952575 
+KHNA	NNP 4.264646743550271 
+NWBLWT	NN 10.068662950495112 
+KHNH	RB 6.682734967655067 
+LJEWT	VB 8.70682132339263 
+HCIEW	VB 7.7905305915184755 
+BXIRT	NNT 7.850103545175582 
+LHTIIDD	VB 9.399968503952575 
+BNWI	VB 9.399968503952575 
+KLKLIIM	JJ 7.272120576204876 
+NZQ	NN 7.766077857501067 
+PAWLH	NNP 8.797246236703527 
+PAWLI	NNP 8.797246236703527 
+HFTTP	VB 8.013674142832684 
+WIIDNPLD	NNP 7.005486767475472 
+JEMW	NN 10.068662950495112 
+MILWIH	NN 10.068662950495112 
+FBTWT	NN 10.068662950495112 
+MFWPE	JJ 8.881558488638976 
+FBTWN	NN 10.068662950495112 
+JENH	NN 7.670767677696742 VB 8.301356215284466 
+MNWI	NN 10.068662950495112 
+PAWLW	NNP 7.187808324269427 
+MTENIIN	VB 9.399968503952575 
+MNWS	NN 10.068662950495112 
+NSERIM	JJ 8.881558488638976 
+TBIA	VB 8.013674142832684 
+HBHIR	VB 8.301356215284466 
+QRATI	VB 7.7905305915184755 
+LHTIICB	VB 8.301356215284466 
+IBJA	VB 9.399968503952575 
+BNWX	RB 8.069029328774958 
+ARWNWT	NNT 8.948715833843691 
+JEMH	NN 10.068662950495112 
+BNWT	NN 7.583756300707112 NNT 8.948715833843691 
+MFWPR	JJ 8.881558488638976 
+MFWNH	JJ 8.881558488638976 
+DWLPIN	NNP 8.797246236703527 
+MQWNN	NNP 8.104099056143582 
+RWMNIIH	JJ 8.881558488638976 
+HFTTPW	VB 7.202743926616356 
+MAWKZBIM	JJ 8.881558488638976 
+JENT	NNT 6.309658504228433 
+XNWK	NNP 8.104099056143582 
+XNWN	NNP 7.4109518755836366 
+JENW	VB 6.760911174337317 
+MNWX	NN 10.068662950495112 JJ 8.881558488638976 
+GIBFH	VB 9.399968503952575 
+MILWLI	JJ 8.188411308079031 
+MNXF	VB 9.399968503952575 
+KWTNH	NN 8.122752801439798 
+MQWMI	JJ 5.837036050915553 
+TPJWR	VB 9.399968503952575 
+MQWMH	NN 8.682368589375221 
+SISMAWTIW	NN 10.068662950495112 
+MQWMM	NN 9.375515769935166 VB 9.399968503952575 
+MNXM	NNP 7.005486767475472 
+LWWIITW	NN 10.068662950495112 
+GWBRIN	NNP 8.797246236703527 
+MNXH	NN 8.970050661827003 
+GWBRIM	JJ 8.881558488638976 VB 9.399968503952575 
+HKBDT	NNT 8.948715833843691 
+MQWMN	NN 10.068662950495112 
+XNWQ	JJ 8.881558488638976 
+HFTTQW	VB 9.399968503952575 
+XNWT	NN 7.871438373158893 NNT 7.562421472723801 
+LWWIITN	NN 10.068662950495112 
+MQWMW	NN 8.122752801439798 
+MFWTP	JJ 6.173508287536766 NN 10.068662950495112 
+XWLMWT	VB 9.399968503952575 
+MWSQWWH	NNP 6.1581889070882685 
+PILGRIMM	NNP 8.797246236703527 
+PRGWN	NN 10.068662950495112 
+WRDIGR	NNP 8.797246236703527 
+FWWDIH	NNP 7.698633948035417 
+BNZN	NN 10.068662950495112 
+CBEIM	NN 7.429605620879854 
+CWBET	VB 8.70682132339263 
+PXDH	VB 9.399968503952575 NN 10.068662950495112 
+FGRTIT	JJ 8.881558488638976 
+NENIM	NN 10.068662950495112 
+IBNH	NNP 7.005486767475472 VB 9.399968503952575 
+LENIIN	VB 9.399968503952575 
+DRWMIT	JJ 8.881558488638976 
+LWWIINI	NNT 8.255568653283746 
+MFWRR	NN 8.970050661827003 
+LEZWB	VB 8.70682132339263 
+MFPXTWNIM	NN 10.068662950495112 
+LHTARGN	VB 8.70682132339263 
+NRTMT	VB 9.399968503952575 
+MQWRI	JJ 7.495264127519086 
+MQWRH	NN 8.970050661827003 
+MQWRM	NN 10.068662950495112 
+NRAH	VB 5.686396437248268 NN 10.068662950495112 
+LEZWR	VB 8.013674142832684 
+APFRWIWT	NN 8.122752801439798 
+IBQR	VB 9.399968503952575 
+MQWRW	NN 10.068662950495112 
+NRAW	VB 7.7905305915184755 
+KWTRT	NN 8.459225038061012 
+ELWTW	NN 10.068662950495112 
+MIEARI	NNP 8.797246236703527 
+AHBIM	NN 9.375515769935166 
+MFWSE	JJ 8.881558488638976 
+FKNIM	NN 8.682368589375221 
+XPIRWTIW	NN 10.068662950495112 
+TFMWR	VB 9.399968503952575 
+HMBWRG	NNP 8.797246236703527 
+WWIZWALIIM	JJ 8.881558488638976 
+AMQWR	NNP 8.797246236703527 
+HPQWT	NNT 8.948715833843691 NN 9.375515769935166 
+AKZR	JJ 8.188411308079031 
+TQCIBIIM	JJ 8.881558488638976 
+MILWAH	ZVL 4.3694478524670215 
+QWMPQJ	NNT 8.948715833843691 
+MIQDMH	NN 10.068662950495112 
+SPQIT	NNT 8.948715833843691 
+MTQDMT	VB 9.399968503952575 
+RGILWT	JJ 6.80211694695914 
+HWELH	VB 9.399968503952575 
+IRQWT	NN 9.375515769935166 
+NRCX	VB 6.915061854164575 
+RBNIH	NN 10.068662950495112 
+TBQF	VB 9.399968503952575 
+MQWWH	VB 7.7905305915184755 
+EINIH	NN 10.068662950495112 
+TBQR	VB 9.399968503952575 
+MTAKSNIM	VB 9.399968503952575 
+QBRWTIHM	NN 10.068662950495112 
+TWRNWIWT	NN 10.068662950495112 
+IIDIFAI	JJ 8.881558488638976 
+NFQPT	VB 8.70682132339263 
+HWEMD	VB 9.399968503952575 
+IRQWN	NN 8.970050661827003 
+EINIW	NN 8.122752801439798 
+MRKIBIW	NN 9.375515769935166 
+HWELW	VB 8.70682132339263 
+LHRBWT	VB 8.70682132339263 
+HWENQ	VB 9.399968503952575 
+QRIAWT	NN 10.068662950495112 
+HRXBH	NN 8.970050661827003 
+LHARIK	VB 7.7905305915184755 
+NZHRIM	VB 9.399968503952575 
+SGWRH	JJ 8.881558488638976 
+IFNWT	JJ 8.881558488638976 
+XWGIM	NN 7.871438373158893 
+HZNXH	NN 9.375515769935166 
+LDWWX	VB 8.301356215284466 
+NSWTH	NN 10.068662950495112 
+RBNIM	NN 9.375515769935166 
+MTAPFRT	VB 9.399968503952575 
+LIIBWR	NNP 7.187808324269427 
+MFWWQ	VB 9.399968503952575 
+FWWDIM	NN 8.682368589375221 
+HSKMTH	NN 10.068662950495112 
+MFWWH	VB 8.301356215284466 
+NRDP	VB 9.399968503952575 
+MFTDLIM	VB 8.70682132339263 
+HSKMTM	NN 10.068662950495112 
+JEWT	NN 7.766077857501067 NNT 8.948715833843691 
+EWTRIM	NN 9.375515769935166 
+HRXBT	NNT 7.562421472723801 
+LHWRID	VB 9.399968503952575 
+IBWA	NN 8.276903481267057 NNT 7.850103545175582 VB 7.7905305915184755 
+PISIWT	JJ 8.881558488638976 
+ALAN	NNP 8.797246236703527 
+42.02	CD 7.564757012905729 
+SWDWT	NNT 8.948715833843691 
+QRAWS	NNP 8.797246236703527 
+SGWLH	JJ 8.881558488638976 
+IBWL	NN 10.068662950495112 
+RIBWNWTW	NN 10.068662950495112 
+LHBIA	VB 7.002073231154205 
+HIPWKWNDR	NN 10.068662950495112 
+AIRANIIM	JJ 8.881558488638976 
+AISLAMIM	JJ 8.881558488638976 
+QAWNJI	NNP 8.797246236703527 
+FIIQSPIR	NNP 8.797246236703527 
+BDQNW	VB 9.399968503952575 
+5,779	CD 7.564757012905729 
+XIFWBIM	NN 10.068662950495112 
+TBWA	VB 9.399968503952575 
+REWLI	NNT 6.751491256507472 
+MTWWDH	VB 9.399968503952575 
+HCXQWT	NN 10.068662950495112 
+HSKMNW	VB 9.399968503952575 
+AWJWPIH	NN 8.459225038061012 
+MFTMFIM	VB 7.608209034724521 
+NRFM	VB 8.70682132339263 
+LHBIE	VB 8.70682132339263 
+LHBIJ	VB 9.399968503952575 
+LXQWR	VB 7.202743926616356 
+LPNIHM	IN 9.74665828850311 
+AIMPRSIWNIZM	NN 9.375515769935166 
+LXQWT	VB 8.70682132339263 
+LHBIN	VB 6.627379781712794 
+GNRAL	NN 9.375515769935166 
+PRIXTM	NN 10.068662950495112 
+BFWRH	NN 9.375515769935166 
+CRIM	JJ 8.881558488638976 
+CRIK	VB 5.6157788700343145 JJ 8.881558488638976 
+MWNJRI	JJ 8.881558488638976 
+IIXFB	VB 8.70682132339263 
+MTIICBT	VB 9.399968503952575 
+XFWBH	JJ 7.272120576204876 
+PAWSJ	NNP 8.797246236703527 
+ALBZ	NNP 7.698633948035417 
+CRKNIWT	NN 10.068662950495112 
+QRIATW	NN 10.068662950495112 
+MTIIXSIM	VB 8.70682132339263 
+ELWLH	VB 6.915061854164575 
+HSKMIM	NN 8.459225038061012 
+WLDZ	NNP 8.797246236703527 
+HERCH	NN 8.970050661827003 
+CRKN	NN 7.429605620879854 
+CRKI	NNT 8.255568653283746 
+TIWWK	NN 10.068662950495112 
+112.90	CD 7.564757012905729 
+KICD	QW 3.0633909220278057 
+PINTH	VB 8.70682132339263 
+PINTI	JJ 8.188411308079031 
+HRXIQ	VB 9.399968503952575 
+HSTBKWT	NN 10.068662950495112 
+HERCT	NNT 8.948715833843691 
+NICWLIM	JJ 8.881558488638976 
+LLDT	VB 9.399968503952575 
+HRFLIQWBIC	NNP 7.698633948035417 
+PSIKWLWGISJI	JJ 8.881558488638976 
+NRKF	VB 9.399968503952575 
+AWNIM	NN 8.682368589375221 
+FRBWB	NNT 8.948715833843691 
+FIGWR	NNT 8.948715833843691 
+MEIDIM	VB 9.399968503952575 
+AZWRI	NNT 7.002805684788378 JJ 7.7829461999708665 
+KLKLIWT	JJ 7.7829461999708665 
+IWQJNW	VB 9.399968503952575 
+HPRDH	NN 10.068662950495112 
+ITXIL	VB 9.399968503952575 
+MWTQPWT	VB 9.399968503952575 
+EWRKIM	VB 9.399968503952575 
+GIBWF	NNT 8.255568653283746 
+NBEJH	VB 9.399968503952575 
+CRNR	NNP 8.797246236703527 
+GIBWR	NN 8.122752801439798 NNT 8.948715833843691 
+HPREH	NN 10.068662950495112 
+MWNGWLI	JJ 8.881558488638976 
+IRIBIHM	NN 10.068662950495112 
+AWSJRWBSQI	NNP 8.797246236703527 
+GIBWI	NN 8.970050661827003 
+FIJPWN	NN 10.068662950495112 
+NWBET	VB 8.013674142832684 
+CWEQIM	VB 9.399968503952575 
+MWEGLIM	JJ 8.881558488638976 
+TQNIM	NN 7.024140512771689 
+ALIM	JJ 8.881558488638976 
+HFTWQQTI	VB 9.399968503952575 
+MTLWNN	VB 9.399968503952575 
+ADWMH	JJ 8.188411308079031 
+NWBLH	NN 8.970050661827003 
+CRPT	NNP 6.3123395869155265 
+ADWLP	NNP 8.797246236703527 
+ALJR	NNP 7.4109518755836366 
+PXTW	VB 9.399968503952575 
+MWSJAPH	NNP 8.797246236703527 
+SGRIRI	JJ 8.881558488638976 
+TQCIBIWT	JJ 8.881558488638976 
+QCWWT	NN 8.970050661827003 
+LTETE	VB 9.399968503952575 
+EWTQIM	NN 8.970050661827003 
+ALNBI	NNP 6.851336087648214 
+PXWT	RBR 1.9980959022258835 
+HERIK	VB 9.399968503952575 
+RGILIM	JJ 8.881558488638976 
+IBBWT	NN 10.068662950495112 
+PNSIWNR	NN 10.068662950495112 
+KIHN	VB 9.399968503952575 
+LLKT	VB 8.70682132339263 
+CPWNIT	JJ 8.881558488638976 RB 7.3758821482150125 
+ALKS	NNP 8.104099056143582 
+HERIM	VB 9.399968503952575 
+FIGRW	VB 8.70682132339263 
+ICAH	VB 7.7905305915184755 
+HBIAH	VB 8.70682132339263 
+FIGRH	NN 10.068662950495112 VB 8.70682132339263 
+BWDDIM	NN 8.970050661827003 JJ 7.7829461999708665 
+GWLDH	NNP 8.797246236703527 
+ICAW	VB 6.760911174337317 
+MWLDTW	NN 8.970050661827003 
+ZWEMIM	JJ 8.881558488638976 
+GWLDN	NNP 8.104099056143582 
+AWBSSIH	NN 10.068662950495112 
+AWRALI	JJ 8.188411308079031 
+ALLH	NNP 8.104099056143582 
+HPRIE	VB 9.399968503952575 
+ADWNI	NN 9.375515769935166 
+PFEIM	NN 10.068662950495112 
+HERKH	NN 7.989221408815276 
+GNRLI	NNP 8.797246236703527 
+HERKT	NNT 8.255568653283746 
+HBIAW	VB 8.013674142832684 
+NQRAT	VB 8.70682132339263 
+HPRJH	NN 10.068662950495112 
+ALMH	NNP 8.797246236703527 
+TWLDWT	NNT 7.002805684788378 
+HTABDWT	NN 8.682368589375221 
+WWCRNAIH	NNP 8.797246236703527 
+TNEMI	NNP 8.104099056143582 
+ELWBI	NNT 8.255568653283746 
+EIMWT	NN 7.989221408815276 
+HTAXDWT	NNT 6.869274292163856 NN 7.2354496064388965 
+NBIAIM	NN 8.459225038061012 
+LLMD	VB 9.399968503952575 
+PIRSJNRIDR	NNP 8.104099056143582 
+HRXQH	NN 10.068662950495112 
+NABQT	VB 9.399968503952575 
+HTMWDDWT	NN 7.989221408815276 
+NABQW	VB 9.399968503952575 
+PANJWM	NNT 8.948715833843691 
+PDGWGIT	NN 10.068662950495112 
+HELAWT	NNT 8.255568653283746 
+ANIMCIH	NN 9.375515769935166 
+MTNKLIM	VB 9.399968503952575 
+AILWCIM	NN 8.682368589375221 
+EWZBIM	VB 9.399968503952575 
+QICWNIWT	JJ 7.495264127519086 
+HTNPCW	VB 8.301356215284466 
+BQWFI	RB 8.069029328774958 
+AKLWSH	NN 10.068662950495112 
+KIKR	NNT 8.255568653283746 
+HBIEH	VB 8.70682132339263 
+7.30	CD 7.564757012905729 
+IIFWBIM	NN 8.970050661827003 
+NZKWR	VB 9.399968503952575 
+ALPI	CDT 2.610594864951497 
+KINS	VB 9.399968503952575 
+AWHDIM	NN 8.276903481267057 
+FTIHN	PRP 7.4561656630753985 
+HZMINW	VB 9.399968503952575 
+AIKWIWT	NN 10.068662950495112 
+LLQQ	VB 9.399968503952575 
+BWGRI	JJT 4.564348191467836 
+KINW	VB 9.399968503952575 
+IDIDW	NN 8.276903481267057 
+HWFBE	VB 9.399968503952575 
+PINWQ	NN 10.068662950495112 
+AWHDIH	NN 10.068662950495112 
+NRXB	JJ 7.7829461999708665 
+PINWI	NNT 8.255568653283746 
+NQREW	VB 8.70682132339263 
+GWLIM	NN 10.068662950495112 
+HPRNQ	NN 10.068662950495112 
+CRWT	NN 8.682368589375221 
+HBIEW	VB 7.7905305915184755 
+IINTNW	VB 8.301356215284466 
+ICIE	VB 9.399968503952575 NN 10.068662950495112 
+IDIEH	NN 7.989221408815276 
+IIXTM	VB 9.399968503952575 
+CRWP	JJ 8.881558488638976 
+LHIGBWT	VB 9.399968503952575 
+FTIIH	NN 10.068662950495112 
+HZMINH	VB 8.70682132339263 
+FTIIM	CD 5.772997543677674 
+BWGRT	NNT 8.948715833843691 
+ICIL	VB 9.399968503952575 
+FWRRT	VB 7.7905305915184755 
+MDRIK	NNT 8.948715833843691 
+FXQNIM	NN 7.670767677696742 
+XLWMWT	NN 8.970050661827003 
+ICGW	VB 9.399968503952575 
+MJBXI	NNT 7.339277921409591 
+FXQNIT	NN 9.375515769935166 
+FXQNIW	NN 10.068662950495112 
+MMLAH	VB 9.399968503952575 
+PWPWLRIWT	NN 8.970050661827003 
+MMLAI	NNT 8.948715833843691 
+HCLIX	VB 6.509596746056411 
+IDIDH	NN 10.068662950495112 
+IDIDI	NN 10.068662950495112 
+BNIGWD	IN 7.038608087400899 
+KINH	VB 8.70682132339263 
+LHWRWT	VB 8.013674142832684 
+ITXRW	VB 9.399968503952575 
+MMLAT	VB 8.70682132339263 
+FXQNIH	NN 10.068662950495112 
+MDRFH	NN 10.068662950495112 
+ALJRNJIWWIIM	JJ 8.881558488638976 
+SAWTHPJWN	NNP 8.797246236703527 
+MTIIMRWT	VB 9.399968503952575 
+TDHMH	NN 10.068662950495112 
+MNHLWT	NNT 8.948715833843691 
+MXWSPST	JJ 8.881558488638976 
+MZRET	NNP 8.797246236703527 
+PNJSIH	NN 8.970050661827003 
+CRIPWNIM	NN 10.068662950495112 
+QWNJRAS	NNP 6.851336087648214 
+MDRGH	NN 10.068662950495112 
+MXWDDIM	JJ 8.881558488638976 
+HWFEH	VB 8.70682132339263 
+LSBWL	VB 9.399968503952575 
+HELATM	NN 10.068662950495112 
+XRWJIM	JJ 8.881558488638976 
+GWLMI	JJ 8.881558488638976 
+BLGRD	NNP 8.797246236703527 
+TCIG	VB 9.399968503952575 
+EDWIWT	NNT 8.948715833843691 NN 8.682368589375221 
+TCIE	VB 9.399968503952575 
+yyDASH	yyDASH 0.0 
+XZQIM	NN 8.970050661827003 
+RIBIT	NN 7.178291192598947 
+JLWIZIWT	NN 10.068662950495112 
+KIPH	NN 9.375515769935166 
+IELIL	VB 9.399968503952575 
+ZITIM	NN 9.375515769935166 
+MMFLWT	NN 10.068662950495112 NNT 8.948715833843691 
+MEWNIINIM	VB 8.70682132339263 
+JIPLW	VB 9.399968503952575 
+MRDIMIM	JJ 8.881558488638976 
+XZITWT	NNT 8.948715833843691 
+MBJAT	VB 9.399968503952575 
+FWPRH	VB 9.399968503952575 
+TGWBTH	NN 8.970050661827003 
+ALUM	NN 10.068662950495112 NNP 8.797246236703527 
+CEQNIWT	JJ 8.881558488638976 
+QIFWR	NN 8.970050661827003 NNP 8.797246236703527 
+RWMNJIM	JJ 8.881558488638976 
+HRGFTI	VB 8.013674142832684 
+MDPIM	NN 9.375515769935166 
+HRGFTM	NN 10.068662950495112 
+GRMNIH	NNP 5.213727298247417 JJ 8.881558488638976 
+MTSKLT	JJ 8.881558488638976 
+DWKNIM	NN 10.068662950495112 
+ZIRWZ	NNT 8.948715833843691 
+FIIKT	JJ 7.272120576204876 
+HIINRIK	NNP 8.797246236703527 
+GRMNIT	JJ 8.188411308079031 NN 8.970050661827003 
+TPIXH	NN 10.068662950495112 
+CIWWTH	VB 9.399968503952575 
+GBWHWT	JJ 7.495264127519086 
+MQMILN	NNP 7.698633948035417 
+GRMNIM	NN 8.459225038061012 
+DISNILND	NNP 8.797246236703527 
+QWNWWNCIWNLIT	JJ 8.881558488638976 
+MRWBIM	JJ 8.881558488638976 
+TQLWT	NN 8.682368589375221 
+MQBILW	NN 10.068662950495112 
+HZMNH	NN 8.682368589375221 
+KIUL	NNP 8.104099056143582 
+ERIKT	NNT 7.339277921409591 
+ALWP	NN 8.276903481267057 NNT 8.255568653283746 
+MWZNIM	VB 8.70682132339263 
+5,836	CD 7.564757012905729 
+ALWN	NN 7.766077857501067 NNP 8.797246236703527 
+MQBILH	JJ 7.7829461999708665 
+IHSSW	VB 9.399968503952575 
+MBJAH	NN 10.068662950495112 
+KISW	NN 8.970050661827003 
+AIFRH	VB 7.7905305915184755 
+MQBILWT	JJ 8.881558488638976 
+PNQIIBICIM	NNP 8.104099056143582 
+HWDEH	NN 6.9776204971367966 
+AIFRR	VB 9.399968503952575 
+SEWDIH	NNP 5.964032892647311 
+ERIKH	NN 10.068662950495112 
+PAB	NN 10.068662950495112 
+LWMDI	NNT 8.948715833843691 
+KITH	NN 8.970050661827003 
+WWLQN	NNP 8.797246236703527 
+JRIJWRIH	NN 9.375515769935166 
+MWGBL	JJ 8.881558488638976 
+LHKNIS	VB 8.301356215284466 
+PAS	NNP 7.698633948035417 
+FZWRIM	VB 9.399968503952575 
+MERBWNIM	NN 9.375515769935166 
+ICPW	VB 9.399968503952575 
+TPIRH	NN 10.068662950495112 
+MWGBR	JJ 8.881558488638976 
+NFPJW	VB 9.399968503952575 
+MTEBIM	VB 8.70682132339263 
+XLFIM	NN 8.970050661827003 
+ICQH	VB 9.399968503952575 
+XBWIIM	JJ 8.881558488638976 
+KIWM	MOD 7.518064181233078 RB 4.810932790753475 
+MMFLTI	JJ 8.881558488638976 
+MMFLTH	NN 10.068662950495112 
+KIWR	NN 10.068662950495112 
+HWDET	NNT 6.751491256507472 
+QWNPLIQJ	NN 8.970050661827003 
+WIDWIIM	NN 10.068662950495112 
+TISKWL	NN 10.068662950495112 
+HZMNT	NNT 8.948715833843691 
+AXRWT	JJ 5.79051603528066 
+TPISH	NN 8.459225038061012 
+KSPRIT	NN 8.970050661827003 
+MMFLTW	NN 10.068662950495112 
+TPIST	NNT 7.850103545175582 
+XBILH	NN 10.068662950495112 
+SWTRWT	JJ 8.881558488638976 
+AXRWN	NN 8.682368589375221 JJ 5.623461950617494 
+TFLWM	NN 7.503713593033575 NNT 7.002805684788378 
+PCE	VB 9.399968503952575 
+TGWBWT	NN 9.375515769935166 
+HWRIHN	NN 10.068662950495112 
+MTINWT	NN 10.068662950495112 
+HTXLTI	VB 9.399968503952575 
+BLIMT	NNT 8.255568653283746 
+KPRIHM	NN 10.068662950495112 
+TGWBTW	NN 9.375515769935166 
+NSBL	JJ 7.7829461999708665 
+PRFWT	NN 8.970050661827003 NNT 8.948715833843691 
+HWDIE	VB 6.627379781712794 
+ICRH	VB 8.70682132339263 
+RAIWN	NN 8.276903481267057 
+ICRI	NNT 8.948715833843691 NN 10.068662950495112 
+ICRN	NN 7.989221408815276 
+RAIWT	NN 8.459225038061012 
+PEL	VB 7.32052696227274 
+PEM	RB 4.773192462770629 NN 6.890609120147166 
+PER	NNT 8.255568653283746 NN 7.670767677696742 
+ICRW	VB 8.70682132339263 
+MAGAR	NNP 8.797246236703527 
+LHABQ	VB 9.399968503952575 
+LHRAWT	VB 9.399968503952575 
+MXJIM	NN 10.068662950495112 
+HPELTM	NN 10.068662950495112 
+NSEH	VB 8.70682132339263 
+PFE	NN 7.024140512771689 
+EKWAIM	NN 10.068662950495112 
+HPELTW	NN 10.068662950495112 
+MBJIX	VB 8.70682132339263 JJ 8.188411308079031 
+PFR	NNT 8.948715833843691 NN 10.068662950495112 
+HWDIT	JJ 8.881558488638976 
+AMRTI	VB 8.70682132339263 
+GRPWJQ	NN 10.068662950495112 
+LIBRLIZCIH	NN 8.970050661827003 
+PGF	VB 9.399968503952575 
+PGE	NN 10.068662950495112 VB 8.301356215284466 
+LHWQIR	VB 9.399968503952575 
+IFMRW	VB 9.399968503952575 
+LMPRE	RB 7.3758821482150125 
+MXJIA	VB 9.399968503952575 
+GWWNIM	NN 8.970050661827003 
+ICWRIM	NN 10.068662950495112 
+IWNIWWRSL	NNP 5.706203783345211 
+PGM	NN 9.375515769935166 
+PGR	NNP 8.797246236703527 
+HCJRP	VB 8.70682132339263 
+MSEIRIM	JJ 8.881558488638976 
+TQFWRT	NN 7.024140512771689 
+HTGFMWT	NNT 8.948715833843691 
+BLILH	NN 9.375515769935166 
+TSQIRI	NNT 8.948715833843691 
+MWGDL	JJ 8.881558488638976 
+PGW	NNP 8.797246236703527 
+GAJUJ	NNP 7.698633948035417 
+BIRNDRH	NNP 8.797246236703527 
+CACAI	NNT 8.255568653283746 
+LHMTIN	VB 8.301356215284466 
+HTAIMW	VB 9.399968503952575 
+XPCW	NN 10.068662950495112 
+ICWA	NN 7.503713593033575 NNT 7.850103545175582 
+HWDLP	VB 9.399968503952575 
+MZERIWT	JJ 8.881558488638976 
+IWCAIM	NN 10.068662950495112 VB 8.70682132339263 
+XPCM	NN 10.068662950495112 
+BAIIR	NNP 8.104099056143582 
+NSGR	VB 8.70682132339263 
+PI.	NNP 8.797246236703527 
+IPJRL	VB 9.399968503952575 
+MDBIQIM	VB 9.399968503952575 
+HBJXWTIW	NN 10.068662950495112 
+MPRIDIM	VB 8.301356215284466 
+FWQRWN	NNP 8.797246236703527 
+PIREWN	NNT 8.255568653283746 
+PIH	NN 8.970050661827003 
+PIL	NN 10.068662950495112 
+AIFIM	NN 8.682368589375221 
+XPCI	NNT 8.255568653283746 
+MGDIRH	VB 9.399968503952575 
+ATNIIM	JJ 8.188411308079031 
+AIFIT	RB 7.3758821482150125 JJ 6.80211694695914 
+PIW	NN 7.989221408815276 
+MNHLIW	NN 10.068662950495112 
+NSIK	NNT 8.948715833843691 
+JIPXW	VB 9.399968503952575 
+AWLRIK	NNP 8.797246236703527 
+QWLQJIWWI	JJ 8.188411308079031 
+LHTIIXS	VB 7.7905305915184755 
+XWFIM	NN 10.068662950495112 
+NSIM	NN 10.068662950495112 NNP 5.906874478807363 
+BZRNW	NNP 8.797246236703527 
+AMCE	NN 9.375515769935166 NNT 6.550820561045321 
+JIIPWN	NNP 8.797246236703527 
+PJM	NN 9.375515769935166 
+XWFIW	NN 10.068662950495112 
+NHWGIM	JJ 8.881558488638976 
+PJR	NNP 8.797246236703527 VB 9.399968503952575 
+MNHLIM	JJ 8.881558488638976 NN 6.9776204971367966 VB 7.7905305915184755 
+FARIT	NNT 8.948715833843691 
+XFIBWTH	NN 10.068662950495112 
+FARIM	NN 10.068662950495112 
+RWWQIM	NN 10.068662950495112 
+MPEL	NNT 6.869274292163856 NN 7.429605620879854 
+ICXQ	NNP 5.906874478807363 
+JIPWL	NN 7.072930676941121 NNT 8.948715833843691 
+JIPWS	NN 10.068662950495112 
+MAGIQ	NNP 8.797246236703527 
+MBJLT	VB 8.70682132339263 
+DIMWIIM	NN 8.970050661827003 
+PLA	NN 8.122752801439798 
+MHPKNIT	JJ 8.881558488638976 
+LMEJ	IN 8.360363927383219 
+ALQJRWNIQH	NN 8.970050661827003 
+PRFNIM	NN 8.970050661827003 
+LMEN	IN 6.974069566263328 
+PLD	NNP 8.104099056143582 
+MMFLIM	NN 10.068662950495112 
+PLG	NNP 8.797246236703527 
+LNSWE	VB 8.301356215284466 
+SLWWDWR	NNP 8.797246236703527 
+PLJ	VB 8.70682132339263 
+HSBRTI	VB 9.399968503952575 
+MWBHQT	JJ 7.495264127519086 
+MSPIQIM	JJ 8.881558488638976 
+GLWNIM	NN 10.068662950495112 
+QLPIM	NN 10.068662950495112 
+LMDI	MOD 5.908626268798978 
+MPGE	NN 10.068662950495112 
+MPGF	NN 10.068662950495112 
+LMDH	VB 9.399968503952575 
+MPGR	JJ 8.881558488638976 
+QLPIF	NNP 8.797246236703527 
+MNWXTI	NN 10.068662950495112 
+AWBIIQJIWWI	JJ 8.881558488638976 
+KMWIWT	NN 9.375515769935166 
+MNJLIWT	NN 10.068662950495112 
+LMDW	VB 8.301356215284466 
+XWBQWT	JJT 4.564348191467836 
+HADRT	NNT 8.948715833843691 
+MFWWQIM	VB 9.399968503952575 
+LNSWT	VB 7.202743926616356 
+WICMN	NNP 8.797246236703527 
+KMWBN	MOD 7.518064181233078 RB 5.360979127672747 
+HMWNIIM	JJ 8.881558488638976 
+MTWXKM	JJ 7.7829461999708665 
+NSMK	VB 9.399968503952575 
+LLMWD	VB 7.202743926616356 
+HFTDL	VB 9.399968503952575 
+PNI	NNT 6.309658504228433 
+PNH	VB 7.002073231154205 
+PNW	VB 7.7905305915184755 
+NWAFW	VB 9.399968503952575 
+RWWQWT	NN 10.068662950495112 
+LMFL	MOD 6.419451892564968 RB 5.0245068910515345 
+LMFK	IN 8.360363927383219 
+KBWDM	NN 10.068662950495112 
+HTRFMNW	VB 9.399968503952575 
+MPIQ	VB 9.399968503952575 NNT 8.948715833843691 NN 10.068662950495112 
+KIRSMW	VB 9.399968503952575 
+TRNGWL	NNT 8.255568653283746 
+KBWDW	NN 10.068662950495112 
+XPIM	NN 10.068662950495112 
+SWDAN	NNP 8.104099056143582 
+QIIJNWT	NN 10.068662950495112 
+13,095	CD 7.564757012905729 
+MPLJ	NNP 8.797246236703527 
+QRMLIN	NNP 8.797246236703527 
+NIHWLH	NN 9.375515769935166 
+NIHWLI	JJ 8.881558488638976 
+AMIS	NNP 8.797246236703527 
+RXWBWTIH	NN 9.375515769935166 
+NBWKIM	JJ 8.881558488638976 
+AMIR	NNP 8.797246236703527 
+NIHWLM	NN 9.375515769935166 
+LIMWDIH	NN 10.068662950495112 
+AMIN	JJ 8.188411308079031 NNP 7.4109518755836366 
+AMIL	NNP 8.797246236703527 
+NIHWLW	NN 10.068662950495112 
+HWDTH	VB 9.399968503952575 
+AMRNW	VB 9.399968503952575 
+NERKIM	VB 8.70682132339263 
+AMID	NNP 8.797246236703527 JJ 8.881558488638976 
+GWNSWN	NNP 8.797246236703527 
+MNKULI	NNT 8.948715833843691 
+SNSCIH	NN 10.068662950495112 
+RLWWNJIT	JJ 8.188411308079031 
+PQD	NN 8.682368589375221 
+XLWNWT	NN 10.068662950495112 NNT 8.948715833843691 
+PEWLWTIW	NN 9.375515769935166 
+LIMWDIM	NN 8.122752801439798 
+LIMWDIW	NN 10.068662950495112 
+MPLH	NN 10.068662950495112 
+AIFAM	NNP 8.797246236703527 
+GWJPRID	NNP 8.104099056143582 
+PEWLWTIH	NN 9.375515769935166 
+PRC	VB 7.202743926616356 
+MQWCR	JJ 8.881558488638976 
+PRF	VB 9.399968503952575 
+PRI	NNP 8.797246236703527 NNT 8.948715833843691 
+RXMIM	NNP 8.104099056143582 NN 9.375515769935166 
+PRJ	IN 9.053511107943164 NN 7.989221408815276 
+SWCIWLWGIIM	JJ 8.881558488638976 
+MMHRIM	VB 9.399968503952575 
+PRL	NNP 7.4109518755836366 
+PRQ	NN 7.766077857501067 NNT 8.948715833843691 VB 9.399968503952575 
+PRS	NN 6.457745037850888 NNT 6.550820561045321 NNP 6.494661143709481 
+PRR	NNP 8.797246236703527 
+PRW	MOD 6.824917000673133 NNP 8.104099056143582 
+MAXZIHN	NN 10.068662950495112 
+LMLA	VB 7.608209034724521 
+QWPMN	NNP 8.104099056143582 
+SPCIPI	JJ 8.188411308079031 
+BPNI	IN 6.414453778327905 
+MQWDF	JJ 8.188411308079031 
+PRX	NNP 8.797246236703527 
+MHIRWT	NN 8.459225038061012 
+HWJRDW	VB 9.399968503952575 
+ABRHM	NNP 6.600021659367308 
+QNDIIM	JJ 8.881558488638976 
+NEMWD	VB 8.301356215284466 
+NSPW	VB 8.70682132339263 
+MKAIBH	JJ 8.881558488638976 
+NSPX	NN 10.068662950495112 
+XSRWNW	NN 10.068662950495112 
+HWDWT	IN 7.954898819275054 
+AHBWT	NNT 8.948715833843691 
+PSQ	NNT 6.646130740849646 VB 8.70682132339263 
+PSX	NNP 8.797246236703527 
+MCJIINIM	NN 10.068662950495112 
+ANWFIT	JJ 8.188411308079031 
+MPNH	VB 9.399968503952575 
+MPNI	IN 6.220297763886948 
+ABWLWP	NNP 8.797246236703527 
+HTBLBL	VB 9.399968503952575 
+PANIQH	NN 10.068662950495112 
+PTE	RB 8.069029328774958 
+ITMWDDW	VB 8.013674142832684 
+LMMN	VB 7.608209034724521 
+DWLQWT	VB 9.399968503952575 
+29.90	CD 7.564757012905729 
+CWBRT	VB 9.399968503952575 
+HWDXW	VB 8.70682132339263 
+MCRIWT	JJ 8.881558488638976 
+MPQD	NN 9.375515769935166 NNT 6.240665632741481 
+XLFWT	JJ 8.881558488638976 NN 10.068662950495112 
+PTX	VB 8.70682132339263 NN 10.068662950495112 NNT 6.383766476382155 
+MIAQWBSQI	NNP 8.797246236703527 
+HWDXH	VB 9.399968503952575 
+AXRIT	NNT 8.255568653283746 
+TQWPWTIHM	NN 10.068662950495112 
+MQWBL	JJ 7.7829461999708665 NN 8.682368589375221 
+AXRIM	NN 7.072930676941121 JJ 4.94973285591465 
+ZRMIM	NN 10.068662950495112 
+HWEBRH	VB 9.399968503952575 
+BIRQNAW	NNP 7.698633948035417 
+IWDEIM	VB 7.002073231154205 
+HGWNH	JJ 8.881558488638976 
+AMNW	NN 10.068662950495112 
+AMNT	NNT 8.948715833843691 
+PUT	NNP 8.104099056143582 
+KWTBT	VB 8.301356215284466 
+AMNM	RB 4.773192462770629 
+HWEBRW	VB 7.4540583548972625 
+LMMF	VB 7.7905305915184755 
+PNJSIWT	NN 10.068662950495112 
+AMNI	NNT 8.255568653283746 
+KFLWNWT	NN 10.068662950495112 
+ITWMI	NNT 8.948715833843691 
+PEWLTH	NN 10.068662950495112 
+LHGBIR	VB 7.4540583548972625 
+LXILWPIN	RB 7.3758821482150125 
+MCRIIM	JJ 8.881558488638976 
+ITWMH	JJ 8.881558488638976 
+HACT	NNT 8.948715833843691 
+AHBTW	NN 10.068662950495112 
+MEWLIM	JJ 8.188411308079031 
+NHWGH	VB 9.399968503952575 
+BPRJ	MOD 6.419451892564968 
+PSIQTW	NN 10.068662950495112 
+QCWBH	JJ 8.881558488638976 
+LHIHPK	VB 9.399968503952575 
+PWL	NNP 6.851336087648214 
+PWR	NNP 8.797246236703527 
+PWS	NNP 5.396048855041371 
+MPQX	VB 9.399968503952575 NN 9.375515769935166 
+MPRC	NNT 8.948715833843691 NN 6.572155389028632 
+TDEK	VB 9.399968503952575 
+MPRF	NN 10.068662950495112 
+HSTDRWT	NNT 7.562421472723801 NN 7.024140512771689 
+HFTMF	VB 7.4540583548972625 
+HFTME	VB 9.399968503952575 
+FKNWT	NN 10.068662950495112 
+PXD	NNT 8.948715833843691 NN 7.503713593033575 
+MPRJ	VB 8.70682132339263 
+MNWXIM	JJ 8.881558488638976 
+RIALI	JJ 7.495264127519086 
+MPTX	NN 8.276903481267057 
+HFTNH	VB 8.301356215284466 
+FKNWE	NN 10.068662950495112 
+NBDQH	VB 9.399968503952575 
+HTPREWIWT	NN 8.970050661827003 
+MPRNSIM	VB 9.399968503952575 
+IDID	NN 9.375515769935166 
+MSWLPIM	VB 9.399968503952575 
+IDIH	NN 9.375515769935166 
+NSXP	VB 9.399968503952575 
+NBDQT	VB 8.70682132339263 
+TIAWLWGIM	NN 10.068662950495112 
+NBDQW	VB 9.399968503952575 
+SNJRW	NN 10.068662950495112 
+MFWGE	NN 10.068662950495112 
+BTWLIM	NN 10.068662950495112 
+MKRIZIM	VB 9.399968503952575 
+RPWAI	JJ 6.80211694695914 
+RPWAH	NNP 7.4109518755836366 NN 7.989221408815276 
+PDRCIH	NN 10.068662950495112 
+AMRW	VB 6.264474288023425 
+AMRT	VB 9.399968503952575 
+LIDTN	NN 10.068662950495112 
+NSWG	VB 8.301356215284466 
+HSBRIM	NN 8.682368589375221 
+MPTH	JJ 8.881558488638976 
+IIKLLW	VB 9.399968503952575 
+MPTN	NNT 8.948715833843691 
+AMRH	NN 8.459225038061012 VB 6.835019146491039 
+LHGBIH	VB 9.399968503952575 
+MFWLL	JJT 3.4657359027997265 
+MFWLM	NNP 8.797246236703527 
+ITWQN	VB 9.399968503952575 
+HAGR	NNP 8.797246236703527 
+SAGH	NNP 8.797246236703527 
+MPTIE	JJ 8.188411308079031 
+PRFNWT	NN 10.068662950495112 
+HFTPR	VB 9.399968503952575 
+IFNIM	JJ 7.7829461999708665 
+KIBWFIHM	NN 10.068662950495112 
+QWPUX	NN 8.970050661827003 
+SEWDIM	NN 10.068662950495112 
+RCXNIT	JJ 8.881558488638976 
+XQLAIIM	JJ 8.881558488638976 
+IEBIRW	VB 8.70682132339263 
+TIAWRI	NNT 8.948715833843691 
+LMTN	VB 9.399968503952575 
+MTIIXSWT	VB 9.399968503952575 
+EZBH	VB 8.70682132339263 
+BRAWNING	NNP 8.797246236703527 
+SEWDIT	JJ 8.188411308079031 
+PEWLWT	NN 7.989221408815276 NNT 6.550820561045321 
+HDPSIM	NN 8.970050661827003 
+IDIT	NN 10.068662950495112 NNT 8.948715833843691 
+MFWMF	JJ 8.881558488638976 
+IDIW	NN 8.682368589375221 
+KWTLI	NNT 8.255568653283746 
+CILWMI	NNT 8.255568653283746 
+LMSD	VB 9.399968503952575 
+XAGBI	NNP 7.005486767475472 
+MWGZM	JJ 8.188411308079031 
+METIR	VB 9.399968503952575 
+HFTQE	VB 9.399968503952575 
+REIWNI	JJ 8.188411308079031 
+BIDWRIWT	JJ 8.881558488638976 
+MWPRKT	JJ 8.188411308079031 
+HFTRR	VB 8.70682132339263 
+HTQDMWT	NN 9.375515769935166 
+MWDRNIZCIH	NN 10.068662950495112 
+KXWLH	JJ 8.188411308079031 
+MWERKT	VB 9.399968503952575 
+NSWGW	VB 9.399968503952575 
+HAJH	NN 10.068662950495112 
+QWPWT	NNT 8.948715833843691 
+AXRAI	NN 10.068662950495112 JJ 7.089799019410921 
+HFTRE	VB 9.399968503952575 
+GRWSHDRN	NNP 8.797246236703527 
+WIINFJIIN	NNP 7.698633948035417 
+EZBW	VB 8.301356215284466 
+RMALLH	NNP 8.797246236703527 
+WIQJWRI	NNP 7.698633948035417 
+PEWLTW	NN 10.068662950495112 
+REIWNW	NN 10.068662950495112 
+HWEBR	VB 7.7905305915184755 
+PEWLTM	NN 10.068662950495112 
+HTRFMTI	VB 9.399968503952575 
+MQLEIM	NN 10.068662950495112 
+QWLNWEIT	JJ 8.881558488638976 
+MMDIWT	JJ 8.881558488638976 
+DWBR	NN 9.375515769935166 VB 9.399968503952575 NNT 5.904193396120268 
+ATGRI	NNT 8.948715833843691 
+TTGIIS	VB 9.399968503952575 
+HALH	NNP 8.104099056143582 
+1,053	CD 7.564757012905729 
+HFQIEW	VB 8.70682132339263 
+AMWT	NNT 8.255568653283746 
+MWPNIM	VB 9.399968503952575 
+AMWR	NN 10.068662950495112 VB 6.455529524786135 
+HTRGFWTM	NN 10.068662950495112 
+SIJWNAIT	JJ 8.881558488638976 
+AMWN	NN 8.276903481267057 
+MHSSIM	VB 8.70682132339263 
+ZEIRH	JJ 8.881558488638976 
+HWGIM	VB 9.399968503952575 
+MMCAIHM	NN 10.068662950495112 
+DWAR	NN 9.375515769935166 
+BNIINI	NNT 8.948715833843691 
+LHIKNS	VB 7.09738341095853 
+AIRWPI	JJ 8.188411308079031 
+AIRWPH	NNP 5.3315103339038 
+HWTNTH	VB 9.399968503952575 
+THIWTIW	NN 10.068662950495112 
+LHTKNS	VB 9.399968503952575 
+QAJ	NN 10.068662950495112 
+QAM	NNP 8.797246236703527 
+QAN	NNP 8.797246236703527 
+MPZR	VB 9.399968503952575 
+DNDIQ	NNP 8.797246236703527 
+MCPIM	VB 7.4540583548972625 
+DIPLWMJIM	NN 9.375515769935166 
+DWDW	NNP 8.797246236703527 
+ECWMWT	JJ 8.881558488638976 NN 10.068662950495112 
+KRIFIM	NN 10.068662950495112 
+KIMIH	NN 10.068662950495112 
+HANA	NNP 8.104099056143582 
+HTELMWT	NN 9.375515769935166 
+XBLTW	NN 10.068662950495112 
+QBE	VB 6.509596746056411 NN 7.503713593033575 
+LHIKLL	VB 9.399968503952575 
+PZGZ	NNP 8.797246236703527 
+QLSIT	JJ 8.881558488638976 
+AIDIALISJIM	JJ 8.881558488638976 
+HANS	NNP 8.797246236703527 
+QBR	NN 8.970050661827003 NNT 8.948715833843691 
+KTMIM	NN 10.068662950495112 
+RWWXIWT	NN 8.970050661827003 
+SALM	NNP 7.187808324269427 
+JMPLRIM	NN 10.068662950495112 
+NWCXW	VB 9.399968503952575 
+FNINWT	NN 10.068662950495112 
+SWBIIJIIM	JJ 8.188411308079031 
+QCB	NN 8.122752801439798 NNT 8.948715833843691 NNP 7.698633948035417 
+XLIPI	JJ 8.881558488638976 
+DWDH	NN 10.068662950495112 
+DWDI	NNT 8.948715833843691 
+RWMAN	NNP 8.797246236703527 NN 7.503713593033575 
+NWCXH	VB 8.70682132339263 
+BAJINIWL	NNP 8.104099056143582 
+QCP	NN 10.068662950495112 
+QCR	JJ 6.108969766399195 JJT 4.564348191467836 
+ZWEP	VB 8.70682132339263 
+QCT	DT 5.972536537222463 RB 7.3758821482150125 MOD 6.131769820113187 
+HWGLH	VB 9.399968503952575 
+PZIH	NNP 8.797246236703527 
+HAPJ	NNP 8.104099056143582 
+HTIIMRW	VB 9.399968503952575 
+QDM	NNP 8.797246236703527 MOD 5.908626268798978 VB 9.399968503952575 
+MWPNMT	VB 9.399968503952575 
+TWMIJI	NNP 8.104099056143582 
+MWJIB	NN 10.068662950495112 
+QDS	NNP 8.797246236703527 
+HTPTXH	VB 8.70682132339263 
+QFIFIM	NN 7.989221408815276 
+HTXDFWT	NN 10.068662950495112 
+KRGIL	RB 8.069029328774958 
+SIDWRI	JJ 7.7829461999708665 
+NDMIT	VB 9.399968503952575 
+IDRF	VB 9.399968503952575 
+HTPTXW	VB 9.399968503952575 
+SANS	NNP 8.797246236703527 
+FMRNWT	NN 10.068662950495112 
+EZIM	JJ 8.881558488638976 
+RICRD	NNP 8.104099056143582 
+PNIMIT	JJ 7.272120576204876 
+QIIZR	NNP 8.104099056143582 
+NTED	VB 9.399968503952575 
+HWGNT	VB 9.399968503952575 
+RWCXIM	NN 10.068662950495112 
+MQBL	NNT 8.255568653283746 VB 7.4540583548972625 
+HARD	NNP 8.797246236703527 
+DWID	NNP 7.698633948035417 
+IXDIW	MOD 7.518064181233078 
+HARH	NN 10.068662950495112 
+ZWGN	NN 10.068662950495112 
+QFH	JJ 5.746064272709826 VB 6.22191467360463 RB 5.766444235780912 
+ZWHI	PRP 7.4561656630753985 
+QFI	NNT 8.948715833843691 
+AKSNIH	NN 10.068662950495112 
+LHTBWNN	VB 9.399968503952575 
+HARIKH	VB 9.399968503952575 
+QFR	NNT 8.948715833843691 NN 6.736458440319908 
+QFT	NN 10.068662950495112 
+FIGEWN	NN 10.068662950495112 
+BSISIWT	JJ 8.188411308079031 
+JISWT	NNT 8.255568653283746 
+MWJEH	JJ 8.881558488638976 
+TPLWT	NN 10.068662950495112 
+XLILH	MOD 7.518064181233078 RB 8.069029328774958 
+PLFTINIIM	JJ 6.04834514458276 
+SKSWKI	NNT 7.339277921409591 
+1,000	CD 5.955319100471629 
+SMIWN	NNP 8.797246236703527 
+MWDILIANI	NNP 8.797246236703527 
+HFQPWTIW	NN 9.375515769935166 
+MXMIC	VB 9.399968503952575 
+1,008	CD 6.871609832345784 
+1,005	CD 7.564757012905729 
+HEDIPW	VB 9.399968503952575 
+JENWTIW	NN 9.375515769935166 
+MQDF	NN 10.068662950495112 NNT 8.948715833843691 
+LXSWK	VB 8.013674142832684 
+TLWFIM	NN 10.068662950495112 
+LXSWM	VB 9.399968503952575 
+HJBETW	NN 10.068662950495112 
+CBEWNIIM	JJ 8.881558488638976 
+XZRTI	VB 8.70682132339263 
+MTLHMIM	JJ 8.881558488638976 
+TQPID	VB 9.399968503952575 
+IDWE	VB 8.301356215284466 NN 9.375515769935166 JJ 8.881558488638976 
+RIINWLDS	NNP 8.797246236703527 
+MWJLT	VB 8.70682132339263 
+FWABIM	VB 9.399968503952575 
+NWDEH	VB 9.399968503952575 
+MWJLW	NNP 8.104099056143582 
+QHL	NN 6.6346757460099655 NNT 7.1569563646156364 
+DWKN	NN 10.068662950495112 NNT 8.255568653283746 
+BWJLH	VB 8.301356215284466 
+IEMWD	VB 8.70682132339263 
+HIDRDR	VB 8.70682132339263 
+NPGFWT	VB 9.399968503952575 
+KRJISI	NNT 8.255568653283746 
+LMSWR	VB 7.4540583548972625 
+MTABL	VB 9.399968503952575 
+QHW	VB 9.399968503952575 
+PRJIM	NN 8.459225038061012 
+BLJMN	NNP 8.797246236703527 
+TWPRWT	NN 10.068662950495112 
+NQIFTI	JJ 8.881558488638976 
+PWELWT	VB 8.301356215284466 
+LHDIX	VB 8.70682132339263 
+QIC	NNT 8.948715833843691 NN 8.970050661827003 
+BWJLW	VB 9.399968503952575 
+NABQIM	VB 9.399968503952575 
+AWPRH	NN 10.068662950495112 
+BQEH	NN 8.682368589375221 NNP 8.797246236703527 
+ZWHR	NNP 7.005486767475472 NN 10.068662950495112 
+LHIKFL	VB 8.70682132339263 
+QII	NNP 8.797246236703527 
+MQCT	NN 8.459225038061012 
+HSMQTI	VB 9.399968503952575 
+LIGLI	JJ 8.881558488638976 
+QIQ	NNP 8.797246236703527 
+BSISIIM	JJ 8.881558488638976 
+QIR	NN 10.068662950495112 
+PRJIW	NN 10.068662950495112 
+PRJIT	JJ 6.483663215840606 
+HNDLZLC	NNP 8.797246236703527 
+MFAIWT	NN 10.068662950495112 
+BQFT	NNT 8.255568653283746 
+GRINFJIIN	NNP 8.104099056143582 
+BQFR	IN 9.74665828850311 
+LNCL	VB 7.608209034724521 
+QJE	NNT 8.255568653283746 NN 8.970050661827003 
+DWMH	VB 7.7905305915184755 JJ 6.108969766399195 
+ZWKR	VB 7.7905305915184755 
+BQFH	NN 7.989221408815276 
+MXMMT	VB 9.399968503952575 
+1.6.90	CD 7.564757012905729 
+QJL	NN 10.068662950495112 
+MKLLWT	NN 7.871438373158893 
+ZWLH	JJ 8.881558488638976 NNP 8.797246236703527 
+GDWFH	JJ 8.881558488638976 
+QJN	JJ 5.885826215084985 
+LNCX	VB 7.608209034724521 
+MQFR	VB 8.70682132339263 
+RIINALDW	NNP 8.797246236703527 
+FIIKWT	NN 10.068662950495112 VB 9.399968503952575 
+AWPUA	NNP 7.698633948035417 
+MKWNITW	NN 8.970050661827003 
+TDWN	VB 8.70682132339263 
+ICJMCM	VB 9.399968503952575 
+SPRWTI	JJ 7.089799019410921 
+IDXH	VB 9.399968503952575 
+MQBLIM	VB 7.202743926616356 
+KRJISW	NN 10.068662950495112 
+FWMEIM	VB 8.70682132339263 
+PJRIWJIM	NN 9.375515769935166 
+ZWJR	JJ 8.188411308079031 
+ZWKH	VB 7.202743926616356 
+FXITWT	NN 8.970050661827003 
+LBSWP	MOD 7.518064181233078 RB 5.989587787095122 
+DWLR	NN 5.974318388273011 
+NTIB	NNT 8.948715833843691 
+BXINWT	NN 8.682368589375221 NNT 8.255568653283746 
+EZRA	NNP 8.797246236703527 
+QLE	VB 7.002073231154205 
+EZRH	NN 8.682368589375221 
+MCPWT	VB 9.399968503952575 
+QLH	JJ 7.089799019410921 
+LNER	VB 9.399968503952575 
+QLJ	VB 8.301356215284466 
+ECWMIM	JJ 8.188411308079031 
+MTAHB	VB 8.70682132339263 
+EZRN	NNP 8.104099056143582 
+QLN	NNP 7.698633948035417 
+QLP	NNT 8.948715833843691 
+HBJXH	NN 8.459225038061012 
+EZRT	NNT 6.309658504228433 
+ISWDI	JJ 8.188411308079031 
+HBJXT	NNT 8.948715833843691 VB 9.399968503952575 
+ISWDH	NN 10.068662950495112 
+ZWNH	NN 9.375515769935166 
+MQGI	NNP 8.797246236703527 
+NWRWWGI	JJ 8.881558488638976 
+AWPNH	NN 10.068662950495112 
+MTQBLT	VB 9.399968503952575 
+QMH	VB 8.013674142832684 
+ANFI	NNT 5.056895535733065 
+ZWLT	NN 9.375515769935166 IN 9.74665828850311 
+DWNM	NN 8.459225038061012 
+MDINTIIM	JJ 8.881558488638976 
+ZWMN	VB 8.70682132339263 
+QMP	NNP 8.104099056143582 
+96.4	CD 7.564757012905729 
+IHWDH	NNP 6.3123395869155265 
+QMW	VB 8.70682132339263 
+IHWDI	NNT 7.850103545175582 NN 8.122752801439798 JJ 5.4803611069768206 
+MERBIWT	JJ 7.495264127519086 
+ALPRD	NNP 7.698633948035417 
+NTMK	VB 9.399968503952575 
+QNH	NN 9.375515769935166 
+QNJ	NNP 8.797246236703527 
+LNGX	VB 9.399968503952575 
+FRIRNIM	NN 10.068662950495112 
+DWQR	NN 8.122752801439798 
+ZWPR	NNP 8.797246236703527 
+QNS	NN 8.682368589375221 
+LQWXWTIW	NN 10.068662950495112 
+QNW	VB 8.301356215284466 
+AWPPT	VB 8.70682132339263 
+HPTET	NNT 8.948715833843691 
+ISWDW	NN 10.068662950495112 
+DWPI	NN 10.068662950495112 
+ZWNX	VB 9.399968503952575 
+MQIP	JJ 8.881558488638976 
+QISRWT	NN 10.068662950495112 
+GIDWP	NN 9.375515769935166 
+IHWFE	NNP 7.187808324269427 
+HPTEH	NN 9.375515769935166 
+NPGFTI	VB 8.70682132339263 
+DWPQ	NN 10.068662950495112 NNT 8.948715833843691 
+NTLW	VB 9.399968503952575 
+MKWNIWT	NN 8.122752801439798 
+LHTMWDD	VB 7.32052696227274 
+KAWBH	JJ 8.881558488638976 
+NWDET	JJ 8.188411308079031 
+LNSBWRI	NNP 8.797246236703527 
+GIDWL	NN 8.682368589375221 NNT 8.948715833843691 
+AIRWNI	JJ 8.881558488638976 
+QPC	VB 9.399968503952575 
+IIZKR	VB 8.70682132339263 
+MWCDQWT	JJ 8.881558488638976 
+QPH	NNP 8.797246236703527 NN 8.122752801439798 
+ZWRM	VB 9.399968503952575 
+MEWBD	VB 9.399968503952575 
+GDWLH	NN 9.375515769935166 JJ 5.70350465829103 
+MTMXIM	NN 9.375515769935166 VB 9.399968503952575 
+ETWIIN	NN 10.068662950495112 
+MEWDD	JJ 8.881558488638976 
+NTNH	VB 8.013674142832684 
+LNHL	VB 7.32052696227274 
+NIGWSIM	NN 10.068662950495112 
+DWRF	VB 7.608209034724521 
+MXMWD	NNP 7.4109518755836366 
+DWRI	NN 10.068662950495112 NNP 8.104099056143582 
+NTNW	VB 7.202743926616356 
+TXZITW	NN 10.068662950495112 
+001	CD 4.999807655444192 
+AINJRS	NN 9.375515769935166 
+ANJI	MOD 5.033157531445077 
+002	CD 6.871609832345784 
+TLMIDI	NNT 7.002805684788378 
+003	CD 6.178462651785838 
+004	CD 5.955319100471629 
+AWPIW	NN 8.459225038061012 
+005	CD 7.564757012905729 
+006	CD 6.871609832345784 
+007	CD 7.564757012905729 
+008	CD 7.564757012905729 
+MQLE	NN 8.682368589375221 
+QWMNDW	NNT 8.948715833843691 NN 10.068662950495112 
+AWJWBIWGRPIH	NN 10.068662950495112 
+GANDI	NNP 7.4109518755836366 
+AWPIR	NNP 8.797246236703527 
+QRB	NN 10.068662950495112 NNT 7.002805684788378 
+QRA	VB 7.002073231154205 
+AWQJBIW	NNP 8.104099056143582 
+QRE	NN 9.375515769935166 
+NTQL	VB 8.70682132339263 
+QRH	VB 7.608209034724521 
+IBDWQ	VB 8.70682132339263 
+PAFISJIT	JJ 8.881558488638976 
+MQRQEIM	NN 9.375515769935166 
+QRI	RB 8.069029328774958 
+AWJWBIWGRPIT	JJ 8.881558488638976 
+QRN	NNT 6.240665632741481 NN 6.6346757460099655 
+QRP	NNP 8.104099056143582 
+LHMXIF	VB 9.399968503952575 
+LMHDRIN	MOD 6.824917000673133 
+011	CD 7.564757012905729 
+012	CD 6.466144724237619 
+013	CD 7.564757012905729 
+DWUX	NN 8.276903481267057 NNT 7.850103545175582 
+HFTIIKW	VB 9.399968503952575 
+HTREMTI	VB 9.399968503952575 
+MFDRWT	VB 9.399968503952575 
+PAFISJIM	NN 9.375515769935166 
+MWCHRT	VB 9.399968503952575 
+IWFLMW	VB 9.399968503952575 
+FALWTIHM	NN 10.068662950495112 
+ZWRX	VB 9.399968503952575 
+QSM	NN 10.068662950495112 
+QSL	NNP 8.797246236703527 
+SWGIW	NN 10.068662950495112 
+MLKWTIT	JJ 8.881558488638976 
+021	CD 6.178462651785838 
+022	CD 7.564757012905729 
+HTWWDEH	VB 9.399968503952575 
+FMRNIM	NN 8.682368589375221 JJ 8.881558488638976 
+HPTIE	VB 8.70682132339263 
+027	CD 7.564757012905729 
+ABIDWT	NN 10.068662950495112 
+FMRNIT	JJ 6.80211694695914 
+SWGIH	NN 10.068662950495112 
+MTAIM	JJ 7.495264127519086 VB 8.70682132339263 
+MQNH	VB 8.301356215284466 
+HTLHBW	VB 9.399968503952575 
+SWGIM	NN 8.970050661827003 
+NTQE	VB 9.399968503952575 
+IEDH	NN 10.068662950495112 
+IEDI	NNT 7.562421472723801 
+7001	CD 7.564757012905729 
+JIPWLIM	NN 10.068662950495112 
+DWWI	NN 10.068662950495112 
+LWQAL	NN 10.068662950495112 
+031	CD 7.564757012905729 
+032	CD 7.564757012905729 
+SBAI	JJ 8.881558488638976 
+035	CD 7.564757012905729 
+FIIKIM	JJ 8.188411308079031 
+036	CD 7.564757012905729 
+AWTIWT	NNT 8.948715833843691 NN 10.068662950495112 
+DWWX	VB 8.70682132339263 
+MJWRPT	JJ 8.881558488638976 
+TWLFWT	VB 9.399968503952575 
+HWLIWWD	NNP 7.4109518755836366 
+KWWIT	NNP 8.797246236703527 
+JIPWLIT	JJ 8.881558488638976 
+BQRB	IN 6.974069566263328 
+QUG	NN 7.871438373158893 NNT 8.255568653283746 
+QUM	NN 7.989221408815276 
+BNBNIFTI	NNP 8.797246236703527 
+QUQ	NN 10.068662950495112 
+NWJFIM	VB 9.399968503952575 
+LHBXIN	VB 8.301356215284466 
+045	CD 7.564757012905729 
+MWJXT	VB 9.399968503952575 
+MEWGL	JJ 8.881558488638976 
+QWBNIT	JJ 8.881558488638976 
+IIEWDIIM	JJ 7.495264127519086 
+NCJWW	VB 8.301356215284466 
+FXWRI	NNT 8.948715833843691 
+MQRR	JJ 8.881558488638976 
+SIPWRIW	NN 8.459225038061012 
+AWPIH	NN 8.682368589375221 
+NISIWNWTIW	NN 10.068662950495112 
+AIRWEI	NNT 7.339277921409591 
+PQWDWT	NN 8.682368589375221 NNT 8.948715833843691 
+PIPUA	NNP 8.797246236703527 
+051	CD 5.955319100471629 
+052	CD 6.871609832345784 
+053	CD 6.871609832345784 
+IEFW	VB 9.399968503952575 
+AMSLM	NNP 8.797246236703527 
+057	CD 6.871609832345784 
+NISIWNWTIH	NN 10.068662950495112 
+TEFH	VB 9.399968503952575 
+IFQIE	VB 9.399968503952575 
+TEMID	VB 9.399968503952575 
+XQRW	VB 9.399968503952575 
+MWJWT	NNT 8.948715833843691 
+MFKNTAWT	NN 10.068662950495112 
+BQRH	NN 8.122752801439798 
+MQSM	NNT 8.948715833843691 
+MIAMI	NNP 8.797246236703527 
+ALPIM	CD 5.618846863850416 
+QWD	NN 10.068662950495112 
+PWXDIM	VB 8.70682132339263 
+DWXH	VB 9.399968503952575 
+FWTPT	NN 10.068662950495112 
+AWRCQI	NNP 8.797246236703527 
+QWL	NN 7.871438373158893 NNT 8.948715833843691 
+FWTPW	NN 10.068662950495112 
+MEDIPIM	VB 7.7905305915184755 
+QWQ	NNP 8.104099056143582 
+061	CD 6.871609832345784 
+QWR	NN 9.375515769935166 
+9691	CD 6.871609832345784 
+RWMMH	NNP 8.104099056143582 
+067	CD 6.871609832345784 
+MTAMC	VB 9.399968503952575 
+MQRA	NNT 7.850103545175582 
+FWTQH	VB 9.399968503952575 
+IEFH	VB 8.70682132339263 
+MQRH	NNT 8.948715833843691 NN 6.736458440319908 
+MQRI	NNT 7.1569563646156364 
+MRWAIINIM	NN 10.068662950495112 
+AINJLIGNJIT	JJ 8.881558488638976 
+GZIRWT	NNT 8.948715833843691 
+TEMWD	VB 8.013674142832684 
+APFRWTH	NN 10.068662950495112 
+LNWKX	IN 7.348763015704739 
+GWNIM	NN 8.276903481267057 
+IEID	VB 8.70682132339263 
+IWPIEW	VB 8.70682132339263 
+MQUM	NN 8.459225038061012 
+MEWJR	JJ 8.881558488638976 
+IEIL	JJ 8.188411308079031 
+QBWEH	JJ 8.881558488638976 
+HBDL	NN 8.122752801439798 NNT 8.948715833843691 
+ATNIWT	JJ 8.881558488638976 
+HBDN	NNP 8.797246236703527 
+MEWLH	JJ 7.495264127519086 
+MDRFIM	NN 10.068662950495112 
+081	CD 6.871609832345784 
+MGDLIM	NN 10.068662950495112 
+KWWNH	NN 7.670767677696742 
+TWPSIM	VB 9.399968503952575 
+085	CD 7.564757012905729 
+PNLWPH	NNP 8.797246236703527 
+MDHIMH	NN 10.068662950495112 JJ 7.7829461999708665 
+KWWNT	NNT 7.562421472723801 NN 10.068662950495112 
+NTWN	VB 7.608209034724521 NN 9.375515769935166 
+LNQH	NNP 8.797246236703527 
+SWCIALISJI	JJ 8.881558488638976 
+SIPWRIM	NN 8.682368589375221 
+LNSX	VB 9.399968503952575 
+NFTDL	VB 9.399968503952575 
+HFPEWT	NN 8.459225038061012 
+HETQT	NNT 8.948715833843691 
+NABQWT	VB 9.399968503952575 
+TQPWT	JJ 8.881558488638976 
+IDIDIW	NN 8.970050661827003 
+PWRSMH	VB 8.70682132339263 
+HETQH	NN 10.068662950495112 
+ISWRW	VB 9.399968503952575 
+SNIGWR	NN 9.375515769935166 
+MQWR	NNT 8.255568653283746 NN 8.122752801439798 
+LNTQ	VB 9.399968503952575 
+MQWM	NNT 7.1569563646156364 NN 5.649822342698514 
+SWGRT	NNT 8.948715833843691 
+CBEWNIWT	NN 10.068662950495112 JJ 8.881558488638976 
+SWGRI	NNT 8.948715833843691 
+FTILIM	NN 10.068662950495112 
+AMRWTIHM	NN 10.068662950495112 
+SEWDIIM	JJ 8.188411308079031 
+IDIDIH	NN 10.068662950495112 
+IDIDIM	NN 10.068662950495112 
+BXRIIN	NNP 8.797246236703527 
+FXWXH	JJ 8.881558488638976 
+HQPDTW	NN 10.068662950495112 
+IFQLW	VB 9.399968503952575 
+KLWMR	MOD 5.572154032177765 RB 5.871804751438739 
+IENIQ	VB 9.399968503952575 
+FIIQH	NNP 8.797246236703527 
+HBIS	VB 9.399968503952575 
+TELH	VB 8.70682132339263 
+MAWFPZ	VB 9.399968503952575 
+EMWSIM	VB 9.399968503952575 JJ 8.881558488638976 
+SBIB	IN 6.974069566263328 RB 8.069029328774958 
+AIFTW	NN 10.068662950495112 
+RWMUH	NNP 8.797246236703527 
+QWDFBIC	NNP 8.797246236703527 
+MTGEGEIM	VB 9.399968503952575 
+SBIR	JJ 7.495264127519086 VB 7.7905305915184755 
+MIAWS	NN 10.068662950495112 
+NZIRWT	NN 9.375515769935166 
+ANWF	NN 9.375515769935166 
+SMPDWRIH	NNP 8.797246236703527 
+LHFBIT	VB 8.70682132339263 
+AIFTI	NN 10.068662950495112 
+LNTX	VB 7.7905305915184755 
+QISRIH	NNP 8.797246236703527 
+HBIA	VB 7.4540583548972625 
+HBIE	VB 7.202743926616356 
+IIZWM	NNT 8.948715833843691 
+LCWRK	IN 9.74665828850311 
+NWJINGHAM	NNP 8.104099056143582 
+HBIJ	VB 9.399968503952575 
+IELH	VB 8.70682132339263 
+HWMNISJI	JJ 8.881558488638976 
+HBIN	VB 9.399968503952575 
+LNWX	VB 8.301356215284466 
+AXRAIWT	JJ 8.881558488638976 
+AIFWM	NN 7.360612749392902 
+QBWCT	NNT 6.463809184055691 
+MAWFRT	JJ 8.881558488638976 
+PRANCSQH	NNP 7.187808324269427 
+MERBIIM	JJ 7.7829461999708665 
+IENW	VB 9.399968503952575 
+LWEGIM	VB 9.399968503952575 
+AIWDIH	NNP 8.797246236703527 
+LRAWT	VB 6.915061854164575 
+ADWARD	NNP 8.797246236703527 
+HXLPTW	NN 8.970050661827003 
+AIFWR	NN 8.682368589375221 NNT 6.869274292163856 
+IHWWH	AUX 6.327936783729195 
+FIINR	NNP 8.104099056143582 
+TMWNWTIW	NN 10.068662950495112 
+MEWLM	RB 5.671134055976587 MOD 6.419451892564968 
+MINIAPWLIS	NNP 7.005486767475472 
+QBWCH	NN 6.405101304365465 
+GBWHIM	JJ 7.272120576204876 
+HFTRBB	VB 9.399968503952575 
+LLQIN	NNP 6.600021659367308 
+GLWMWT	VB 9.399968503952575 
+HFPETW	NN 9.375515769935166 
+QIJWB	NN 9.375515769935166 
+LNWD	VB 9.399968503952575 
+PAZIH	NNP 8.797246236703527 
+HFPETM	NN 10.068662950495112 
+RDWAN	NNP 8.797246236703527 
+AWWRWR	NN 10.068662950495112 
+IENH	NN 10.068662950495112 
+MWESQIM	JJ 8.881558488638976 VB 9.399968503952575 
+TQCIBIM	NN 7.989221408815276 
+RAF	NNP 8.104099056143582 NN 7.583756300707112 NNT 4.554266679171253 
+RAH	VB 6.915061854164575 
+MWCIAH	VB 8.70682132339263 
+HFPETH	NN 10.068662950495112 
+TQCIBIT	JJ 7.495264127519086 
+QBWEIM	JJ 8.881558488638976 
+QWRET	VB 9.399968503952575 
+RAW	VB 7.09738341095853 
+PNSIIT	NNT 8.948715833843691 
+16.30	CD 7.564757012905729 
+IEQB	NNP 5.906874478807363 
+CLIINIM	NN 10.068662950495112 
+RBE	NN 9.375515769935166 NNT 8.255568653283746 
+MFDRIM	NN 10.068662950495112 VB 9.399968503952575 
+HBNH	NN 8.276903481267057 
+IDIIM	NN 9.375515769935166 
+RBI	JJT 4.564348191467836 NN 8.970050661827003 
+RBH	JJ 5.3262104271495625 
+AKZBWT	NN 10.068662950495112 
+MFXQW	NN 8.970050661827003 
+SGIRTM	NN 10.068662950495112 
+PSIKWMJRIWT	JJ 8.881558488638976 
+IIXWD	NN 10.068662950495112 
+RBT	JJT 3.4657359027997265 
+BWKWM	NNP 8.797246236703527 
+RBW	NN 9.375515769935166 
+MAIDK	RB 8.069029328774958 
+HWFGH	VB 8.70682132339263 
+QLCQIN	NNP 8.104099056143582 
+EIQWL	NN 9.375515769935166 
+MFMEWTIT	JJ 8.188411308079031 
+IIXWS	NN 10.068662950495112 
+RCH	VB 7.608209034724521 
+IDIHM	NN 8.459225038061012 
+HLWWIH	NN 8.682368589375221 
+SBLN	NN 10.068662950495112 
+HMIJH	VB 9.399968503952575 
+KTLIW	NN 10.068662950495112 
+EIRWNIT	JJ 7.089799019410921 
+SBLW	VB 8.70682132339263 
+TTXIL	VB 9.399968503952575 
+FWRWT	NNT 8.255568653283746 NN 10.068662950495112 
+IMCAW	VB 9.399968503952575 
+HERTI	VB 9.399968503952575 
+AWJWQRJ	NN 10.068662950495112 
+16.11	CD 7.564757012905729 
+HAFIM	VB 7.7905305915184755 
+QRBWT	NN 8.970050661827003 
+RCX	VB 8.70682132339263 NN 6.542302425878951 NNT 6.869274292163856 
+RCW	VB 7.7905305915184755 
+FRIRWTIWT	NN 10.068662950495112 
+BWHQIM	JJ 8.881558488638976 
+PJRIQ	NNP 7.187808324269427 
+MLIAH	NN 10.068662950495112 
+PRQLIJ	NN 9.375515769935166 NNT 7.850103545175582 
+MXLCT	VB 9.399968503952575 
+RDI	NNP 8.797246236703527 
+MIWXLT	JJ 8.881558488638976 
+HWFGW	VB 9.399968503952575 
+PWTXIM	VB 9.399968503952575 
+MEBRIM	NN 9.375515769935166 
+MLIAT	NNT 7.339277921409591 
+RDP	VB 9.399968503952575 
+HBNT	NNT 8.255568653283746 
+FIKNE	VB 8.301356215284466 
+MDRKH	NN 9.375515769935166 
+MFXQI	NNT 6.17612711160391 
+BRAF	RB 8.069029328774958 
+LHTENIIN	VB 9.399968503952575 
+BRAD	NNP 8.104099056143582 
+SPRDI	NN 10.068662950495112 
+REB	NN 9.375515769935166 
+PIINSWD	NNP 8.797246236703527 
+REF	NN 10.068662950495112 NNT 8.948715833843691 
+REH	JJ 8.881558488638976 NN 8.682368589375221 
+MSIRWT	VB 9.399968503952575 NNT 8.948715833843691 NN 10.068662950495112 
+DWBRIM	NN 9.375515769935166 
+MWFQEWT	VB 9.399968503952575 
+REL	NN 10.068662950495112 
+QWRAT	NN 10.068662950495112 
+MXLIM	VB 9.399968503952575 
+HQPDTI	VB 9.399968503952575 
+HERWT	NNT 8.948715833843691 
+ABRNATI	NNP 8.797246236703527 
+QWRAN	NNP 7.698633948035417 NN 10.068662950495112 
+MRBI	JJ 7.495264127519086 
+MRBK	NNP 8.797246236703527 
+BRBF	NNP 8.797246236703527 
+HBINW	VB 8.70682132339263 
+ANDRII	NNP 8.104099056143582 
+IEQWBI	NNP 7.187808324269427 
+MXLIP	VB 8.013674142832684 JJ 8.881558488638976 
+MRBH	VB 8.70682132339263 DT 5.567071429114299 
+HTELLWT	NN 8.682368589375221 
+FTIQH	NN 8.970050661827003 
+RFM	VB 8.301356215284466 
+PWRJRJIM	NN 10.068662950495112 
+HBINH	VB 8.70682132339263 
+TZMWRT	NNT 7.850103545175582 
+RFP	NNP 8.797246236703527 
+MIJRAN	NNP 8.797246236703527 
+IDIDWT	NN 10.068662950495112 
+RFT	NN 7.871438373158893 NNT 7.1569563646156364 
+QWRBN	NNT 7.562421472723801 NN 8.970050661827003 
+MRAH	VB 8.70682132339263 NN 8.970050661827003 
+MRAF	RB 5.871804751438739 MOD 5.908626268798978 
+RGF	NN 7.503713593033575 NNT 8.255568653283746 
+QHILIIH	NN 10.068662950495112 
+RGE	NN 7.583756300707112 NNT 8.255568653283746 
+SPWRJIBI	JJ 8.881558488638976 
+RGL	NN 9.375515769935166 NNT 8.948715833843691 
+BWDDWT	JJ 8.881558488638976 
+JHWR	JJ 8.881558488638976 
+DRKIHM	NN 9.375515769935166 
+PLPLIM	NN 10.068662950495112 
+HWFLM	VB 9.399968503952575 
+HWFLK	VB 8.70682132339263 
+EIQRI	NNT 8.948715833843691 JJ 6.935648339583663 
+NSXRW	VB 9.399968503952575 
+IEWD	NN 10.068662950495112 
+TQNWT	NN 9.375515769935166 
+RHB	NNP 8.104099056143582 
+TQNWN	NN 9.375515769935166 NNT 8.255568653283746 
+EIQRH	NN 10.068662950495112 
+QJINIM	NN 8.122752801439798 
+ARBLI	NNP 7.4109518755836366 
+MRDP	NN 9.375515769935166 
+XRDI	JJ 8.881558488638976 
+XRDH	NN 8.970050661827003 
+SWERT	JJ 8.881558488638976 
+MWZLIM	JJ 8.881558488638976 
+MQWMWNIM	NN 10.068662950495112 
+EIQRW	NN 8.970050661827003 
+ASTJIIM	JJ 8.881558488638976 
+JPFIM	JJ 8.881558488638976 
+HAFMH	NN 10.068662950495112 
+HIFWWH	VB 8.301356215284466 
+QRBTM	NN 10.068662950495112 
+MBLIM	VB 9.399968503952575 
+IGRWR	VB 8.70682132339263 
+HWFMJ	VB 9.399968503952575 
+RID	NNP 8.797246236703527 
+IGRWM	VB 9.399968503952575 
+ZINWQI	NNT 8.948715833843691 
+MRCH	VB 9.399968503952575 NN 10.068662950495112 
+SBRW	VB 9.399968503952575 
+LDXWT	VB 8.013674142832684 
+RII	NNP 8.797246236703527 
+IDINW	NN 10.068662950495112 
+LDXWQ	VB 9.399968503952575 
+MAMINH	VB 9.399968503952575 
+KDWRIHM	NN 10.068662950495112 
+DRQSL	NNP 7.698633948035417 
+RIQ	JJ 8.188411308079031 
+BIBIM	NN 10.068662950495112 
+RIX	NN 9.375515769935166 
+PRIFH	NN 9.375515769935166 
+PGIFT	NNT 8.948715833843691 
+MRFM	NN 10.068662950495112 
+GALWP	NNP 8.797246236703527 
+SBIBH	NN 6.9776204971367966 
+ERKIM	NN 10.068662950495112 
+RJJ	NN 10.068662950495112 
+MIWXSWT	VB 8.70682132339263 
+PRIFT	NNT 8.948715833843691 
+ARBET	CDT 4.151039905898646 
+MWXFIT	JJ 7.495264127519086 
+MKTBIM	NN 8.682368589375221 
+HWFMW	VB 9.399968503952575 
+EBWTWT	NN 10.068662950495112 
+SBTI	NN 10.068662950495112 
+RKB	NN 8.682368589375221 
+SPRJQ	NNP 8.797246236703527 
+RKF	NNT 8.948715833843691 VB 8.301356215284466 NN 9.375515769935166 
+ARBEH	CDT 5.942799375126701 CD 4.306660474884247 
+RKH	JJ 8.188411308079031 
+HBISH	VB 9.399968503952575 
+DIWWX	NN 8.122752801439798 VB 7.7905305915184755 
+LBRWX	VB 9.399968503952575 
+SPRIW	NN 8.276903481267057 
+NXFDH	VB 9.399968503952575 
+ZIIDNBRG	NNP 8.797246236703527 
+JIRWP	NN 8.970050661827003 
+NXFDW	VB 9.399968503952575 
+HLWWAH	NN 8.970050661827003 
+RKZ	NN 9.375515769935166 NNT 8.948715833843691 
+SBWN	NN 10.068662950495112 
+MAIIM	VB 8.301356215284466 
+XRGW	VB 8.70682132339263 
+XFWPWT	VB 9.399968503952575 
+IWWNIWT	NN 10.068662950495112 
+HTBJLH	VB 9.399968503952575 
+SBWR	VB 7.202743926616356 
+FMWRT	NNT 8.948715833843691 
+NCIGW	NN 9.375515769935166 
+RKIFH	NN 8.682368589375221 
+KLBW	NNP 8.797246236703527 
+HBITH	RB 6.459591416340857 
+DMWIWT	NN 7.670767677696742 
+RKIFT	NNT 6.869274292163856 
+FMWRH	NN 10.068662950495112 
+MRIC	VB 9.399968503952575 
+NFRQH	VB 9.399968503952575 
+MIWXDT	JJ 6.5789733956449306 
+MRGF	VB 9.399968503952575 
+BRIT	NN 7.024140512771689 NNT 6.17612711160391 
+PRIIM	NNP 8.797246236703527 
+MMLKH	NN 8.970050661827003 
+RMH	NN 7.296074228255331 
+QWRPW	NNP 8.104099056143582 
+NAMRIM	VB 8.013674142832684 
+QWLJIM	VB 8.301356215284466 
+HPNIITM	NN 9.375515769935166 
+RMJ	NNP 8.797246236703527 
+RMI	NNP 8.797246236703527 
+HTLWCCW	VB 9.399968503952575 
+RMN	NNP 7.698633948035417 
+MMLKT	NNT 7.850103545175582 
+PWRJSMWT	NNP 8.797246236703527 
+PWMBIT	JJ 7.089799019410921 
+HCLXH	NN 7.178291192598947 
+RMT	NNT 5.393367772354278 
+CWEDT	VB 8.70682132339263 
+NXFBT	VB 8.301356215284466 
+HCLXT	NNT 7.850103545175582 
+NCIGI	NNT 5.770662003495746 
+NFRPH	VB 9.399968503952575 
+RMZ	NN 8.682368589375221 
+NCIGH	NN 10.068662950495112 
+QICWNIIM	JJ 7.089799019410921 NN 10.068662950495112 
+MXLQT	NNT 6.869274292163856 
+MKFLH	NN 10.068662950495112 
+XRIP	JJ 8.881558488638976 
+PNIITNW	NN 10.068662950495112 
+BIZARIT	JJ 7.495264127519086 
+XRJH	NN 9.375515769935166 
+MXRWZWT	NNT 8.948715833843691 
+MZRXI	NNP 7.187808324269427 JJ 8.188411308079031 
+PWRJWGL	NNP 8.104099056143582 
+NITWXI	NNT 8.255568653283746 
+HFTKNEH	VB 9.399968503952575 
+PLILIWT	JJ 8.881558488638976 
+MRIM	VB 9.399968503952575 JJ 8.188411308079031 NNP 7.698633948035417 
+XZQWT	JJ 8.881558488638976 
+MRIN	NNP 6.23229687924199 
+FXQNIWT	NN 10.068662950495112 
+LHWSIP	VB 8.013674142832684 
+XRIG	JJ 8.881558488638976 NN 9.375515769935166 
+BRKH	NNP 8.797246236703527 NN 8.970050661827003 
+1.1	CD 6.871609832345784 
+PRICT	NNT 8.255568653283746 
+1.2	CD 6.871609832345784 
+1.3	CD 6.871609832345784 
+1.4	CD 6.466144724237619 
+MRIW	NNP 8.797246236703527 
+1.6	CD 7.564757012905729 
+XRIF	NNP 8.797246236703527 
+MXLQH	NN 8.276903481267057 
+QBWEWT	JJ 8.881558488638976 
+MIICGIM	VB 8.013674142832684 
+LXRWJ	VB 9.399968503952575 
+LJINW	JJ 7.495264127519086 
+PRIDH	NN 9.375515769935166 
+HTMSRWT	NN 10.068662950495112 
+FMWNT	CDT 5.942799375126701 
+RPI	NNP 8.797246236703527 
+MPGIFIM	VB 9.399968503952575 
+SPRIM	NN 7.503713593033575 
+LXRWG	VB 9.399968503952575 
+FMWNH	CD 4.999807655444192 CDT 5.942799375126701 
+EWZRW	NN 10.068662950495112 
+PGIEH	NN 7.1242239713286715 
+LMRWT	IN 6.1631393500469995 
+HTAGDW	VB 9.399968503952575 
+EWZRT	NNT 8.948715833843691 NN 10.068662950495112 
+LHCIT	VB 8.70682132339263 
+JKNWLWGI	JJ 8.881558488638976 
+RQE	NN 7.583756300707112 NNT 6.550820561045321 
+MAIIMWT	JJ 8.881558488638976 
+JIBH	NN 9.375515769935166 
+JIBM	NN 10.068662950495112 
+PGIET	NNT 8.255568653283746 
+BRMN	NNP 8.104099056143582 
+RQM	VB 9.399968503952575 
+SRGLIM	NN 9.375515769935166 
+BWRMZI	JJ 8.188411308079031 
+MRKZ	NNT 5.142053344073371 NN 6.736458440319908 
+LHCIB	VB 9.399968503952575 
+MKFIR	NN 10.068662950495112 NNT 7.562421472723801 
+LHCIC	VB 9.399968503952575 
+100	CD 7.564757012905729 
+XRKI	NNT 8.948715833843691 
+101	CD 6.871609832345784 
+LHCIE	VB 9.399968503952575 
+LHCIG	VB 7.09738341095853 
+THPWKWT	NN 10.068662950495112 
+104	CD 7.564757012905729 
+JIBW	NNP 7.005486767475472 NN 10.068662950495112 
+LHCIL	VB 8.013674142832684 
+PGIFH	NN 8.122752801439798 
+HPSDW	NN 10.068662950495112 
+MGWBFT	JJ 7.7829461999708665 
+MFMIEIM	VB 9.399968503952575 
+HPSDI	NNT 7.850103545175582 
+QIIMW	VB 9.399968503952575 
+QIIMT	VB 9.399968503952575 JJ 6.396651838850976 
+IFBW	VB 8.70682132339263 
+110	CD 6.871609832345784 
+LKLWL	VB 9.399968503952575 
+111	CD 6.871609832345784 
+QIIMA	NN 10.068662950495112 
+HPSDH	NN 10.068662950495112 
+LKLWK	NN 9.375515769935166 
+TFBC	NNT 8.948715833843691 
+FINWIIM	NN 8.122752801439798 
+LKLWT	VB 9.399968503952575 
+BRNE	NNP 6.600021659367308 
+119	CD 7.564757012905729 
+BXINTW	NN 8.682368589375221 
+DXTH	VB 9.399968503952575 
+CRWRH	JJ 8.881558488638976 
+BXINTM	NN 10.068662950495112 
+120	CD 7.564757012905729 
+HTQFRWTW	NN 10.068662950495112 
+BXINTH	NN 9.375515769935166 
+126	CD 7.564757012905729 
+XMWFIM	JJ 8.881558488638976 
+ALQLS	NNP 8.797246236703527 
+QIINI	NNP 8.797246236703527 
+QWNCPCIH	NN 10.068662950495112 
+MLIQH	NNP 8.797246236703527 
+PNSIWT	NN 10.068662950495112 
+DXWP	JJ 8.188411308079031 
+MTPTXWT	JJ 8.188411308079031 
+131	CD 7.564757012905729 
+DXWS	JJ 8.881558488638976 
+TBWANH	VB 9.399968503952575 
+EIQFT	JJ 8.881558488638976 
+QWRWT	NNT 8.948715833843691 NN 8.682368589375221 
+XRPH	NN 10.068662950495112 
+CWPRIM	NN 10.068662950495112 
+MARXIM	NN 8.970050661827003 
+KLIH	NN 9.375515769935166 
+RUG	NNP 7.698633948035417 
+KLIM	NN 8.459225038061012 
+DIWMA	NNP 6.600021659367308 
+SBILH	JJ 8.881558488638976 
+KLIL	MOD 7.518064181233078 RB 6.970417040106848 
+FQRWQH	NNP 8.797246236703527 
+QCBAWT	NNT 7.850103545175582 NN 10.068662950495112 
+BRQW	NNP 8.797246236703527 
+KLIW	NN 10.068662950495112 
+BRQT	NNP 8.797246236703527 
+141	CD 7.564757012905729 
+MILIARDIM	CD 6.871609832345784 
+IICWRW	NN 10.068662950495112 
+NACIT	JJ 7.272120576204876 
+MRPA	NN 10.068662950495112 
+XDRIM	NN 8.459225038061012 
+SXIJT	NNT 8.948715833843691 
+149	CD 6.871609832345784 
+MXPIRH	JJ 8.881558488638976 
+NMFKW	VB 8.301356215284466 
+NACIM	NN 9.375515769935166 
+SPRTI	JJ 8.881558488638976 
+NMFKT	VB 9.399968503952575 
+KLLM	NN 9.375515769935166 
+JIIM	NNP 8.797246236703527 
+MLIWN	CD 7.564757012905729 
+HZDMNWT	NN 7.670767677696742 
+RWLJH	NN 10.068662950495112 
+HESIQ	VB 9.399968503952575 
+MCWINIM	JJ 8.188411308079031 
+JIIS	NN 10.068662950495112 
+150	CD 7.564757012905729 
+KLLW	VB 9.399968503952575 
+QISINGR	NNP 8.797246236703527 
+TTXTN	VB 9.399968503952575 
+AMWNTW	NN 9.375515769935166 
+MARXIW	NN 10.068662950495112 
+RWB	DT 3.199947814982682 NN 7.766077857501067 
+HCDH	RB 8.069029328774958 
+RWD	NNP 8.797246236703527 
+HCJWPPW	VB 9.399968503952575 
+MRSI	NNP 8.797246236703527 
+MJAPISIWT	JJ 8.881558488638976 
+HCMDH	NN 10.068662950495112 
+RWE	NN 10.068662950495112 NNT 8.948715833843691 
+RWI	NNP 8.797246236703527 
+MRQM	NN 10.068662950495112 
+NAKLIM	VB 9.399968503952575 
+TPAWRNIT	NN 10.068662950495112 
+IHLWMI	NNT 8.948715833843691 
+SRIQWT	NN 10.068662950495112 
+HCBT	NNT 8.255568653283746 
+RWQ	NNP 8.797246236703527 
+MWLIKIM	VB 8.70682132339263 
+RWT	NNP 8.797246236703527 
+BNQIM	NN 7.024140512771689 
+MWBXRWT	JJ 8.881558488638976 
+MILWWL	NNP 8.797246236703527 
+RWX	NN 7.360612749392902 NNT 7.850103545175582 
+DWBRWT	JJT 4.564348191467836 
+TFEH	CD 6.871609832345784 
+RWZ	NNP 8.797246236703527 
+NXFPT	VB 9.399968503952575 
+NXFPW	VB 8.70682132339263 
+WINICIW	NNP 8.797246236703527 
+HPSID	VB 8.013674142832684 
+WWNSDII	NNP 8.797246236703527 
+KLLI	JJ 6.483663215840606 NNT 7.1569563646156364 
+RXB	JJ 7.495264127519086 JJT 4.564348191467836 
+KLLH	VB 8.70682132339263 
+NXFPH	VB 8.70682132339263 
+AIIFWWARIH	NNP 8.797246236703527 
+MRTP	NNT 8.948715833843691 NN 10.068662950495112 
+RXL	NNP 8.797246236703527 
+TTXRH	VB 9.399968503952575 
+HCET	NNT 5.9529835602897005 
+BRLINAIT	JJ 8.881558488638976 
+GWMEH	NNP 8.797246236703527 
+MWNIWT	NN 10.068662950495112 
+HCMDT	NNT 8.948715833843691 
+TPIFWT	NN 10.068662950495112 
+MEWNWT	NNT 8.948715833843691 
+IFIF	JJ 8.881558488638976 NN 10.068662950495112 
+BSISIHM	NN 10.068662950495112 
+KTWBIM	JJ 8.881558488638976 VB 9.399968503952575 
+MRSR	NNP 7.698633948035417 
+HTBJAH	VB 9.399968503952575 
+XZWNWTIW	NN 10.068662950495112 
+AMWNTH	NN 10.068662950495112 
+HDPIS	VB 9.399968503952575 
+180	CD 7.564757012905729 
+LIFUJ	NN 8.459225038061012 
+AIMHWT	NN 10.068662950495112 
+FIJWT	NNT 8.948715833843691 NN 8.970050661827003 
+MXLWT	NN 8.970050661827003 
+IPANIIM	JJ 7.7829461999708665 
+HXJAH	NN 10.068662950495112 
+FIJWR	NN 10.068662950495112 
+HCEH	NN 6.849787125626912 
+PGIWN	NN 10.068662950495112 
+RZH	JJ 8.188411308079031 
+MBCEIT	JJ 7.7829461999708665 
+FBWEI	JJ 8.188411308079031 
+HCGT	NNT 8.255568653283746 
+IFPIE	VB 9.399968503952575 
+8491	CD 7.564757012905729 
+SMIRH	NNP 8.797246236703527 
+ANWKI	JJ 8.881558488638976 
+HAWWRD	NNP 8.797246236703527 
+PRIWN	NN 9.375515769935166 
+25,000	CD 7.564757012905729 
+MRWN	NNP 8.104099056143582 
+MRWM	NNP 8.797246236703527 NNT 8.948715833843691 
+SBIRH	JJ 8.188411308079031 
+KIFRWN	NN 10.068662950495112 
+ARNWLD	NNP 8.797246236703527 
+IEMDW	VB 9.399968503952575 
+NWCRI	JJ 7.495264127519086 
+NWCRH	VB 9.399968503952575 
+MKFWR	NN 10.068662950495112 
+IFIR	JJ 7.272120576204876 
+MWQSIN	NNP 8.797246236703527 
+NWCRW	VB 8.70682132339263 
+TFIM	VB 9.399968503952575 
+BRWR	JJ 5.6626826637707754 VB 9.399968503952575 
+AMWNIM	NN 8.970050661827003 
+RKIST	NNT 8.948715833843691 
+BRWN	NN 10.068662950495112 
+KLPI	IN 6.655615835144793 
+BRWM	NN 10.068662950495112 
+BRWK	NNP 7.4109518755836366 JJ 8.881558488638976 
+TPIFTW	NN 10.068662950495112 
+HCGH	NN 8.682368589375221 
+MBCEIM	VB 8.70682132339263 NN 10.068662950495112 
+AWDISIAWS	NNP 8.797246236703527 
+HCIT	VB 9.399968503952575 
+ERIMWT	NNT 8.948715833843691 NN 10.068662950495112 
+IFLX	VB 9.399968503952575 
+PRIXT	NNT 8.948715833843691 
+KIMAI	NN 10.068662950495112 
+IFMF	VB 8.013674142832684 
+JIPH	NN 10.068662950495112 
+TMCIT	NNT 8.255568653283746 
+IFWBIM	NN 9.375515769935166 
+TFLX	VB 9.399968503952575 
+HCMID	VB 9.399968503952575 
+MKFWL	NN 10.068662950495112 
+QASBH	NN 9.375515769935166 
+RGFWTIHM	NN 9.375515769935166 
+BRXH	VB 9.399968503952575 
+XRWF	NNP 7.698633948035417 
+BRZI	NNT 8.948715833843691 
+FIJTI	JJ 7.7829461999708665 
+FMWAL	NNP 6.717804695023691 
+MRWT	NN 10.068662950495112 
+ARNWNH	NN 7.670767677696742 
+FIJTH	NN 10.068662950495112 
+LHFAIR	VB 8.301356215284466 
+MRXB	NNT 7.002805684788378 NN 10.068662950495112 
+7191	CD 7.564757012905729 
+XRWB	NN 10.068662950495112 
+XRWC	JJ 8.881558488638976 
+MFTWLLIM	VB 9.399968503952575 
+MRXC	NN 10.068662950495112 
+HCIB	VB 8.301356215284466 
+GREINIM	NN 10.068662950495112 
+HCIE	VB 7.32052696227274 
+XRWN	NNP 8.797246236703527 NNT 8.255568653283746 
+HCIG	VB 9.399968503952575 
+MRXP	VB 9.399968503952575 
+XRWM	NN 10.068662950495112 
+MRXQ	NNT 8.255568653283746 NN 9.375515769935166 
+IFLM	VB 8.301356215284466 
+HWGBL	VB 9.399968503952575 
+IFNW	VB 8.013674142832684 
+NWCWT	NN 10.068662950495112 
+SPRWT	NNT 8.255568653283746 NN 7.2354496064388965 
+XFWPIM	JJ 8.881558488638976 
+SMINR	NN 8.682368589375221 
+LHGDIR	VB 8.70682132339263 
+AIGWR	NNP 8.797246236703527 
+HESQT	NNT 8.948715833843691 
+HWSIPH	VB 8.301356215284466 
+PRISH	NN 10.068662950495112 
+TGRWM	VB 9.399968503952575 
+HCLH	NN 8.970050661827003 
+JIRN	NNP 8.104099056143582 
+AIGWD	NNT 7.850103545175582 NN 7.296074228255331 NNP 8.104099056143582 
+BRZL	NN 8.970050661827003 
+JIPS	VB 9.399968503952575 
+HWSIPW	VB 8.013674142832684 
+PRIST	NNT 8.255568653283746 
+JIPX	VB 9.399968503952575 
+HBJIX	VB 7.002073231154205 
+CWDQT	JJ 8.881558488638976 
+HPSQT	NNT 7.339277921409591 
+ANWFH	JJ 8.881558488638976 
+IFNH	VB 9.399968503952575 JJ 8.188411308079031 
+ANWFI	JJ 7.7829461999708665 
+HWKRZW	VB 9.399968503952575 
+HWGDR	VB 8.301356215284466 
+IFNM	VB 8.70682132339263 
+HPSQH	NN 9.375515769935166 
+SAM	NNP 8.797246236703527 
+MTRGFT	VB 9.399968503952575 
+TTXZH	VB 9.399968503952575 
+NIWQASL	NNP 8.797246236703527 
+JIST	NNT 8.948715833843691 
+HWGFH	VB 7.608209034724521 
+PLWRIDH	NNP 8.104099056143582 
+LAPFR	VB 6.6919183028503655 
+MIRWMIT	NNP 8.797246236703527 
+HXJIA	VB 8.70682132339263 
+QIISI	NNP 8.797246236703527 
+SBB	NNT 7.850103545175582 
+TFPR	VB 9.399968503952575 
+SBA	NN 7.871438373158893 NNP 8.797246236703527 
+AXIDIM	JJ 8.881558488638976 
+KLWM	NN 9.375515769935166 
+SIXRRH	VB 9.399968503952575 
+PRLMNJARIT	JJ 8.881558488638976 
+SBL	VB 8.301356215284466 NN 10.068662950495112 
+KLWT	NNT 7.562421472723801 
+SBK	NN 10.068662950495112 
+NFARIM	VB 8.70682132339263 
+JIRT	NNT 7.850103545175582 
+NXFWL	NNT 8.948715833843691 
+SBW	NN 10.068662950495112 
+SIKWNIM	NN 8.682368589375221 
+LHGDIL	VB 7.608209034724521 
+JISH	NN 8.682368589375221 
+QFIXWIWT	NN 9.375515769935166 
+HWGFW	VB 8.013674142832684 
+BWJWT	NN 10.068662950495112 NNT 8.948715833843691 
+QJLWG	NN 8.970050661827003 
+HTNQFWT	NN 8.682368589375221 
+PWELIM	VB 9.399968503952575 NN 7.296074228255331 
+HWKRXW	VB 9.399968503952575 
+XWIBW	VB 9.399968503952575 
+KWXWT	NN 6.602927047695386 NNT 5.729840008975491 
+LHTMQD	VB 8.70682132339263 
+MEWDDIM	VB 9.399968503952575 
+NERMW	VB 9.399968503952575 
+EFIRI	JJ 8.881558488638976 
+IBFIM	JJ 8.881558488638976 
+LCXWQ	VB 9.399968503952575 
+HKFIR	VB 9.399968503952575 
+MHGRIM	NN 8.682368589375221 
+HKFIL	VB 8.70682132339263 
+SDR	NN 7.583756300707112 NNT 6.751491256507472 
+LNXWT	VB 9.399968503952575 
+NAWTIM	JJ 8.881558488638976 
+TPWZIM	NN 10.068662950495112 
+MSLWLIM	NN 8.276903481267057 
+HXLPH	NN 10.068662950495112 
+IFRH	JJ 8.881558488638976 
+SED	NN 10.068662950495112 
+PTRWNWT	NN 8.970050661827003 NNT 8.255568653283746 
+LNXWL	VB 9.399968503952575 
+NCIGIHM	NN 10.068662950495112 
+NERMH	VB 9.399968503952575 
+XIIBIM	VB 7.7905305915184755 
+LHQDIM	VB 9.399968503952575 
+LHRGIE	VB 9.399968503952575 
+JIWX	NN 10.068662950495112 
+LIIEL	VB 9.399968503952575 
+IDIETW	NN 10.068662950495112 
+BWQEWT	VB 9.399968503952575 
+ECBNWT	NN 10.068662950495112 
+NERKW	VB 7.7905305915184755 
+PRWJQCIH	NN 9.375515769935166 
+IFUE	NNP 8.797246236703527 
+NERKT	VB 8.70682132339263 
+IFRWR	VB 8.70682132339263 
+IHWDIWT	JJ 7.495264127519086 
+MDRIDI	JJ 8.881558488638976 
+HXLPT	NNT 7.1569563646156364 
+PQIDI	NNT 7.002805684788378 
+AIZWFHI	DT 5.567071429114299 
+MNHIGIW	NN 9.375515769935166 
+MFWLBT	JJ 8.881558488638976 
+IWCEW	VB 9.399968503952575 
+IMFIK	VB 8.301356215284466 
+HKFLT	NNT 8.255568653283746 
+MFXRRIM	VB 9.399968503952575 
+NERKH	VB 7.608209034724521 
+MNHIGIH	NN 10.068662950495112 
+JIWL	NN 8.970050661827003 
+LIIFB	VB 8.70682132339263 
+SGL	NNP 7.187808324269427 NN 9.375515769935166 
+MNHIGIM	NN 7.871438373158893 
+SGN	NNT 5.581420003857217 NN 8.682368589375221 
+MSQNWT	NN 8.682368589375221 NNT 8.948715833843691 
+EFINW	VB 9.399968503952575 
+SGR	NN 10.068662950495112 VB 9.399968503952575 
+MDGIFH	VB 8.70682132339263 
+IWCIA	VB 9.399968503952575 
+MJBXIM	NN 8.682368589375221 
+HSKIMW	VB 8.301356215284466 
+IFWB	VB 8.013674142832684 NN 8.970050661827003 
+ILCIN	NNP 6.851336087648214 
+HCTH	NN 10.068662950495112 
+BKIRI	NNT 8.948715833843691 
+BKIRH	JJ 8.881558488638976 
+HSKIMH	VB 8.301356215284466 
+6,592	CD 7.564757012905729 
+SI.	NNP 8.797246236703527 
+MFPXWT	NNT 7.562421472723801 NN 7.583756300707112 
+SHR	NN 9.375515769935166 
+SWWINDWN	NNP 8.797246236703527 
+LHIMNE	VB 7.32052696227274 
+IIKNSW	VB 8.70682132339263 
+IFWW	VB 9.399968503952575 
+IQRWT	JJ 7.7829461999708665 
+MEWRRT	VB 8.70682132339263 
+FILMW	VB 8.70682132339263 
+LHFIA	VB 8.70682132339263 
+TBERH	NN 8.682368589375221 
+LHFIB	VB 7.32052696227274 
+SJ.	NNP 8.797246236703527 
+TFUT	NNP 8.797246236703527 
+ATIQH	NN 10.068662950495112 
+HWRFEW	VB 7.7905305915184755 
+LHFIG	VB 6.56675515989636 
+SIN	NNP 7.4109518755836366 
+HWQCBW	VB 9.399968503952575 
+SIP	NN 9.375515769935166 
+MFPXTW	NN 7.989221408815276 
+WRIACIH	NN 8.970050661827003 
+ICIRH	NN 8.459225038061012 
+MWSIQLIT	JJ 8.881558488638976 
+BICIM	NN 9.375515769935166 
+MWLJI	MOD 7.518064181233078 
+RAFWNWT	JJ 7.495264127519086 NN 8.682368589375221 
+CIBWRI	JJ 6.483663215840606 
+MNGNWN	NNT 8.948715833843691 NN 9.375515769935166 
+SJH	VB 9.399968503952575 
+ICIRT	NNT 7.339277921409591 
+JIPWSIT	JJ 8.881558488638976 
+LHIMLJ	VB 8.70682132339263 
+FHIIH	NN 8.682368589375221 
+SJR	VB 9.399968503952575 
+MWLIK	VB 8.301356215284466 NN 10.068662950495112 
+MWLIN	NNP 8.797246236703527 
+FPAIIR	NNP 8.797246236703527 
+NWFAT	VB 9.399968503952575 JJT 4.564348191467836 
+QWRBNWT	NNT 8.255568653283746 NN 8.682368589375221 
+IDIEWT	NN 7.871438373158893 
+MSEM	NN 10.068662950495112 
+SRJNIWT	JJ 8.881558488638976 
+HIBJIM	NN 10.068662950495112 
+MSEH	NN 10.068662950495112 
+HTXILW	VB 8.70682132339263 
+MFPXTH	NN 9.375515769935166 
+FMXWT	NN 10.068662950495112 
+MFPXTI	JJ 7.7829461999708665 
+IFXQ	VB 8.70682132339263 
+MEWRPL	JJ 8.881558488638976 
+NWFAI	NNT 7.850103545175582 
+NWFAH	NN 10.068662950495112 
+SKR	NN 10.068662950495112 
+MSEW	NN 8.682368589375221 
+HKFRH	NN 10.068662950495112 
+WAJNFIID	NNP 8.797246236703527 
+HTXIIBWT	NN 8.459225038061012 
+AWRWT	NN 10.068662950495112 
+MKINH	VB 9.399968503952575 
+MBQRIW	NN 10.068662950495112 
+EFIIH	NN 10.068662950495112 
+SLE	NNT 8.948715833843691 
+AWRWN	NNP 8.104099056143582 
+HXJIAW	VB 9.399968503952575 
+MICGI	NNT 8.948715833843691 
+GIFTM	NN 10.068662950495112 
+PIRSM	VB 9.399968503952575 
+LHTMID	VB 9.399968503952575 
+EFIIT	NNT 8.948715833843691 
+SLIDH	NN 10.068662950495112 
+BSIS	NN 7.503713593033575 NNT 7.1569563646156364 
+APFR	VB 4.969151705109262 
+MSGD	NN 9.375515769935166 
+QILLW	VB 9.399968503952575 
+GIFTW	NN 10.068662950495112 
+PWBIZM	NN 10.068662950495112 
+KMAL	NNP 8.797246236703527 
+SMK	NN 10.068662950495112 NNT 8.255568653283746 VB 9.399968503952575 
+PWRWMIM	NNP 8.797246236703527 
+SML	NN 7.766077857501067 NNT 7.850103545175582 
+AIIMN	NNP 8.797246236703527 
+MBQRIM	NN 7.296074228255331 VB 8.013674142832684 
+ASISJNJIT	NN 10.068662950495112 
+MEWRER	JJ 8.881558488638976 
+MKWNWT	NNT 8.948715833843691 NN 8.970050661827003 
+LARWB	VB 9.399968503952575 
+WWRFH	NNP 6.851336087648214 
+LAWMNIWT	JJ 8.881558488638976 
+MKILH	VB 9.399968503952575 
+XSIN	JJ 8.881558488638976 
+BICEW	VB 7.7905305915184755 
+HTPRSM	VB 8.70682132339263 
+IZWMWT	JJ 8.881558488638976 
+IXIDWTIHM	NN 10.068662950495112 
+SNJ	NN 8.970050661827003 
+FMXTM	NN 9.375515769935166 
+SMLIW	NN 10.068662950495112 
+MEWRBT	JJ 7.272120576204876 
+SMLIM	NN 7.2354496064388965 
+DIXWI	NN 10.068662950495112 
+ARCIT	NN 10.068662950495112 JJ 6.80211694695914 
+SMLIT	JJ 8.188411308079031 
+MSIQ	NNT 8.948715833843691 VB 9.399968503952575 
+MSIM	NN 8.682368589375221 
+AWRXN	NN 10.068662950495112 
+HTXIIB	VB 8.301356215284466 
+2.1	CD 7.564757012905729 
+2.2	CD 7.564757012905729 
+2.5	CD 6.871609832345784 
+2.6	CD 6.871609832345784 
+2.7	CD 7.564757012905729 
+XSID	NNT 8.255568653283746 
+JLWWIZIWNIT	JJ 8.188411308079031 
+MKIRH	VB 9.399968503952575 NN 7.1242239713286715 
+MBWJXIH	NN 10.068662950495112 
+MFMETIWT	JJ 8.881558488638976 
+IEWDKNW	VB 9.399968503952575 
+SBLWTIH	NN 10.068662950495112 
+SPD	VB 8.301356215284466 
+EIRNI	JJ 8.881558488638976 
+APIQ	NN 10.068662950495112 NNP 8.797246236703527 
+MPWQPQ	JJ 8.188411308079031 
+SPG	VB 8.70682132339263 
+GIFWT	NN 10.068662950495112 
+MKIRT	NNT 7.562421472723801 
+SPI	NNP 8.797246236703527 
+MEWRIM	VB 9.399968503952575 
+HISJWRIWGRPIH	NN 8.970050661827003 
+SPR	NN 6.043311259759963 NNT 7.562421472723801 
+SPQ	NN 6.602927047695386 
+ECBNIT	JJ 8.881558488638976 
+MBWJXIM	NN 9.375515769935166 
+EIRNW	NN 10.068662950495112 
+SWPRIM	NN 7.989221408815276 
+85.2	CD 7.564757012905729 
+ALWMWT	NNT 8.948715833843691 
+MSKI	NNT 8.948715833843691 
+MICMC	VB 9.399968503952575 
+KMEJ	MOD 4.3825699653039285 RB 6.682734967655067 
+TQRIT	NNT 8.255568653283746 NN 7.989221408815276 
+NAFMI	NNT 8.255568653283746 
+NWHGIM	NN 10.068662950495112 VB 9.399968503952575 
+SQI	NNP 8.797246236703527 
+MSKT	NNT 8.948715833843691 NN 10.068662950495112 
+LHIMFK	VB 8.301356215284466 
+MSKN	VB 8.301356215284466 
+MNHIGWT	NN 8.459225038061012 
+200	CD 7.564757012905729 
+201	CD 7.564757012905729 
+SQR	NN 10.068662950495112 NNT 7.339277921409591 
+BICEH	VB 9.399968503952575 
+LPID	NNP 6.600021659367308 
+MTEWRRWT	VB 9.399968503952575 
+MDINIIM	JJ 8.881558488638976 
+MDGIFIM	VB 8.70682132339263 
+MFPJIIM	JJ 7.495264127519086 
+IBFWT	NN 10.068662950495112 
+SRJ	NN 6.849787125626912 
+SRI	NNP 8.104099056143582 
+IGBR	VB 9.399968503952575 
+TXPWFT	NNT 8.948715833843691 
+SRN	NN 10.068662950495112 
+211	CD 7.564757012905729 
+SRT	JJT 4.564348191467836 
+FLIXWT	NN 8.459225038061012 
+LPLG	VB 9.399968503952575 
+LIIQR	VB 9.399968503952575 
+LHTMCA	VB 9.399968503952575 
+LIIQS	NNP 8.797246236703527 
+MSMK	NNT 8.948715833843691 NN 8.459225038061012 
+IWCRI	NN 10.068662950495112 
+SPCIPIT	RB 8.069029328774958 
+MTLWWIM	VB 9.399968503952575 
+IGAL	NNP 7.187808324269427 
+BWLJT	JJ 8.881558488638976 VB 9.399968503952575 
+EQIBA	NNP 8.797246236703527 
+LPJR	VB 9.399968503952575 
+221	CD 7.564757012905729 CDT 5.942799375126701 
+NWFIM	NN 10.068662950495112 
+NERWT	NN 7.989221408815276 
+APLH	NN 10.068662950495112 
+CKWSLWBQIH	NNP 8.797246236703527 
+IWCRT	VB 9.399968503952575 
+BKIIH	NN 10.068662950495112 
+SGNIHM	NN 10.068662950495112 
+EMWQWT	JJ 8.881558488638976 
+MSPQ	VB 8.70682132339263 JJ 8.881558488638976 
+IGDL	VB 8.301356215284466 
+NXITH	NN 10.068662950495112 
+HCLIXW	VB 7.4540583548972625 
+XWDWRWB	NNP 8.797246236703527 
+NXITT	NNT 8.255568653283746 
+MSPR	VB 7.7905305915184755 NN 7.989221408815276 DT 3.264486336120253 NNT 7.339277921409591 
+TMFIK	VB 8.013674142832684 
+XWLIH	NN 8.682368589375221 
+STM	RB 6.970417040106848 MOD 6.131769820113187 
+HKFILW	VB 9.399968503952575 
+SDRWT	NN 8.970050661827003 
+STR	NN 10.068662950495112 
+XWLIM	NN 6.2400215540060175 
+LHTNCL	VB 9.399968503952575 
+MWCIAIM	NN 10.068662950495112 
+HCLIXH	VB 7.32052696227274 
+SDAM	NNP 5.752723798980104 
+LPNI	IN 4.9103763815516315 
+TGDL	VB 9.399968503952575 
+ERBWIWT	NN 10.068662950495112 
+CBIEH	NN 8.459225038061012 
+EIRIH	NN 10.068662950495112 
+TGBR	NN 10.068662950495112 
+AQSPWZICIH	NN 10.068662950495112 
+SUM	NN 8.970050661827003 
+SLILT	NNT 8.948715833843691 
+IXFWB	VB 9.399968503952575 
+SUS	NNP 8.797246236703527 
+LIIXS	VB 8.70682132339263 
+MBXINIM	VB 8.70682132339263 
+CBIET	NNT 8.255568653283746 
+MSPD	NN 10.068662950495112 
+TGEW	VB 9.399968503952575 
+251	CD 7.564757012905729 
+MSRW	VB 6.264474288023425 
+ANXWT	NN 10.068662950495112 
+XSRT	JJT 3.1780538303479458 
+HNPFH	NN 9.375515769935166 
+MWLWT	NN 10.068662950495112 
+XSRI	JJT 3.871201010907891 NNT 7.562421472723801 
+SWD	NN 10.068662950495112 
+SWQRISJWB	NNP 8.797246236703527 
+SWG	NN 7.583756300707112 NNT 7.339277921409591 
+MSQR	VB 9.399968503952575 
+KIPWRIM	NN 10.068662950495112 
+NWFNH	JJ 8.881558488638976 
+XWLLH	VB 9.399968503952575 
+SWP	NNT 5.365196895387581 RB 5.989587787095122 NN 9.375515769935166 
+261	CD 7.564757012905729 
+9891	CD 5.485315471225893 
+MSRB	VB 8.301356215284466 
+MFIBIM	VB 9.399968503952575 
+MSRH	VB 8.013674142832684 
+CPRIRIM	NNP 7.698633948035417 
+QSIRR	NNP 8.797246236703527 
+EMNWAL	NNP 8.797246236703527 
+HXMCH	NN 8.970050661827003 
+PIRWF	NNT 8.948715833843691 
+MICTH	VB 9.399968503952575 
+PIRWJ	NNT 8.255568653283746 
+ENIINIM	NN 8.122752801439798 
+SXP	NN 10.068662950495112 
+SXR	NNT 8.255568653283746 NN 8.682368589375221 
+QHILT	NNT 8.948715833843691 
+TWCAH	NN 6.7728260844907835 
+MFMEWTIWT	JJ 8.881558488638976 
+MHPKNI	JJ 8.881558488638976 
+PWLIJIQAIM	NN 7.429605620879854 
+51P6ARBEIM	ZVL 4.3694478524670215 
+TWKNIT	NNT 6.17612711160391 NN 6.156639945066966 
+GWPIM	NN 8.459225038061012 
+IGIE	VB 7.4540583548972625 
+WWRLD	NNP 6.851336087648214 
+QHILH	NN 7.670767677696742 
+IGIF	VB 8.70682132339263 
+PIRWQ	NN 10.068662950495112 NNT 8.948715833843691 
+LPRJ	VB 9.399968503952575 
+ENIINIT	JJ 8.188411308079031 
+PIRWT	NN 10.068662950495112 
+EPEWP	NN 8.970050661827003 
+SRJNIIM	JJ 7.7829461999708665 
+XSRW	VB 9.399968503952575 
+280	CD 7.564757012905729 
+PTRWN	NNT 6.869274292163856 NN 6.81056641247363 
+LPQD	VB 9.399968503952575 
+APRN	NNP 8.797246236703527 
+MWNARKIH	NN 9.375515769935166 
+FBXIM	NN 9.375515769935166 
+AWRIT	NNP 8.797246236703527 
+yyLRB	yyLRB 0.0 
+HBJIXH	VB 8.70682132339263 
+8591	CD 6.466144724237619 
+LPTE	RB 6.970417040106848 
+HBJIXW	VB 9.399968503952575 
+MSWP	NNT 8.948715833843691 
+MSWJ	NNP 8.797246236703527 
+HTPREW	VB 9.399968503952575 
+RABW	NNP 8.797246236703527 
+TGIE	VB 7.7905305915184755 
+SBLNI	JJ 8.881558488638976 
+TGID	VB 9.399968503952575 
+TGIB	VB 9.399968503952575 
+XWLPT	JJ 8.881558488638976 
+AWRKW	NN 10.068662950495112 
+BSWP	RB 8.069029328774958 
+LHXZIQ	VB 8.013674142832684 
+XIBWR	NN 9.375515769935166 
+LHXZIR	VB 7.608209034724521 
+TGIF	VB 8.70682132339263 
+HRWWIXW	VB 9.399968503952575 
+HTRXFW	VB 9.399968503952575 
+GWDWNWB	NNP 8.797246236703527 
+MSXR	NN 6.6346757460099655 
+ZQWQIM	VB 9.399968503952575 
+EWTMNI	JJ 8.881558488638976 
+GWPNI	JJ 7.7829461999708665 
+ILDIHM	NN 10.068662950495112 
+KRISJIS	NNP 8.797246236703527 
+RAFM	NN 8.970050661827003 
+SDIN	NN 10.068662950495112 
+NINWXIM	JJ 8.881558488638976 
+MRWFFT	JJ 8.881558488638976 
+RAFI	JJ 6.80211694695914 NNT 5.285154187714045 
+JRPIM	JJ 8.188411308079031 
+A.S.	NNP 8.104099056143582 
+RAFH	NN 8.122752801439798 
+MNSIM	VB 7.608209034724521 
+PWNQCIWNLIT	JJ 8.881558488638976 
+MDINIWT	NNT 7.002805684788378 NN 7.583756300707112 JJ 8.881558488638976 
+HNPLD	NNP 8.797246236703527 
+ALRGI	JJ 8.881558488638976 
+APWD	NNT 8.255568653283746 NN 10.068662950495112 
+TWKNNH	VB 9.399968503952575 
+APWA	RB 5.766444235780912 
+TWKNNW	VB 9.399968503952575 
+LPTX	VB 7.608209034724521 
+MWFXTT	JJ 8.881558488638976 
+CPCPWT	NN 10.068662950495112 
+EIRAQ	NNP 4.6228589668078905 
+XSWT	NNT 8.948715833843691 NN 10.068662950495112 
+BXWRIM	NN 10.068662950495112 
+HTRXFH	VB 8.70682132339263 
+HXMIR	VB 9.399968503952575 
+MDINTW	NN 10.068662950495112 
+SWBSIDIH	NN 9.375515769935166 
+MITQPH	NN 10.068662950495112 
+MEPEPIM	VB 9.399968503952575 
+FIKWN	NN 6.81056641247363 NNT 8.948715833843691 
+QWMQWMIM	NN 10.068662950495112 
+MTQIIM	VB 8.70682132339263 
+LRCWX	VB 8.301356215284466 
+MSGRTW	NN 8.682368589375221 
+MKWNIT	NN 7.503713593033575 NNT 7.850103545175582 
+IZMIM	NN 8.970050661827003 
+PISGH	NN 8.276903481267057 
+LPXD	VB 9.399968503952575 
+MXQRIM	NN 7.989221408815276 
+APWR	JJ 7.7829461999708665 
+HCLXWTIW	NN 10.068662950495112 
+APWS	NN 10.068662950495112 
+JJRI	JJ 7.089799019410921 
+HTNHGWT	NNT 8.255568653283746 NN 7.871438373158893 
+QWRAWT	VB 9.399968503952575 
+MSGRTH	NN 8.459225038061012 
+MWZRIM	JJ 8.881558488638976 
+RAFW	NN 8.276903481267057 
+MICWI	NN 10.068662950495112 
+ANXNW	PRP 3.404380715272094 
+DIQSJRH	NNP 8.797246236703527 
+MWBLET	NNT 8.948715833843691 NN 10.068662950495112 
+ARCIFRALI	JJ 8.881558488638976 
+QRWNWT	NN 10.068662950495112 NNT 8.948715833843691 
+CWMCMW	VB 9.399968503952575 
+MJRIDIM	VB 9.399968503952575 
+IGNH	VB 9.399968503952575 
+TAI	NNT 7.850103545175582 
+AWRGN	VB 9.399968503952575 
+QINGDWM	NNP 8.797246236703527 
+WIILD	NNP 8.797246236703527 
+MXDLIM	NN 8.970050661827003 
+TAW	NN 10.068662950495112 
+TPEWLIT	JJ 8.881558488638976 
+MFPJIWT	JJ 8.188411308079031 
+MXDLIH	NN 10.068662950495112 
+NWAM	NN 10.068662950495112 
+SWKNWTW	NN 10.068662950495112 
+TBE	VB 8.70682132339263 
+QILWP	NN 10.068662950495112 
+MDINWT	NN 6.485144012039002 NNT 7.002805684788378 
+KMWT	NNT 7.562421472723801 IN 8.648045999835 NN 10.068662950495112 
+FLIXIM	NN 10.068662950495112 
+MGALWMAN	JJ 8.881558488638976 
+LPZR	VB 8.301356215284466 
+KFLWNN	NN 10.068662950495112 
+MTWRGMN	NN 8.970050661827003 
+MERBIT	RB 7.3758821482150125 JJ 7.272120576204876 
+RAIH	NNP 8.797246236703527 NN 8.122752801439798 
+HTABD	VB 9.399968503952575 
+MRWFLT	JJ 8.881558488638976 
+XWLFH	NN 8.970050661827003 
+MWXLJT	JJ 7.495264127519086 
+TCA	VB 7.608209034724521 
+MSGRWT	NN 8.682368589375221 
+HNPQT	NNT 8.255568653283746 
+AWRAL	NNP 7.698633948035417 
+FQDIM	NN 8.682368589375221 
+ASJRAJGIT	JJ 8.188411308079031 
+ERKTI	VB 8.70682132339263 
+HWJLH	VB 9.399968503952575 
+HIABQWT	NN 10.068662950495112 
+MFWKNE	VB 8.301356215284466 
+RALP	NNP 8.797246236703527 
+NWCL	VB 9.399968503952575 
+NWCX	VB 7.7905305915184755 
+SLMINH	NNP 8.797246236703527 
+CWBR	VB 8.70682132339263 
+NWCR	VB 7.4540583548972625 
+NPSID	VB 9.399968503952575 
+HDPS	NN 9.375515769935166 
+ITKNSW	VB 8.70682132339263 
+MRXIQT	JJT 3.871201010907891 
+NWBE	VB 9.399968503952575 
+PRWIQJIM	NN 8.459225038061012 
+SDNH	NN 10.068662950495112 
+MECMTIT	JJ 8.881558488638976 
+MWBLJT	VB 9.399968503952575 
+SDNT	NNT 8.948715833843691 
+GWPTW	NN 10.068662950495112 
+MXPFT	VB 8.013674142832684 
+GALI	NNP 8.797246236703527 
+NWBL	NNP 6.3123395869155265 
+GALH	NN 10.068662950495112 
+HWJLW	VB 8.70682132339263 
+MLQWLM	NNP 8.797246236703527 
+MLMDT	VB 8.70682132339263 
+LHRFIE	VB 9.399968503952575 
+NWEC	VB 9.399968503952575 
+MWKFR	JJ 7.272120576204876 
+PWRMLIIM	JJ 8.881558488638976 
+NWED	VB 9.399968503952575 
+NWER	NN 7.2354496064388965 
+TFE	CD 6.178462651785838 
+NWEM	NN 10.068662950495112 
+MWLIKH	NN 9.375515769935166 
+NWEZ	JJ 8.881558488638976 
+TWARI	NNT 8.948715833843691 
+CWDQ	JJ 8.188411308079031 VB 8.301356215284466 
+SNGWRIWT	NN 10.068662950495112 
+7,000	CD 6.466144724237619 
+GLGWLIM	NN 10.068662950495112 
+MRBITM	NN 10.068662950495112 
+NWFAWT	NNT 8.948715833843691 VB 8.70682132339263 
+GIISWT	NN 9.375515769935166 
+IWBAW	VB 9.399968503952575 
+MPWRF	JJ 8.188411308079031 
+NWDD	VB 9.399968503952575 
+GLGWLIH	NN 10.068662950495112 
+NWDE	VB 6.760911174337317 
+MPWRJ	JJ 7.7829461999708665 
+MTAM	NNT 8.948715833843691 NN 10.068662950495112 
+RWNAL	NNP 8.797246236703527 
+MTAR	VB 8.70682132339263 
+TGR	NNP 8.797246236703527 
+CWER	NN 10.068662950495112 
+PTQIM	NN 9.375515769935166 
+HISJWRIWT	JJ 8.881558488638976 
+NWGE	VB 6.915061854164575 
+HSTBKH	VB 9.399968503952575 
+XLQIIM	JJ 8.881558488638976 
+THH	VB 9.399968503952575 
+TEFIIH	NN 6.457745037850888 
+TEFIIT	NNT 8.255568653283746 
+IGWR	NNP 8.797246236703527 
+HISJWRIWN	NN 8.459225038061012 
+EFIRWT	JJ 8.881558488638976 
+HTIIFBH	VB 9.399968503952575 
+HTQLSWIWT	NN 10.068662950495112 
+NWFA	NNT 6.240665632741481 NN 6.542302425878951 VB 8.301356215284466 
+MBNIM	NN 8.276903481267057 
+SDRH	NN 7.178291192598947 
+MEWRR	VB 8.70682132339263 
+RDWMH	JJ 8.881558488638976 
+HIPRKL	NNP 8.104099056143582 
+RCBSQI	NNP 8.104099056143582 
+MEWRH	VB 9.399968503952575 
+HPGNWT	NN 7.989221408815276 NNT 8.255568653283746 
+SDRN	NN 10.068662950495112 
+NWFL	VB 9.399968503952575 
+SDRI	NNT 8.255568653283746 
+TNWEWT	NN 8.122752801439798 NNT 8.255568653283746 
+HDSH	NNP 7.187808324269427 NN 8.459225038061012 
+MEWRB	NN 10.068662950495112 VB 8.70682132339263 JJ 8.188411308079031 
+NWFM	JJ 8.881558488638976 
+SDRT	NNT 7.850103545175582 
+LHGFIM	VB 8.70682132339263 
+QILWMJRIM	NN 10.068662950495112 
+MXWFLWT	JJ 8.881558488638976 
+IMFIKW	VB 8.013674142832684 
+TIQ	NNT 7.1569563646156364 NN 8.970050661827003 
+SISMTW	NN 10.068662950495112 
+TNWETW	NN 10.068662950495112 
+MEWWT	JJ 7.7829461999708665 NN 10.068662950495112 
+HJBIE	VB 9.399968503952575 
+LQCC	VB 8.013674142832684 
+CWIN	VB 8.70682132339263 
+LWQRI	NNP 8.797246236703527 
+IFQWL	VB 9.399968503952575 
+DIRWTIHM	NN 9.375515769935166 
+AMRIQAIM	JJ 6.935648339583663 NN 7.429605620879854 
+LQCR	VB 8.301356215284466 
+FBITTM	NN 10.068662950495112 
+AMRIQAIT	JJ 5.837036050915553 
+XIKITM	VB 9.399968503952575 
+MTED	VB 9.399968503952575 
+FERWRIIH	NN 9.375515769935166 
+EISWQ	NN 10.068662950495112 
+INHLW	VB 9.399968503952575 
+RCWPIM	JJ 7.7829461999708665 
+NWHL	VB 8.70682132339263 NNT 8.948715833843691 NN 10.068662950495112 
+CWJJ	VB 9.399968503952575 
+NWHG	NN 10.068662950495112 VB 8.301356215284466 
+LQBL	VB 6.264474288023425 
+GARI	NNP 8.104099056143582 
+KINRT	NN 9.375515769935166 
+MWKIX	VB 8.301356215284466 
+BRNZWN	NNP 7.698633948035417 
+SDWM	NN 8.970050661827003 
+ALIEZR	NNP 8.104099056143582 
+RATH	VB 9.399968503952575 
+MXMIRIM	JJ 8.881558488638976 
+HDXH	NN 10.068662950495112 
+NWKL	VB 7.7905305915184755 
+PTWXWT	JJ 8.188411308079031 
+AIJWM	NN 10.068662950495112 NNT 8.948715833843691 
+TLK	VB 8.70682132339263 
+NWKX	VB 9.399968503952575 IN 7.667216746823273 
+FWPKIN	NN 10.068662950495112 
+BWSJWN	NNP 7.4109518755836366 
+LCWWT	VB 9.399968503952575 
+1,350	CD 7.564757012905729 
+SQNDINWWI	JJ 8.881558488638976 
+HDXT	NNT 8.255568653283746 
+AQDX	NN 8.459225038061012 NNT 7.850103545175582 
+IWBIL	VB 9.399968503952575 
+WWADINGR	NNP 8.797246236703527 
+TLT	MOD 6.419451892564968 
+EWINWT	NN 8.682368589375221 
+JLPWNI	JJ 8.881558488638976 
+EGILIM	NN 9.375515769935166 
+NWJH	VB 8.301356215284466 
+THWDH	NN 8.970050661827003 
+MWZRWT	JJ 8.881558488638976 
+BTIM	NN 8.682368589375221 
+MTMJIQH	NN 9.375515769935166 
+IREILW	VB 9.399968503952575 
+LQDM	VB 8.70682132339263 
+TMH	VB 9.399968503952575 
+BLWMPILD	NNP 7.187808324269427 
+NWJL	VB 9.399968503952575 
+QWMWNISJIT	JJ 7.272120576204876 
+TMK	VB 8.70682132339263 
+NWJS	NNP 8.797246236703527 
+HDWR	JJ 8.881558488638976 
+HDWQ	JJ 7.495264127519086 
+QWMWNISJIM	NN 9.375515769935166 JJ 8.881558488638976 
+XQIINIM	NN 10.068662950495112 
+MPWTX	JJ 8.881558488638976 
+DIIWID	NNP 8.104099056143582 
+CWMX	NN 10.068662950495112 
+CWMT	NNT 7.562421472723801 NNP 7.698633948035417 
+QRWNIT	NN 8.970050661827003 
+IWBJX	VB 9.399968503952575 
+GAWN	NNT 8.948715833843691 
+TRGILIM	NN 8.682368589375221 
+DMWGRPIT	JJ 8.881558488638976 
+GIISNW	VB 9.399968503952575 
+PKWWR	NNP 8.797246236703527 
+LIBRLI	JJ 8.881558488638976 
+MCJIIRT	VB 9.399968503952575 
+NZQQIM	VB 8.70682132339263 JJ 8.881558488638976 
+NWLD	VB 8.013674142832684 
+TENIQ	VB 8.70682132339263 
+AMITIWT	JJ 8.881558488638976 
+MPWZR	JJ 8.881558488638976 
+MTIM	NN 9.375515769935166 
+MHNDST	NNT 8.255568653283746 
+HLIKTK	NN 10.068662950495112 
+3.1	CD 7.564757012905729 
+SJAZR	NN 10.068662950495112 
+TPNIT	NN 10.068662950495112 
+SKWMIM	NN 7.989221408815276 
+MMLAIM	VB 9.399968503952575 
+3.7	CD 6.871609832345784 
+ARWKIM	JJ 6.935648339583663 
+MWKNH	VB 7.608209034724521 
+LXTWM	VB 7.608209034724521 
+LMTWX	VB 9.399968503952575 
+NWEDH	VB 7.4540583548972625 
+HTNCXWT	NNT 8.948715833843691 
+TPR	NN 10.068662950495112 
+MIBCE	NNT 8.948715833843691 
+LIBRJI	NNP 8.797246236703527 
+NWPF	NN 10.068662950495112 
+NWEDW	VB 8.301356215284466 
+TPX	VB 9.399968503952575 
+MAFIMIM	VB 9.399968503952575 
+LHEIR	VB 9.399968503952575 
+MTARGNT	JJ 8.881558488638976 
+119.90	CD 6.466144724237619 
+RAWI	NN 9.375515769935166 VB 7.32052696227274 JJ 7.7829461999708665 
+KINTH	VB 9.399968503952575 
+CWPR	NN 8.970050661827003 
+LHEIZ	VB 9.399968503952575 
+QWNPDRJIWWIIM	JJ 8.881558488638976 
+CWPN	VB 9.399968503952575 
+TQL	VB 9.399968503952575 
+TQN	NN 7.503713593033575 NNT 8.255568653283746 
+TQP	VB 8.301356215284466 
+CWPH	VB 9.399968503952575 
+PNIMIIH	NN 10.068662950495112 
+MNQRT	VB 9.399968503952575 
+MTKT	NN 8.970050661827003 
+LHEID	VB 7.32052696227274 
+301	CD 6.178462651785838 
+PLAFWB	NNP 8.797246236703527 
+PNIMIIM	JJ 8.188411308079031 
+MTNH	NN 9.375515769935166 
+MWKRT	VB 8.70682132339263 JJ 7.7829461999708665 
+NWQJ	VB 9.399968503952575 
+TRD	VB 9.399968503952575 NN 10.068662950495112 
+CWQR	NNP 8.797246236703527 
+EFIRIT	JJ 8.881558488638976 
+TRM	VB 8.70682132339263 
+XTMW	VB 9.399968503952575 
+QWRAIM	NN 9.375515769935166 VB 8.70682132339263 
+311	CD 6.871609832345784 
+EFIRIM	NN 9.375515769935166 
+MTBJA	VB 8.70682132339263 
+NECBNW	VB 9.399968503952575 
+NWRH	VB 8.301356215284466 
+MWKSP	JJ 8.881558488638976 
+NWRA	JJ 8.881558488638976 
+XTNI	NNT 8.948715833843691 
+LHKRIZ	VB 9.399968503952575 
+EQBWTIHM	NN 10.068662950495112 
+QJNIM	JJ 6.483663215840606 
+NWPL	VB 9.399968503952575 
+MTBHR	VB 9.399968503952575 
+HTGWRR	VB 8.301356215284466 
+KNGD	IN 8.137220376069008 
+TLAWT	NNT 8.948715833843691 NN 8.970050661827003 
+HPSQWT	NN 8.970050661827003 NNT 8.255568653283746 
+CWRT	NNT 7.339277921409591 
+CWRP	VB 8.70682132339263 
+CWRK	VB 9.399968503952575 NN 6.9776204971367966 NNT 6.383766476382155 
+CWRH	NN 7.429605620879854 
+NWPX	VB 9.399968503952575 
+NBXRIM	NN 8.970050661827003 JJ 8.881558488638976 
+IZKWR	NNP 8.104099056143582 
+XTMH	VB 9.399968503952575 
+NWQB	JJ 8.881558488638976 
+PWZWT	NN 10.068662950495112 
+AWSAQH	NNP 8.797246236703527 
+NWSP	JJ 5.585721622634647 RB 8.069029328774958 IN 9.053511107943164 
+MTBGR	JJ 8.188411308079031 
+KINWN	NNT 8.255568653283746 
+NWSK	VB 9.399968503952575 
+FIMFW	VB 8.70682132339263 
+NKBFH	VB 9.399968503952575 
+NWSX	NNT 7.1569563646156364 NN 8.970050661827003 
+IQRAW	VB 9.399968503952575 
+WWIDWIIM	NN 10.068662950495112 
+NWGEIM	JJ 8.881558488638976 VB 8.70682132339263 NN 10.068662950495112 
+KINWS	NNT 7.1569563646156364 NN 8.682368589375221 
+TTN	VB 9.399968503952575 
+AQMH	NN 10.068662950495112 
+NKBFW	VB 9.399968503952575 
+IWGWSLWWIT	JJ 8.881558488638976 
+FIQAGW	NNP 6.717804695023691 
+TUA	NNP 6.717804695023691 
+ETWDWTIH	NN 10.068662950495112 
+IFRAL	NNP 3.263856747976007 
+NWRW	VB 8.70682132339263 
+BEIITIWT	NN 9.375515769935166 
+341	CD 7.564757012905729 
+TUQ	CD 7.564757012905729 
+IABQW	VB 9.399968503952575 
+LHKRIE	VB 9.399968503952575 
+LWQXT	VB 9.399968503952575 
+LHTLBF	VB 9.399968503952575 
+CPWIWT	VB 8.70682132339263 
+KDWRGLN	NN 9.375515769935166 
+NWSH	VB 9.399968503952575 
+NWSE	VB 8.301356215284466 NN 10.068662950495112 
+MWFPEIM	VB 9.399968503952575 
+AWSQR	NNP 8.797246236703527 
+HFQENW	VB 9.399968503952575 
+MPXDT	VB 9.399968503952575 
+NWGDIM	JJ 8.881558488638976 
+IHWDIIH	JJ 8.881558488638976 
+354	CD 7.564757012905729 
+AWRTWDWQSI	JJ 8.881558488638976 
+RAFWNIM	NN 10.068662950495112 JJ 6.108969766399195 
+MTQN	NNT 8.948715833843691 NN 10.068662950495112 VB 9.399968503952575 
+HDRGH	NN 8.682368589375221 
+NWTQ	VB 9.399968503952575 
+SWERWT	JJ 8.881558488638976 
+NWTR	VB 7.002073231154205 JJ 8.881558488638976 
+MQWMIT	RB 8.069029328774958 JJ 5.885826215084985 
+LHQCWT	VB 9.399968503952575 
+NWTN	NNT 8.948715833843691 VB 8.301356215284466 
+IWGWSLWWIH	NNP 8.104099056143582 
+TWK	IN 6.3454609068409535 
+NWTX	VB 9.399968503952575 
+TWM	NNT 6.240665632741481 NNP 7.4109518755836366 NN 8.682368589375221 
+RAFIWT	JJ 8.881558488638976 
+TWR	NN 9.375515769935166 NNT 8.948715833843691 
+WWLWNJRIT	JJ 8.881558488638976 
+LHFTXRR	VB 9.399968503952575 
+EIWWRWN	NN 10.068662950495112 
+LHIMCA	VB 9.399968503952575 
+MLKWD	NN 10.068662950495112 
+IWBRR	VB 9.399968503952575 
+GBRIM	NN 7.670767677696742 
+MIBNH	NN 10.068662950495112 
+LHRFWT	VB 8.301356215284466 
+GBBH	NN 10.068662950495112 
+ZQNIM	NN 9.375515769935166 JJ 7.7829461999708665 
+HJBWT	NN 8.970050661827003 
+MXNWT	NNT 7.002805684788378 NN 10.068662950495112 
+TXL	VB 9.399968503952575 
+PAFISJIIM	JJ 8.881558488638976 
+DIAMWND	NNP 8.797246236703527 
+CWWT	NNT 7.002805684788378 NN 7.429605620879854 
+TXT	IN 7.4440731955090635 
+NBXRTW	NN 10.068662950495112 
+LQRB	VB 9.399968503952575 
+HCJBRW	VB 8.70682132339263 
+QWNPDRCIH	NN 10.068662950495112 
+IHIH	VB 5.736406857822929 AUX 2.4992953872401 
+NWXH	JJ 8.881558488638976 
+BLMIM	NN 10.068662950495112 
+GBAI	NNP 8.104099056143582 
+AWSRT	VB 8.70682132339263 
+LIQWIIM	NN 8.970050661827003 
+HEDR	NNT 7.339277921409591 
+QJNWT	JJ 7.7829461999708665 NN 10.068662950495112 
+NWFAIM	NN 7.583756300707112 VB 7.608209034724521 
+HEDT	ZVL 4.3694478524670215 
+MFPIEWT	VB 9.399968503952575 
+LQPX	VB 9.399968503952575 
+385	CD 7.564757012905729 
+PWRMLIWT	JJ 8.881558488638976 
+MWKTR	NNT 8.948715833843691 NN 10.068662950495112 VB 9.399968503952575 
+AIJIT	JJ 8.881558488638976 
+HMLCT	NNT 7.339277921409591 
+TZH	NN 9.375515769935166 
+RAFITH	NN 10.068662950495112 
+PRWCWT	NN 10.068662950495112 
+BRIKWT	NN 10.068662950495112 
+AWLMWT	NNT 8.255568653283746 NN 10.068662950495112 
+8691	CD 6.871609832345784 
+HTERBWTW	NN 10.068662950495112 
+ITIIXS	VB 9.399968503952575 
+HMLCH	NN 7.766077857501067 
+MTWN	JJ 7.7829461999708665 
+JKNI	JJ 7.7829461999708665 
+MTWK	IN 6.527782463634908 NN 10.068662950495112 
+MTBRR	VB 7.32052696227274 
+GBEH	NN 10.068662950495112 
+MDRGWT	NN 10.068662950495112 
+KWRDIT	JJ 8.881558488638976 
+HDRKH	NN 8.970050661827003 
+SIKWMW	NN 10.068662950495112 
+TZKIR	VB 8.70682132339263 
+HDRKT	NNT 8.255568653283746 
+PFWJIM	JJ 8.188411308079031 
+QPIDBIN	ZVL 1.5362345084108053 
+IHIW	AUX 3.494723439672979 VB 6.455529524786135 
+XQIINWT	NN 10.068662950495112 
+BTWR	IN 8.648045999835 
+THIH	AUX 2.995732273553991 VB 6.56675515989636 
+DINMIQH	NN 10.068662950495112 
+THWWH	VB 9.399968503952575 
+NICLIM	VB 9.399968503952575 
+SIKWNI	NNT 8.948715833843691 
+BTWK	IN 6.913444944446893 
+HWGDRW	VB 9.399968503952575 
+MTXW	VB 9.399968503952575 
+MAKZB	JJ 8.188411308079031 
+HPSQNW	VB 8.70682132339263 
+MTXT	IN 7.667216746823273 
+XWKMH	NN 8.970050661827003 
+HEIR	VB 8.70682132339263 
+SEID	NNP 8.104099056143582 
+PIQWD	NN 8.970050661827003 NNT 6.309658504228433 
+ZIWWH	NNP 8.797246236703527 
+PIQWX	NN 7.503713593033575 NNT 7.562421472723801 
+ICIBH	JJ 8.188411308079031 
+AWGNIWQ	NNP 8.104099056143582 
+HWFALW	VB 9.399968503952575 
+SEIP	NNT 7.562421472723801 NN 7.871438373158893 
+TIZWT	NN 10.068662950495112 
+PLFTINAIM	JJ 8.188411308079031 NN 7.503713593033575 
+HTEQFH	VB 9.399968503952575 
+PSNTR	NN 9.375515769935166 
+GBET	NNT 7.850103545175582 
+IHWDIIM	JJ 8.188411308079031 
+PLFTINAIT	JJ 8.188411308079031 
+ZITWNI	NNP 8.797246236703527 
+HWMWRISJIIM	JJ 8.881558488638976 
+IFRJJ	VB 9.399968503952575 
+ICIAH	NN 8.122752801439798 
+QREIM	NN 10.068662950495112 
+XTWL	NN 9.375515769935166 
+HEID	VB 9.399968503952575 
+HTXIIBTI	VB 8.70682132339263 
+XTWM	VB 9.399968503952575 JJ 8.188411308079031 
+TEFIITIT	JJ 7.7829461999708665 
+LQWX	NN 7.989221408815276 NNT 8.948715833843691 
+HZRMT	NNT 8.948715833843691 
+LRBWT	IN 7.667216746823273 
+MCDDIM	VB 8.70682132339263 
+PNJZIWT	NN 10.068662950495112 
+LGBWR	VB 8.70682132339263 
+MWRJWRIWM	NN 10.068662950495112 
+NPRDW	VB 8.70682132339263 
+LGBWT	VB 8.70682132339263 
+LQXH	VB 8.70682132339263 
+GBIE	NN 8.459225038061012 NNT 6.309658504228433 
+HELH	VB 7.202743926616356 
+LHILXM	VB 8.013674142832684 
+HBLIH	NN 10.068662950495112 
+NPRDH	VB 9.399968503952575 
+HBLIJ	VB 8.70682132339263 
+KNST	NNT 8.948715833843691 NN 6.218515348785053 
+SIKWII	NNT 7.850103545175582 
+PNIMIWT	NN 10.068662950495112 
+HFQEWT	NN 6.7728260844907835 NNT 8.255568653283746 
+LQWI	JJ 8.881558488638976 
+ARCWT	NNT 5.9529835602897005 NN 7.583756300707112 
+WAQWM	NN 9.375515769935166 
+LQWM	VB 8.301356215284466 
+ACBEWT	NN 10.068662950495112 
+IHNH	VB 9.399968503952575 
+HBLIE	VB 9.399968503952575 
+HZRMH	NN 10.068662950495112 
+HXLIJ	VB 6.56675515989636 
+KEBWR	IN 7.800748139447796 
+HFQETW	NN 10.068662950495112 
+HBLJT	NNT 8.948715833843691 
+TRWMTI	NN 10.068662950495112 
+ABZRIM	NN 10.068662950495112 
+TRWMTN	NN 10.068662950495112 
+TRWMTM	NN 9.375515769935166 
+AWNQIIH	NN 10.068662950495112 
+TRWMTW	NN 9.375515769935166 
+PFWJWT	JJ 8.881558488638976 
+NWHGWT	VB 8.70682132339263 
+LQXT	VB 7.4540583548972625 
+HTEQBH	VB 9.399968503952575 
+HXLJI	JJ 8.881558488638976 
+HXLJH	NN 6.513314889005699 
+FBETIIM	MOD 7.518064181233078 
+KBIFIM	NN 9.375515769935166 
+LQXW	VB 9.399968503952575 
+ALSJR	NNP 8.104099056143582 
+HELW	VB 7.608209034724521 
+LARGN	VB 9.399968503952575 
+036086	CD 7.564757012905729 
+RBIC	NNP 8.104099056143582 
+BICWE	NNT 6.17612711160391 NN 7.871438373158893 
+RBIB	NNP 8.797246236703527 
+AGRIGANJW	NNP 8.104099056143582 
+AMITIIM	JJ 7.272120576204876 
+RBIM	JJ 5.24397232891259 NN 6.736458440319908 
+BICWR	NNT 8.948715833843691 
+RBIN	NNP 7.698633948035417 
+AMSJRDM	NNP 8.797246236703527 
+AWLMRJ	NNP 7.698633948035417 
+AWSIP	VB 9.399968503952575 
+SMKWT	NN 8.122752801439798 
+HXLIQ	VB 9.399968503952575 
+CIBWRIT	JJ 6.316609131177439 
+HXLIP	VB 7.7905305915184755 
+ARWASJI	NNP 8.104099056143582 
+MTBSS	VB 8.70682132339263 
+FILWJ	NN 10.068662950495112 
+LIICG	VB 8.70682132339263 
+AWPJIMI	JJ 8.881558488638976 
+HMWNIM	NN 8.276903481267057 
+GBLS	NNP 8.797246236703527 
+HMWNIT	JJ 7.7829461999708665 
+CPWIIM	VB 8.013674142832684 JJ 8.881558488638976 
+FILWB	NNT 8.948715833843691 NN 8.122752801439798 
+LIICR	VB 8.70682132339263 
+APIDMIWLWGIH	NN 9.375515769935166 
+IWCAI	JJT 4.564348191467836 NNT 7.562421472723801 
+MWLDT	NNP 7.4109518755836366 NN 7.670767677696742 
+DMIWNIT	JJ 8.188411308079031 
+HXLJT	NNT 5.9529835602897005 
+CMIXH	NN 8.970050661827003 
+AFKNZI	NN 8.970050661827003 
+IIASRW	VB 9.399968503952575 
+KNWT	NN 9.375515769935166 
+ALWNIM	NN 9.375515769935166 
+MWSLMIM	NN 8.682368589375221 JJ 8.188411308079031 
+NWEZT	JJ 7.7829461999708665 
+BEIITIIM	JJ 8.881558488638976 
+LIIPCIG	NNP 7.698633948035417 
+AINDIQCIH	NN 9.375515769935166 
+ZAJWJIM	NN 10.068662950495112 
+NXBL	VB 9.399968503952575 
+TRWMWT	NN 9.375515769935166 
+MQBLWT	VB 9.399968503952575 
+SMKWIWT	NNT 8.255568653283746 NN 7.766077857501067 
+NERIM	NN 8.682368589375221 
+NXBJ	VB 9.399968503952575 
+MECWRIM	NN 10.068662950495112 
+MJWSIM	NN 8.970050661827003 
+MWSLMIT	NN 10.068662950495112 JJ 8.188411308079031 
+KWXWTIH	NN 10.068662950495112 
+JWAJAW	VB 9.399968503952575 
+MIBXN	NN 9.375515769935166 
+TWBET	NN 8.276903481267057 VB 8.70682132339263 
+HERB	RB 5.989587787095122 
+MWLBI	NNP 8.797246236703527 
+LHEMIDH	VB 9.399968503952575 NNP 8.797246236703527 
+EFITI	VB 9.399968503952575 
+NPRFW	VB 9.399968503952575 
+HERH	NN 9.375515769935166 
+MQWMWN	NN 10.068662950495112 
+MQWMWT	NN 7.871438373158893 NNT 7.562421472723801 
+LHTLQX	VB 9.399968503952575 
+ARIALH	NNP 8.797246236703527 
+FWRRIM	VB 8.70682132339263 
+FWWRCQWP	NNP 7.698633948035417 
+HLIKIM	NN 8.970050661827003 
+IWCAT	VB 9.399968503952575 NNT 8.948715833843691 
+IWCAW	VB 9.399968503952575 
+SJJWJWRI	JJ 8.881558488638976 
+TFLWMIHM	NN 10.068662950495112 
+NBXRWT	NNT 8.948715833843691 NN 8.276903481267057 
+CBIWN	NN 10.068662950495112 
+EMIDWTW	NN 10.068662950495112 
+THSS	VB 9.399968503952575 
+MGNJIT	JJ 8.881558488638976 
+HLIKH	NN 10.068662950495112 
+HLIKI	NNT 7.339277921409591 
+MCRIT	JJ 8.188411308079031 
+MCRIM	NN 10.068662950495112 NNP 5.706203783345211 
+KSPWMJ	NN 10.068662950495112 
+FINWI	NNT 7.339277921409591 NN 7.2354496064388965 
+NERKWT	VB 8.70682132339263 
+ARAL	NNP 8.797246236703527 
+MRWCIM	JJ 7.7829461999708665 
+MXWZIWT	JJ 8.881558488638976 
+EWQBIM	VB 9.399968503952575 
+MTECM	JJ 8.881558488638976 
+TFTIT	NN 7.670767677696742 NNT 8.948715833843691 
+HTXIIBWIWTIH	NN 10.068662950495112 
+IWEMDW	VB 8.70682132339263 
+PJWRH	VB 8.301356215284466 
+HBNTI	NN 10.068662950495112 VB 9.399968503952575 
+27.40	CD 7.564757012905729 
+NXFB	VB 7.202743926616356 
+RCWNI	NN 8.682368589375221 
+RCWNN	NN 10.068662950495112 
+RCWNM	NN 9.375515769935166 
+AWDISIAH	NNP 7.187808324269427 
+ARBE	CD 4.620318033739289 CDT 4.844187086458591 
+NXFD	VB 8.70682132339263 
+RCWNW	NN 8.459225038061012 
+ERNWT	NN 10.068662950495112 
+SERH	NN 9.375515769935166 
+NXFQ	JJ 8.881558488638976 
+TRWMH	NN 8.459225038061012 
+SERT	NNT 7.850103545175582 
+FGRIRWT	NN 9.375515769935166 NNT 7.850103545175582 
+MRXIQIM	VB 9.399968503952575 
+APRIQH	NNP 7.187808324269427 
+ARCM	NN 9.375515769935166 
+MWNJH	NNP 8.797246236703527 
+ARCH	RB 6.970417040106848 NN 9.375515769935166 
+NMWKIM	JJ 8.881558488638976 
+ARCI	JJ 6.173508287536766 
+HIFRDWTM	NN 9.375515769935166 
+GBETIIM	NNP 7.698633948035417 
+MQWISJ	NNP 8.797246236703527 
+MMFLTNW	NN 9.375515769935166 
+QWMPWRJ	NNP 8.104099056143582 
+IIXWDI	JJ 7.495264127519086 
+TPQDM	NN 10.068662950495112 
+ECWTIHM	NN 10.068662950495112 
+FINTH	VB 8.301356215284466 
+ECBIM	NN 8.970050661827003 
+SPWNH	JJ 8.881558488638976 
+MFPXTWN	NN 10.068662950495112 NNP 8.797246236703527 
+MWNIT	NN 9.375515769935166 
+MWNIM	NN 10.068662950495112 VB 9.399968503952575 
+HTBJA	VB 8.301356215284466 
+GBRH	VB 7.7905305915184755 
+FINWII	NNT 8.255568653283746 
+GBRI	JJ 8.881558488638976 
+ESQWT	NN 9.375515769935166 
+SIAWL	NNP 8.797246236703527 
+NANXIM	VB 9.399968503952575 
+RAFIIM	JJ 8.881558488638976 
+XZWIH	JJ 8.881558488638976 
+ARCW	NN 7.989221408815276 
+HWKRZ	VB 9.399968503952575 
+GBRT	NN 9.375515769935166 
+HTPRCWIWT	NN 10.068662950495112 NNT 8.948715833843691 
+WRDR	NNP 8.797246236703527 
+WRDI	NNP 8.797246236703527 
+FWPJIM	NN 7.766077857501067 
+IWELW	VB 9.399968503952575 
+DINAMW	NNP 8.797246236703527 
+LTKNN	VB 8.301356215284466 
+HMNWN	NN 10.068662950495112 
+TSKWLIHM	NN 10.068662950495112 
+NZQQT	VB 9.399968503952575 
+ARFT	NNT 8.948715833843691 
+AWKLIM	VB 8.70682132339263 
+JJRIIM	JJ 8.881558488638976 
+LHQFIB	VB 9.399968503952575 
+MXQRW	NN 10.068662950495112 
+NWHGI	NNT 8.948715833843691 
+LRDT	VB 9.399968503952575 
+HTRWCCWT	NN 10.068662950495112 
+SEWD	NNP 8.797246236703527 
+NDQRH	VB 8.70682132339263 
+BMQBIL	IN 8.648045999835 RB 7.3758821482150125 
+KRKRH	NN 10.068662950495112 
+IWELH	VB 9.399968503952575 
+NWHGT	VB 9.399968503952575 
+IMHRW	VB 9.399968503952575 
+MBQRT	NNT 8.948715833843691 
+NXMD	JJ 8.881558488638976 
+GWLDING	NNP 8.797246236703527 
+LRGL	IN 8.648045999835 
+QLWPIM	JJ 8.881558488638976 
+MTECMT	VB 9.399968503952575 
+HEZH	VB 8.70682132339263 
+GBWH	JJ 5.79051603528066 
+NXMN	NNP 8.104099056143582 
+MBQRI	NNT 8.948715833843691 
+GBWL	NNT 8.255568653283746 NN 7.296074228255331 
+ITWSPW	VB 9.399968503952575 
+MDWWX	VB 8.013674142832684 
+NXLF	VB 8.70682132339263 
+NXLH	VB 8.301356215284466 
+HTABDWTIT	JJ 8.188411308079031 NNP 8.797246236703527 
+MWBILH	NN 10.068662950495112 
+NXLC	VB 9.399968503952575 
+EIWWTIM	NN 8.682368589375221 
+EITWN	NNP 8.797246236703527 NNT 8.948715833843691 NN 6.405101304365465 
+PDRALIT	JJ 8.881558488638976 
+EITWI	NN 9.375515769935166 
+NXLW	VB 8.70682132339263 
+ARHB	NNP 8.797246236703527 
+AIKWT	NNT 6.309658504228433 NN 8.276903481267057 
+NXLT	NNT 8.948715833843691 
+4.2	CD 6.871609832345784 
+MMFLTIT	JJ 7.495264127519086 
+9:00	CD 7.564757012905729 
+HPXDT	NNT 8.948715833843691 
+HTEMLWT	NN 8.459225038061012 
+HLKWT	NN 10.068662950495112 
+PITWI	NN 10.068662950495112 
+MAMNIM	NN 8.682368589375221 
+KIFWRI	NN 9.375515769935166 
+ARIQ	NNP 7.4109518755836366 
+HWKXT	NNT 8.948715833843691 
+FINNW	VB 8.70682132339263 
+MNBAIM	VB 9.399968503952575 
+MLXMWT	NN 9.375515769935166 
+ARIH	NNP 5.906874478807363 NN 9.375515769935166 
+FLWWT	NNT 8.948715833843691 
+ARIG	NNT 8.948715833843691 
+HWKXH	NN 10.068662950495112 
+PITWX	NN 6.7728260844907835 NNT 6.646130740849646 
+MSBIB	MOD 7.518064181233078 RB 8.069029328774958 
+XQIRTM	NN 10.068662950495112 
+MTELM	VB 9.399968503952575 
+GWRAL	NNP 8.104099056143582 
+JPILIM	NN 9.375515769935166 
+MTELH	VB 9.399968503952575 
+NPTXW	VB 8.301356215284466 
+PRSWMT	NN 9.375515769935166 
+NXNK	VB 9.399968503952575 
+099891	CD 6.871609832345784 
+XQIRTW	NN 9.375515769935166 
+LRENN	VB 9.399968503952575 
+RBWT	RB 7.3758821482150125 NNT 8.948715833843691 JJ 5.44757128415383 NN 8.970050661827003 
+NWHLI	NNT 8.255568653283746 
+NPTXH	VB 9.399968503952575 
+PITXW	VB 9.399968503952575 
+400	CD 6.871609832345784 
+SWMKIM	VB 9.399968503952575 
+GWRBI	NNP 8.104099056143582 
+TWEBR	VB 9.399968503952575 
+GRMNISJ	NN 9.375515769935166 
+NPTXT	VB 9.399968503952575 
+TIAR	VB 7.608209034724521 
+ARKW	VB 8.301356215284466 
+GARDN	NNP 8.797246236703527 
+JRBLINQH	NNP 7.4109518755836366 
+HNDSAIM	NN 10.068662950495112 
+NXQR	VB 9.399968503952575 
+ARKH	VB 8.70682132339263 NN 10.068662950495112 
+411	CD 6.871609832345784 
+HTBQF	VB 8.70682132339263 
+TIBH	NN 10.068662950495112 
+IICA	VB 8.70682132339263 
+PRIMIJIWWI	JJ 8.881558488638976 
+BNDWRI	NNP 8.104099056143582 
+MFPXTNW	NN 10.068662950495112 
+PRNST	NNT 8.948715833843691 
+MNTXI	NNT 8.948715833843691 
+AWMRIM	VB 6.509596746056411 
+HTBRR	VB 7.09738341095853 
+PRNSH	NN 10.068662950495112 
+WWTIQ	JJ 8.188411308079031 NNT 8.948715833843691 
+SNDINISJIM	JJ 8.188411308079031 NN 9.375515769935166 
+HTBRG	VB 9.399968503952575 
+LGIJIMCIH	NN 8.682368589375221 
+XIDWF	NN 8.682368589375221 NNT 7.1569563646156364 
+SNDINISJIT	JJ 8.881558488638976 
+BMQWM	IN 6.379362458516635 
+MWAFMT	JJ 8.881558488638976 
+GWRDN	NNP 7.698633948035417 
+LRKB	VB 9.399968503952575 
+APQJIWWI	JJ 8.188411308079031 
+MWNXT	VB 8.70682132339263 
+NXSK	VB 9.399968503952575 
+XFBWNAIT	JJ 8.881558488638976 
+XWMWT	NN 10.068662950495112 
+IIDW	VB 8.70682132339263 
+AXWZH	NN 10.068662950495112 
+ALTWR	NN 10.068662950495112 
+IPRCW	VB 9.399968503952575 
+TRWPH	NN 7.766077857501067 
+MFXQIH	NN 8.970050661827003 
+NXTH	VB 8.70682132339263 
+TRWPT	NNT 8.948715833843691 
+MFXQIM	NN 8.276903481267057 VB 9.399968503952575 
+TIBT	NNT 8.948715833843691 
+FINIW	NN 10.068662950495112 
+NXRJ	VB 9.399968503952575 
+DRMJIT	JJ 8.188411308079031 
+ARNS	NNP 7.4109518755836366 
+NXRT	NNT 8.948715833843691 
+AISLMIM	JJ 8.881558488638976 
+ESQNI	NNT 8.255568653283746 
+ATGRIM	NN 10.068662950495112 
+MWNXI	NNT 8.948715833843691 
+442	CD 7.564757012905729 
+GRMNIWT	JJ 7.7829461999708665 NN 10.068662950495112 
+27.90	CD 7.564757012905729 
+QAWPMN	NNP 8.797246236703527 
+EIRAQIM	NN 10.068662950495112 
+988891	CD 7.564757012905729 
+QRICWT	NN 10.068662950495112 
+TRWMT	NNT 7.850103545175582 
+SMNJI	JJ 8.881558488638976 
+IERER	VB 8.70682132339263 
+IIFQ	VB 9.399968503952575 
+EIRAQIT	JJ 6.935648339583663 
+MMFIKIM	VB 7.608209034724521 NN 10.068662950495112 
+MZKRWT	NN 10.068662950495112 
+NMKRH	VB 8.70682132339263 
+451	CD 6.871609832345784 
+AIKPT	VB 9.399968503952575 
+LRPA	VB 8.70682132339263 
+GRBWZ	NNP 8.104099056143582 
+MXZIQI	NNT 8.948715833843691 
+MXZIQH	VB 8.301356215284466 
+IIFARW	VB 7.4540583548972625 
+BMQRH	RB 6.682734967655067 IN 9.74665828850311 
+NMKRW	VB 7.4540583548972625 
+RWQMN	NNP 8.797246236703527 
+GWMLIN	NN 7.989221408815276 
+SPWRJ	NNT 8.255568653283746 NN 7.1242239713286715 
+MSBIR	VB 8.301356215284466 
+NXTM	VB 7.7905305915184755 
+LRNR	NNP 8.797246236703527 
+LIKWD	NNP 7.698633948035417 NN 6.457745037850888 
+TIAJRLIT	JJ 8.881558488638976 
+461	CD 7.564757012905729 
+HFBT	RB 7.3758821482150125 
+52.05	CD 7.564757012905729 
+TPQID	NNT 6.751491256507472 NN 7.178291192598947 
+MLXMTH	NN 10.068662950495112 
+XMWRWT	JJ 8.881558488638976 
+ITMWDD	VB 8.70682132339263 
+QINWX	NN 10.068662950495112 
+NXWM	NNP 6.717804695023691 
+DPNIM	NN 10.068662950495112 
+PWLIJIT	JJ 5.6626826637707754 
+LHTPFR	VB 8.70682132339263 
+HISJWRIIM	JJ 8.188411308079031 
+LHIPGF	VB 7.7905305915184755 
+CXWQ	NN 8.970050661827003 
+MTNXLIM	NN 10.068662950495112 
+FWXRI	NNT 8.255568653283746 
+AIGRWT	NNT 7.562421472723801 
+ESQIW	NN 10.068662950495112 
+FWXRR	VB 8.70682132339263 
+EJWPH	VB 9.399968503952575 
+TPQWD	NNT 7.850103545175582 NN 9.375515769935166 
+HTQFRTI	VB 9.399968503952575 
+IRNDRH	NNP 8.797246236703527 
+NXWC	VB 8.70682132339263 JJ 8.188411308079031 
+486	CD 7.564757012905729 
+DISQIM	NN 10.068662950495112 
+ESQIM	NN 7.583756300707112 
+ZHWTM	NN 10.068662950495112 
+ARRJ	NNP 8.104099056143582 
+EJWPT	JJT 4.564348191467836 
+AIGRWP	NN 9.375515769935166 
+ESQIT	JJ 8.881558488638976 
+AXWTW	NN 8.682368589375221 
+HTQFRWT	NN 10.068662950495112 
+HFGI	NNT 8.948715833843691 
+LRSN	VB 9.399968503952575 
+FRIDI	NNT 8.948715833843691 
+HFGT	NNT 7.1569563646156364 
+JMBWR	NNP 8.797246236703527 
+GWRLH	NN 9.375515769935166 
+LHTXRWT	VB 8.70682132339263 
+LHTPEL	VB 9.399968503952575 
+496	CD 7.564757012905729 
+RIGWBRJW	NNP 7.698633948035417 
+NXZH	VB 9.399968503952575 
+MZHIRH	VB 9.399968503952575 
+AXWWT	NNT 8.948715833843691 
+HFFI	ZVL 4.3694478524670215 
+SIBIM	NN 8.970050661827003 
+SIBIT	NN 9.375515769935166 
+MQWJET	JJ 8.881558488638976 
+SIBIR	NNP 8.797246236703527 
+KHWNTW	NN 10.068662950495112 
+GWRMI	NNT 7.562421472723801 
+KHWNTH	NN 10.068662950495112 
+GWRLN	NN 10.068662950495112 
+MTEQF	VB 9.399968503952575 
+MFTDLT	VB 8.70682132339263 
+TIIR	NN 8.970050661827003 
+IERIM	NN 10.068662950495112 
+FAWLI	NNP 8.797246236703527 
+FAWLH	JJ 8.881558488638976 
+5.22	CD 7.564757012905729 
+PTWXIM	JJ 8.188411308079031 
+PJWRIM	VB 9.399968503952575 NN 10.068662950495112 
+AXWRI	JJ 8.881558488638976 
+FANDRH	NNP 8.104099056143582 
+MKWPPT	VB 8.70682132339263 
+TENWGWT	NN 10.068662950495112 
+GWRMT	VB 8.013674142832684 
+AMWRH	VB 8.301356215284466 
+IBIAW	VB 7.608209034724521 
+TXWMIM	NN 8.122752801439798 
+LFBWT	VB 8.70682132339263 
+LFBWR	VB 9.399968503952575 
+7491	CD 7.564757012905729 
+FINAH	NN 10.068662950495112 
+GEGWEIM	NN 10.068662950495112 
+MPWSJR	JJ 8.881558488638976 
+ALQJRWNI	JJ 8.881558488638976 
+NTBEIM	NN 8.970050661827003 
+HFIB	VB 7.7905305915184755 
+TIKP	RB 8.069029328774958 
+HFIG	VB 7.7905305915184755 
+LQBWE	VB 7.608209034724521 
+HTNKRWT	NN 9.375515769935166 
+TPQIDW	NN 7.503713593033575 
+HWTIRW	VB 9.399968503952575 
+HPXTT	NNT 8.948715833843691 
+IXIDI	NN 10.068662950495112 JJ 8.188411308079031 
+IXIDH	NN 7.670767677696742 JJ 6.80211694695914 
+TGWWE	VB 9.399968503952575 
+ARWN	NNP 8.104099056143582 NNT 7.850103545175582 NN 8.276903481267057 
+SWKNI	NNT 6.869274292163856 
+HPXTH	NN 10.068662950495112 
+WRWN	NNP 8.797246236703527 
+ARWK	JJ 6.935648339583663 
+NRTEIM	VB 9.399968503952575 
+MIEWJ	NN 8.970050661827003 
+FWXXW	VB 9.399968503952575 
+HWLID	VB 8.70682132339263 
+SWKMW	VB 9.399968503952575 
+GLWIWT	JJ 8.881558488638976 
+LRWC	VB 8.70682132339263 
+AWPRJIWWIWT	JJ 8.881558488638976 
+TRWPWT	NN 8.682368589375221 NNT 8.948715833843691 
+MENIINT	VB 9.399968503952575 JJ 8.881558488638976 
+ABWTI	NN 10.068662950495112 
+TPQIDM	NN 8.459225038061012 
+TPQIDN	NN 10.068662950495112 
+FRIJH	NN 10.068662950495112 
+TPQIDH	NN 9.375515769935166 
+HXKIRH	VB 9.399968503952575 
+AXRWNIM	JJ 5.3262104271495625 
+TPQIDI	NN 10.068662950495112 
+HFKL	NN 10.068662950495112 
+TPQIDK	NN 10.068662950495112 
+LRWM	NNP 8.797246236703527 
+MTXMQWT	VB 9.399968503952575 
+MXMIRWT	JJ 8.881558488638976 
+AWHBIM	VB 8.70682132339263 
+MXRID	JJ 8.881558488638976 
+ICLIX	VB 8.70682132339263 
+IWFBT	VB 9.399968503952575 
+MXRIP	VB 9.399968503952575 
+5.63	CD 7.564757012905729 
+MKWPLT	JJ 8.881558488638976 
+HFNH	RB 5.073297055220967 
+XZWNW	NN 10.068662950495112 
+AMWNH	NN 7.871438373158893 
+XWLWNI	NN 10.068662950495112 
+IIQBEW	VB 8.70682132339263 
+FLWFT	CDT 3.5449041023283305 
+SJWDNJIALI	JJ 8.881558488638976 
+IBIEW	VB 9.399968503952575 
+RIHWJ	NN 10.068662950495112 
+EBWDTNW	NN 10.068662950495112 
+XMWRIM	JJ 8.881558488638976 
+IXIDT	NNT 7.1569563646156364 
+RWFMIM	VB 8.70682132339263 
+LMXRT	RB 6.970417040106848 
+FLWFH	CDT 4.55650501400681 CD 3.7580945231354095 
+RCIM	VB 8.301356215284466 
+HWTIRH	VB 9.399968503952575 
+GWRRT	VB 9.399968503952575 
+IWFBE	VB 9.399968503952575 
+1.2.19	CD 7.564757012905729 
+RCIP	NN 10.068662950495112 
+ARZI	NNT 8.948715833843691 
+NDRFT	VB 8.70682132339263 
+NDRFW	VB 9.399968503952575 
+MCIINIM	VB 8.013674142832684 
+GWRST	VB 8.70682132339263 
+BBQFH	RB 8.069029328774958 
+IISD	VB 9.399968503952575 
+RFIWNWT	NN 10.068662950495112 
+IFRALIT	JJ 5.3262104271495625 
+IFRALIM	NN 8.122752801439798 JJ 6.935648339583663 
+HWLKT	JJ 8.881558488638976 VB 7.7905305915184755 
+TXWMIW	NN 9.375515769935166 
+TIAJRWN	NN 8.122752801439798 NNT 8.255568653283746 
+BJIXWTIIM	JJ 8.881558488638976 
+TIQI	NNP 8.797246236703527 NNT 7.1569563646156364 
+IIRD	VB 9.399968503952575 
+IQWDMW	VB 9.399968503952575 
+ALBRJW	NNP 7.698633948035417 
+BDWMH	IN 8.360363927383219 
+TIQW	NN 8.970050661827003 NNT 7.850103545175582 
+AINDIANH	NNP 7.698633948035417 
+THLIKI	NNT 8.255568653283746 
+ZKIITW	NN 9.375515769935166 
+GIIMS	NNP 7.4109518755836366 
+FWWRDNADZH	NNP 8.797246236703527 
+HWLND	NNP 8.104099056143582 
+AGDWT	NN 10.068662950495112 
+NMWKWT	JJ 7.7829461999708665 
+MTAIMIM	JJ 8.188411308079031 
+HIBXRWTM	NN 10.068662950495112 
+XWNIM	JJ 8.881558488638976 
+NFKRIM	JJ 8.881558488638976 
+TEFIWT	NNT 8.255568653283746 
+BIALIQ	NNP 8.797246236703527 
+HWLMT	JJ 8.188411308079031 
+RCNW	VB 8.70682132339263 
+NBLEW	VB 9.399968503952575 
+GLRWN	NNP 8.797246236703527 
+MEWGNWT	VB 9.399968503952575 
+NFXQW	VB 9.399968503952575 
+NBLET	VB 9.399968503952575 
+BIDWD	NN 9.375515769935166 
+QMLIWT	NN 10.068662950495112 
+LBXWR	VB 7.608209034724521 
+LBXWN	VB 8.013674142832684 
+IITN	VB 8.70682132339263 
+ICLMW	VB 9.399968503952575 
+HKILH	VB 9.399968503952575 
+QWBRIM	VB 9.399968503952575 
+BIDWR	NN 7.503713593033575 
+JAJSWAW	NNP 8.797246236703527 
+FIMWN	NNT 8.948715833843691 
+HMWMIM	JJ 8.881558488638976 
+AWPIINH	VB 9.399968503952575 
+ASAM	NNP 8.797246236703527 
+NXLCW	VB 9.399968503952575 
+FIMWF	NNT 8.948715833843691 NN 6.6346757460099655 
+BINWNIT	JJ 8.188411308079031 
+RCPH	NN 8.970050661827003 
+XZWTW	NN 9.375515769935166 
+DIALWGIM	NN 10.068662950495112 
+FRIQT	NNT 8.948715833843691 
+XWSKIM	NN 8.276903481267057 
+TWELT	NN 8.459225038061012 
+HFWWAH	NN 8.459225038061012 
+ERMWN	NNP 8.104099056143582 
+001,000	CD 7.564757012905729 
+HFWWAT	NNT 8.255568653283746 
+ARWKWT	RB 8.069029328774958 JJ 7.495264127519086 
+HKINW	VB 9.399968503952575 
+HKINH	VB 9.399968503952575 
+ZENIN	NNP 8.797246236703527 
+HKRIZH	VB 8.70682132339263 
+LHINTN	VB 9.399968503952575 
+HKRIZW	VB 9.399968503952575 
+MZKIRWT	VB 9.399968503952575 NNT 8.948715833843691 
+LHINTQ	VB 9.399968503952575 
+HTNFAWT	NN 10.068662950495112 
+MFLMIM	VB 9.399968503952575 
+HXMRT	NNT 8.948715833843691 
+AXRWNWT	JJ 5.885826215084985 
+IWDET	VB 8.70682132339263 
+LJINIWT	JJ 8.881558488638976 
+MLMJH	RB 8.069029328774958 
+LSBK	VB 8.70682132339263 
+IIXL	VB 9.399968503952575 
+IIXS	VB 8.70682132339263 
+QDNCIH	NN 9.375515769935166 
+LHTNTQ	VB 8.70682132339263 
+RCTH	VB 9.399968503952575 
+NWCXNW	VB 9.399968503952575 
+MAMIN	JJ 7.7829461999708665 VB 7.32052696227274 
+LHTNQF	VB 9.399968503952575 
+AWQIINWS	NN 10.068662950495112 
+TXFWB	VB 9.399968503952575 
+ILDIW	NN 9.375515769935166 
+MSTIIDIM	VB 9.399968503952575 
+MPIIST	JJ 8.881558488638976 
+NPFIIM	JJ 8.881558488638976 
+ILDIM	NN 6.667465568832957 
+PGMIM	NN 10.068662950495112 
+MLMIN	NN 8.276903481267057 NNP 8.797246236703527 
+PRMIH	NN 8.682368589375221 
+LASQW	NNP 8.797246236703527 
+KRJIS	NN 10.068662950495112 NNT 7.850103545175582 
+EIQRIIM	JJ 7.495264127519086 
+LSDR	VB 9.399968503952575 
+HNXITH	VB 9.399968503952575 
+GNWAH	NNP 8.797246236703527 
+NPSLH	VB 9.399968503952575 
+HFWW	VB 9.399968503952575 
+HTAIM	VB 8.70682132339263 
+SIJWNAIIM	JJ 8.881558488638976 
+ICJRP	VB 8.301356215284466 
+FRIRWT	NN 10.068662950495112 
+ICJRK	VB 8.013674142832684 
+MPWRZT	JJ 8.881558488638976 
+LSGL	VB 9.399968503952575 
+HWJRD	VB 9.399968503952575 
+LASWR	VB 9.399968503952575 
+FJRWT	NN 10.068662950495112 
+XKIRH	NN 10.068662950495112 
+LSGT	VB 9.399968503952575 
+MAMNW	NN 10.068662950495112 
+LASWP	VB 8.70682132339263 
+TIMNXIH	NN 10.068662950495112 
+RIFWM	NN 9.375515769935166 
+XLMWNIT	NN 10.068662950495112 
+RIFWI	NN 10.068662950495112 
+FWWDI	JJ 8.188411308079031 
+TWCRT	NN 8.682368589375221 NNT 8.255568653283746 
+ICJRKW	VB 8.301356215284466 
+PISIT	JJ 8.188411308079031 
+GIAWLWG	JJ 8.881558488638976 
+AWLPNI	NNT 7.1569563646156364 
+AILWZ	NNP 8.104099056143582 
+JWJLIJRIWT	JJ 8.881558488638976 NN 10.068662950495112 
+LHINQJ	VB 9.399968503952575 
+XISWNIT	JJ 8.881558488638976 
+WWTIQIM	JJ 8.881558488638976 NN 8.682368589375221 
+QFWRWT	VB 8.70682132339263 
+5.0	CD 7.564757012905729 
+HTNGDWT	NN 8.459225038061012 
+5.1	CD 6.871609832345784 
+AINPLCIH	NN 8.276903481267057 
+SIGLTI	VB 9.399968503952575 
+5.4	CD 7.564757012905729 
+5.5	CD 7.564757012905729 
+NWGET	VB 8.013674142832684 
+RWPAH	NN 10.068662950495112 
+RWPAI	NNT 8.255568653283746 
+BAWZNI	IN 8.648045999835 
+HNXIWT	NNT 8.948715833843691 NN 8.970050661827003 
+TWKNWT	NN 10.068662950495112 
+BQNAAR	NNP 8.797246236703527 
+QANIBLIM	JJ 8.881558488638976 
+ASIH	NNP 6.600021659367308 
+WTIQH	JJ 8.881558488638976 
+RCXW	VB 9.399968503952575 
+MWDPSIM	VB 9.399968503952575 
+NWGDT	VB 9.399968503952575 
+MAMNM	NN 10.068662950495112 
+RCWI	JJ 8.188411308079031 NN 10.068662950495112 VB 8.70682132339263 
+MINISJRIALI	JJ 7.7829461999708665 
+TBIETH	NN 10.068662950495112 
+SPWRWT	JJ 8.188411308079031 
+RCWP	JJT 4.564348191467836 JJ 8.881558488638976 
+RCWN	NN 7.583756300707112 NNT 7.850103545175582 
+MAMNI	NNT 8.948715833843691 
+LHGIB	VB 8.013674142832684 
+500	CD 6.466144724237619 
+MNSRT	VB 9.399968503952575 
+501	CD 7.564757012905729 
+LHGID	VB 8.70682132339263 
+LHGIE	VB 6.6919183028503655 
+MSTWDD	VB 9.399968503952575 
+LHGIF	VB 8.301356215284466 
+505	CD 7.564757012905729 
+JQJIWT	JJ 8.881558488638976 
+509	CD 7.564757012905729 
+HTPLGWT	NNT 8.948715833843691 
+MWMLC	VB 9.399968503952575 
+PILSWDSQI	NNP 8.797246236703527 
+HTAMT	NNT 8.948715833843691 
+FPRINCQ	NNP 7.698633948035417 
+LSKN	VB 8.301356215284466 
+ABIBIT	JJ 8.881558488638976 
+MIDIT	JJ 8.881558488638976 
+ICJRPW	VB 8.013674142832684 
+PIQDWN	NN 10.068662950495112 
+BAMCEWT	IN 6.1913102270136955 
+WLSJN	NNP 8.797246236703527 
+XWLQW	VB 8.70682132339263 
+LHTNKR	VB 9.399968503952575 
+511	CD 7.564757012905729 
+NRTEWT	VB 9.399968503952575 
+CWINH	VB 9.399968503952575 
+516	CD 7.564757012905729 
+LKPWT	VB 9.399968503952575 
+519	CD 7.564757012905729 
+ASIPT	NNT 8.948715833843691 
+KRJST	NNT 8.255568653283746 
+NWJLIM	VB 9.399968503952575 
+LSJR	NNP 8.797246236703527 
+521	CD 7.564757012905729 
+ASIPH	NN 8.682368589375221 
+LHSKIM	VB 8.301356215284466 
+PLFTINIT	JJ 7.495264127519086 
+526	CD 7.564757012905729 
+CWENIM	NN 9.375515769935166 
+PLFTINIM	NN 10.068662950495112 
+FWWIC	NNP 7.698633948035417 
+RWPPT	JJ 8.881558488638976 
+AILWC	NN 10.068662950495112 
+FWWIH	NN 10.068662950495112 
+FWWIG	NNP 8.797246236703527 
+FWWIM	JJ 6.935648339583663 
+MNSRWT	NNT 8.948715833843691 
+LSMN	VB 9.399968503952575 
+KIPWT	NN 10.068662950495112 
+SLJIQ	NNP 8.797246236703527 
+531	CD 7.564757012905729 
+NAGJS	NNP 8.797246236703527 
+MXIIKIM	VB 9.399968503952575 
+LBNWNIZCIH	NN 9.375515769935166 
+KLKLNIM	NN 8.970050661827003 
+536	CD 7.564757012905729 
+APWJRWPSWT	NN 10.068662950495112 
+RWMAIT	JJ 8.881558488638976 
+ALWPWT	NN 8.276903481267057 
+MAMRW	NN 9.375515769935166 
+ASNT	NNP 8.797246236703527 
+MAMRK	NN 8.970050661827003 
+PSJWRLI	JJ 8.881558488638976 
+LSLQ	VB 9.399968503952575 
+GMLAWT	NN 8.970050661827003 
+MSQNWTIH	NN 10.068662950495112 
+ASIRI	NNT 8.948715833843691 
+544	CD 7.564757012905729 
+TDMIT	NNT 8.948715833843691 NN 9.375515769935166 
+IRWDH	JJ 8.881558488638976 
+IWCGTI	VB 9.399968503952575 
+QABRRH	NNP 8.797246236703527 
+HTRKZNW	VB 9.399968503952575 
+MFTTPIM	VB 8.70682132339263 NN 7.989221408815276 
+HZDHWT	NN 7.871438373158893 
+BITURIWT	JJ 8.881558488638976 NNP 8.797246236703527 
+LWNDWN	NNP 5.752723798980104 
+AIRDINGN	NNP 8.797246236703527 
+LWKSMBWRG	NNP 8.797246236703527 
+LKWDWT	VB 9.399968503952575 
+550	CD 7.564757012905729 
+552	CD 7.564757012905729 
+LWWIINIM	NN 10.068662950495112 
+IWFQEW	VB 9.399968503952575 
+IEQBI	NNP 8.104099056143582 
+SNDRLND	NNP 8.104099056143582 
+LHTNGD	VB 8.70682132339263 
+MWBJXT	JJ 8.881558488638976 
+DISQWNJ	NNP 7.187808324269427 
+HTNGFWIWT	NN 8.459225038061012 
+MGBLWTIW	NN 10.068662950495112 
+MSAIT	JJ 8.881558488638976 
+ASPW	VB 9.399968503952575 
+LSNR	NNP 8.797246236703527 
+SWLIDI	JJ 8.881558488638976 
+ASPR	VB 9.399968503952575 
+MDWBR	NN 8.970050661827003 VB 5.686396437248268 JJ 8.188411308079031 
+MZIMTW	NN 10.068662950495112 
+CLILH	NN 10.068662950495112 
+NXJPT	VB 9.399968503952575 
+SNIGWRIHM	NN 10.068662950495112 
+EINWIIM	NN 9.375515769935166 
+ABRMSQI	NNP 8.104099056143582 
+ASPH	NN 8.459225038061012 
+IBGWD	VB 9.399968503952575 
+LHTNHG	VB 8.70682132339263 
+BLEDIT	JJ 8.881558488638976 RB 8.069029328774958 
+IRWFH	NN 10.068662950495112 
+RWPIN	NNP 8.797246236703527 
+LIBWBIC	NNP 8.797246236703527 
+HGEH	NN 10.068662950495112 
+XWLWN	NNP 5.906874478807363 
+RDAR	NN 10.068662950495112 
+MJILWT	VB 9.399968503952575 
+AQCIH	NN 10.068662950495112 
+LSQR	VB 9.399968503952575 
+HTASP	VB 9.399968503952575 
+HGET	NNT 8.948715833843691 
+QWLNWE	NN 7.871438373158893 
+MMWCET	JJ 7.7829461999708665 
+575	CD 7.564757012905729 
+HFTMFW	VB 8.70682132339263 
+WIDIAW	NN 10.068662950495112 
+SWBLIM	VB 7.608209034724521 
+CWIIN	VB 9.399968503952575 
+MDIPIM	VB 9.399968503952575 
+LSPR	VB 9.399968503952575 
+LSPQ	VB 8.013674142832684 IN 9.74665828850311 
+LHTNER	VB 8.301356215284466 
+581	CD 7.564757012905729 
+HPWKH	JJ 7.272120576204876 
+586	CD 7.564757012905729 
+RDAI	NNP 8.104099056143582 
+NPFIWT	JJ 8.881558488638976 
+FINWWH	NNP 8.797246236703527 
+8891	CD 5.618846863850416 
+CMITWT	NN 10.068662950495112 
+MPTIEH	JJ 8.188411308079031 VB 9.399968503952575 
+NQWDH	NN 8.122752801439798 
+MWPTET	VB 9.399968503952575 
+GRWEIM	JJ 8.188411308079031 
+ASUA	NNP 8.104099056143582 
+HEWNH	RB 5.671134055976587 
+MGWFMT	JJ 8.188411308079031 
+PRWANI	JJ 8.188411308079031 
+HGFT	NNT 7.339277921409591 
+LSGWR	VB 8.70682132339263 
+ASTR	NNP 6.851336087648214 
+QSJRW	NNP 8.797246236703527 
+HSDRIM	NN 8.122752801439798 
+NWSEIM	NN 8.682368589375221 VB 8.70682132339263 
+ILDWT	NN 8.122752801439798 
+MFPXTIT	JJ 7.7829461999708665 
+1,500	CD 7.564757012905729 
+KPPH	NN 10.068662950495112 
+NIRNBRG	NNP 8.104099056143582 
+TPISTN	NN 10.068662950495112 
+JIWLI	NNT 7.562421472723801 
+GIHAD	NN 9.375515769935166 
+FJRIT	NNP 8.797246236703527 
+IJLW	VB 8.70682132339263 
+HGIX	VB 8.301356215284466 
+ITQBLW	VB 8.70682132339263 
+HTIIFBWT	NN 8.682368589375221 
+LIJWL	VB 8.013674142832684 
+FWWRC	NNP 7.698633948035417 
+MSWLSLWT	JJ 8.881558488638976 
+MZKIRIM	VB 8.013674142832684 
+MHGRWT	NN 10.068662950495112 
+FABH	VB 9.399968503952575 
+FNWTIH	NN 10.068662950495112 
+GWLDFJIIN	NNP 8.797246236703527 
+AILNH	NNP 7.4109518755836366 
+NFWAH	JJ 8.881558488638976 
+LBWFH	JJ 8.881558488638976 
+FABW	VB 8.70682132339263 
+MTKWNT	NN 9.375515769935166 
+FNWTIW	NN 9.375515769935166 
+MWMXH	NN 8.276903481267057 
+XWFFIM	VB 7.32052696227274 
+NTNIITIM	NN 9.375515769935166 
+LHIRAWT	VB 9.399968503952575 
+KPRH	NN 10.068662950495112 
+HGIB	VB 7.4540583548972625 
+PFJWT	NN 9.375515769935166 
+HGIE	VB 6.264474288023425 
+MSEWTIW	NN 10.068662950495112 
+HGIF	VB 7.4540583548972625 
+KPRI	NN 10.068662950495112 
+LSWR	VB 9.399968503952575 
+MSWNPIM	VB 8.70682132339263 
+IFTLW	VB 9.399968503952575 
+DNIAL	NNP 7.187808324269427 
+MZWIN	JJ 8.881558488638976 
+TFLWMI	NNT 7.1569563646156364 
+AQSIWMH	NN 10.068662950495112 
+IIBXRW	VB 9.399968503952575 
+ASWR	JJ 8.881558488638976 VB 7.202743926616356 
+IFWXRRW	VB 9.399968503952575 
+MDWIQ	JJ 7.495264127519086 
+ASWN	NN 8.970050661827003 
+MAWWRIQS	NNP 8.104099056143582 
+RPWBLIQAIT	JJ 8.881558488638976 
+KPSR	NNP 8.797246236703527 
+ECBWT	NNT 8.948715833843691 
+MZWHH	VB 8.013674142832684 
+SWJIM	VB 9.399968503952575 
+HPQIEW	VB 9.399968503952575 
+PIGWARDW	NNP 8.797246236703527 
+PLFTIN	NNP 8.797246236703527 
+WAN	NNP 8.797246236703527 
+RDIW	NN 8.276903481267057 
+RIGLH	VB 9.399968503952575 
+NISWXIM	NN 10.068662950495112 
+KPWI	VB 9.399968503952575 
+HGNH	NN 6.9776204971367966 
+KPWL	JJ 8.188411308079031 
+HPQIDW	VB 9.399968503952575 
+DMGWGIWT	JJ 8.881558488638976 
+ABXWN	NN 10.068662950495112 
+XWMRH	NN 9.375515769935166 
+XWMRI	NNT 7.339277921409591 JJ 8.188411308079031 
+MTBDXIM	VB 9.399968503952575 
+JJRIWT	JJ 8.188411308079031 
+LGDWL	VB 9.399968503952575 
+QFWRIM	JJ 8.881558488638976 VB 8.013674142832684 
+XWMRT	NNT 7.850103545175582 
+MWEMDIM	NN 7.503713593033575 
+NQWDT	NNT 8.255568653283746 
+AILIH	NNP 7.4109518755836366 
+HWKFR	VB 9.399968503952575 
+MPWRFT	JJ 8.188411308079031 
+PWNDMNJLISJIWT	JJ 8.881558488638976 
+XQIRWT	NN 9.375515769935166 
+HWGBLW	VB 9.399968503952575 
+AWUMI	JJ 8.881558488638976 
+MZWMN	NN 9.375515769935166 
+NTNIHW	NNP 7.698633948035417 
+IFTQP	VB 9.399968503952575 
+MWEDWNIM	NN 10.068662950495112 
+FAJI	NNP 8.797246236703527 
+RDLR	NNP 8.797246236703527 
+KPWT	NNT 8.948715833843691 NN 10.068662950495112 
+BWAI	VB 9.399968503952575 
+BWAH	NN 9.375515769935166 
+AISJNBWL	NNP 7.4109518755836366 
+HGNT	NNT 7.339277921409591 
+MWLWQWLWT	NN 10.068662950495112 
+SGNI	NNT 8.948715833843691 
+ALWPIM	NN 10.068662950495112 
+AIDIAWLWGIT	JJ 8.188411308079031 
+IFBITW	VB 9.399968503952575 
+SPWRIM	JJ 7.495264127519086 
+AILCW	VB 9.399968503952575 
+MWDAGIM	JJ 8.881558488638976 
+WED	NN 10.068662950495112 NNT 6.646130740849646 
+SEWDI	JJ 8.188411308079031 
+GDLH	NN 10.068662950495112 
+TRWEH	NN 9.375515769935166 
+SGNW	NN 8.970050661827003 
+MWNCX	VB 9.399968503952575 
+MFWLMT	VB 9.399968503952575 JJ 8.881558488638976 
+BBRKW	NNP 8.797246236703527 
+MTKWWN	VB 7.202743926616356 
+IIRFMW	VB 9.399968503952575 
+BWBH	NN 10.068662950495112 
+XWAN	NNP 8.797246236703527 
+RCWIH	VB 9.399968503952575 
+QWWIN	NNP 8.104099056143582 
+IWEBR	VB 8.301356215284466 
+TGWBH	NN 7.1242239713286715 
+MWBA	VB 8.70682132339263 
+MWBN	NN 8.682368589375221 VB 8.70682132339263 JJ 7.7829461999708665 
+LFAWL	VB 8.301356215284466 
+LXWLL	VB 8.70682132339263 
+BWAW	NN 9.375515769935166 
+HWKIX	VB 8.70682132339263 
+XWBB	NNT 8.948715833843691 
+FALH	NN 6.542302425878951 VB 8.70682132339263 
+TGWBT	NNT 8.948715833843691 
+TZMWN	NN 10.068662950495112 
+MIDWT	NN 8.682368589375221 
+DMEWT	NN 9.375515769935166 
+NZEQ	VB 9.399968503952575 
+HWKNSW	VB 8.70682132339263 
+LFAWB	VB 9.399968503952575 
+BWAN	NN 10.068662950495112 
+BWAM	NN 8.459225038061012 
+MFWLLT	JJT 4.564348191467836 
+GRGWRI	NNT 8.948715833843691 
+yyQUOT	yyQUOT 0.0 
+DWBRI	NNT 7.562421472723801 
+RIGWL	NN 9.375515769935166 
+BMSGRT	IN 6.083096642373463 
+BWCE	VB 9.399968503952575 
+MWAC	JJ 8.881558488638976 
+GIHNWM	NN 9.375515769935166 
+10,000	CD 6.871609832345784 
+MBQFT	VB 8.013674142832684 
+DWBRT	NNT 8.948715833843691 NN 10.068662950495112 
+JMWN	VB 9.399968503952575 
+HTBCE	VB 9.399968503952575 
+HKRIEW	VB 8.70682132339263 
+MDWRG	VB 8.70682132339263 
+AWBRWN	NNP 8.797246236703527 
+BWDD	JJ 7.272120576204876 
+MWDH	VB 8.70682132339263 
+TCJRK	VB 8.70682132339263 
+XWCH	NN 10.068662950495112 
+MWDD	VB 9.399968503952575 NNT 8.948715833843691 
+MWDE	JJ 8.881558488638976 VB 8.301356215284466 
+MWDN	NNP 8.104099056143582 
+MINISJRIALIT	JJ 7.495264127519086 
+QAMP	NNP 8.797246236703527 
+MWDL	NN 8.970050661827003 
+LTAM	VB 9.399968503952575 
+SNIGWRIWT	NN 9.375515769935166 
+LTAR	VB 8.70682132339263 
+NZQIM	NN 8.970050661827003 
+SIAJL	NNP 8.104099056143582 
+IJWS	VB 9.399968503952575 
+RDPW	VB 9.399968503952575 
+AWMRWT	VB 9.399968503952575 
+FALT	NNT 8.948715833843691 
+FRFRAWT	NN 10.068662950495112 
+RNWAR	NNP 8.797246236703527 
+HDDIWT	JJ 8.188411308079031 
+LHTNXM	VB 9.399968503952575 
+FALW	VB 8.70682132339263 
+IWECW	NN 10.068662950495112 
+MWCE	VB 8.013674142832684 
+TEMWLTH	NN 10.068662950495112 
+MWCG	VB 8.013674142832684 
+NGZRW	VB 9.399968503952575 
+XWBH	NN 8.122752801439798 
+MWCA	NN 7.989221408815276 NNP 8.797246236703527 NNT 8.255568653283746 
+SGRH	VB 9.399968503952575 
+MWCB	VB 9.399968503952575 
+KRKIM	NN 8.970050661827003 
+yyCM	yyCM 0.0 
+QWALICIH	NN 7.360612749392902 
+MWCP	VB 9.399968503952575 
+IFTTP	VB 9.399968503952575 
+XWBT	NNT 7.562421472723801 
+BWDQ	VB 8.70682132339263 
+MWCR	NN 8.276903481267057 
+SIMPAJI	JJ 8.881558488638976 
+SGRW	VB 8.301356215284466 
+MWFA	NN 10.068662950495112 
+MWFB	NN 9.375515769935166 
+1,509	CD 7.564757012905729 
+LHEBIR	VB 7.09738341095853 
+TDMWR	NNP 8.797246236703527 
+GRMNIIM	JJ 8.188411308079031 
+RCWEH	NN 7.583756300707112 
+HLKNW	VB 9.399968503952575 
+MWFK	VB 9.399968503952575 
+NZIL	JJ 8.881558488638976 
+MWNFM	VB 9.399968503952575 
+MWFG	NNT 7.850103545175582 NN 8.122752801439798 
+AIDIAWLWGIH	NN 9.375515769935166 
+XWFB	VB 6.835019146491039 
+XWMIM	JJ 8.881558488638976 
+IFTWQ	VB 9.399968503952575 
+XWFD	VB 9.399968503952575 
+BWEZ	NNP 8.797246236703527 
+RCWET	NNT 6.751491256507472 
+XWFF	VB 8.013674142832684 
+WIJLI	NNP 8.797246236703527 
+QSJWT	NN 9.375515769935166 
+NGZRH	VB 9.399968503952575 
+BWER	JJ 8.881558488638976 
+QJIGWRIH	NN 10.068662950495112 
+ABXNH	NN 9.375515769935166 
+WJW	NN 8.970050661827003 
+TLIWNIM	NN 10.068662950495112 
+XWDF	NN 6.379783496381176 NNT 6.240665632741481 
+IRWXM	NNP 8.797246236703527 
+MWEJ	JJ 8.188411308079031 
+MPZRI	NNT 8.948715833843691 
+MWED	NN 8.276903481267057 NNT 7.562421472723801 NNP 8.797246236703527 
+HTLBJW	VB 9.399968503952575 
+MGBILH	VB 9.399968503952575 
+NZHR	VB 9.399968503952575 
+LXWQR	VB 9.399968503952575 
+MWNET	VB 8.70682132339263 
+NSBLIM	JJ 8.881558488638976 
+BJIXWTI	JJ 8.881558488638976 
+XLIPIN	NN 10.068662950495112 
+XWDW	NN 10.068662950495112 
+BIEWR	NNT 8.948715833843691 
+HJEIM	VB 8.70682132339263 
+HWKNS	VB 9.399968503952575 
+BWHQ	JJ 8.881558488638976 NN 10.068662950495112 
+KISWI	NNT 8.255568653283746 NN 10.068662950495112 
+300,000	CD 6.466144724237619 
+XWGI	NNT 8.948715833843691 
+SGWR	NNT 8.948715833843691 JJ 8.188411308079031 
+HCBIEH	VB 8.70682132339263 
+NZKH	VB 8.013674142832684 
+SGWL	NN 9.375515769935166 
+MWHR	NN 10.068662950495112 
+AMZLG	NNP 8.797246236703527 
+NZKR	VB 8.70682132339263 
+HCBIEW	VB 8.70682132339263 
+AIFIWT	JJ 8.188411308079031 NN 8.970050661827003 
+BWGR	NNT 8.948715833843691 
+LWMDWT	VB 9.399968503952575 
+NXLQIM	VB 9.399968503952575 
+BNWIH	VB 9.399968503952575 
+XICWNIWT	JJ 8.881558488638976 
+XWFK	NN 8.970050661827003 
+ARGWN	NN 7.1242239713286715 NNT 6.240665632741481 
+HGWN	JJ 8.881558488638976 
+BWHZ	NNP 8.797246236703527 
+LIMPH	NN 10.068662950495112 
+ALWHI	NNT 8.948715833843691 
+BWHW	NN 9.375515769935166 
+RWWXTM	NN 10.068662950495112 
+ATGR	NN 8.970050661827003 
+MWPNM	JJ 8.881558488638976 
+MWPNH	VB 9.399968503952575 
+MWJB	NN 9.375515769935166 VB 8.013674142832684 
+MWJL	VB 8.70682132339263 
+BWJL	NNP 8.797246236703527 VB 9.399968503952575 
+GDWD	NNT 8.948715833843691 
+BWJH	JJ 8.881558488638976 
+MWJI	NNP 7.4109518755836366 
+GDWF	JJT 4.564348191467836 
+BERNWT	RB 8.069029328774958 
+HTENIIN	VB 9.399968503952575 
+FRJWJ	NN 10.068662950495112 
+GDWL	NNT 8.948715833843691 JJ 4.94973285591465 JJT 3.1780538303479458 
+MWJW	NN 10.068662950495112 
+QSMIM	NN 9.375515769935166 
+XWJI	NNT 8.948715833843691 
+RDWD	JJ 8.881558488638976 
+AIMPRIWT	NNT 8.948715833843691 NN 10.068662950495112 
+GDWT	NN 10.068662950495112 NNP 7.698633948035417 NNT 8.948715833843691 
+XWJB	NNT 8.948715833843691 
+TWCAWTIW	NN 10.068662950495112 
+XWJA	VB 9.399968503952575 
+HWMWR	NN 8.459225038061012 
+SCINWT	NN 9.375515769935166 
+QARD	NN 10.068662950495112 
+DIPLWMJIIM	JJ 8.881558488638976 
+BIGWD	NN 10.068662950495112 
+QARN	NNP 8.104099056143582 
+NWTNIM	VB 8.301356215284466 
+MLPNI	IN 9.74665828850311 
+CZNH	NNP 8.797246236703527 
+TWCAWTIH	NN 9.375515769935166 
+HTNHLW	VB 8.013674142832684 
+QARW	NNP 8.797246236703527 
+BIGWN	NNP 8.797246236703527 
+FIPWR	NNT 7.002805684788378 NN 9.375515769935166 
+AWWIR	NN 7.2354496064388965 
+TPSID	VB 9.399968503952575 
+AFDWD	NNP 6.399350963905157 
+TPSIQ	VB 8.70682132339263 
+FIPWJ	NN 10.068662950495112 
+MAWXRIM	JJ 8.881558488638976 
+ARGWNIIM	JJ 8.881558488638976 
+MWLH	NN 10.068662950495112 
+BWLS	NNP 7.698633948035417 
+MXSWR	NN 8.682368589375221 
+FIPWC	NNT 8.255568653283746 NN 10.068662950495112 
+MWLD	NN 9.375515769935166 
+PWNQCIWT	NN 9.375515769935166 
+BWLM	VB 9.399968503952575 
+XWRFWT	NNT 8.948715833843691 
+IFWBW	VB 8.70682132339263 
+BWLJ	VB 9.399968503952575 JJ 6.935648339583663 
+PEILIM	NN 8.682368589375221 JJ 8.881558488638976 
+QINMWN	NN 10.068662950495112 
+XWLF	VB 9.399968503952575 
+BWLE	VB 9.399968503952575 
+XWLH	NN 10.068662950495112 NNT 8.948715833843691 JJ 8.881558488638976 
+ASJWN	NNP 7.698633948035417 
+XWLI	NNT 7.850103545175582 
+MTGLH	VB 8.70682132339263 
+LHPEIL	VB 7.608209034724521 
+MXMIRH	JJ 8.881558488638976 
+SICILIH	NNP 8.104099056143582 
+MWKN	VB 7.002073231154205 
+MWKI	JJT 3.871201010907891 
+XWJP	VB 8.70682132339263 
+PDRLIT	JJ 8.881558488638976 
+HTHWWH	VB 9.399968503952575 
+XWPFH	NN 7.766077857501067 
+XWPFI	JJ 6.935648339583663 
+MWKR	JJ 8.881558488638976 VB 9.399968503952575 NN 9.375515769935166 
+600	CD 7.564757012905729 
+601	CD 7.564757012905729 
+MWKT	JJT 4.564348191467836 
+MXSWM	NN 10.068662950495112 
+BLINQWB	NNP 8.797246236703527 
+MWPTI	JJ 8.881558488638976 
+MWNH	NNP 8.797246236703527 VB 7.002073231154205 
+QAWL	NNP 8.104099056143582 
+MWNJ	NNP 8.797246236703527 
+LKSWT	VB 8.70682132339263 
+MWND	NNP 8.104099056143582 
+MWNE	JJ 8.881558488638976 VB 9.399968503952575 
+IITLWW	VB 9.399968503952575 
+IKBD	VB 9.399968503952575 
+FRIQWT	NNT 8.255568653283746 
+MRWWIXWT	VB 9.399968503952575 
+MWPRZ	JJ 8.881558488638976 
+WRH	NNP 8.797246236703527 
+XWMR	NN 6.457745037850888 NNT 7.562421472723801 
+JWRQIIM	JJ 7.7829461999708665 
+JQBASRN	NNP 8.797246236703527 
+NWSKIM	VB 9.399968503952575 
+BWNH	VB 9.399968503952575 NN 9.375515769935166 
+MWNX	NN 10.068662950495112 VB 9.399968503952575 
+GWLFWT	VB 9.399968503952575 
+WRP	NNP 8.104099056143582 
+MWNW	VB 9.399968503952575 
+GBWHI	NNT 8.948715833843691 JJT 4.564348191467836 
+GBWHH	JJ 5.79051603528066 
+RWSIH	JJ 8.881558488638976 NNP 6.600021659367308 
+MWPQR	JJ 8.881558488638976 
+SWMAW	VB 9.399968503952575 
+AWLJIMJWM	NN 10.068662950495112 
+IWQRTIT	JJ 8.881558488638976 
+XWLM	VB 9.399968503952575 
+XWLP	VB 9.399968503952575 JJ 8.881558488638976 
+MWMR	NN 10.068662950495112 
+MWPQT	VB 9.399968503952575 
+XWLQ	VB 9.399968503952575 
+WTIQ	JJ 8.881558488638976 
+FAWL	NNP 7.698633948035417 NN 9.375515769935166 
+JWRQIIH	JJ 7.495264127519086 NN 8.970050661827003 
+XWMH	NN 9.375515769935166 
+RWSIT	JJ 6.80211694695914 NN 8.970050661827003 
+QLIIJWN	NNP 8.797246236703527 
+NWJIM	VB 9.399968503952575 
+MWPRK	JJ 8.881558488638976 
+MWPRD	JJ 8.881558488638976 
+PWRMALIT	JJ 8.881558488638976 
+RWSIM	NN 8.122752801439798 JJ 8.881558488638976 
+MWPRF	VB 9.399968503952575 
+KMWSIM	JJ 8.188411308079031 
+MRAIM	VB 8.301356215284466 
+LWWAI	NN 9.375515769935166 
+yyQM	yyQM 0.0 
+IRXMIAL	NNP 8.797246236703527 
+AIMWC	NNT 8.948715833843691 
+AQDMI	JJ 8.188411308079031 
+AIMWN	NN 7.989221408815276 
+MWPT	NN 8.970050661827003 
+WRGAS	NNP 6.717804695023691 
+FIPRW	VB 9.399968503952575 
+LTMWK	VB 8.013674142832684 
+MWPQ	VB 9.399968503952575 
+XWPI	NNT 8.255568653283746 JJ 8.881558488638976 
+HTIICBW	VB 7.7905305915184755 
+DWDIM	NN 10.068662950495112 
+632	CD 7.564757012905729 
+WTQ	NN 9.375515769935166 
+HWRAWT	NN 8.459225038061012 NNT 7.1569563646156364 
+MWQD	NNT 7.850103545175582 NN 8.970050661827003 
+XIFWBI	NNT 8.948715833843691 
+LIMWR	NNP 8.104099056143582 
+XWPF	NN 8.459225038061012 NNT 7.339277921409591 
+HFTLJW	VB 9.399968503952575 
+BWQR	NN 7.296074228255331 NNP 8.797246236703527 
+SKSWKIM	NN 8.682368589375221 
+BWQE	VB 9.399968503952575 
+MWPE	NN 10.068662950495112 
+LGIJIMIWT	JJ 8.881558488638976 
+AIFIWTK	NN 10.068662950495112 
+MWRN	NNP 8.797246236703527 
+LHRKIB	VB 8.013674142832684 
+MWRH	NNT 8.948715833843691 NN 7.989221408815276 
+BWRX	VB 9.399968503952575 
+AIFIWTM	NN 9.375515769935166 
+MWRJ	JJT 4.564348191467836 
+XWRB	NNP 7.4109518755836366 
+XWQR	NN 8.459225038061012 NNT 8.255568653283746 
+MXZWRIM	NN 8.970050661827003 
+BWRR	NN 8.682368589375221 
+MWRW	NN 9.375515769935166 
+AIFIWTW	NN 8.276903481267057 
+JNIS	NN 9.375515769935166 
+yyELPS	yyELPS 0.0 
+JRIJWRIALIT	JJ 8.188411308079031 
+BWRH	NNP 8.797246236703527 
+XWRP	NN 8.970050661827003 
+KRMWN	NNP 8.797246236703527 
+BWRA	NN 8.682368589375221 
+MWSA	NNP 8.797246236703527 
+63.5	CD 7.564757012905729 
+XWRG	JJ 8.881558488638976 
+XMSIN	NN 9.375515769935166 
+MWSD	NNT 8.948715833843691 NN 7.989221408815276 
+MWQM	VB 9.399968503952575 
+BLPWR	NNP 8.104099056143582 
+MSDIR	VB 9.399968503952575 
+APIDMIWLWGIIM	JJ 8.881558488638976 
+RWJNBRG	NNP 6.494661143709481 
+MWQI	NNP 8.104099056143582 
+MCJBRWT	JJ 8.881558488638976 
+LIMWD	NN 7.429605620879854 NNT 8.948715833843691 
+WWL	NNP 7.698633948035417 
+MWQP	VB 9.399968503952575 
+HBQEH	NN 9.375515769935166 
+QLIBWRN	NNP 8.797246236703527 
+ATMWL	RB 3.5046811373071214 
+TBJIX	VB 9.399968503952575 
+MWRD	JJ 8.881558488638976 NNT 8.948715833843691 NN 10.068662950495112 
+MWRA	NN 10.068662950495112 
+XWQI	JJ 8.881558488638976 NNT 8.255568653283746 
+XWQH	NN 7.670767677696742 
+TFIFWT	NN 9.375515769935166 
+HIERKWT	NN 8.122752801439798 
+MPRFIH	NN 10.068662950495112 
+ANPILD	NNP 8.797246236703527 
+FMINIT	JJ 8.881558488638976 
+LTQN	VB 7.7905305915184755 
+MWTM	NN 10.068662950495112 
+MWTW	NN 7.1242239713286715 
+NPWCH	JJ 8.881558488638976 
+MWTX	VB 9.399968503952575 
+IKHN	VB 8.70682132339263 
+MWTR	VB 7.7905305915184755 JJ 7.7829461999708665 
+MCWDT	NNT 8.948715833843691 
+NEWCH	VB 8.70682132339263 
+HWNAH	NN 10.068662950495112 
+DIWWXIM	NN 8.276903481267057 
+FWBINIZM	NN 8.970050661827003 
+MWSP	NN 10.068662950495112 NNT 8.948715833843691 
+MWSJ	NNP 8.797246236703527 
+AMRIQAIWT	JJ 6.935648339583663 
+MWSR	VB 8.013674142832684 NNT 8.948715833843691 
+XWSM	VB 9.399968503952575 
+NAJUW	NNP 7.187808324269427 
+XWSL	VB 9.399968503952575 
+685	CD 7.564757012905729 
+ATRI	NNT 7.339277921409591 
+XWSR	NNT 5.770662003495746 
+QWMWNISJI	JJ 7.7829461999708665 
+MWPLAWT	JJ 8.881558488638976 
+XIDWFIM	NN 10.068662950495112 
+MNWDH	VB 9.399968503952575 
+TWGBR	VB 9.399968503952575 
+XWSK	NN 8.276903481267057 
+KIRWRGIT	JJ 8.881558488638976 
+MIGRF	NN 10.068662950495112 
+KIRWRGIM	NN 10.068662950495112 
+AIPFRH	VB 8.301356215284466 
+5000	CD 7.564757012905729 
+ALKSNDR	NNP 7.698633948035417 
+MTWRBTT	JJ 8.881558488638976 
+QLIFAWT	NN 10.068662950495112 
+MMWFKT	JJ 8.188411308079031 
+MTWARIM	VB 8.70682132339263 
+AIMTW	NN 10.068662950495112 
+MWUP	NN 10.068662950495112 
+MWUL	NNT 8.948715833843691 NN 8.970050661827003 
+IKIN	VB 9.399968503952575 
+ZKWIWTIHM	NN 9.375515769935166 
+GRACIH	NNP 8.797246236703527 
+MWUM	NN 7.670767677696742 
+HBQIE	VB 7.7905305915184755 
+WIKWXIM	NN 10.068662950495112 
+IKIR	VB 8.301356215284466 
+AIMTH	VB 9.399968503952575 
+AIPFRW	VB 8.301356215284466 
+NXLQWT	VB 9.399968503952575 
+CWJJW	VB 8.70682132339263 
+TKIN	VB 9.399968503952575 
+LWWDA	VB 9.399968503952575 
+XWUL	NN 6.9776204971367966 
+MCWID	JJ 8.881558488638976 
+XGABI	NNP 8.797246236703527 
+TBIEWTIH	NN 10.068662950495112 
+SQNDINWWIT	JJ 8.881558488638976 
+MWXN	NN 10.068662950495112 
+JLQWMWNIQCIH	NN 10.068662950495112 
+AWNNWT	NN 10.068662950495112 
+IKLW	VB 7.32052696227274 
+BWXR	VB 9.399968503952575 
+BWXN	VB 9.399968503952575 
+GBWRH	NN 9.375515769935166 
+QBCN	NN 10.068662950495112 
+QPDNI	JJ 8.188411308079031 
+LWWIH	NN 8.682368589375221 
+MIGWN	NN 10.068662950495112 
+HERKTM	NN 10.068662950495112 
+DIIRIM	NN 10.068662950495112 
+MWWT	NN 6.9776204971367966 
+HDWQH	JJ 8.881558488638976 
+LHTRKZ	VB 8.70682132339263 
+TXWFWT	NN 9.375515769935166 
+NSIETW	NN 8.459225038061012 
+QRIIRH	NN 8.970050661827003 
+GMWRH	JJ 8.881558488638976 
+MGBLWT	NN 9.375515769935166 
+7691	CD 7.564757012905729 
+CRLSJWN	NNP 8.797246236703527 
+HXLJWT	NNT 7.002805684788378 NN 7.024140512771689 
+XWWT	NNT 7.850103545175582 
+ALMWNIM	NN 10.068662950495112 
+XWWH	VB 8.70682132339263 
+MCWIN	JJ 8.188411308079031 
+EIQRIWT	JJ 8.881558488638976 
+MWXM	NN 10.068662950495112 
+MCWIH	VB 9.399968503952575 
+IKLH	VB 9.399968503952575 
+ALBLDS	NNP 8.797246236703527 
+JLPWNIM	NN 10.068662950495112 
+XWZH	NN 8.682368589375221 NNT 7.850103545175582 VB 9.399968503952575 
+MWZR	NN 10.068662950495112 JJ 8.881558488638976 
+XWZI	NNT 7.339277921409591 
+HDWRH	JJ 8.881558488638976 
+HXLJTW	NN 10.068662950495112 
+FBET	CDT 5.942799375126701 
+NWJWT	VB 9.399968503952575 
+FBEW	VB 9.399968503952575 
+QBEH	VB 7.32052696227274 
+BWZR	NNP 7.698633948035417 
+LHTRIE	VB 9.399968503952575 
+FLJWNW	NN 8.970050661827003 
+KFIRWT	NN 10.068662950495112 
+HXLJTH	NN 9.375515769935166 
+QRIINR	NNP 8.797246236703527 
+APIZWDH	NN 10.068662950495112 
+XWZR	JJ 8.188411308079031 VB 8.301356215284466 NN 10.068662950495112 
+AIFIIM	JJ 7.7829461999708665 
+HXLJTM	NN 10.068662950495112 
+XWSIIN	NNP 5.661752020774378 
+ASJRAJGIIM	JJ 7.7829461999708665 
+FIXQNW	VB 9.399968503952575 
+LHTRIS	VB 9.399968503952575 
+MPWRSMIM	JJ 8.188411308079031 
+HTXFBWT	NN 10.068662950495112 
+MEBIRIM	VB 9.399968503952575 
+IIRGEW	VB 9.399968503952575 
+SQNDINWWIM	JJ 8.881558488638976 
+FBEH	CD 5.772997543677674 
+LTWK	IN 9.053511107943164 
+XAG	NN 9.375515769935166 
+XAN	NNP 6.600021659367308 
+ALMLIX	NNP 8.104099056143582 
+AIRLND	NNP 7.187808324269427 
+RENNWT	NN 10.068662950495112 
+QIPWX	NN 10.068662950495112 
+LHTRFM	VB 9.399968503952575 
+XICWNIIM	JJ 8.188411308079031 
+LHTRGF	VB 8.301356215284466 
+TESWQ	VB 8.301356215284466 
+JNTM	NN 10.068662950495112 
+XBJ	VB 9.399968503952575 
+XBL	NN 9.375515769935166 RB 6.682734967655067 NNT 7.850103545175582 
+LJQIH	NNP 8.797246236703527 
+QBEW	VB 7.608209034724521 
+IAHBW	VB 9.399968503952575 
+XBR	NN 7.429605620879854 NNT 6.463809184055691 
+IWHAN	NNP 8.104099056143582 
+TAGID	NN 10.068662950495112 
+REIL	JJ 8.881558488638976 
+HFTKNE	VB 9.399968503952575 
+ADRIKL	NN 10.068662950495112 
+GMLAIM	NN 9.375515769935166 
+MMTIN	VB 8.70682132339263 
+XCH	VB 9.399968503952575 
+HCIPWIIIM	ZVL 4.3694478524670215 
+XCI	NN 7.360612749392902 NNT 6.240665632741481 
+FBIM	NN 9.375515769935166 
+ELIITW	NN 10.068662950495112 
+XCR	NN 9.375515769935166 
+PEILWT	NN 7.1242239713286715 VB 9.399968503952575 NNT 7.562421472723801 
+MWQDI	NNT 8.255568653283746 
+RELH	NN 9.375515769935166 
+MWQDF	VB 8.70682132339263 
+XWRFIM	VB 9.399968503952575 
+ELIITM	NN 8.970050661827003 
+BQFWTIHM	NN 10.068662950495112 
+MNWKH	VB 8.013674142832684 
+LAWMI	NN 10.068662950495112 JJ 4.838507220804426 
+FIDWRI	NNT 8.948715833843691 
+MWQDM	JJ 7.495264127519086 RB 7.3758821482150125 
+KIMIQLIM	NN 9.375515769935166 
+XDD	NNP 8.797246236703527 
+XDF	JJ 4.838507220804426 
+MBWQFWT	JJ 8.881558488638976 
+MNWKR	JJ 8.881558488638976 
+RFAIT	VB 8.013674142832684 
+XDH	JJ 7.7829461999708665 
+XDL	VB 8.301356215284466 
+ARGEH	NN 9.375515769935166 
+HBXNWT	NN 10.068662950495112 
+XDR	VB 8.70682132339263 NN 7.766077857501067 NNT 6.646130740849646 
+FIKWRIM	NN 10.068662950495112 
+MWQCH	VB 9.399968503952575 
+XDT	JJT 4.564348191467836 
+HIEDR	NNT 8.255568653283746 
+JHWRH	JJ 8.188411308079031 
+FBIJ	NN 10.068662950495112 
+FBIL	NNT 8.948715833843691 NN 10.068662950495112 
+ARGWNIM	NN 7.766077857501067 
+MCWQH	NN 7.871438373158893 
+IWQRTI	JJ 7.7829461999708665 
+ARGWNIT	JJ 8.188411308079031 
+NMNEW	VB 8.301356215284466 
+HKWWNT	NNT 8.948715833843691 
+HXLJNW	VB 9.399968503952575 
+MXBL	VB 9.399968503952575 
+IWQRTW	NN 10.068662950495112 
+XFB	VB 7.7905305915184755 NN 8.459225038061012 
+RENN	JJ 8.881558488638976 NNP 8.104099056143582 
+MNWGDWT	JJ 8.881558488638976 
+XFD	NN 7.670767677696742 
+XFF	VB 8.70682132339263 NN 7.072930676941121 NNT 8.948715833843691 
+MXBR	NNT 8.948715833843691 NN 10.068662950495112 
+XFP	VB 8.70682132339263 
+ITGFMW	VB 9.399968503952575 
+XFW	VB 8.70682132339263 
+NMNET	VB 8.70682132339263 JJ 7.495264127519086 
+BKIRIM	NN 8.459225038061012 JJ 5.79051603528066 
+MXAH	NN 8.276903481267057 
+MFMRWT	NN 9.375515769935166 NNT 8.948715833843691 
+MCWQT	NNT 8.255568653283746 
+XGG	NNP 8.797246236703527 
+AIBRHIM	NNP 8.797246236703527 
+NMNEH	VB 8.70682132339263 
+ERPAT	NNP 8.104099056143582 
+HTNKLWT	NNT 8.948715833843691 
+XLPWN	NNP 8.104099056143582 
+EDFWT	NNT 8.948715833843691 
+MXDF	RB 5.671134055976587 MOD 5.908626268798978 
+XSINWTW	NN 10.068662950495112 
+GREIN	NN 8.682368589375221 
+IKWL	VB 5.5933060141822555 NN 10.068662950495112 
+RIALISJIT	JJ 8.881558488638976 
+MGWIIS	JJ 8.881558488638976 
+2,000	CD 6.466144724237619 
+QWALICIWNIIM	JJ 8.881558488638976 
+AMRIQAIIM	JJ 6.242501159023718 
+JRIIKMN	NNP 8.797246236703527 
+MCWPH	JJT 3.4657359027997265 
+QBLH	NN 8.682368589375221 
+PISIWLWGI	JJ 8.188411308079031 
+MCMCMT	VB 9.399968503952575 
+SHRH	NNP 8.797246236703527 
+2,004	CD 7.564757012905729 
+XIC	NN 10.068662950495112 
+PRQIS	NNP 8.797246236703527 
+LAWRH	NNP 8.797246236703527 
+LAWRK	IN 7.954898819275054 
+XIH	VB 8.013674142832684 NN 10.068662950495112 JJ 7.272120576204876 
+QBLN	NN 8.970050661827003 
+XII	NN 10.068662950495112 NNT 6.463809184055691 
+QBLW	NNP 8.104099056143582 
+XIL	NNT 7.562421472723801 NN 10.068662950495112 
+MRAWT	VB 9.399968503952575 NN 10.068662950495112 
+QBLT	NNT 6.463809184055691 
+PRQIM	NN 8.459225038061012 
+XIQ	NNT 8.948715833843691 
+ALBWMIM	NN 8.682368589375221 
+IPTWR	VB 9.399968503952575 
+MXFB	NN 7.429605620879854 
+XIW	VB 9.399968503952575 
+AWJWNWMIIM	JJ 7.7829461999708665 
+EQILWB	NNP 7.187808324269427 
+SHUK	NN 9.375515769935166 NNT 8.948715833843691 
+HTNGDWTH	NN 10.068662950495112 
+XJA	VB 8.70682132339263 
+LAWMIWTM	NN 10.068662950495112 
+HTNGDWTM	NN 8.970050661827003 
+LAWWN	NNP 8.797246236703527 
+LWMDIM	VB 7.7905305915184755 NN 10.068662950495112 
+HTNGDWTW	NN 10.068662950495112 
+HERKWT	NN 8.682368589375221 
+XJP	VB 8.301356215284466 
+AIMAM	NN 10.068662950495112 
+520500	CD 6.871609832345784 
+XIBWRIM	NN 9.375515769935166 
+MNWTQ	VB 9.399968503952575 
+NMNIT	VB 9.399968503952575 
+XNWIWT	NN 8.122752801439798 NNT 7.002805684788378 
+JWBAS	NNP 8.797246236703527 
+NMNIM	VB 8.70682132339263 
+025055	CD 7.564757012905729 
+FIBWFIM	NN 9.375515769935166 
+JBEIT	JJ 7.272120576204876 
+MNWSH	JJ 8.188411308079031 
+TFWAH	NN 8.459225038061012 
+BWJNAI	NN 10.068662950495112 
+HTEKB	VB 9.399968503952575 
+HTPFRWT	NN 10.068662950495112 
+XLB	NN 7.989221408815276 NNT 8.948715833843691 
+LAWTT	VB 9.399968503952575 
+XLD	NNP 8.797246236703527 
+XLF	JJ 8.881558488638976 
+LFEBR	MOD 4.340010350885132 
+XLH	VB 7.7905305915184755 
+IDQWR	VB 9.399968503952575 
+SIDRH	NN 9.375515769935166 
+XLL	NN 9.375515769935166 NNT 8.255568653283746 
+XLQ	RB 8.069029328774958 VB 9.399968503952575 NN 6.043311259759963 
+NEWRI	NN 10.068662950495112 
+XLP	VB 8.70682132339263 
+XLW	VB 9.399968503952575 
+LHKIN	VB 8.013674142832684 
+PILWSWPIH	NN 10.068662950495112 
+HTELH	VB 9.399968503952575 
+LHKIR	VB 7.7905305915184755 
+KITTI	NN 9.375515769935166 
+NDWFIM	JJ 8.881558488638976 
+HTQPWT	NN 8.970050661827003 NNT 8.948715833843691 
+TFWBH	NN 7.2354496064388965 
+MNWRH	NNP 8.104099056143582 NN 10.068662950495112 
+AIMCW	VB 8.70682132339263 
+AMNWTIWT	JJ 8.881558488638976 
+XMF	CDT 5.942799375126701 CD 6.466144724237619 
+LXZWR	VB 6.627379781712794 
+NNQJW	VB 9.399968503952575 
+XMH	JJ 8.881558488638976 
+LXZWT	VB 9.399968503952575 
+MKNIM	NN 10.068662950495112 VB 9.399968503952575 
+QWSIGH	NNP 8.797246236703527 
+XMI	NNT 8.948715833843691 
+MNWRT	NNT 8.255568653283746 
+AXIZTH	NN 10.068662950495112 
+MWQLD	VB 9.399968503952575 
+AIMCH	VB 9.399968503952575 
+LWWTR	VB 7.7905305915184755 
+XMQ	VB 9.399968503952575 
+XMW	NNP 8.797246236703527 
+MBRRT	VB 9.399968503952575 
+NMLJH	VB 9.399968503952575 
+IMINW	NN 9.375515769935166 
+MKLLH	NN 7.989221408815276 
+NWJRLH	VB 9.399968503952575 
+MDRIKIM	NN 10.068662950495112 
+FBTI	NNP 8.797246236703527 
+LHDAIG	VB 9.399968503952575 
+IIAWFW	NN 10.068662950495112 
+XNH	NNP 7.698633948035417 
+LSIIM	VB 8.301356215284466 
+PLAJWT	NN 9.375515769935166 
+NMLJW	VB 9.399968503952575 
+MKLLT	NNT 7.562421472723801 
+NMLJT	VB 9.399968503952575 
+NXLIT	VB 9.399968503952575 
+XNN	NNP 8.797246236703527 
+XNQ	NN 10.068662950495112 
+PQIDIM	NN 7.670767677696742 
+FBTW	VB 9.399968503952575 NN 10.068662950495112 
+LKRSM	VB 9.399968503952575 
+XIZBALLH	NNP 7.4109518755836366 
+MWBILIM	NN 10.068662950495112 JJ 8.881558488638976 VB 8.70682132339263 
+TERIP	NN 8.970050661827003 
+NMRCIM	JJ 8.188411308079031 
+QRICR	NNP 8.797246236703527 
+60838430	CD 7.564757012905729 
+QBRI	NNT 8.255568653283746 
+QWALICIWT	NN 10.068662950495112 
+MXIH	NN 10.068662950495112 
+MXIR	NNT 6.004276854677251 NN 6.9776204971367966 
+QBRW	NN 8.970050661827003 VB 9.399968503952575 
+IMINH	RB 6.2772698595469025 
+7.0	CD 7.564757012905729 
+SIBWT	NN 8.122752801439798 
+7.1	CD 7.564757012905729 
+IPRWC	VB 8.70682132339263 
+7.6	CD 7.564757012905729 
+IWZMIM	VB 9.399968503952575 
+QBUH	NNP 8.797246236703527 
+LMXWQ	VB 8.301356215284466 
+MXLH	NN 9.375515769935166 
+LHEDIP	VB 9.399968503952575 
+XPC	NNT 8.948715833843691 
+MXLQ	NNT 8.948715833843691 
+MXLT	NNT 8.255568653283746 
+TZKWRT	NN 9.375515769935166 
+XPR	NNP 8.104099056143582 
+FJWIWT	NN 9.375515769935166 
+IWFMH	VB 9.399968503952575 
+BRBRH	NNP 8.104099056143582 
+NICXWNW	NN 9.375515769935166 
+MNIXIM	VB 8.70682132339263 
+PNAWMJIQH	NN 9.375515769935166 
+LSIIE	VB 8.013674142832684 
+MXKH	VB 7.7905305915184755 
+KMIHTH	NN 10.068662950495112 
+BRBRX	NNP 8.797246236703527 
+NICXWNH	NN 10.068662950495112 
+FBUK	NN 10.068662950495112 NNP 8.104099056143582 
+MKLIM	NN 9.375515769935166 
+NWHLIM	NN 9.375515769935166 
+IWFLM	VB 9.399968503952575 
+XQR	VB 8.70682132339263 NN 10.068662950495112 
+701	CD 6.466144724237619 
+FBUS	NN 10.068662950495112 
+MTWKNNT	JJ 7.495264127519086 
+BIHUX	NN 8.682368589375221 
+709	CD 7.564757012905729 
+MXNH	NNT 6.383766476382155 NN 7.583756300707112 VB 9.399968503952575 
+TRXIQ	VB 8.70682132339263 
+TQWPWT	NN 8.970050661827003 
+38.27	CD 7.564757012905729 
+LHRWWIX	VB 9.399968503952575 
+XRB	NN 10.068662950495112 
+MXNK	VB 9.399968503952575 
+XRF	VB 8.70682132339263 
+EIRWNI	NNP 6.600021659367308 JJ 7.7829461999708665 
+FBXI	NNT 8.255568653283746 
+RNSANS	NN 10.068662950495112 
+CIMRIM	NN 10.068662950495112 
+XRM	NN 9.375515769935166 
+LKRWE	VB 9.399968503952575 
+MBWQFIM	JJ 8.881558488638976 NN 10.068662950495112 
+FRIWN	NN 8.970050661827003 
+XRP	IN 8.137220376069008 
+MJILH	VB 9.399968503952575 
+NAILH	NNP 8.797246236703527 
+716	CD 7.564757012905729 
+BARAN	NNP 8.797246236703527 
+KRGE	RB 6.2772698595469025 
+XSD	NN 10.068662950495112 
+HTNGDH	VB 9.399968503952575 
+NBLMW	VB 9.399968503952575 
+FBWE	NN 5.637846151651798 NNT 7.562421472723801 
+HTMRDWT	NN 10.068662950495112 
+LHIBNWT	VB 9.399968503952575 
+MXMJ	NNP 7.698633948035417 
+HTGLWTW	NN 10.068662950495112 
+MXMM	JJ 8.881558488638976 VB 9.399968503952575 
+GWMHWR	NNP 8.797246236703527 
+MEWRRWT	VB 8.301356215284466 
+LHTPTX	VB 9.399968503952575 
+XSM	NN 9.375515769935166 NNT 8.948715833843691 
+XSR	JJT 2.772588722239781 VB 8.301356215284466 NN 8.970050661827003 JJ 8.881558488638976 
+WIKWX	NN 8.970050661827003 
+MXMT	IN 8.360363927383219 
+LWWRQWZN	NNP 8.797246236703527 
+FIQWM	NNT 8.255568653283746 NN 10.068662950495112 
+HTNGDW	VB 8.70682132339263 
+QBWE	JJ 6.396651838850976 
+FIQWP	NNT 8.948715833843691 NN 10.068662950495112 
+AIDIALIM	NN 10.068662950495112 
+ARHUB	NNP 4.506786795555136 
+FIQWL	NNT 7.850103545175582 NN 10.068662950495112 
+LHIPQX	VB 9.399968503952575 
+FNTIIM	JJ 8.881558488638976 NN 7.178291192598947 
+SIBWB	NNT 8.255568653283746 NN 7.989221408815276 
+MXPF	VB 8.301356215284466 
+ILDH	NN 8.276903481267057 
+MCDIQH	VB 8.013674142832684 
+ILDI	NNT 8.948715833843691 
+RPWAIT	JJ 6.935648339583663 
+XTK	NN 9.375515769935166 
+IIWWCR	VB 8.301356215284466 
+XTM	VB 8.301356215284466 
+ASISJIM	NN 8.970050661827003 
+XTN	NN 9.375515769935166 NNT 7.339277921409591 
+SWKNWIWT	NNT 8.255568653283746 
+NZRQW	VB 9.399968503952575 
+QWBNJRI	NNP 8.104099056143582 
+DIRWTIW	NN 9.375515769935166 
+QRIAT	NNT 7.850103545175582 
+LHTPRF	VB 9.399968503952575 
+TIAJRLI	JJ 8.881558488638976 
+MIFHW	PRP 7.4561656630753985 NN 7.583756300707112 
+2,162	CD 7.564757012905729 
+HTNGFH	VB 8.70682132339263 
+14.46	CD 7.564757012905729 
+NZRQH	VB 8.70682132339263 
+XANWN	NNP 8.797246236703527 
+TQWPTW	NN 9.375515769935166 
+ARWJIWT	JJ 8.881558488638976 
+XUL	NNP 8.797246236703527 
+XUK	NN 6.485144012039002 
+TRXIF	NN 10.068662950495112 
+SBLNWTW	NN 10.068662950495112 
+KRIS	NNP 8.797246236703527 
+AIMPRSIWNISJIWT	JJ 8.881558488638976 
+QRIAH	NN 8.122752801439798 
+BIHUD	NN 10.068662950495112 
+TRXIB	VB 9.399968503952575 
+SALMINH	NNP 8.797246236703527 
+LHTPRQ	VB 9.399968503952575 
+BIHUS	NN 10.068662950495112 
+TQWPTH	NN 10.068662950495112 
+LHTPWCC	VB 9.399968503952575 
+BXRW	VB 8.301356215284466 
+QLSIQH	NN 10.068662950495112 
+FRIPWT	NN 10.068662950495112 
+MXRT	NN 9.375515769935166 
+MXWQQIM	NN 10.068662950495112 
+LWNDWNI	JJ 7.495264127519086 
+NKFLH	VB 8.70682132339263 
+SIBT	NNT 8.948715833843691 
+NXLQT	VB 9.399968503952575 
+NTMLAH	VB 9.399968503952575 
+TCLIX	VB 8.70682132339263 
+BXRH	VB 9.399968503952575 
+MLAKWT	NN 8.970050661827003 
+752	CD 7.564757012905729 
+753	CD 7.564757012905729 
+PIJWRI	NNT 7.562421472723801 
+SWLJN	NNP 8.797246236703527 
+LHRJIJ	VB 9.399968503952575 
+NKFLW	VB 9.399968503952575 
+ETWDWT	NNT 8.255568653283746 
+XBRIW	NN 7.503713593033575 
+XWB	NN 7.583756300707112 
+WWALAS	NNP 8.797246236703527 
+XWD	NN 10.068662950495112 
+XWC	MOD 7.518064181233078 NN 6.079678903930838 IN 8.648045999835 
+MXQH	VB 9.399968503952575 
+XWF	NNT 8.948715833843691 
+HIBJ	NN 8.276903481267057 
+MXQR	NN 8.122752801439798 
+XWG	NN 10.068662950495112 NNT 8.255568653283746 
+SWLIT	NNT 8.948715833843691 
+XWL	NNT 8.948715833843691 NN 10.068662950495112 
+PWRJLND	NNP 8.797246236703527 
+HTQPIM	NN 10.068662950495112 
+XWM	NN 8.276903481267057 
+XWP	NNT 7.339277921409591 
+XBRIH	NN 8.970050661827003 
+IWFRW	NN 10.068662950495112 
+761	CD 7.564757012905729 
+XWR	NN 10.068662950495112 
+TMIHH	NN 10.068662950495112 
+XWQ	NN 6.457745037850888 NNT 6.751491256507472 
+TBIET	NNT 8.948715833843691 
+HTQPIT	JJ 8.881558488638976 
+SIBH	NN 7.178291192598947 
+XBRIM	NN 7.1242239713286715 
+PRIDLNDR	NNP 7.698633948035417 
+SWLIH	NN 8.970050661827003 
+SIDR	VB 9.399968503952575 
+PLIATW	NN 10.068662950495112 
+KFIRH	JJ 8.881558488638976 
+JRMPISJ	NN 10.068662950495112 
+LHTPLX	VB 9.399968503952575 
+XWNWT	JJ 8.881558488638976 
+ZABIM	NN 10.068662950495112 
+QLILWT	NN 10.068662950495112 
+772	CD 7.564757012905729 
+HFTWLLWT	NN 10.068662950495112 NNT 8.948715833843691 
+775	CD 7.564757012905729 
+LHIPK	RB 8.069029328774958 
+MILIARD	CD 4.130769808420583 
+RPSWDH	NN 10.068662950495112 
+SIEH	NN 7.989221408815276 
+KRMI	NNP 8.104099056143582 
+TWFBI	NNT 7.339277921409591 
+KRML	NN 8.682368589375221 NNP 7.187808324269427 
+ELBWNWT	NN 10.068662950495112 
+HTGWNNWT	NN 10.068662950495112 
+SINTJIT	JJ 8.188411308079031 
+QRIJRIWNIM	NN 8.459225038061012 
+DRWFIM	VB 9.399968503952575 JJ 7.7829461999708665 
+RFAI	VB 8.013674142832684 
+TELWLI	NNT 8.948715833843691 
+HCEWTIW	NN 10.068662950495112 
+RMZWRIM	NN 10.068662950495112 
+MGZRIM	NN 10.068662950495112 
+HTNQFWIWT	NN 10.068662950495112 
+5102	CD 7.564757012905729 
+XZH	VB 9.399968503952575 NN 10.068662950495112 
+GWPRIT	NN 10.068662950495112 
+XZQ	JJ 6.80211694695914 RB 8.069029328774958 
+LHTPJR	VB 8.301356215284466 
+XZR	VB 6.835019146491039 
+MXWC	IN 6.974069566263328 
+ARWJIQH	NN 9.375515769935166 
+XZW	VB 9.399968503952575 
+FNIIDR	NNP 8.104099056143582 
+MSPQIM	VB 8.301356215284466 
+PNJZIH	NN 10.068662950495112 
+HIFG	NN 8.682368589375221 
+NKFLTI	VB 9.399968503952575 
+SIET	NNT 7.339277921409591 
+MKLWL	NN 10.068662950495112 
+5111	CD 7.564757012905729 
+MXUJ	NNT 8.948715833843691 
+QJRQJ	NN 10.068662950495112 
+BXWR	NN 10.068662950495112 
+HTLHBWTM	NN 10.068662950495112 
+LHTPLL	VB 8.70682132339263 
+LHIWT	VB 5.165861999355316 
+5107	CD 7.564757012905729 
+EIWWT	NN 8.970050661827003 
+HIGD	NN 9.375515769935166 
+TBIEH	NN 6.849787125626912 
+AWMDNIM	NN 10.068662950495112 
+HIIT	AUX 5.634789603169249 
+SIIE	VB 9.399968503952575 
+LIWWRPWL	NNP 7.4109518755836366 
+HIJB	RB 5.766444235780912 MOD 6.419451892564968 
+ILMD	VB 9.399968503952575 
+HTIIBFW	VB 9.399968503952575 
+SIIP	NN 10.068662950495112 
+SIIM	VB 8.301356215284466 
+LILWT	NN 8.970050661827003 
+MFXRIM	VB 9.399968503952575 
+7791	CD 7.564757012905729 
+LHIPJR	VB 9.399968503952575 
+4.00	CD 7.564757012905729 
+QRIIT	NNT 7.1569563646156364 
+KISAW	NN 10.068662950495112 
+MXWZ	NNT 6.058344075947526 NN 7.072930676941121 
+ILKW	VB 8.013674142832684 
+BZBZNIT	JJ 8.881558488638976 
+NSIEWT	NN 7.766077857501067 
+PEILI	NNT 7.562421472723801 
+LTLWT	VB 8.301356215284466 
+PEILH	JJ 7.495264127519086 NN 10.068662950495112 
+BRADPWRD	NNP 8.797246236703527 
+HIID	NNP 8.797246236703527 
+SWCIAL	JJ 8.881558488638976 NN 10.068662950495112 
+MLAKTW	NN 10.068662950495112 
+MTQNIM	VB 9.399968503952575 
+LRFWM	VB 9.399968503952575 
+HIKL	NN 10.068662950495112 
+HIKN	QW 3.979681653901961 
+MXZR	NN 10.068662950495112 
+FWNAIM	VB 8.70682132339263 
+IPSID	VB 9.399968503952575 
+LHTQIN	VB 9.399968503952575 
+AWWIRT	NNT 8.255568653283746 
+SIKT	NNT 8.255568653283746 
+HILH	NN 10.068662950495112 
+IPSIQ	VB 8.70682132339263 
+SIKM	VB 9.399968503952575 
+SIKN	VB 9.399968503952575 
+HIJL	NNT 8.948715833843691 
+XSIDIM	NN 8.970050661827003 
+AIMPRIIT	NNT 8.948715833843691 
+NWTNWT	VB 8.70682132339263 
+TWFLM	VB 9.399968503952575 
+ADIPWS	NNP 8.797246236703527 
+PDRALIIM	JJ 8.881558488638976 
+QRIST	NNT 8.948715833843691 
+TWFME	VB 9.399968503952575 
+SIJI	NNP 7.4109518755836366 NN 10.068662950495112 
+EMIDIM	VB 9.399968503952575 JJ 8.881558488638976 
+MXZH	NN 8.682368589375221 NNT 7.850103545175582 
+SLWCQI	NNP 7.187808324269427 
+TXILT	NNT 6.240665632741481 
+TMIMH	JJ 8.881558488638976 
+TXILH	MOD 7.518064181233078 RB 6.459591416340857 
+LHTQFR	VB 9.399968503952575 
+BHEDR	IN 9.053511107943164 
+TMIMI	JJT 4.564348191467836 
+SIMN	NNT 8.255568653283746 VB 9.399968503952575 NN 8.276903481267057 
+GWSMN	NNP 8.797246236703527 
+KRWK	VB 8.70682132339263 JJ 8.881558488638976 
+SIMS	NNP 8.104099056143582 
+HINH	AGR 5.181783550292085 
+SWLTM	NNP 8.104099056143582 
+IDPIS	VB 9.399968503952575 
+MWBILWT	JJ 8.881558488638976 
+AWWIRH	NN 7.989221408815276 
+MWSRARH	NNP 8.797246236703527 
+DRWRI	NNP 8.797246236703527 
+MFWNWT	JJ 8.881558488638976 
+HILT	NNT 8.948715833843691 
+NMRCWT	JJ 8.881558488638976 
+PWLIJWRH	NN 10.068662950495112 
+SNSACIH	NN 10.068662950495112 
+NRGFWT	JJ 8.881558488638976 
+QCHW	NN 10.068662950495112 
+FKWNT	NNT 7.1569563646156364 
+AIMPRSIWNISJIIM	JJ 8.881558488638976 
+HAMIN	VB 8.70682132339263 
+LHTQDM	VB 8.70682132339263 
+PITWXIM	NN 10.068662950495112 
+TMIKH	NN 7.670767677696742 
+DRWQR	NNP 8.797246236703527 
+PIJWRIN	NN 10.068662950495112 
+PIJWRIM	NN 9.375515769935166 
+FKWNH	NN 8.459225038061012 
+QCIN	NN 8.459225038061012 
+DISQWJQIM	NN 9.375515769935166 
+AHRWNWB	NNP 8.797246236703527 
+ABIBIWT	NN 10.068662950495112 
+QRINT	NNT 8.948715833843691 
+SIMPAJIM	JJ 8.881558488638976 
+XWGGIM	JJ 8.881558488638976 
+PRSJRWIQH	NNP 8.104099056143582 
+QRINH	NN 10.068662950495112 
+TMIKT	NNT 8.948715833843691 
+HIPK	NN 10.068662950495112 
+AXZWR	VB 9.399968503952575 
+IPANIT	JJ 8.188411308079031 
+KRWZ	NN 8.682368589375221 
+SING	NNP 8.797246236703527 
+HINW	AGR 4.77631844218392 
+IPANIM	NN 7.989221408815276 JJ 7.7829461999708665 
+JWRQIWT	JJ 6.316609131177439 NN 7.766077857501067 
+SINI	NNP 7.187808324269427 
+MAWLCT	JJ 8.881558488638976 
+NWKXWTN	NN 10.068662950495112 
+AINKM	RB 8.069029328774958 
+HIQP	NNT 7.002805684788378 NN 7.670767677696742 
+IIWWTR	VB 9.399968503952575 
+PJRWLGZ	NNP 8.797246236703527 
+MIFXQIM	NN 8.682368589375221 
+XJIBT	NNT 8.255568653283746 
+AINNH	RB 5.584122678986957 
+TXIIB	VB 8.70682132339263 
+CPWPH	JJ 8.188411308079031 
+AINNI	RB 6.1231191797196445 
+AINNW	RB 5.235815984718742 
+MIFWR	NN 8.122752801439798 
+QRIRH	JJ 8.881558488638976 
+DWMLIH	NNP 8.797246236703527 
+XJIBH	NN 10.068662950495112 
+TXIIH	NN 8.682368589375221 
+BNWSP	RB 8.069029328774958 IN 7.4440731955090635 
+SIPQ	VB 8.70682132339263 
+RFMI	JJ 7.089799019410921 
+IEILWTW	NN 10.068662950495112 
+HIQF	NN 10.068662950495112 
+MSIIRIM	VB 9.399968503952575 
+IWZMWT	NN 7.871438373158893 
+MIFXQ	NNT 8.255568653283746 NN 8.459225038061012 
+RFMT	VB 9.399968503952575 
+QRAQSI	NNP 8.797246236703527 
+SIPR	VB 7.202743926616356 
+HISS	VB 8.301356215284466 
+MAPIH	NN 9.375515769935166 
+DRWMH	NN 10.068662950495112 
+DRWMI	JJ 6.935648339583663 
+HIQPIM	NN 10.068662950495112 
+2,132	CD 7.564757012905729 
+MIJWWX	NN 10.068662950495112 
+LHWZIL	VB 9.399968503952575 
+CPWNH	NN 10.068662950495112 
+DIPNDRH	NNP 8.797246236703527 
+HITH	AUX 1.8852855272388784 VB 5.99877112229042 
+DPWSIM	NN 10.068662950495112 
+AFDWDI	JJ 8.881558488638976 
+MFQWLWT	NN 9.375515769935166 
+HWMRWS	NNP 7.698633948035417 
+NWJRDM	NNP 8.797246236703527 
+HITR	NN 10.068662950495112 
+SIRB	VB 6.509596746056411 
+XJIPT	NNT 8.948715833843691 
+WNCWALH	NNP 8.797246236703527 
+ZRWEWT	NNT 8.255568653283746 NN 9.375515769935166 
+JEMIM	NN 9.375515769935166 
+ALWPT	NNT 8.255568653283746 
+TLUG	NN 10.068662950495112 
+HXLIMW	VB 9.399968503952575 
+HTAPFRH	VB 9.399968503952575 
+ALWPH	NN 8.970050661827003 
+XJIPH	NN 10.068662950495112 
+ARMISJ	NNP 8.797246236703527 
+DIQJIM	NN 10.068662950495112 
+PIIGINS	NNP 8.797246236703527 
+LHIQBR	VB 9.399968503952575 
+HXLIJW	VB 8.013674142832684 
+IWGFW	VB 9.399968503952575 
+NSXRWT	VB 9.399968503952575 
+DWDWT	NN 10.068662950495112 
+KSPIM	NN 6.2400215540060175 
+MJWWXI	NNT 8.948715833843691 
+MWPFJ	NN 10.068662950495112 
+LIMDT	VB 9.399968503952575 
+LIMDW	VB 9.399968503952575 
+HXLIJH	VB 6.404236230398585 
+MAPFR	VB 7.7905305915184755 
+KSPIT	JJ 6.80211694695914 
+DIWWIZIWT	NNT 8.948715833843691 
+AINJR	NNP 8.104099056143582 
+MSPQWT	VB 9.399968503952575 
+NIFWAIW	NN 10.068662950495112 
+NIFWAIN	NN 8.682368589375221 
+IBJIX	VB 8.70682132339263 
+NIFWAIM	NN 9.375515769935166 
+ALIPWIWT	NNT 7.850103545175582 
+MWPEL	VB 9.399968503952575 
+XINWKIIM	JJ 8.881558488638976 
+XFBWNWTIW	NN 10.068662950495112 
+DINACI	NNP 8.797246236703527 
+TLWI	VB 8.70682132339263 JJ 6.5789733956449306 
+MWPEI	NNT 8.948715833843691 
+DLDWL	NNT 8.948715833843691 
+XBRWT	NN 6.431076790768726 NNT 5.770662003495746 
+TLWT	NN 10.068662950495112 
+LIMWDI	NNT 7.850103545175582 
+AMRIQAI	JJ 5.19267903452504 
+XWJPIM	NN 8.970050661827003 
+HIWW	AUX 5.634789603169249 
+SIWE	NN 7.1242239713286715 NNT 7.1569563646156364 
+KRMLH	NNP 8.797246236703527 
+XBRWN	NNP 8.797246236703527 
+SIWM	NN 7.2354496064388965 NNT 6.550820561045321 
+MFTEMM	VB 9.399968503952575 
+RFTW	NN 10.068662950495112 
+IWGIN	NNP 8.797246236703527 
+SIWR	NN 7.503713593033575 NNT 7.850103545175582 
+ZNIAL	NNP 8.104099056143582 
+1,776	CD 7.564757012905729 
+QALIARI	NNP 8.797246236703527 
+MTGBF	JJ 8.881558488638976 
+LHJIL	VB 7.7905305915184755 
+PQIDWT	NNT 8.948715833843691 NN 10.068662950495112 
+AQDXW	NN 9.375515769935166 
+WWLGRIWT	NN 10.068662950495112 
+DWDTN	NN 10.068662950495112 
+MAWKZB	VB 9.399968503952575 
+HIWM	MOD 7.518064181233078 RB 4.043677638039808 
+LRAFWNH	RB 5.766444235780912 
+QRIWT	NNP 8.797246236703527 
+HIWT	IN 9.053511107943164 
+LJPLL	VB 9.399968503952575 
+HSBIRH	VB 9.399968503952575 
+HXLIFW	VB 9.399968503952575 
+HWMRI	JJ 8.881558488638976 
+DRWFWT	JJ 8.188411308079031 
+GIJRH	NN 10.068662950495112 
+XBRTN	NN 10.068662950495112 
+HPRIZW	VB 9.399968503952575 
+CIWNWT	NN 8.122752801439798 
+XSIDIW	NN 8.276903481267057 
+HSBIRW	VB 8.013674142832684 
+XBRTW	NN 8.970050661827003 
+PTRWNWTIHM	NN 10.068662950495112 
+MWPIE	VB 7.4540583548972625 
+AXZQH	NN 10.068662950495112 
+XBRTI	JJ 6.483663215840606 
+TCLWM	NN 10.068662950495112 
+QCRH	VB 9.399968503952575 JJ 7.495264127519086 
+DRWFH	VB 8.301356215284466 
+KIFWRIM	NN 9.375515769935166 
+IWZMNW	VB 9.399968503952575 
+ALWNI	NNP 8.797246236703527 
+IESWQ	VB 9.399968503952575 
+LTMID	RB 8.069029328774958 
+PRSPQJIWWH	NN 9.375515769935166 
+KIFWRIW	NN 8.970050661827003 
+LWXCIM	VB 9.399968503952575 
+CPWIH	JJ 7.089799019410921 
+8.3	CD 7.564757012905729 
+EMIDWT	NN 8.459225038061012 
+QRDIWLWG	NN 9.375515769935166 
+8.5	CD 7.564757012905729 
+HTELMW	VB 9.399968503952575 
+AZIQIM	NN 10.068662950495112 
+QRIJIIM	JJ 8.881558488638976 
+MWBFWBIC	NNP 8.797246236703527 
+GILWP	NN 10.068662950495112 
+HTELMH	VB 8.70682132339263 
+TFXRR	VB 9.399968503952575 
+CIWRIM	NN 8.970050661827003 
+SJIBN	NNP 8.797246236703527 
+HTNHGWTW	NN 8.970050661827003 
+RFWM	NN 10.068662950495112 
+MRCDS	NNP 8.797246236703527 
+CIWRIT	JJ 8.881558488638976 
+RFWT	NNT 5.9529835602897005 NN 7.296074228255331 
+800	CD 7.564757012905729 
+HTNHGWTH	NN 8.970050661827003 
+801	CD 7.564757012905729 
+803	CD 7.564757012905729 
+MERIKH	VB 9.399968503952575 
+HTNHGWTM	NN 8.459225038061012 
+AIPFR	VB 8.70682132339263 
+NICBH	VB 9.399968503952575 
+TEFIITI	JJ 6.6843339113027564 
+GIRSAWT	NN 10.068662950495112 
+RWZNBRG	NNP 8.797246236703527 
+DMIWN	NN 8.970050661827003 
+HPGINW	VB 8.301356215284466 
+NICBT	VB 9.399968503952575 
+811	CD 7.564757012905729 
+814	CD 7.564757012905729 
+XWRGT	JJ 8.188411308079031 
+HWXRMW	VB 9.399968503952575 
+XARBI	NNP 8.797246236703527 
+CMCWMIM	NN 10.068662950495112 
+MZHMIM	VB 8.70682132339263 
+QFIIM	NN 7.989221408815276 
+PICWXIM	NN 10.068662950495112 
+MIIJH	NNP 8.797246236703527 
+821	CD 7.564757012905729 
+RDWMIM	JJ 8.881558488638976 
+ADIRIM	JJ 8.188411308079031 
+HSTKSKNW	VB 9.399968503952575 
+MWRXT	VB 9.399968503952575 
+MRCIM	NN 10.068662950495112 VB 9.399968503952575 
+SIJWNAI	NNT 8.948715833843691 
+AQDWXW	NN 10.068662950495112 
+MWRXQ	NN 10.068662950495112 
+LWGISJIT	JJ 8.881558488638976 
+MKRSMIM	VB 9.399968503952575 
+XWRIN	NNP 8.797246236703527 
+AXRWNH	NN 9.375515769935166 JJ 6.04834514458276 
+MWRWT	NN 10.068662950495112 
+IMCA	VB 9.399968503952575 
+QICWNIM	NN 9.375515769935166 
+XRIGWT	JJ 8.881558488638976 
+HTPWRRWTH	NN 10.068662950495112 
+QICWNIT	JJ 7.495264127519086 
+HTIIXSNW	VB 9.399968503952575 
+NCRWT	NN 10.068662950495112 
+TMCA	VB 9.399968503952575 
+WWAFINGJWN	NNP 6.024657514463746 
+AWMAHRH	NNP 8.104099056143582 
+NTPRIM	VB 9.399968503952575 
+HXZRIM	NN 10.068662950495112 
+840	CD 7.564757012905729 
+IXLWP	VB 8.70682132339263 
+FTWLIM	VB 9.399968503952575 
+857	CD 7.564757012905729 
+ARIZH	NN 8.459225038061012 
+MARXT	VB 9.399968503952575 
+EDIPT	NN 10.068662950495112 
+MXWDFT	JJ 8.188411308079031 
+MARXW	NN 10.068662950495112 
+SJAR	NNP 7.698633948035417 
+FIRWT	NNT 6.869274292163856 NN 7.871438373158893 
+SJAZ	NN 10.068662950495112 
+MTWSKLIM	JJ 8.881558488638976 
+QIRWT	NN 10.068662950495112 
+QIRWR	NN 10.068662950495112 
+ZBWBIM	NN 10.068662950495112 
+ITXZQW	VB 9.399968503952575 
+NICLH	VB 8.70682132339263 
+DXIPH	NN 10.068662950495112 
+MIISR	VB 9.399968503952575 
+LHPGIN	VB 8.301356215284466 
+ICIRTM	NN 10.068662950495112 
+LHPGIF	VB 9.399968503952575 
+RGBH	NNP 8.797246236703527 
+NICLW	VB 7.7905305915184755 
+MIIXLT	VB 9.399968503952575 
+JRNSPR	NN 8.682368589375221 
+KPIWT	NN 10.068662950495112 
+BLEDIWT	JJ 8.188411308079031 
+IWRFIHM	NN 10.068662950495112 
+XIIBT	VB 7.002073231154205 
+QHILTIIM	JJ 8.881558488638976 
+NSIBWT	NNT 7.850103545175582 NN 7.583756300707112 
+RGFIT	JJ 8.881558488638976 
+1,900	CD 7.564757012905729 
+MJLWN	NNP 8.797246236703527 
+QWRDRWI	NNP 8.797246236703527 
+MGIBWT	VB 9.399968503952575 
+MXWIIBIM	JJ 8.881558488638976 
+KSPI	JJ 7.272120576204876 NNT 7.850103545175582 
+NWSIIR	NNP 5.852807257537087 
+KSPH	NN 9.375515769935166 
+KSPM	NN 10.068662950495112 
+BIIQR	NNP 6.3123395869155265 
+KSPW	NN 10.068662950495112 
+FIRTW	NN 10.068662950495112 VB 9.399968503952575 
+891	CD 7.564757012905729 
+MIIQL	NNP 7.005486767475472 
+RIALIT	RB 8.069029328774958 JJ 8.188411308079031 
+FJWJGARJ	NNP 8.104099056143582 
+QFWXIM	JJ 8.881558488638976 
+EICWMIM	NN 8.276903481267057 
+NICIM	NN 10.068662950495112 
+TMHR	VB 9.399968503952575 
+RILQH	NNP 8.797246236703527 
+IMIM	NN 5.661943703230859 
+IMIN	NN 7.296074228255331 NNT 8.948715833843691 
+LHTMNWT	VB 9.399968503952575 
+IMIT	JJ 8.881558488638976 NNP 8.104099056143582 
+TMHW	VB 9.399968503952575 
+MQWRBIM	VB 8.70682132339263 NN 9.375515769935166 
+IMIW	NN 8.970050661827003 
+TMID	RB 4.850153503906757 
+TLIIH	NN 10.068662950495112 
+PQWLJH	NN 8.682368589375221 
+LHLWM	VB 9.399968503952575 
+ASPNIM	NN 10.068662950495112 
+5203	CD 7.564757012905729 
+TMIM	JJ 7.272120576204876 
+DWALIWT	NN 10.068662950495112 
+HJIG	NNP 8.797246236703527 
+ICIRWT	NNT 6.646130740849646 NN 7.989221408815276 
+HJIL	VB 8.70682132339263 
+MFWXRRRIM	JJ 8.881558488638976 
+HJIP	VB 9.399968503952575 
+GWNZALS	NNP 8.797246236703527 
+TMLA	VB 9.399968503952575 
+HWPET	NNT 7.562421472723801 
+BWRXS	NNP 7.005486767475472 
+SJIB	NNP 8.797246236703527 
+HWPEH	NN 8.682368589375221 
+IMMH	NN 9.375515769935166 
+SJIM	NN 10.068662950495112 
+RGFI	NNT 8.948715833843691 
+IMMF	VB 9.399968503952575 
+7891	CD 5.955319100471629 
+NRCXIM	NN 10.068662950495112 
+TXLIJ	VB 8.70682132339263 
+ZRQWRIM	NN 9.375515769935166 
+TLWNTM	NN 10.068662950495112 
+TXLIP	VB 9.399968503952575 
+HRKIBH	VB 9.399968503952575 
+MLWNWT	NN 8.459225038061012 
+TMKH	VB 9.399968503952575 
+ALMNTW	NN 10.068662950495112 
+IWNIIJD	NNP 6.717804695023691 
+HAMBWRG	NNP 8.797246236703527 
+LHQJIN	VB 9.399968503952575 
+MIIXS	VB 8.301356215284466 
+IMLA	VB 9.399968503952575 
+RGEI	NNT 8.948715833843691 
+ZKWIWTIH	NN 10.068662950495112 
+HPRIIT	NNT 8.948715833843691 
+TLWNWT	NN 10.068662950495112 
+EDIIN	RB 4.080045282210683 MOD 4.810013980130868 
+SJIIN	NNP 8.797246236703527 
+SJIIH	NN 10.068662950495112 
+RIBAWND	NNP 8.797246236703527 
+SJIIJ	NNP 8.104099056143582 
+DXIIT	NNT 8.948715833843691 
+BIWLWGIH	NN 10.068662950495112 
+LHISPG	VB 9.399968503952575 
+TMNE	VB 9.399968503952575 
+SWCIALIT	JJ 8.188411308079031 
+CWLMW	VB 8.70682132339263 
+ICIRTW	NN 10.068662950495112 
+HWPIE	VB 7.608209034724521 
+PWJBWL	NN 10.068662950495112 
+CHRIIM	NN 8.682368589375221 
+WNQAJRMAN	NNP 8.104099056143582 
+DXIIH	NN 9.375515769935166 
+ZAB	NNP 6.851336087648214 NN 7.989221408815276 
+BHFWWAH	IN 7.954898819275054 
+IMNH	VB 9.399968503952575 
+IMNI	JJ 7.495264127519086 
+IKWLIM	VB 7.09738341095853 
+GIBALIH	NNP 8.104099056143582 
+LPCWT	VB 9.399968503952575 
+LECWR	VB 8.013674142832684 
+NIHILISJI	JJ 8.881558488638976 
+ZAT	PRP 3.3452917989020876 JJ 5.746064272709826 AGR 5.87493073085203 
+6591	CD 6.466144724237619 
+XIILI	NNT 6.869274292163856 
+LECWM	VB 9.399968503952575 
+HIELMW	NN 8.970050661827003 
+IMMFW	VB 9.399968503952575 
+FKXTI	VB 9.399968503952575 
+MIIXDT	VB 9.399968503952575 
+HMLICH	VB 8.013674142832684 
+JQSIW	NN 10.068662950495112 
+IAWFRW	VB 9.399968503952575 
+HTGBF	VB 9.399968503952575 
+ZBL	NN 9.375515769935166 
+JQSIM	NN 8.276903481267057 
+AINDIANIT	JJ 8.881558488638976 
+HJLT	NNT 8.255568653283746 
+JQSIT	JJ 8.881558488638976 
+HBEWTIHN	NN 10.068662950495112 
+MIJWSIS	NN 10.068662950495112 
+AZRXIIM	JJ 8.881558488638976 
+MWJIWWACIH	NN 8.970050661827003 
+RGIL	JJ 6.396651838850976 NN 9.375515769935166 
+DWMIHN	NN 10.068662950495112 
+FDIM	NN 10.068662950495112 
+PAFB	NNP 8.797246236703527 
+QRIJIWT	JJ 8.881558488638976 
+MWSDI	JJ 8.881558488638976 
+RGLI	NNT 8.948715833843691 
+QDIF	NN 9.375515769935166 
+AINDIANIM	NN 10.068662950495112 
+HWPKT	VB 9.399968503952575 
+MSWRTIIM	JJ 8.881558488638976 
+HJPH	NN 10.068662950495112 
+XWRXH	NNP 8.797246236703527 
+PBRWAR	NNP 8.104099056143582 
+LHCJIID	VB 9.399968503952575 
+SJND	NNP 8.104099056143582 
+DMWQRJIWT	NN 10.068662950495112 
+BIIJS	NNP 8.797246236703527 
+EZIBT	NNT 8.948715833843691 
+HDRGTIIM	JJ 8.881558488638976 
+BWRSH	NN 8.682368589375221 
+ZEH	NN 10.068662950495112 
+ZEM	VB 7.7905305915184755 NN 8.276903481267057 
+HWPNH	VB 9.399968503952575 
+XIIHM	NN 8.459225038061012 
+PAHD	NNP 8.104099056143582 
+LIPIN	NNP 8.104099056143582 
+NICXW	VB 7.202743926616356 
+SJAZRIM	NN 10.068662950495112 
+JPXH	VB 9.399968503952575 
+KNWPIWT	NN 9.375515769935166 
+RGLW	NN 8.276903481267057 
+FIRIT	JJ 8.881558488638976 
+RIWZABWRW	NNP 8.797246236703527 
+FIRIM	NN 8.970050661827003 
+HERIKW	VB 9.399968503952575 
+TQNWNI	JJ 8.881558488638976 
+NICXL	VB 9.399968503952575 
+CLLIM	NN 10.068662950495112 
+MWSIP	VB 7.202743926616356 
+BTIHM	NN 8.682368589375221 
+NICXH	VB 6.760911174337317 
+TPAWRH	NN 10.068662950495112 
+MSWBSDWT	JJ 8.881558488638976 
+EIDKNH	VB 9.399968503952575 
+PAIZ	NNP 8.797246236703527 
+TWMRIN	NNP 8.104099056143582 
+MTKWWNT	VB 8.70682132339263 
+QDMH	NN 10.068662950495112 VB 9.399968503952575 
+ERWMIM	JJ 8.881558488638976 
+LWAI	NNP 8.797246236703527 
+NICWL	NNT 8.948715833843691 NN 10.068662950495112 
+TKFIJ	NN 10.068662950495112 
+LIWWIT	VB 9.399968503952575 
+ZHB	NN 7.871438373158893 
+QDMW	VB 8.301356215284466 
+NICWC	NNT 8.948715833843691 
+ZHH	JJ 8.881558488638976 
+AHWBIM	JJ 8.881558488638976 
+400,000	CD 7.564757012905729 
+CWLET	VB 9.399968503952575 
+FARLWJ	NNP 8.104099056143582 
+AWBD	JJ 8.881558488638976 
+MZBX	NNT 8.255568653283746 
+ZHW	PRP 5.441262642533134 
+PDIWN	NN 9.375515769935166 NNT 8.948715833843691 
+TMUS	NN 8.970050661827003 NNP 7.698633948035417 
+MWSGR	JJ 8.881558488638976 
+BIJWIIM	NN 8.459225038061012 
+KBIKWL	RB 7.3758821482150125 MOD 6.419451892564968 
+GBRIALI	NNP 7.698633948035417 
+GBRIALH	NNP 8.797246236703527 
+KTIBTW	NN 8.682368589375221 
+1,800	CD 6.871609832345784 
+TMUT	NN 10.068662950495112 
+MZIQIM	NN 10.068662950495112 
+ZIT	NN 10.068662950495112 NNP 7.698633948035417 
+LIPMN	NNP 7.187808324269427 
+ZIW	NNP 8.104099056143582 
+ANJIFMIWT	NN 9.375515769935166 
+HWDEWTIW	NN 10.068662950495112 
+PALC	NNP 8.797246236703527 
+XWRMH	NN 10.068662950495112 
+BRIJIM	NN 10.068662950495112 
+BWRLI	NNP 8.797246236703527 
+HWPQW	VB 9.399968503952575 
+BRIJIT	JJ 7.7829461999708665 
+MINISJR	NNP 8.797246236703527 
+AMINWTM	NN 10.068662950495112 
+PALS	NNP 8.797246236703527 
+HLPRJ	NNP 7.698633948035417 
+RAFLUC	NNP 7.4109518755836366 
+MWSMK	NNT 8.948715833843691 
+IMWT	NNT 8.255568653283746 
+AMNWTIT	JJ 8.188411308079031 
+LHTPWRR	VB 9.399968503952575 
+MQWLQLIM	VB 9.399968503952575 
+RGFIIM	JJ 8.881558488638976 
+LWBF	VB 9.399968503952575 
+SJTH	VB 9.399968503952575 
+TMWH	JJ 8.881558488638976 
+TMWT	VB 9.399968503952575 
+LWBI	NN 10.068662950495112 
+BARNM	NNP 8.797246236703527 
+BWRMH	NNP 7.4109518755836366 
+ZKH	VB 6.627379781712794 
+BARNS	NNP 7.698633948035417 
+75.90	CD 7.564757012905729 
+MINSWJIIM	JJ 8.188411308079031 
+AWCR	NN 5.737929610208781 NNT 8.948715833843691 
+ZKR	NN 9.375515769935166 NNT 8.948715833843691 
+ZKW	VB 6.915061854164575 
+MZHH	VB 9.399968503952575 
+PANI	NNP 8.104099056143582 
+PANL	NN 8.276903481267057 
+NDKAIM	NN 10.068662950495112 
+KTBH	NN 7.871438373158893 VB 8.70682132339263 
+HWPTE	VB 9.399968503952575 
+BWRIS	NNP 7.005486767475472 
+WWDI	NNP 8.797246236703527 
+PRMIWT	NN 10.068662950495112 
+KTBI	NNT 6.869274292163856 
+FDRH	NN 10.068662950495112 
+WWED	NN 7.766077857501067 NNT 8.948715833843691 
+KTBT	VB 8.70682132339263 
+MDWWXIM	VB 9.399968503952575 
+IKWLNW	VB 9.399968503952575 
+KTBW	NN 9.375515769935166 VB 8.70682132339263 
+AWDN	NNP 8.797246236703527 
+PRSMH	VB 9.399968503952575 
+PNGAB	NNP 8.797246236703527 
+BIQWRT	NN 7.670767677696742 NNT 8.255568653283746 
+SNIPIM	NN 8.970050661827003 
+HTGLH	VB 8.70682132339263 
+LHMIR	VB 9.399968503952575 
+HIFWWTH	VB 9.399968503952575 
+FKIXIM	JJ 8.881558488638976 
+MZGN	NNT 8.948715833843691 NN 9.375515769935166 
+PWLIJI	JJ 5.937119509472535 
+QBIEWT	NN 10.068662950495112 
+BIQWRW	NN 9.375515769935166 
+ZMN	NNT 7.562421472723801 NN 6.043311259759963 
+ZMR	NNT 8.948715833843691 
+IFAIRW	VB 9.399968503952575 
+NWGEWT	VB 8.013674142832684 
+XZIR	NN 10.068662950495112 
+XZIT	NN 8.459225038061012 NNT 8.948715833843691 
+MWSRI	JJ 7.7829461999708665 
+BRBWR	NN 10.068662950495112 
+PAPA	NN 9.375515769935166 
+HTGMD	VB 9.399968503952575 
+ZNB	NN 10.068662950495112 
+ATLJIQH	NN 9.375515769935166 
+99.90	CD 6.466144724237619 
+SJIWT	NN 10.068662950495112 
+AWFR	NN 9.375515769935166 VB 9.399968503952575 
+GGWT	NN 9.375515769935166 
+KWZBWT	JJ 8.881558488638976 
+BINTIIM	RB 5.296440606535176 
+AWXNH	NNP 8.104099056143582 
+FDRT	NNT 8.948715833843691 
+AWHL	NN 10.068662950495112 
+CIBWR	NNT 7.002805684788378 NN 6.330993332211744 
+TLIWN	NN 9.375515769935166 
+AWHD	NNP 8.797246236703527 
+AWHB	VB 7.7905305915184755 
+BLWWIW	NNP 8.797246236703527 
+MZIQ	JJ 8.881558488638976 
+SIJWACIH	NN 10.068662950495112 
+AWGW	NNP 8.797246236703527 
+NIDAL	NNP 8.104099056143582 
+9.1	CD 7.564757012905729 
+LFGFG	VB 9.399968503952575 
+EISWQW	NN 10.068662950495112 
+MSGDI	NNT 8.948715833843691 
+RWJFILD	NNP 8.104099056143582 
+LWIH	NNP 8.797246236703527 
+MZLM	NN 9.375515769935166 
+XTIMT	NNT 8.255568653283746 
+GIMWR	NN 9.375515769935166 
+LWIJ	NNP 7.698633948035417 
+AWIB	NNT 8.948715833843691 NN 8.682368589375221 
+BIJAWN	NN 10.068662950495112 
+LWIN	NNP 7.187808324269427 
+PARQ	NNP 8.797246236703527 NN 8.970050661827003 
+XTIMH	NN 10.068662950495112 
+ARIAL	NNP 7.4109518755836366 
+1,875	CD 7.564757012905729 
+IZREAL	NNP 7.187808324269427 
+RGFWT	NNT 7.562421472723801 NN 7.766077857501067 
+2,200	CD 7.564757012905729 
+AWJWNWMIT	JJ 8.188411308079031 
+ZQN	NN 9.375515769935166 JJ 8.881558488638976 
+HTAKZBW	VB 9.399968503952575 
+PRSIM	NN 7.766077857501067 
+XIILT	NN 10.068662950495112 
+AWJWNWMIH	NN 8.682368589375221 
+905	CD 7.564757012905729 
+MWJEIT	VB 9.399968503952575 
+yyRRB	yyRRB 0.0 
+LINQR	NNP 8.797246236703527 
+RXWQH	JJ 7.495264127519086 
+TNAI	NN 7.2354496064388965 NNT 6.646130740849646 
+MSWBKT	JJ 8.188411308079031 
+JENTW	NN 8.682368589375221 
+QDWF	NN 10.068662950495112 NNP 7.698633948035417 
+ZRA	NN 10.068662950495112 
+AWKL	NN 8.276903481267057 VB 9.399968503952575 
+ZRWEW	NN 10.068662950495112 
+ZRE	NN 10.068662950495112 
+PWNDMLISJIIM	JJ 8.188411308079031 
+LKTWB	VB 7.4540583548972625 
+ZRM	NN 8.682368589375221 NNT 8.948715833843691 
+JENTH	NN 10.068662950495112 
+MWJEIM	JJ 8.881558488638976 
+ZRWEM	NN 10.068662950495112 
+HSBIR	VB 7.608209034724521 
+JENTN	NN 10.068662950495112 
+JENTM	NN 9.375515769935166 
+MNWXH	NN 8.970050661827003 
+MAHBIM	NN 10.068662950495112 
+AWLM	NN 8.970050661827003 CC 4.6195895352165435 NNT 7.339277921409591 
+MZMN	RB 7.3758821482150125 
+LWJH	NNP 8.797246236703527 
+CIDWQ	NN 10.068662950495112 
+AWLI	RB 4.177209030664331 MOD 4.3825699653039285 
+MQCWEW	NN 9.375515769935166 
+NIBAW	VB 9.399968503952575 
+RWMNJIWT	JJ 8.881558488638976 
+MNWXT	NNT 8.948715833843691 
+IIECRW	VB 8.70682132339263 
+MILIJNJIWT	NN 10.068662950495112 
+TQWPH	NN 6.355090883790805 
+IZQWP	VB 9.399968503952575 
+921	CD 7.564757012905729 
+TQWPT	NNT 6.115502489787476 
+LWJW	NN 10.068662950495112 
+FDWT	NNT 6.869274292163856 
+MQCWEN	NN 10.068662950495112 
+MSEDH	NN 8.682368589375221 
+RIKWZIIM	JJ 8.881558488638976 
+LWMD	VB 7.7905305915184755 
+HWNXW	VB 9.399968503952575 
+BJIXWT	NN 9.375515769935166 
+JWBIM	NN 9.375515769935166 JJ 6.6843339113027564 
+NXNKW	VB 9.399968503952575 
+AWMR	VB 5.508148205841949 
+LFEFE	VB 9.399968503952575 
+MQCWEI	JJ 5.746064272709826 
+MNWWJ	VB 8.70682132339263 
+TNCX	VB 8.70682132339263 
+MNWWL	JJ 8.881558488638976 
+SNIQRS	NNP 7.698633948035417 
+TFWMT	NNT 7.562421472723801 
+WWLP	NNP 8.104099056143582 
+MSEDT	NNT 8.255568653283746 
+MCWWH	VB 8.013674142832684 
+AWMH	NN 8.970050661827003 
+IKWLWT	VB 8.301356215284466 NN 10.068662950495112 
+JWBIH	NNP 8.104099056143582 
+WWLS	NN 9.375515769935166 
+AWMC	NN 8.682368589375221 
+MFQIEIM	NN 8.970050661827003 
+LWMR	VB 6.56675515989636 
+EIQRIT	JJ 7.089799019410921 
+EIQRIW	NN 10.068662950495112 
+AWNW	NN 8.682368589375221 
+LWLA	IN 8.648045999835 
+MXTRT	NN 9.375515769935166 
+ZUL	NN 9.375515769935166 
+WWLF	NNP 8.797246236703527 
+MZRIMIM	VB 9.399968503952575 
+WWLJ	NNP 8.104099056143582 
+941	CD 7.564757012905729 
+RBWTA	NN 10.068662950495112 
+BGDWL	RB 8.069029328774958 
+PRJNIWT	JJ 8.881558488638976 
+INCX	VB 8.70682132339263 
+SJJISJIIM	JJ 8.881558488638976 
+MWQPA	JJ 8.881558488638976 
+WWLB	NNP 8.797246236703527 
+MTQIIMT	VB 8.301356215284466 
+PAXM	NNP 8.104099056143582 
+IWMIIM	NN 7.766077857501067 
+XZRH	RB 6.682734967655067 VB 8.013674142832684 NN 8.276903481267057 
+MZRX	NNT 6.058344075947526 NN 7.1242239713286715 JJ 8.881558488638976 
+BGDTI	VB 9.399968503952575 
+NTBET	NN 10.068662950495112 
+MWBNWT	VB 9.399968503952575 
+LWPA	NNP 8.797246236703527 
+JENWT	NN 8.459225038061012 NNT 8.255568653283746 
+MKNSI	NNT 8.948715833843691 
+ASJRAJGIWT	JJ 8.881558488638976 
+AWPQ	NNP 8.797246236703527 
+AWPN	NN 6.457745037850888 NNT 8.948715833843691 
+HBRAH	NN 10.068662950495112 
+ZWG	NNT 8.948715833843691 NN 8.459225038061012 
+GILWPIN	NN 10.068662950495112 
+ZWL	JJ 7.089799019410921 
+XZQH	JJ 6.6843339113027564 
+AWPI	NNT 8.255568653283746 NN 7.583756300707112 
+XRARDW	NNP 8.797246236703527 
+HTERB	VB 9.399968503952575 
+SIDWN	NNP 8.797246236703527 
+965	CD 7.564757012905729 
+SIDWR	NN 8.970050661827003 
+LHTRXQ	VB 8.70682132339263 
+BIJWX	NNT 7.339277921409591 NN 6.513314889005699 
+LWQH	NN 9.375515769935166 VB 9.399968503952575 
+HWMWRISJI	JJ 8.881558488638976 
+BRWRIM	JJ 8.188411308079031 
+PTWRH	JJ 8.881558488638976 
+HTIIXSWTW	NN 8.970050661827003 
+LWQS	NN 10.068662950495112 
+ZXL	NN 10.068662950495112 
+AWZLT	NNT 7.850103545175582 
+BNWIIM	JJ 8.881558488638976 
+LWQX	VB 7.7905305915184755 
+XWQIM	NN 9.375515769935166 
+TNHL	VB 9.399968503952575 
+XWQIT	JJ 7.272120576204876 
+LWRD	NNP 8.104099056143582 
+HBRAT	NNT 8.948715833843691 
+XWQIW	NN 10.068662950495112 
+IKWLTW	NN 10.068662950495112 
+AWRX	NN 7.503713593033575 NNT 7.339277921409591 
+MLWNAI	NN 10.068662950495112 
+KTMI	NNT 8.948715833843691 
+IKWLTN	NN 10.068662950495112 
+IKWLTM	NN 9.375515769935166 
+HTAQLMW	VB 9.399968503952575 
+SPCIPIWT	JJ 8.881558488638976 
+EBDLL	NNP 8.797246236703527 
+AWRN	NN 8.459225038061012 NNP 8.104099056143582 NNT 8.948715833843691 
+AINTIPADH	NN 8.682368589375221 
+XZRW	VB 7.608209034724521 
+AWRM	NN 10.068662950495112 
+IKWLTH	NN 8.682368589375221 
+AWRK	NNT 8.255568653283746 NN 10.068662950495112 
+AWRH	NNP 8.104099056143582 
+AWRI	NNP 6.851336087648214 
+HKREWT	NN 10.068662950495112 
+987	CD 7.564757012905729 
+MIFNHW	PRP 8.149312843635345 
+BRIHUM	NNP 5.465041726528323 
+INJF	VB 9.399968503952575 
+EIZAT	NNP 8.797246236703527 
+MFKNET	JJ 8.188411308079031 
+AWSR	VB 9.399968503952575 
+AWSP	NN 10.068662950495112 NNT 7.850103545175582 
+TQWWH	NN 7.989221408815276 
+HSBRH	NN 8.276903481267057 
+TQWWT	NN 10.068662950495112 NNT 8.255568653283746 
+HISJWRIWNIM	NN 10.068662950495112 
+QWRCIM	VB 9.399968503952575 
+HWBQEW	VB 9.399968503952575 
+MSWBSD	VB 9.399968503952575 
+WWSJ	NNP 8.104099056143582 
+GREWN	NN 10.068662950495112 
+LWRH	NNP 6.024657514463746 
+QPSPQW	ZVL 2.5776883832389665 
+HIFNWT	NNT 8.948715833843691 
+LWRM	NNP 8.104099056143582 
+AWTW	DT 3.264486336120253 
+AWTR	VB 9.399968503952575 
+AWTN	DT 4.719773568727095 
+HKFR	NN 10.068662950495112 
+BIJWI	NN 7.2354496064388965 
+AWTM	DT 4.363098624788362 
+XLQIT	JJ 8.188411308079031 RB 7.3758821482150125 
+AWTH	DT 3.5746412644240926 
+WWRN	NNP 8.104099056143582 
+XLQIM	NN 7.503713593033575 
+MGBLH	NN 10.068662950495112 
+PNJWMIMH	NN 10.068662950495112 
+BIJWL	NN 10.068662950495112 NNT 7.339277921409591 
+LHKWT	VB 8.301356215284466 
+RHIJIM	NN 8.970050661827003 
+FISWI	NNT 8.948715833843691 
+BIJWN	NNP 7.698633948035417 
+MRBIM	VB 9.399968503952575 
+ZKAIM	VB 9.399968503952575 NN 9.375515769935166 
+EMITWTIH	NN 10.068662950495112 
+PCEIHM	NN 10.068662950495112 
+DWGMH	NN 7.583756300707112 
+HKIN	VB 8.70682132339263 
+XWFBIM	VB 7.4540583548972625 
+MRBIT	DT 4.363098624788362 NNT 8.948715833843691 
+ZKAIT	VB 9.399968503952575 
+HKIR	VB 8.70682132339263 
+MGBIT	NN 10.068662950495112 
+DWGMA	NN 10.068662950495112 
+MGBIR	VB 9.399968503952575 
+AWUM	NN 8.459225038061012 NNP 6.717804695023691 
+MPQDIW	NN 10.068662950495112 
+GILAI	NNT 7.850103545175582 
+SKIN	NN 7.766077857501067 NNT 8.948715833843691 
+DWGMT	NNT 7.562421472723801 
+MZWN	NN 7.583756300707112 
+NBNTH	VB 9.399968503952575 
+MPQDIH	NN 10.068662950495112 
+MPQDIM	NN 8.970050661827003 
+LWTR	NNP 7.4109518755836366 
+BKIRWT	JJ 8.881558488638976 
+RGEIM	NN 9.375515769935166 
+INKW	VB 9.399968503952575 
+SJRIAWJIPIT	JJ 8.881558488638976 
+DWGLT	VB 8.70682132339263 
+QLIJTM	NN 10.068662950495112 
+RGEIT	JJ 8.881558488638976 
+QWNSRBJWRIWN	NN 10.068662950495112 
+KLKWTH	NNP 8.104099056143582 
+IDRFW	VB 9.399968503952575 
+PTWXH	JJ 8.188411308079031 
+WWRIACIH	NN 9.375515769935166 
+AWWT	NNT 8.948715833843691 
+SWNJH	NN 9.375515769935166 
+JBEWN	NNP 8.797246236703527 
+FISTH	VB 9.399968503952575 
+RIKJR	NNP 8.797246236703527 
+BIJRN	NNP 8.104099056143582 
+JBEWT	NN 10.068662950495112 
+MEWWTT	JJ 8.188411308079031 
+LHTRPA	VB 9.399968503952575 
+7,685	CD 7.564757012905729 
+AWXZ	VB 9.399968503952575 
+DAGLS	NNP 8.797246236703527 
+SWNIH	NNP 7.005486767475472 
+LHTRPQ	VB 9.399968503952575 
+BGDIM	NN 8.970050661827003 
+EBDH	VB 8.013674142832684 
+6691	CD 7.564757012905729 
+NIFWAI	NNT 8.255568653283746 
+HBRIQ	VB 9.399968503952575 
+FILMNW	VB 9.399968503952575 
+KTWB	VB 8.301356215284466 
+PCEIH	NN 10.068662950495112 
+5357	CD 7.564757012905729 
+TFWRH	NN 8.970050661827003 
+HKNH	NN 9.375515769935166 
+KTWM	NN 9.375515769935166 
+HMRIA	VB 9.399968503952575 
+FMWTIHM	NN 10.068662950495112 
+NJENT	VB 9.399968503952575 
+FQIDH	NN 10.068662950495112 
+LWXM	NN 10.068662950495112 
+PCEIW	NN 8.970050661827003 
+TFWRT	NNT 7.562421472723801 
+XMIFIT	JJ 8.881558488638976 
+AWZN	NN 10.068662950495112 NNP 8.104099056143582 
+JWBTM	NN 10.068662950495112 
+AWZL	VB 9.399968503952575 
+IMLAW	VB 9.399968503952575 
+HXRIP	VB 9.399968503952575 
+NWRMLIWT	JJ 8.881558488638976 
+SJRAWS	NNP 8.104099056143582 
+JQSJ	NN 10.068662950495112 
+JQSI	JJ 8.881558488638976 NNT 7.562421472723801 NN 10.068662950495112 
+XMIFIM	CD 6.871609832345784 
+BRWRWT	JJ 8.881558488638976 
+KDAIWT	NNT 8.948715833843691 NN 10.068662950495112 
+MWRDI	NNT 8.948715833843691 
+JWBWT	JJ 7.495264127519086 NN 10.068662950495112 
+LHSPIQ	VB 9.399968503952575 
+ZGWGIWT	NN 10.068662950495112 
+JWBWL	NNP 8.104099056143582 
+BTXILH	RB 6.970417040106848 
+INSH	VB 8.70682132339263 
+RIKWZIWT	JJ 8.188411308079031 
+NTBQF	VB 9.399968503952575 
+XWQTI	JJ 8.881558488638976 
+HKNT	NNT 7.562421472723801 
+ASKWLWT	NN 10.068662950495112 
+DWAGIM	VB 9.399968503952575 
+MWCRIM	NN 8.122752801439798 
+SKNH	NN 7.429605620879854 
+NICNIM	NN 10.068662950495112 NNP 8.797246236703527 
+LHGMIF	VB 9.399968503952575 
+SKNT	NNT 7.562421472723801 
+LEBWD	VB 7.7905305915184755 
+BWLGRIH	NNP 8.797246236703527 
+AIPWA	RB 6.682734967655067 
+HRISWTIHM	NN 10.068662950495112 
+QBLNIM	NN 7.429605620879854 
+HDXTW	NN 10.068662950495112 
+MHWDQT	JJ 8.881558488638976 
+PEILWIWT	NN 10.068662950495112 
+HKRH	NN 7.670767677696742 
+MABQIH	NN 10.068662950495112 
+BIJLH	VB 8.70682132339263 
+MABQIM	NN 8.970050661827003 
+NWKXI	JJ 6.6843339113027564 
+CIDDW	VB 9.399968503952575 
+IFXQW	VB 8.70682132339263 
+HWLMWT	JJ 8.881558488638976 
+TNSH	VB 9.399968503952575 
+BIJLW	VB 9.399968503952575 
+INSW	VB 7.7905305915184755 
+XUKIM	NN 7.766077857501067 
+NWKXT	NN 10.068662950495112 
+RIKWZ	NN 8.276903481267057 
+MRAIIN	NN 10.068662950495112 VB 9.399968503952575 
+MWRAL	NN 8.970050661827003 
+MCXIQ	JJ 8.881558488638976 
+LHSPID	VB 8.70682132339263 
+IFXRR	VB 9.399968503952575 
+IZRMW	VB 9.399968503952575 
+HICEIM	NN 10.068662950495112 
+INWE	VB 9.399968503952575 
+HFTTPWT	NN 8.970050661827003 NNT 7.850103545175582 
+DIZNGWP	NNP 8.797246236703527 
+MNDJIM	NN 9.375515769935166 
+GILWII	NNT 8.948715833843691 
+ADIRWT	JJ 8.881558488638976 
+ILIDI	NNT 8.948715833843691 
+HKRT	NNT 8.948715833843691 
+HKRX	NN 10.068662950495112 
+AWMNWT	NNT 8.948715833843691 
+HDXWT	NNT 8.948715833843691 
+TNUC	NN 8.970050661827003 
+EIQRWN	NN 9.375515769935166 
+TNUK	NNP 7.4109518755836366 
+SKRT	NN 10.068662950495112 
+TWHIM	VB 9.399968503952575 
+BGDAD	NNP 8.104099056143582 
+NCIGWIWT	NNT 8.948715833843691 
+MWRFE	NN 10.068662950495112 
+LWXMT	NN 10.068662950495112 
+LHSTIIG	VB 9.399968503952575 
+LEBWT	VB 9.399968503952575 
+MWCRIW	NN 10.068662950495112 
+IXLIP	VB 9.399968503952575 
+LEBWR	VB 7.4540583548972625 
+LSLAW	NNP 8.104099056143582 
+MWRFI	NNT 8.948715833843691 
+LXCH	VB 9.399968503952575 NN 9.375515769935166 
+MWRFT	NNT 8.255568653283746 
+LXCN	NN 10.068662950495112 
+IXZIQW	VB 9.399968503952575 
+IWMIWT	JJ 8.881558488638976 
+HXRPT	NNT 8.948715833843691 
+LWXMI	NNT 7.850103545175582 
+GILMW	VB 9.399968503952575 
+GI51	ZVL 4.3694478524670215 
+LHSTIIM	VB 8.70682132339263 
+LWXMH	NN 9.375515769935166 
+HKLLT	NNT 8.948715833843691 
+MCLIXIN	VB 9.399968503952575 
+MCLIXIM	VB 8.70682132339263 
+RHIJWT	NN 10.068662950495112 
+TNWR	NNT 8.255568653283746 
+IXLIJ	VB 8.70682132339263 
+CLMIM	NN 8.970050661827003 
+CAWFSQW	NNP 8.797246236703527 
+MNGNWNIM	NN 10.068662950495112 
+AINDIWWIDWALIWT	NN 10.068662950495112 
+MIICR	VB 9.399968503952575 
+NWLDW	VB 8.70682132339263 
+FKNWTIH	NN 10.068662950495112 
+GAWWRILWB	NNP 8.797246236703527 
+SKWM	NN 7.2354496064388965 NNT 6.550820561045321 
+MBWGRT	JJ 8.881558488638976 
+MIICG	VB 8.70682132339263 JJ 8.881558488638976 
+TRBWTIT	JJ 8.188411308079031 
+PTXNW	VB 9.399968503952575 
+RPWBLIQH	NN 7.503713593033575 
+NWLDH	VB 9.399968503952575 
+FERH	NN 10.068662950495112 
+FERI	NNT 7.339277921409591 
+NIQWLH	NNP 8.797246236703527 
+HIFGI	NNT 8.255568653283746 JJ 8.188411308079031 
+EINIIM	NN 7.2354496064388965 
+MIIDI	NNT 8.255568653283746 JJ 8.188411308079031 
+LXDF	VB 8.301356215284466 
+MWRKN	JJ 8.881558488638976 
+LXDD	VB 8.70682132339263 
+GLAWQWMH	NN 10.068662950495112 
+MESIQIM	NN 8.970050661827003 
+MFKWRWT	NN 9.375515769935166 
+MEWBDWT	JJ 8.881558488638976 
+ATPJR	VB 9.399968503952575 
+MRWKZIM	VB 9.399968503952575 
+EINIHM	NN 8.970050661827003 
+NALCT	VB 9.399968503952575 
+NALCW	VB 8.301356215284466 
+JRAC	NNP 8.797246236703527 
+SJJISJIQH	NN 9.375515769935166 
+HJILW	VB 9.399968503952575 
+HTNDND	VB 9.399968503952575 
+MWRKB	JJ 8.881558488638976 
+HJILH	VB 8.301356215284466 
+WLDISLB	NNP 8.797246236703527 
+HBRWT	NN 10.068662950495112 
+MWRIH	NNP 8.797246236703527 
+FERW	NN 9.375515769935166 
+MWRIC	NNP 8.797246236703527 
+AQDXIM	NN 10.068662950495112 
+PRNCSQW	NNP 8.797246236703527 
+MWRIM	NN 8.970050661827003 
+LXFB	VB 8.301356215284466 
+SWNJWT	NN 10.068662950495112 
+NAMNWIWTIW	NN 10.068662950495112 
+NALCH	VB 8.70682132339263 
+MWNWPWL	NN 9.375515769935166 
+SIEWT	NNT 8.255568653283746 NN 9.375515769935166 
+HBRXT	NNT 8.948715833843691 
+EBRW	NN 10.068662950495112 VB 6.915061854164575 
+GLADIW	NNP 8.797246236703527 
+MTENIINIM	VB 9.399968503952575 
+AXIM	NN 8.122752801439798 
+LGIIS	VB 7.09738341095853 
+BWSIM	NN 10.068662950495112 
+AXIH	NN 10.068662950495112 
+AXID	JJ 7.272120576204876 
+MFKWRTW	NN 10.068662950495112 
+HTABDWTW	NN 10.068662950495112 
+BIJAH	VB 9.399968503952575 
+MJLJL	VB 9.399968503952575 
+NXIFWT	NN 10.068662950495112 
+PSIQWTIH	NN 10.068662950495112 
+MIIGE	JJ 8.881558488638976 
+TXKWM	NN 10.068662950495112 
+MFKWRTM	NN 8.970050661827003 
+BIJAW	VB 8.70682132339263 
+LWXWT	NNT 8.948715833843691 
+DCMBR	NNP 6.851336087648214 
+TPWXIM	JJ 8.881558488638976 
+AWJWBWSIM	NN 8.682368589375221 
+EBRH	VB 7.32052696227274 
+EBRI	NNP 8.797246236703527 
+NLWWIT	VB 9.399968503952575 
+AXIW	NN 8.970050661827003 
+GSIQH	NNP 8.797246236703527 
+SIETW	NN 10.068662950495112 
+XWQQH	VB 8.70682132339263 
+LAXWR	MOD 7.518064181233078 
+HTIIXSWT	NN 9.375515769935166 
+GWRBCWB	NNP 6.23229687924199 
+MJLIT	NNT 8.948715833843691 
+KPIIH	NN 9.375515769935166 
+XWQRI	NNT 7.850103545175582 
+MIIFM	VB 9.399968503952575 
+LAXWZ	VB 9.399968503952575 
+APRWXIM	NN 10.068662950495112 
+KPIIM	NN 10.068662950495112 
+BWDAPFJ	NNP 8.104099056143582 
+IXZQALI	NNP 8.797246236703527 
+ZWEBI	NNP 8.797246236703527 
+XWQRT	NN 10.068662950495112 VB 8.70682132339263 JJ 8.881558488638976 
+LLXWF	VB 9.399968503952575 
+FEWN	NN 10.068662950495112 NNT 8.948715833843691 
+LLXWC	VB 8.301356215284466 
+GILWI	NN 10.068662950495112 
+BASJN	NNP 8.797246236703527 
+FEWT	NN 7.429605620879854 NNT 6.383766476382155 
+QLASIT	JJ 7.7829461999708665 
+LTQWE	VB 9.399968503952575 
+JRGI	JJ 8.881558488638976 
+HLAH	RB 6.682734967655067 
+LAWJNBRG	NNP 7.698633948035417 
+MMLKTIIM	JJ 8.881558488638976 
+LXMI	NN 10.068662950495112 
+MKINIM	VB 8.301356215284466 
+LXMM	VB 9.399968503952575 
+AXMD	NNP 8.797246236703527 
+MGEIM	NN 8.459225038061012 
+ICRNIM	NN 8.459225038061012 
+DIRQJWRIM	NN 10.068662950495112 
+LIQWI	NNT 8.948715833843691 NN 10.068662950495112 
+WDAWT	NN 9.375515769935166 
+EBWR	IN 6.913444944446893 
+XRDWT	NN 9.375515769935166 
+EBWT	JJ 8.881558488638976 
+ZWGWT	NN 8.276903481267057 
+LXLC	VB 8.70682132339263 
+MTKNN	VB 9.399968503952575 
+AIRGN	VB 9.399968503952575 
+APGNISJAN	NNP 8.797246236703527 
+BQBWQ	NN 10.068662950495112 NNT 8.948715833843691 
+IJENW	VB 9.399968503952575 
+LXLQ	VB 8.301356215284466 
+GLWBWS	NN 10.068662950495112 
+MCWMCMIM	JJ 8.881558488638976 
+RWZLSR	NNP 8.797246236703527 
+MWTXM	JJ 8.881558488638976 
+HFRATH	NN 10.068662950495112 
+HWLMIM	JJ 8.881558488638976 
+KWKBIHN	NN 10.068662950495112 
+MIWBAT	VB 9.399968503952575 JJ 8.881558488638976 
+RCIPWT	NN 8.970050661827003 
+BEQIPIN	RB 6.459591416340857 
+NSTIIM	VB 9.399968503952575 
+MRIDWR	NNP 7.4109518755836366 
+JRIQ	NNP 8.797246236703527 
+HTGLMWTH	NN 10.068662950495112 
+NWKXWT	NNT 7.339277921409591 
+MRIDWT	NN 10.068662950495112 
+ATRIM	NN 8.122752801439798 
+JRIZ	NN 10.068662950495112 
+MXWZI	JJ 6.80211694695914 
+XWTKT	VB 9.399968503952575 
+JLWWIZIH	NN 6.667465568832957 
+HNXIITW	NN 10.068662950495112 
+AIRIT	JJ 8.881558488638976 
+TAWZKR	VB 9.399968503952575 
+JWENT	VB 7.7905305915184755 
+LXNK	VB 9.399968503952575 
+CIBWRIIM	JJ 7.089799019410921 
+AMCEIM	NN 7.2354496064388965 
+SLAX	NNP 8.797246236703527 
+TPWQH	NN 10.068662950495112 
+MGZINIM	NN 9.375515769935166 
+AIRIM	NN 9.375515769935166 
+WEDWT	NNT 8.255568653283746 
+IIBNH	VB 9.399968503952575 
+QWMIQAIM	NN 9.375515769935166 
+TPWQT	NNT 7.850103545175582 
+25.90	CD 7.564757012905729 
+TIAWM	NN 7.072930676941121 
+RIAL	NNP 8.797246236703527 
+GIBE	NNP 8.797246236703527 
+TIAWR	NN 10.068662950495112 
+GIBF	VB 9.399968503952575 
+HWRAT	NNT 8.948715833843691 
+MIKST	NNT 8.948715833843691 
+LIPCIN	NNP 8.797246236703527 
+EDKWN	NNT 8.948715833843691 
+XWTMH	NN 10.068662950495112 
+MTKTF	VB 9.399968503952575 
+HWRAH	NN 8.122752801439798 
+FWTPIM	JJ 8.881558488638976 NN 8.970050661827003 
+XWTMT	NN 10.068662950495112 NNT 8.948715833843691 
+MTWART	VB 8.70682132339263 
+HCMDWT	NN 10.068662950495112 
+XWTMW	NN 10.068662950495112 
+LXPF	VB 7.7905305915184755 
+EFWRIM	NN 10.068662950495112 
+MQBIL	VB 8.70682132339263 NN 10.068662950495112 
+WILIAM	NNP 7.698633948035417 
+AXRT	RB 6.1231191797196445 NN 10.068662950495112 JJ 5.991186730742811 
+13.90	CD 7.564757012905729 
+HNXIH	NN 9.375515769935166 
+HEWWIH	NN 10.068662950495112 
+37.40	CD 7.564757012905729 
+AXRI	IN 5.364631653829227 
+TEFIITIWT	JJ 8.881558488638976 
+HISJWRI	JJ 7.272120576204876 
+HGBRT	NNT 8.255568653283746 
+HCXIQ	VB 9.399968503952575 
+ERWKWT	VB 9.399968503952575 
+XWDFIIM	NN 6.9776204971367966 
+MGIEIM	VB 7.002073231154205 
+GIAW	MOD 7.518064181233078 
+RIAD	NNP 7.698633948035417 
+TEWPH	NN 7.429605620879854 
+FWRWTIHM	NN 10.068662950495112 
+MWRALI	JJ 8.881558488638976 
+GIDI	NNP 8.797246236703527 
+LXSL	VB 9.399968503952575 
+JRMP	NN 10.068662950495112 
+CWRKIM	VB 9.399968503952575 
+QMPSINWS	NNP 8.797246236703527 
+ITBRR	VB 8.301356215284466 
+MIDLSBWRW	NNP 8.797246236703527 
+RWWQH	JJ 8.881558488638976 
+MIKRZ	NN 10.068662950495112 
+ICRNIT	NNT 8.948715833843691 
+FRIMPS	NN 10.068662950495112 
+AIREW	VB 8.70682132339263 
+MKWWNT	JJ 8.881558488638976 
+HWRDT	NNT 7.562421472723801 
+ARIZWT	NN 10.068662950495112 
+MFBIE	JJT 4.564348191467836 
+HWRDH	NN 8.459225038061012 
+RICH	NN 9.375515769935166 
+AIREH	VB 7.7905305915184755 
+5405	CD 7.564757012905729 
+QRQEIT	JJ 8.881558488638976 
+GIFH	NN 7.429605620879854 
+GIAWGRP	NN 10.068662950495112 
+MTKWT	NN 10.068662950495112 
+TBWSWT	NN 10.068662950495112 
+HLIK	NN 10.068662950495112 NNT 8.948715833843691 
+EWBIW	NN 10.068662950495112 
+HFLKWTIW	NN 10.068662950495112 
+QCBIT	JJ 8.881558488638976 
+GIFT	NNT 7.850103545175582 
+MRXQIM	NN 10.068662950495112 
+PTIXWT	NN 10.068662950495112 
+MTKXF	VB 9.399968503952575 
+NCIGIM	NN 8.276903481267057 
+EWBIH	NN 10.068662950495112 
+PENWX	NN 10.068662950495112 
+TWKNN	VB 8.70682132339263 
+CNIEWT	NN 10.068662950495112 
+RIDN	NNP 8.797246236703527 
+TWKNH	NN 10.068662950495112 
+LWQRSIH	NNP 7.4109518755836366 
+JRNR	NNP 7.005486767475472 
+HWRFH	VB 9.399968503952575 
+XMWRW	NN 10.068662950495112 
+ITBSS	VB 9.399968503952575 
+HWRFE	VB 7.7905305915184755 
+HXLFWT	NNT 8.948715833843691 
+LXWN	VB 9.399968503952575 
+HLKH	VB 9.399968503952575 NN 7.670767677696742 
+HNXNW	VB 9.399968503952575 
+LRKWF	VB 7.4540583548972625 
+AMBIWWLNJIIM	JJ 8.881558488638976 
+AXWZ	NN 7.670767677696742 NNT 7.339277921409591 
+XMWRH	JJ 6.6843339113027564 
+MQBLT	VB 8.301356215284466 
+LRKWB	VB 9.399968503952575 
+GII.	NNP 8.797246236703527 
+IIBWA	NN 9.375515769935166 NNT 8.255568653283746 
+LXWT	NN 7.989221408815276 
+HLKT	NNT 7.339277921409591 
+TWKKI	NNT 8.948715833843691 
+HLKW	VB 8.013674142832684 
+XBWRH	NN 8.459225038061012 
+TFLWBWT	NNT 8.948715833843691 
+HWRGL	VB 9.399968503952575 
+IIBWF	NN 10.068662950495112 
+XBWRT	NNT 8.948715833843691 
+AIRAN	NNP 7.698633948035417 
+TTBCE	VB 9.399968503952575 
+MFQAWT	NN 10.068662950495112 
+EIRAQIIM	JJ 8.881558488638976 
+QRNWT	NN 9.375515769935166 NNT 6.751491256507472 
+ANJIFMI	JJ 8.881558488638976 
+TEWZH	NN 10.068662950495112 
+FITWP	NNT 5.729840008975491 NN 10.068662950495112 
+FITWQ	NN 10.068662950495112 
+LXWF	VB 8.70682132339263 
+QJGWRIWT	NNT 8.948715833843691 NN 10.068662950495112 
+MQBLI	NNT 7.339277921409591 
+HFLKWTIH	NN 10.068662950495112 
+PRNSISQW	NNP 8.797246236703527 
+GIREWN	NN 7.178291192598947 
+6791	CD 6.871609832345784 
+LPEWL	VB 6.760911174337317 
+RWWXT	JJ 8.881558488638976 
+HARKH	NN 8.682368589375221 
+XIBWRW	NN 10.068662950495112 
+PIRSMW	VB 9.399968503952575 
+RWWXH	NN 7.871438373158893 VB 8.70682132339263 
+RWWXI	JJ 8.881558488638976 
+RIJH	NNP 8.797246236703527 
+EWBDT	VB 8.301356215284466 NNT 8.255568653283746 NN 10.068662950495112 
+WWIMBLDWN	NNP 7.698633948035417 
+HARJS	NNP 8.797246236703527 
+HWRIM	NN 7.503713593033575 
+JRIJWRIALI	JJ 8.881558488638976 
+HWRIH	NN 10.068662950495112 
+TWKIX	VB 8.013674142832684 
+HWRIF	VB 9.399968503952575 
+EWBDH	NN 6.485144012039002 
+EWBDI	NNT 5.770662003495746 
+BIQWRIM	NN 9.375515769935166 
+HWKIXT	VB 9.399968503952575 
+MGWNIM	JJ 7.495264127519086 
+HWRKB	VB 9.399968503952575 
+RIIMWN	NNP 8.797246236703527 
+HWKIXW	VB 9.399968503952575 
+NTIBWT	NN 10.068662950495112 
+HTQWMMWT	NNT 8.948715833843691 NN 10.068662950495112 
+DIRQJWRIWN	NNT 7.339277921409591 NN 7.670767677696742 
+AZBIW	NNP 8.797246236703527 
+HLLW	JJ 5.885826215084985 
+SNIGWRIM	NN 9.375515769935166 
+ALJRNJIWWH	NN 8.459225038061012 
+EQWRIM	NN 10.068662950495112 
+ICRIM	NN 10.068662950495112 
+NMKRWT	VB 9.399968503952575 
+EBRIINIM	NN 8.970050661827003 
+RIIK	NNP 8.104099056143582 
+PCEW	VB 9.399968503952575 
+RIKZ	VB 8.70682132339263 
+NIERW	VB 9.399968503952575 
+GILM	NN 9.375515769935166 
+FFIM	CD 6.178462651785838 
+FQLIM	NN 7.072930676941121 
+FFIT	JJ 8.881558488638976 
+3.23	CD 7.564757012905729 
+GILW	VB 8.301356215284466 
+PRWPWRCIWNLIT	JJ 8.188411308079031 
+MWSDWT	NN 8.276903481267057 NNT 7.1569563646156364 
+QFII	NNT 7.850103545175582 
+MFWTPT	JJ 6.935648339583663 
+ITGWRRW	VB 9.399968503952575 
+TAWLWGIH	NN 10.068662950495112 
+49.90	CD 6.871609832345784 
+QFIF	NN 10.068662950495112 
+QFIM	JJ 8.188411308079031 
+LXZQ	VB 8.301356215284466 
+BFBIL	IN 6.856286530606945 
+CHBHB	JJ 8.881558488638976 
+NTEQF	VB 9.399968503952575 
+BIKRW	VB 9.399968503952575 
+TLKID	NN 10.068662950495112 
+NEWCWT	VB 9.399968503952575 
+CRPTIWT	NN 10.068662950495112 
+MSMKIM	NN 8.459225038061012 
+PCEI	NNT 8.948715833843691 
+PCEH	VB 9.399968503952575 
+XIBWRI	NNT 8.255568653283746 
+49.80	CD 7.564757012905729 
+MHDQIM	VB 9.399968503952575 
+XWFPIM	VB 9.399968503952575 
+GILH	VB 7.32052696227274 
+MWFPLWT	JJ 8.881558488638976 
+JRWR	NN 7.360612749392902 
+MBXNH	NN 8.970050661827003 
+MILAN	NNP 8.104099056143582 
+BIQWRTW	NN 10.068662950495112 
+LBQPSPBIN	NNP 8.797246236703527 
+PDRJIWWI	JJ 8.188411308079031 
+HNXTT	NNT 8.948715833843691 
+MWEMDWTM	NN 9.375515769935166 
+MQBWL	NNP 8.797246236703527 
+MILANW	NNP 8.797246236703527 
+ICRNI	NNT 7.1569563646156364 
+LIRJH	NN 9.375515769935166 
+MWKNIM	VB 7.4540583548972625 
+FITQW	VB 9.399968503952575 
+HIIFR	RB 8.069029328774958 
+IRWDWT	JJ 8.881558488638976 
+AINJRSIM	NN 7.766077857501067 
+NXRDW	VB 9.399968503952575 
+RIMH	NN 10.068662950495112 
+PFIJWT	NNT 8.948715833843691 
+JRWD	JJ 8.881558488638976 VB 9.399968503952575 
+MILAW	VB 9.399968503952575 
+HXMIRH	VB 9.399968503952575 
+MWEMDWTW	NN 10.068662950495112 
+MBXNM	NN 10.068662950495112 
+MKRET	JJ 7.7829461999708665 
+MMLKTIWT	JJ 8.881558488638976 
+FITPW	VB 9.399968503952575 
+RFMIWT	JJ 8.188411308079031 
+GRIIJ	NNP 8.797246236703527 
+AITNIM	JJ 8.881558488638976 
+LHFMID	VB 8.70682132339263 
+LHFMIC	VB 9.399968503952575 
+SAJIRH	NN 10.068662950495112 
+ECIM	NN 7.871438373158893 
+JRXW	VB 9.399968503952575 
+ICRNW	VB 9.399968503952575 
+BIQWRWT	NNT 8.948715833843691 
+HDGMTI	VB 9.399968503952575 
+MRIEIM	VB 9.399968503952575 
+TXNWT	NN 8.459225038061012 NNT 7.339277921409591 
+MAWRGNIM	VB 9.399968503952575 JJ 8.881558488638976 
+HNXWT	NN 7.583756300707112 
+GWAJMALH	NNP 7.187808324269427 
+HRCAH	NN 9.375515769935166 
+LHTGWRR	VB 9.399968503952575 
+MXIAWT	NNT 8.948715833843691 
+TXNTW	NN 10.068662950495112 
+GWPNIT	JJ 8.881558488638976 
+KWWNWTIW	NN 10.068662950495112 
+RWXBH	NN 10.068662950495112 
+MSIBT	NNT 7.850103545175582 
+ECMH	PRP 4.748115461973189 
+ECMI	PRP 5.846727750641299 
+ZWHMH	NN 10.068662950495112 
+ECMK	PRP 7.4561656630753985 
+NWKXIM	NN 9.375515769935166 
+ECMM	PRP 4.817108333460141 
+ECMN	PRP 6.2034026945800305 
+MBXNIM	NN 9.375515769935166 
+GFFIM	NN 9.375515769935166 
+PITRWNWT	NN 10.068662950495112 
+MWFMCIM	VB 9.399968503952575 
+NWKXIT	JJ 6.935648339583663 
+RIQH	JJ 8.881558488638976 
+RIQI	NNP 8.797246236703527 
+XFWDIM	NN 7.871438373158893 VB 9.399968503952575 
+ESWQH	JJ 8.881558488638976 
+GRILH	NN 9.375515769935166 
+HFTGEW	VB 9.399968503952575 
+IICAW	VB 8.301356215284466 
+MTNHLT	VB 9.399968503952575 
+MKRIX	VB 9.399968503952575 
+MLMILIAN	NNP 8.797246236703527 
+MKRIZ	VB 9.399968503952575 
+HWRTH	VB 9.399968503952575 
+FWTPWT	NN 10.068662950495112 
+PRLMNJ	NN 7.360612749392902 
+HRAWBNI	NNP 7.698633948035417 
+HINDIM	NN 9.375515769935166 
+QBILIM	JJ 8.188411308079031 
+HINDIT	JJ 7.7829461999708665 
+CINWRWT	NNT 8.948715833843691 
+ECMW	PRP 4.038438979462033 
+MTLBJ	JJ 8.881558488638976 
+IRDNIT	JJ 8.188411308079031 
+GRIMT	NNT 8.948715833843691 
+MTIIXST	VB 9.399968503952575 
+TWKPL	VB 9.399968503952575 
+TBWSTW	NN 10.068662950495112 
+MKRIE	JJ 7.272120576204876 
+BIQWRTI	JJ 7.7829461999708665 
+FIJWTIW	NN 10.068662950495112 
+RISN	VB 9.399968503952575 
+EREWRI	NN 10.068662950495112 
+MKRIM	NN 8.970050661827003 
+HLWK	NNT 8.948715833843691 
+PIRSWN	NNP 8.797246236703527 
+LHTGWNN	VB 8.70682132339263 
+RWXNI	JJ 7.495264127519086 
+AISLAMIIM	JJ 8.188411308079031 
+ZQWQH	VB 8.70682132339263 
+CLBINSN	NNP 8.104099056143582 
+MWZIAWN	NN 8.682368589375221 
+QWSMJI	JJ 8.188411308079031 
+DMIWNH	NN 10.068662950495112 
+LHFTNWT	VB 8.301356215284466 
+DMIWNI	JJ 8.881558488638976 
+GIWS	NNT 7.850103545175582 NN 10.068662950495112 
+HTARGNW	VB 9.399968503952575 
+RWXMH	NNP 6.717804695023691 
+MTLHJ	VB 9.399968503952575 
+MILIJNJI	JJ 8.881558488638976 
+XFBNW	VB 9.399968503952575 
+HIINW	AUX 4.382026634673881 VB 9.399968503952575 RB 6.970417040106848 
+QFRI	NNT 7.562421472723801 
+NDXSW	VB 9.399968503952575 
+QFRH	VB 9.399968503952575 
+MEMIDWT	VB 9.399968503952575 
+HTARGNH	VB 8.301356215284466 
+HARXH	NN 10.068662950495112 
+NDXTH	VB 9.399968503952575 
+NIFAH	VB 9.399968503952575 
+ECRT	NN 9.375515769935166 
+FNATW	NN 10.068662950495112 
+ECRW	VB 8.301356215284466 
+HWRXQ	VB 9.399968503952575 
+100,000	CD 7.564757012905729 
+CWEDIM	VB 9.399968503952575 
+SPWLDING	NNP 8.797246236703527 
+RIXP	VB 9.399968503952575 
+DETKM	NN 10.068662950495112 
+FNATM	NN 10.068662950495112 
+ERWKIM	VB 9.399968503952575 
+PRICWT	NN 10.068662950495112 
+HZDQQWT	NN 10.068662950495112 
+IKINW	VB 9.399968503952575 
+MTLHB	VB 9.399968503952575 
+NCIGWT	NN 10.068662950495112 NNT 8.948715833843691 
+SSGWNI	JJ 8.881558488638976 
+PCIEH	NN 9.375515769935166 
+NWTRIM	VB 8.70682132339263 
+IICGH	VB 9.399968503952575 
+IFIBTH	NN 8.459225038061012 
+IWDPSW	VB 9.399968503952575 
+EIMWTIM	NN 8.970050661827003 
+HPSIQW	VB 8.70682132339263 
+NXFBWT	VB 8.70682132339263 
+25.11	CD 7.564757012905729 
+ECRH	VB 8.70682132339263 
+IICGW	VB 8.70682132339263 
+RIWS	NNP 8.797246236703527 
+GRGRIM	NN 10.068662950495112 
+AILWLA	IN 9.74665828850311 
+ASJRAJGI	JJ 6.80211694695914 
+NJIIH	NN 8.276903481267057 
+ANWJWNIWS	NNP 8.797246236703527 
+FIQWLIM	NN 10.068662950495112 
+MEWZIM	NN 10.068662950495112 
+NKLLH	VB 9.399968503952575 
+13.00	CD 7.564757012905729 
+AIZMIRLI	NNP 8.797246236703527 
+EMDWT	NNT 8.948715833843691 NN 8.459225038061012 
+BRWMIC	NNP 8.797246236703527 
+JXINH	NN 9.375515769935166 
+GRIST	NNT 8.948715833843691 
+TTBQF	VB 8.70682132339263 
+NKLLW	VB 9.399968503952575 
+QFWR	VB 6.264474288023425 JJ 8.881558488638976 
+FIQWLIW	NN 10.068662950495112 
+QFWT	JJ 6.5789733956449306 RB 8.069029328774958 
+NKLLT	VB 9.399968503952575 
+PRNSIS	NNP 8.104099056143582 
+FLIJTNW	NN 10.068662950495112 
+GRISH	NN 10.068662950495112 
+ALMGWR	NNP 8.104099056143582 
+MSIIM	VB 8.70682132339263 
+MWKFRIM	JJ 8.881558488638976 NN 10.068662950495112 
+13.11	CD 7.564757012905729 
+MILNR	NNP 8.797246236703527 
+MICGIM	NN 10.068662950495112 
+ECTI	NN 10.068662950495112 
+IPAN	NNP 7.005486767475472 
+01.00	CD 7.564757012905729 
+HIITH	VB 9.399968503952575 
+HIITI	VB 9.399968503952575 AUX 3.5553480614894135 
+BWTIW	ZVL 4.3694478524670215 
+ECWB	JJ 8.188411308079031 
+SWRDI	NNP 8.797246236703527 
+DIWWXW	VB 7.608209034724521 
+HMAN	NNP 8.104099056143582 
+ECWM	JJ 7.7829461999708665 
+CNZWRH	NN 9.375515769935166 
+ECWR	JJ 8.881558488638976 
+MDINAIM	NN 10.068662950495112 
+LQIIM	VB 7.09738341095853 
+MSIIE	VB 8.70682132339263 
+EMDTH	NN 10.068662950495112 
+DIWWXI	NNT 7.850103545175582 
+HTMWJJWT	NN 9.375515769935166 
+HTPWRRWT	NN 10.068662950495112 
+FMWRWT	NNT 8.948715833843691 
+104.90	CD 7.564757012905729 
+TWKXT	NNT 8.948715833843691 
+EMDTW	NN 8.682368589375221 
+MWSEIM	VB 9.399968503952575 
+HWLLIM	JJ 8.881558488638976 
+HXMICW	VB 9.399968503952575 
+MLBSQI	NNP 8.797246236703527 
+TPEL	VB 8.70682132339263 
+WWIIJNAM	NNP 8.797246236703527 
+JSIM	VB 9.399968503952575 
+TCPIT	NN 9.375515769935166 
+PIRWFIM	NN 10.068662950495112 
+MWGBLT	VB 9.399968503952575 JJ 8.881558488638976 
+HTNXLWT	NN 10.068662950495112 
+RFMIIM	JJ 7.089799019410921 
+FPIWT	NN 10.068662950495112 
+PCWE	NN 10.068662950495112 JJ 8.188411308079031 
+NKWNWTH	NN 10.068662950495112 
+NKWNWTM	NN 10.068662950495112 
+IPEL	VB 8.70682132339263 
+SWPIT	RB 7.3758821482150125 JJ 8.881558488638976 
+GALJASRAI	NNP 8.797246236703527 
+KWTRTH	NN 10.068662950495112 
+NIIDWT	NNT 8.948715833843691 
+ARCIIM	JJ 8.881558488638976 
+JKNIQWT	NN 9.375515769935166 
+BIMAI	NNT 8.948715833843691 NN 10.068662950495112 
+SEIPIM	NN 8.682368589375221 
+SMDR	NN 10.068662950495112 
+HIDRWGNCIH	NN 10.068662950495112 
+AFLIWT	NN 9.375515769935166 
+NKWNWTW	NN 10.068662950495112 
+AISLM	NN 9.375515769935166 
+GWWEH	VB 9.399968503952575 
+NAMNI	NNT 8.948715833843691 
+NAMNH	JJ 8.188411308079031 
+FWLXIM	VB 8.301356215284466 
+GIBWRH	NN 10.068662950495112 
+GIBWRI	NNT 8.948715833843691 
+T.D.	NNP 8.797246236703527 
+IPGE	VB 8.70682132339263 
+TPFW	VB 9.399968503952575 
+BFWRTH	NN 10.068662950495112 
+GIBWRW	NN 8.459225038061012 
+DMWQRJI	JJ 7.089799019410921 
+GIBWRT	NNT 8.948715833843691 
+TPGE	VB 9.399968503952575 
+RPWRMWT	NN 9.375515769935166 
+HSDRT	NNT 8.948715833843691 
+SLJIQS	NNP 8.797246236703527 
+MFRDIM	NN 7.670767677696742 
+HSDRI	NNT 7.339277921409591 
+MFRDIH	NN 10.068662950495112 
+SWXRIM	NN 8.276903481267057 
+PEMIM	NN 7.766077857501067 
+KTWBH	JJ 8.188411308079031 
+XWSKT	VB 9.399968503952575 NN 10.068662950495112 
+IIAMR	VB 8.301356215284466 
+MTPQDIM	VB 8.70682132339263 
+HCJIIDWTH	NN 9.375515769935166 
+KTWBT	NNT 8.948715833843691 NN 9.375515769935166 
+MFMEWIWT	NN 10.068662950495112 
+MWEDPIM	JJ 7.7829461999708665 
+HMFK	NN 7.2354496064388965 NNT 6.751491256507472 
+IEWDW	NN 10.068662950495112 
+MFAIR	VB 8.013674142832684 
+MFAIT	NN 9.375515769935166 
+HLQAH	NN 10.068662950495112 
+LSMWK	VB 8.70682132339263 
+QMIJIM	JJ 8.881558488638976 
+GLWIH	JJ 7.7829461999708665 
+MRDKI	NNP 7.005486767475472 
+XWSLW	VB 9.399968503952575 
+LTPWF	VB 9.399968503952575 
+LEDKN	VB 9.399968503952575 
+HGBLWT	NN 9.375515769935166 
+QLIPRS	NNP 8.797246236703527 
+EWCMT	NNT 7.339277921409591 
+MGDIR	VB 8.301356215284466 
+FPIRA	NNP 8.104099056143582 
+CIJWJIM	NN 10.068662950495112 
+NAMRW	VB 8.70682132339263 
+EWCMH	NN 8.122752801439798 
+SMIM	NN 7.871438373158893 
+NAMRH	VB 9.399968503952575 
+FWJRIM	NN 6.81056641247363 
+IFIBWT	NN 9.375515769935166 
+LHZEIQ	VB 9.399968503952575 
+NIDWNW	VB 8.70682132339263 
+LHCBIE	VB 7.7905305915184755 
+MIIXSIM	VB 9.399968503952575 
+NIDWNH	VB 9.399968503952575 
+AWRXIM	NN 8.970050661827003 
+FWLXNM	NN 10.068662950495112 
+GAWLH	NN 10.068662950495112 NNP 8.104099056143582 
+MSGRT	NN 7.296074228255331 NNT 8.255568653283746 
+SBSWD	NN 8.970050661827003 
+SWNWWRW	VB 9.399968503952575 
+GLWLH	NN 10.068662950495112 
+IPNH	VB 9.399968503952575 
+ITARK	VB 9.399968503952575 
+HPSIDH	VB 8.70682132339263 
+TPNH	VB 9.399968503952575 
+SWPRT	NN 10.068662950495112 
+ITARX	VB 9.399968503952575 
+MXWCH	IN 9.053511107943164 
+SWPRH	VB 9.399968503952575 
+HWQCH	VB 9.399968503952575 
+SWPRI	NNT 8.948715833843691 
+HPSIDW	VB 9.399968503952575 
+MXFIBIM	VB 9.399968503952575 
+ANGLIH	NNP 7.4109518755836366 
+I.K.	NNP 8.797246236703527 
+ANGLIT	JJ 7.089799019410921 NN 8.122752801439798 
+AWLJIMAJWM	NN 10.068662950495112 
+IIXWDIWT	JJ 8.881558488638976 
+PIRMIDH	NN 10.068662950495112 
+MMWCE	JJ 7.089799019410921 NN 7.583756300707112 
+MXWBR	VB 9.399968503952575 
+AWMLLWTM	NN 10.068662950495112 
+SMJH	NN 10.068662950495112 
+MBWDD	JJ 8.881558488638976 
+6891	CD 6.871609832345784 
+IFWLMW	VB 9.399968503952575 
+NWSPWT	JJ 6.80211694695914 
+MWNXIM	NN 8.459225038061012 VB 8.70682132339263 
+IBWCEW	VB 9.399968503952575 
+HMTIN	VB 8.70682132339263 
+HWQET	NNT 8.948715833843691 
+MWGBRT	JJ 8.881558488638976 
+PLAJW	NNP 8.797246236703527 
+MRDNI	JJ 8.881558488638976 
+DIIQNWTW	NN 10.068662950495112 
+JQSJIM	NN 8.970050661827003 
+HMLJ	NNP 8.104099056143582 
+FXWRIM	JJ 8.188411308079031 NN 8.970050661827003 
+MIJTW	NN 8.682368589375221 
+LKWDH	JJ 8.881558488638976 
+SMLI	NNT 7.562421472723801 
+QNAIM	JJ 8.881558488638976 
+EQRWT	NN 10.068662950495112 NNT 8.948715833843691 
+MAWPQT	JJ 8.881558488638976 
+MJMWN	NN 10.068662950495112 
+TIABQ	VB 9.399968503952575 
+NKBDIM	JJ 8.881558488638976 
+BAXRWNH	RB 4.810932790753475 
+EFRWT	CDT 3.109586031070485 CD 6.871609832345784 
+ZABI	NNP 7.005486767475472 NNT 8.948715833843691 
+FPILD	NNP 7.698633948035417 
+DQDQNI	JJ 8.881558488638976 
+LIWWTH	VB 9.399968503952575 
+PSIKIAJRI	JJ 8.881558488638976 
+MGLMIM	VB 9.399968503952575 
+MCWDDT	JJ 8.881558488638976 
+EQRWN	NNT 8.948715833843691 
+MBWGR	JJ 8.188411308079031 NN 9.375515769935166 
+TPRH	VB 9.399968503952575 
+IIAWF	NN 10.068662950495112 
+MQIIMT	VB 8.301356215284466 
+DABL	NNP 8.797246236703527 NN 10.068662950495112 
+MRKZIIT	NNT 8.948715833843691 
+CIPWRH	NNP 8.797246236703527 
+MBWJLT	JJ 8.881558488638976 
+5591	CD 6.178462651785838 
+MRKZIIM	JJ 7.7829461999708665 
+ANGLMN	NNP 8.104099056143582 
+BSISH	NN 9.375515769935166 
+BSISI	NNT 7.562421472723801 JJ 8.881558488638976 
+XIILIM	NN 6.81056641247363 
+PRSWM	NNT 8.255568653283746 NN 7.360612749392902 
+NWRMWT	NN 9.375515769935166 
+MRKZIIH	NN 9.375515769935166 
+MXWFB	JJ 8.881558488638976 
+HNZILT	ZVL 4.3694478524670215 
+NIDRF	VB 9.399968503952575 
+BILWI	NN 9.375515769935166 
+MSMLIM	VB 9.399968503952575 
+BSISW	NN 10.068662950495112 
+DACH	NNP 8.797246236703527 
+PWLNIT	JJ 7.7829461999708665 
+GINII	NNP 8.797246236703527 
+BIQWRTIT	JJ 8.188411308079031 
+TPSW	VB 8.70682132339263 
+MWNIJIN	NN 8.682368589375221 
+IPTX	VB 9.399968503952575 
+MTXFBT	VB 9.399968503952575 
+NDWDI	NNT 8.948715833843691 
+APWQLIPJI	JJ 8.881558488638976 
+BIWRWQRJIM	NN 9.375515769935166 
+ALMWNIWTW	NN 10.068662950495112 
+BIWRWQRJIT	JJ 8.881558488638976 
+APFRI	JJ 7.495264127519086 NN 10.068662950495112 
+INQIM	NN 10.068662950495112 
+BIWRWQRJIH	NN 10.068662950495112 
+RJNR	NNP 8.797246236703527 
+PWLNIM	NN 7.989221408815276 JJ 8.188411308079031 
+MMWFK	JJ 7.272120576204876 
+LHTXIIB	VB 8.301356215284466 
+HWLKWT	VB 9.399968503952575 
+LHFKIL	VB 9.399968503952575 
+QRMRB	NNP 8.797246236703527 
+MXWDF	JJ 8.881558488638976 
+MWAFMIM	VB 9.399968503952575 
+MXWDD	JJ 8.188411308079031 
+MWTAM	JJ 8.881558488638976 
+IMNEW	VB 9.399968503952575 
+HIMNEWT	NN 10.068662950495112 
+TKWNWTIHM	NN 10.068662950495112 
+TPSH	VB 9.399968503952575 
+MZDHWT	JJ 8.881558488638976 
+LHFKIX	VB 9.399968503952575 
+IEWRRW	VB 9.399968503952575 
+AISLAMIWT	JJ 8.881558488638976 
+JRWPIT	JJ 8.881558488638976 
+DAGH	NN 8.970050661827003 
+MSWIIM	JJ 8.881558488638976 
+MNQRWT	JJT 4.564348191467836 
+HKNIS	VB 9.399968503952575 
+GWRSIM	VB 9.399968503952575 
+ENIIN	NN 6.457745037850888 NNT 6.646130740849646 
+LDAWG	VB 7.608209034724521 
+HLWWAWT	NN 8.459225038061012 
+MEWRERT	JJ 8.881558488638976 
+FPIGL	NNP 8.797246236703527 
+DLILH	JJ 8.188411308079031 
+LHFLIM	VB 8.013674142832684 
+PXDTI	VB 9.399968503952575 
+HWQMH	VB 7.7905305915184755 
+TIALC	VB 8.301356215284466 
+LHFLIK	VB 8.70682132339263 
+EDIM	NN 7.503713593033575 JJ 8.881558488638976 
+EDIN	MOD 7.518064181233078 JJ 8.881558488638976 
+LHFLIJ	VB 9.399968503952575 
+HGINWTW	NN 10.068662950495112 
+TESWQH	NN 7.766077857501067 
+EDIP	VB 8.70682132339263 
+HKTIBW	VB 9.399968503952575 
+CIBWRIWT	JJ 8.881558488638976 
+FIEWRI	NNT 6.869274292163856 
+MATIW	NNP 8.797246236703527 
+MKSIQW	NNP 8.797246236703527 
+SMRI	NNP 8.797246236703527 
+XCWCRWT	NN 10.068662950495112 
+MCWMCMT	JJ 8.881558488638976 
+AIRWX	NNT 8.948715833843691 NN 10.068662950495112 
+IPXT	VB 9.399968503952575 
+FMALNIIM	JJ 8.881558488638976 
+RMZIM	NN 9.375515769935166 
+DLIIM	NN 10.068662950495112 
+ANJWNIW	NNP 8.104099056143582 
+NDIBIM	JJ 8.881558488638976 
+GAWWH	NN 10.068662950495112 
+MWARKT	JJ 8.881558488638976 
+HWQMW	VB 8.70682132339263 
+QWPCIM	NN 10.068662950495112 
+SJJWS	NN 10.068662950495112 
+DIJRIK	NNP 8.797246236703527 
+DWQJRINH	NN 10.068662950495112 
+MBWKH	NN 9.375515769935166 
+LHTPRNS	VB 8.70682132339263 
+IPWT	NN 10.068662950495112 JJ 8.881558488638976 
+MBWJX	NN 9.375515769935166 
+MWNJIPIWRI	NNP 8.797246236703527 
+ENIFH	NN 9.375515769935166 
+SWWILIH	NNP 8.797246236703527 
+TPWL	VB 9.399968503952575 
+TEFIITIIM	JJ 8.881558488638976 
+HCDIQH	VB 9.399968503952575 
+IMNIT	JJ 6.6843339113027564 
+TPWS	VB 9.399968503952575 
+MSWIMT	JJ 6.173508287536766 
+IXNKW	VB 9.399968503952575 
+SMWK	RB 6.2772698595469025 IN 8.648045999835 JJ 7.272120576204876 
+KWBD	NN 10.068662950495112 
+IRXIBW	VB 9.399968503952575 
+KWBF	VB 8.70682132339263 NN 10.068662950495112 JJT 4.564348191467836 
+FGRH	NN 8.970050661827003 
+MNDLMN	NNP 8.797246236703527 
+MBIIMIM	VB 9.399968503952575 
+MSDRWN	NN 9.375515769935166 
+MAPFRIM	VB 8.70682132339263 
+AIDIAWLWGI	JJ 8.188411308079031 
+IGBILW	VB 9.399968503952575 
+QLANMCH	NNP 8.797246236703527 
+2,500	CD 7.564757012905729 
+KWAB	VB 9.399968503952575 
+NDWNH	VB 8.301356215284466 
+EDNH	NNP 7.698633948035417 NN 10.068662950495112 
+PWAMH	NN 10.068662950495112 
+LHNIA	VB 9.399968503952575 
+LHNIB	VB 9.399968503952575 
+MIWSRIM	JJ 8.881558488638976 
+HMWN	DT 6.665683717782408 NN 10.068662950495112 
+MWJLIM	NN 10.068662950495112 
+MTMFKT	JJ 7.7829461999708665 
+MIKAL	NNP 6.3123395869155265 
+MWSQJRIM	NN 10.068662950495112 
+AISLMI	JJ 7.495264127519086 
+ALXIAT	NNP 8.797246236703527 
+HBXINH	VB 8.70682132339263 
+11,005	CD 7.564757012905729 
+AIRWE	NN 7.766077857501067 
+MMWNH	VB 8.013674142832684 NN 8.459225038061012 
+HBXINW	VB 9.399968503952575 
+IAKLW	VB 9.399968503952575 
+PJIRTW	NN 10.068662950495112 
+AWMFLAGPLAC	NN 10.068662950495112 
+BWXRIM	VB 9.399968503952575 NN 8.682368589375221 
+PRQLIJW	NN 10.068662950495112 
+WEDWTIW	NN 10.068662950495112 
+FGRT	NNT 7.850103545175582 
+RIMWN	NNT 8.255568653283746 
+MXWLL	NNT 8.948715833843691 
+NIDWN	VB 7.4540583548972625 
+PRQLIJT	NNT 7.850103545175582 
+TRGWLWT	NN 10.068662950495112 
+XFDNWT	NN 10.068662950495112 
+PRQLIJH	NN 9.375515769935166 
+PRQLIJI	NNT 8.255568653283746 
+MWTIR	VB 8.013674142832684 
+RAWBN	NNP 7.4109518755836366 
+ENIBH	NN 10.068662950495112 
+ZAWWIH	NNP 8.797246236703527 
+MXWLQ	VB 9.399968503952575 
+IIXWDIIM	JJ 7.495264127519086 
+FRIRWTI	JJ 8.881558488638976 
+DWIDI	NNP 8.797246236703527 
+MXWSN	VB 9.399968503952575 
+ZANR	NN 9.375515769935166 
+IWKLW	VB 7.09738341095853 
+PDRL	NN 9.375515769935166 
+KWFI	NN 10.068662950495112 
+PWRMING	NNP 8.797246236703527 
+KWFL	JJ 8.188411308079031 
+KIWWN	VB 8.70682132339263 NN 8.459225038061012 NNT 7.850103545175582 IN 7.181708931041572 
+ZANW	NNP 8.797246236703527 
+KWFR	NN 8.276903481267057 NNT 6.550820561045321 
+MBWSS	VB 8.70682132339263 
+AIRPN	NNP 8.104099056143582 
+86.90	CD 7.564757012905729 
+GINTH	VB 9.399968503952575 
+BLWBFJIIN	NNP 8.104099056143582 
+ITBCE	VB 9.399968503952575 
+RPAUL	NNP 8.797246236703527 
+EQRIM	JJ 8.881558488638976 
+KWES	JJ 8.881558488638976 
+PIDIWN	NN 10.068662950495112 
+MWTNH	VB 8.301356215284466 
+HFKLTN	NN 10.068662950495112 
+LRKFW	VB 9.399968503952575 
+MLXMTIWT	JJ 8.881558488638976 
+AWZNIW	NN 9.375515769935166 
+IQBE	VB 8.301356215284466 
+MXWQQ	NN 9.375515769935166 
+IWKNS	VB 9.399968503952575 
+IQBL	VB 7.7905305915184755 
+LHNIX	VB 6.915061854164575 
+KWHN	NNT 8.255568653283746 
+HKNST	NNT 7.562421472723801 
+MAPFRWT	VB 9.399968503952575 
+EFRIM	CD 5.485315471225893 
+HKNSH	NN 7.871438373158893 
+ETWDWTIHN	NN 10.068662950495112 
+SPRIIH	NN 7.989221408815276 
+HWQWS	NN 10.068662950495112 
+TIARH	VB 8.70682132339263 
+AZLM	NNP 8.797246236703527 
+FIWWIWN	NN 10.068662950495112 
+DARN	NNP 8.797246236703527 
+LAZWR	VB 9.399968503952575 
+MMWQM	VB 9.399968503952575 
+MERKWNIM	NN 8.682368589375221 
+GINWI	NN 8.459225038061012 
+EDTI	JJ 8.881558488638976 
+AITIXAD	NNP 8.797246236703527 
+HPIKTH	NN 10.068662950495112 
+AISLAM	NNP 8.797246236703527 
+ELBWN	NN 10.068662950495112 
+NWSPIM	VB 9.399968503952575 RB 8.069029328774958 JJ 5.885826215084985 
+EWBRIM	VB 7.202743926616356 NN 9.375515769935166 
+RAWIH	JJ 8.881558488638976 VB 8.013674142832684 
+TQCH	VB 9.399968503952575 
+MXWLQT	VB 9.399968503952575 
+XFAIT	JJ 8.188411308079031 
+JWEIM	VB 8.70682132339263 
+HNAH	NN 9.375515769935166 
+LZMN	VB 8.70682132339263 
+HGDRWT	NNT 8.948715833843691 
+HGBIH	VB 9.399968503952575 
+HGBIR	VB 9.399968503952575 
+EDWT	NN 8.459225038061012 NNT 8.255568653283746 
+FQSPIR	NNP 7.4109518755836366 
+TQBL	VB 7.09738341095853 
+KTWMIM	JJ 8.881558488638976 
+HTHPK	VB 9.399968503952575 
+IQCC	VB 9.399968503952575 
+AWGWSJ	NNP 6.717804695023691 
+IMNIIM	JJ 8.188411308079031 
+PSWLT	NNT 8.255568653283746 
+QWLXWZ	NN 7.871438373158893 
+HWLKIM	VB 7.7905305915184755 JJ 8.188411308079031 
+MXWWH	NN 8.459225038061012 
+FJXIT	JJ 8.881558488638976 
+FJXIM	NN 6.513314889005699 
+HGBLH	NN 10.068662950495112 
+IQFH	VB 9.399968503952575 
+MWTRT	VB 9.399968503952575 
+KWLI	RB 8.069029328774958 
+KWLH	PRP 7.4561656630753985 JJ 6.80211694695914 
+TIAMN	JJ 8.881558488638976 
+MDINIWTW	NN 10.068662950495112 
+RWWIW	NNP 8.797246236703527 
+RCINWT	NNT 8.948715833843691 
+KWLN	PRP 7.4561656630753985 
+KWLM	PRP 4.930437018767144 
+KWLL	JJ 6.6843339113027564 VB 7.002073231154205 IN 7.348763015704739 
+XRDIM	NN 8.682368589375221 JJ 8.188411308079031 
+HKNWT	NN 8.122752801439798 NNT 8.948715833843691 
+EGWMIM	JJ 8.881558488638976 
+KWLW	PRP 6.763018482515454 JJ 6.935648339583663 
+ARBEIM	CD 7.564757012905729 
+WDAIT	JJ 8.881558488638976 
+TEWDT	NNT 8.948715833843691 
+RWZNJL	NNP 7.698633948035417 
+HKTIBH	VB 9.399968503952575 
+IQFW	VB 9.399968503952575 
+HNCW	VB 9.399968503952575 
+KWKB	NNT 8.255568653283746 NN 8.122752801439798 
+PLJINH	NN 9.375515769935166 
+HGDRTK	NN 10.068662950495112 
+EWBRW	NN 10.068662950495112 
+SNAJ	NN 8.122752801439798 
+HGDRTH	NN 9.375515769935166 
+EWBRT	VB 8.013674142832684 
+MRKZIWT	JJ 8.881558488638976 
+TTAMT	VB 9.399968503952575 
+MTXBJIM	VB 9.399968503952575 
+BRWMPILD	NNP 8.797246236703527 
+IWKRE	VB 9.399968503952575 
+MDINIWTH	NN 10.068662950495112 
+KWNH	VB 8.70682132339263 
+DAWS	NNP 8.797246236703527 
+NPRSWT	VB 9.399968503952575 
+QIBLTI	VB 8.70682132339263 
+HGDRH	NN 8.682368589375221 
+GZIZWLIN	NNP 8.797246236703527 
+IMNIWT	JJ 8.188411308079031 
+NTGLH	VB 9.399968503952575 
+KWNS	NNT 8.948715833843691 VB 9.399968503952575 
+HNET	NNT 8.948715833843691 
+HXWDF	RB 7.3758821482150125 
+KWNW	VB 9.399968503952575 
+MQWRBW	NN 8.459225038061012 
+IDWEH	JJ 7.7829461999708665 VB 8.70682132339263 
+AZRX	NN 7.766077857501067 
+THIINH	VB 9.399968503952575 
+MRWKZT	JJ 8.881558488638976 
+AWBIIQJIWWIT	JJ 8.881558488638976 
+AZRN	NNP 8.797246236703527 
+BINIIM	NN 8.970050661827003 
+HGDRT	NNT 7.850103545175582 
+JRANSPR	NN 9.375515769935166 
+MRWFEWT	JJ 8.881558488638976 
+QDWFTW	NN 10.068662950495112 
+XILWNIM	NN 10.068662950495112 
+JBIEWT	NNT 8.948715833843691 
+TQIP	JJ 7.7829461999708665 
+IIDRS	VB 9.399968503952575 
+TLMIDIW	NN 9.375515769935166 
+TQIN	JJ 7.7829461999708665 
+MKSXI	NNT 8.948715833843691 
+BAIIRN	NNP 8.797246236703527 
+KWPR	NN 10.068662950495112 
+TLMIDIM	NN 7.583756300707112 
+AITNH	JJ 8.881558488638976 
+PWRMIIQH	NN 7.670767677696742 
+MIWTRWT	JJ 8.881558488638976 
+SIMPJWMJI	JJ 8.881558488638976 
+FBWEIWT	JJ 8.881558488638976 
+IIDQR	VB 9.399968503952575 
+XWFNIT	JJ 8.881558488638976 
+RKBW	NN 10.068662950495112 
+LSPWG	VB 9.399968503952575 
+BLWMH	NNP 7.4109518755836366 
+RKBT	NN 8.682368589375221 
+LHIXFB	VB 8.70682132339263 
+LHTXFB	VB 8.70682132339263 
+MKSWT	NNT 8.255568653283746 
+TLMID	NN 8.970050661827003 
+LZRZ	VB 9.399968503952575 
+LHPWK	VB 7.32052696227274 
+MIMRH	NN 10.068662950495112 
+LHIXFP	VB 9.399968503952575 
+MTMQD	VB 8.70682132339263 
+HNIE	VB 8.70682132339263 
+HTENIINWT	NN 8.459225038061012 
+MGIJWLW	NNP 7.4109518755836366 
+BLWMNJL	NNP 8.797246236703527 
+KWRT	VB 8.70682132339263 
+NRAIM	VB 8.70682132339263 
+KWRX	NNT 8.948715833843691 NN 8.970050661827003 
+IQLW	VB 8.70682132339263 
+MTMXH	NN 9.375515769935166 VB 8.70682132339263 
+HFART	NNT 8.948715833843691 
+HNIX	VB 9.399968503952575 
+IWZRMW	VB 8.70682132339263 
+MIMWN	NNT 7.002805684788378 NN 7.989221408815276 
+QFMIR	NNP 8.797246236703527 
+NRAIT	JJ 8.188411308079031 VB 8.301356215284466 
+MRGRJ	NNP 8.797246236703527 
+GZBRWT	NNT 8.948715833843691 
+TQLH	NN 8.459225038061012 
+MIMWF	NN 9.375515769935166 NNT 7.562421472723801 
+MFIMTW	NN 10.068662950495112 
+FMALN	NN 10.068662950495112 
+DWKNIAN	NNP 8.797246236703527 
+NWPXH	VB 9.399968503952575 
+LFJWP	VB 9.399968503952575 
+IWLIKW	VB 9.399968503952575 
+FMALI	JJ 8.188411308079031 
+MWDIEINI	JJ 8.188411308079031 
+MLWAW	NN 9.375515769935166 
+RWZNSL	NNP 8.797246236703527 
+WBRAFT	NNP 8.797246236703527 
+LIHNWT	VB 8.70682132339263 
+BIQRNW	VB 9.399968503952575 
+WILBWFBIC	NNP 8.797246236703527 
+ANJWAN	NNP 8.797246236703527 
+IQNH	VB 9.399968503952575 
+PRANSWAH	NNP 8.797246236703527 
+SNJR	NN 9.375515769935166 
+KWTL	NN 9.375515769935166 
+AZWR	NN 7.072930676941121 NNT 6.309658504228433 
+NIGNH	VB 8.301356215284466 
+TQNH	VB 9.399968503952575 NN 10.068662950495112 
+MJPXT	NN 9.375515769935166 NNT 7.339277921409591 
+TWPEWT	NNT 8.948715833843691 NN 8.970050661827003 
+IQNW	VB 8.70682132339263 
+3,086	CD 7.564757012905729 
+LGMWL	VB 9.399968503952575 
+ICIRWTIHN	NN 10.068662950495112 
+AZWB	NN 10.068662950495112 
+AJWMI	JJ 8.881558488638976 
+LGMWR	VB 9.399968503952575 
+MLWAH	NN 9.375515769935166 
+TQNI	NNT 8.255568653283746 
+HMWLT	NNT 8.255568653283746 
+ERWBH	NN 7.503713593033575 
+FINNTI	VB 9.399968503952575 
+SNIP	NN 7.583756300707112 NNT 6.646130740849646 
+MQWRIT	JJ 7.495264127519086 
+RKFW	VB 9.399968503952575 
+HMWLH	NN 10.068662950495112 
+LRMWS	VB 9.399968503952575 
+KWTB	VB 7.202743926616356 NNT 8.948715833843691 
+LJWBT	IN 7.800748139447796 
+LHQNWT	VB 9.399968503952575 
+XFWBWT	JJ 8.881558488638976 VB 9.399968503952575 
+LRMWZ	VB 8.70682132339263 
+SNJH	NNP 8.797246236703527 
+LPGWE	VB 6.915061854164575 
+IBQFW	VB 8.301356215284466 
+JWRDNI	JJ 8.881558488638976 
+MFDRT	VB 9.399968503952575 
+HWTIR	VB 8.301356215284466 
+MXZIQ	VB 8.013674142832684 NNT 8.948715833843691 
+112,000	CD 7.564757012905729 
+MAWFR	JJ 8.881558488638976 
+HMWMH	JJ 8.881558488638976 
+MXZIR	VB 8.70682132339263 
+QJNIWT	NN 9.375515769935166 
+DXISWT	NN 10.068662950495112 
+HTXIIBH	VB 9.399968503952575 
+CIWNIM	NN 10.068662950495112 JJ 8.188411308079031 
+FXWQIM	JJ 8.881558488638976 
+MAWHB	VB 9.399968503952575 
+CIWNIT	JJ 7.495264127519086 
+MKTBW	NN 10.068662950495112 
+LQSIQWN	NN 10.068662950495112 
+IIHPKW	VB 9.399968503952575 AUX 6.327936783729195 
+RIPWI	NNT 8.948715833843691 NN 8.970050661827003 
+IIDXH	VB 9.399968503952575 
+HMWNI	NNT 8.948715833843691 
+LFWKRH	RB 8.069029328774958 
+CNWEH	JJ 8.188411308079031 
+RKIM	JJ 8.881558488638976 
+IPWRSM	VB 9.399968503952575 
+KWXN	NN 9.375515769935166 
+MRKIBI	NNT 8.948715833843691 
+KWXM	NN 8.682368589375221 
+MFTMFT	VB 9.399968503952575 
+KWXW	NN 8.459225038061012 
+IZWMH	JJ 8.188411308079031 
+MSPRIM	NN 9.375515769935166 
+HTXIIBW	VB 8.70682132339263 
+TQRH	NN 9.375515769935166 
+KBDWT	JJT 4.564348191467836 
+TSTIIM	VB 9.399968503952575 
+FNIAWR	NNP 8.797246236703527 
+MKTBH	NN 9.375515769935166 
+TQPW	VB 8.301356215284466 
+HBWQR	RB 7.3758821482150125 
+IRMIHW	NNP 8.797246236703527 
+KRISJH	NNP 8.797246236703527 
+HNNW	PRP 7.4561656630753985 
+KRISJI	NNP 8.797246236703527 
+IQRA	VB 9.399968503952575 
+IQRH	JJ 8.881558488638976 VB 8.301356215284466 
+HTRGFWT	NN 8.276903481267057 
+RCINIT	JJ 7.7829461999708665 
+FWXZRW	VB 9.399968503952575 
+KWXH	NN 10.068662950495112 
+LHZHIR	VB 9.399968503952575 
+MINAI	NNP 8.104099056143582 
+BIMWT	NN 10.068662950495112 
+ANALI	JJ 8.881558488638976 
+NWQBT	JJ 8.881558488638976 
+MTIIXDIM	VB 9.399968503952575 
+MLWKH	NN 9.375515769935166 
+PJRIWJIWT	NN 10.068662950495112 
+KHWNH	NN 8.970050661827003 
+JRAWMWT	NN 10.068662950495112 
+HNRI	NNP 8.797246236703527 
+KWNNWIWT	NN 9.375515769935166 
+XWCPNIT	JJ 8.188411308079031 
+QHIR	NNP 7.187808324269427 
+IEZRW	VB 9.399968503952575 
+ARMWN	NN 9.375515769935166 NNT 8.948715833843691 
+HNPT	NNT 8.948715833843691 
+ITQIIM	VB 8.70682132339263 
+LIIQRS	NNP 8.797246236703527 
+GRPIJI	NN 10.068662950495112 
+MLWJF	JJ 8.881558488638976 
+ELWMIM	JJ 8.881558488638976 
+KWZB	JJ 8.881558488638976 
+TWMNW	NN 10.068662950495112 
+DBEI	NNP 8.797246236703527 
+LHCEID	VB 9.399968503952575 
+TWMKI	NNT 7.1569563646156364 
+FAIPWTIW	NN 10.068662950495112 
+4391	CD 6.871609832345784 
+NIGWD	NNT 8.948715833843691 NN 9.375515769935166 
+QTDRLH	NN 10.068662950495112 
+BRWNZH	NN 10.068662950495112 
+TWMKT	JJ 8.881558488638976 VB 9.399968503952575 
+ABHWTW	NN 10.068662950495112 
+IQWM	NN 10.068662950495112 
+NHIGTN	NN 10.068662950495112 
+PLDMN	NNP 7.698633948035417 
+HAFMWTIW	NN 10.068662950495112 
+BAWAR	NNP 8.797246236703527 
+LHDHIR	VB 9.399968503952575 
+HTPTXWTH	NN 10.068662950495112 
+TQUM	NNP 7.698633948035417 NN 10.068662950495112 
+MRGWE	NN 10.068662950495112 
+XJIBWT	NN 10.068662950495112 
+BIMWI	NN 10.068662950495112 NNT 8.948715833843691 
+PEIL	NN 8.970050661827003 JJ 7.272120576204876 
+AKZBH	NN 8.459225038061012 
+IQXW	VB 9.399968503952575 
+MINIMLIWT	JJ 8.881558488638976 
+PELH	VB 8.301356215284466 
+MXZQT	VB 9.399968503952575 
+TLMIDWT	NN 10.068662950495112 
+FIQWMM	NN 9.375515769935166 
+900,000	CD 7.564757012905729 
+NWQFH	JJ 8.881558488638976 
+FIQWMH	NN 10.068662950495112 
+MIWTRIM	JJ 8.188411308079031 
+NCWLT	NN 10.068662950495112 
+IWNIT	JJ 8.881558488638976 
+TQWH	NN 7.989221408815276 
+RKWFW	NN 10.068662950495112 
+IWNIM	NN 10.068662950495112 
+QBWRTW	NN 10.068662950495112 
+TQWE	VB 9.399968503952575 
+BPIRWF	RB 6.970417040106848 MOD 7.518064181233078 
+HTENGTI	VB 9.399968503952575 
+TQWM	VB 8.70682132339263 
+DBIQ	JJ 8.881558488638976 
+MILIARDI	CDT 4.55650501400681 
+IEZWR	VB 9.399968503952575 
+NRATH	VB 8.70682132339263 
+MIQRQSIM	NNP 8.797246236703527 
+LNAWM	VB 9.399968503952575 
+MIXFWB	NN 10.068662950495112 
+SJWQJWN	NNP 8.797246236703527 
+CWPRI	NNT 8.948715833843691 
+IIEDH	VB 9.399968503952575 
+MTIXWT	NN 10.068662950495112 
+MTNCL	VB 8.70682132339263 
+HNXH	VB 8.70682132339263 NN 7.989221408815276 
+MTMCAT	VB 9.399968503952575 
+TWFIIH	NN 8.970050661827003 
+PELW	VB 7.09738341095853 
+LHQIM	VB 6.835019146491039 
+MPAUI	NNP 8.797246236703527 
+MQHIIL	NNP 8.797246236703527 
+PEMI	JJ 8.881558488638976 
+ACJDIWN	NN 10.068662950495112 
+NXTMW	VB 8.013674142832684 
+LAXRWNH	RB 5.989587787095122 
+NWQJT	VB 8.301356215284466 
+IIEFH	VB 8.301356215284466 
+MTPLLT	VB 9.399968503952575 
+MINIT	JJ 8.188411308079031 
+SKINIM	NN 8.682368589375221 
+NGINTW	NN 10.068662950495112 
+MINIM	NN 8.682368589375221 
+MINIH	RB 8.069029328774958 
+HCHRWTIW	NN 10.068662950495112 
+IIPGFW	VB 8.301356215284466 
+MNXILI	NNT 8.255568653283746 
+MQCWEWT	NNT 8.255568653283746 NN 8.682368589375221 
+SMWAL	NNP 8.797246236703527 
+HCHRWTIH	NN 10.068662950495112 
+CIIDIM	NN 10.068662950495112 
+MQWRWT	JJ 8.881558488638976 NN 6.2400215540060175 NNT 7.1569563646156364 NNP 6.3123395869155265 
+TLMWD	NNP 8.797246236703527 
+MTNHL	VB 7.608209034724521 
+AWMLLIM	JJ 8.881558488638976 
+HFBEH	NN 10.068662950495112 
+IIPGEW	VB 8.301356215284466 
+MRKINH	VB 9.399968503952575 
+ASPQT	NNT 7.002805684788378 
+MTNGD	VB 8.301356215284466 
+HTPRSMH	VB 7.7905305915184755 
+HTPRSMW	VB 9.399968503952575 
+NKNEW	VB 8.70682132339263 
+TMIKWT	NN 10.068662950495112 
+IMQUA	NNP 8.104099056143582 
+BLIIND	NN 10.068662950495112 
+LHIXRC	VB 9.399968503952575 
+HTMWJJWTH	NN 10.068662950495112 
+MLWQQ	JJ 8.881558488638976 
+QDWFIM	NN 10.068662950495112 
+MTNFA	VB 9.399968503952575 
+MINHL	NNT 7.562421472723801 NN 7.296074228255331 
+NRAWT	VB 9.399968503952575 
+ITEFR	VB 9.399968503952575 
+RKWF	NNT 8.948715833843691 NN 8.682368589375221 
+AISWR	NN 10.068662950495112 NNT 8.948715833843691 
+AISWP	NNT 8.255568653283746 
+NWQFWT	JJ 8.881558488638976 
+GIBWFN	NN 10.068662950495112 
+MTBCET	VB 9.399968503952575 
+ARCIWT	JJ 8.881558488638976 
+MINIWT	JJ 8.881558488638976 
+NKNEH	VB 9.399968503952575 
+ARMLI	NNP 8.104099056143582 
+WLSJWN	NNP 7.4109518755836366 
+MLWWH	JJ 8.881558488638976 VB 8.301356215284466 NN 9.375515769935166 
+DBQI	NNT 8.948715833843691 
+MASIWWIT	JJ 8.188411308079031 
+TXILTH	NN 10.068662950495112 
+QRWWANIM	NN 8.970050661827003 
+MSPRWT	VB 9.399968503952575 
+IRBW	VB 9.399968503952575 
+PRWSJ	NNP 8.797246236703527 
+MAWXR	JJ 8.188411308079031 RB 6.1231191797196445 
+ANWFIWTM	NN 10.068662950495112 
+DBRI	NN 10.068662950495112 NNT 5.9529835602897005 
+MSKIM	VB 8.301356215284466 
+MEFIWT	JJ 7.7829461999708665 NNT 8.948715833843691 
+FHWA	MOD 7.518064181233078 
+XFWBIM	JJ 7.272120576204876 
+IRAH	VB 8.70682132339263 
+DBQW	VB 9.399968503952575 
+LAWMNIT	JJ 8.188411308079031 
+HWNPQW	VB 9.399968503952575 
+IRAW	VB 9.399968503952575 
+IRAT	NNT 8.948715833843691 
+KIFLWNW	NN 10.068662950495112 
+FHWT	NN 10.068662950495112 
+IIELM	VB 9.399968503952575 
+TRCH	VB 9.399968503952575 
+MXBLIM	NN 7.871438373158893 
+HIKTH	VB 9.399968503952575 
+XQLAWT	NN 7.989221408815276 
+MQCWEIT	JJ 7.7829461999708665 
+MXZWT	NNT 8.948715833843691 NN 8.970050661827003 
+MINKN	NNP 6.851336087648214 
+QIWSQ	NN 10.068662950495112 
+MXZWR	NNT 8.948715833843691 NN 7.871438373158893 
+MWWTR	VB 9.399968503952575 JJ 8.881558488638976 
+ASPQH	NN 9.375515769935166 
+IRDN	NN 10.068662950495112 NNP 6.600021659367308 
+XNIKIW	NN 8.682368589375221 
+JMWNIM	VB 9.399968503952575 
+TRCW	VB 9.399968503952575 
+CWPIM	VB 8.70682132339263 NN 6.9776204971367966 
+RANGWN	NNP 8.797246236703527 
+DBRW	NN 9.375515769935166 
+IRDW	VB 7.4540583548972625 
+TRBH	VB 9.399968503952575 
+MNWCXIM	JJ 8.881558488638976 
+IRCH	VB 9.399968503952575 
+LHTXMM	VB 9.399968503952575 
+XLWCI	NNT 8.948715833843691 
+HIMLAIH	NNP 8.797246236703527 
+HGENW	VB 8.301356215284466 
+WWILWN	NN 10.068662950495112 
+IRCW	VB 8.013674142832684 
+NXRCWT	RB 8.069029328774958 
+QIWMM	NN 9.375515769935166 
+HQBLH	NN 10.068662950495112 
+QIWMH	NN 9.375515769935166 
+QTWLI	JJ 8.188411308079031 
+MWDIEIN	NN 8.970050661827003 
+ELWLWT	VB 9.399968503952575 
+NAWRLWG	NN 9.375515769935166 
+MWDIEIM	VB 9.399968503952575 
+MNCLIM	VB 8.301356215284466 
+KLBIM	NN 10.068662950495112 
+MTNPL	VB 9.399968503952575 
+XIMWM	NN 7.766077857501067 
+SMWIH	JJ 8.188411308079031 
+LHIXLC	VB 8.70682132339263 
+MTNPX	VB 9.399968503952575 
+LHTXKM	VB 8.70682132339263 
+PEWJ	JJ 8.188411308079031 
+MSKMT	VB 9.399968503952575 
+MELIMIM	VB 8.70682132339263 
+ALGNJIWT	NN 9.375515769935166 
+MKRIHM	NN 10.068662950495112 
+yySCLN	CC Infinity yySCLN 0.0 
+MTNQF	NN 10.068662950495112 
+QPSPBINKN	ZVL 4.3694478524670215 
+DIILIM	NN 9.375515769935166 
+QIWMW	NN 10.068662950495112 
+NPLAIM	JJ 8.881558488638976 
+LFKNE	VB 8.013674142832684 
+EFTWNWTIW	NN 10.068662950495112 
+3,000	CD 6.466144724237619 
+MWDBQWT	JJ 8.881558488638976 VB 9.399968503952575 
+HIKWN	NN 10.068662950495112 
+NWQPT	VB 9.399968503952575 
+MFWRRIM	NN 10.068662950495112 
+PASIWWIWT	NN 10.068662950495112 
+MEBDT	VB 9.399968503952575 
+SXWJH	JJ 8.881558488638976 
+LHTXIL	VB 7.608209034724521 
+SMWKH	JJ 8.881558488638976 
+MEBDH	NN 8.970050661827003 
+QIBLNW	VB 9.399968503952575 
+AGMIM	NN 10.068662950495112 
+BWHDNH	NNP 8.797246236703527 
+TERWBT	NN 9.375515769935166 
+GRNDIWZIWT	JJ 8.881558488638976 
+FIAH	NN 9.375515769935166 
+FIAM	NN 10.068662950495112 
+EWLMNW	NN 10.068662950495112 
+FIAN	NN 9.375515769935166 
+MILQN	NNP 7.187808324269427 
+XFBWN	NN 6.736458440319908 NNT 7.002805684788378 
+HRMJIT	MOD 7.518064181233078 
+IWNPQW	VB 9.399968503952575 
+SIIEW	VB 8.301356215284466 
+MILQI	NNP 8.797246236703527 
+DIBWR	NN 8.970050661827003 
+FIAW	NN 8.970050661827003 
+PWCCW	VB 9.399968503952575 
+IRIB	NN 8.970050661827003 NNT 8.948715833843691 
+PRWIND	NNP 8.797246236703527 
+SIIEH	VB 9.399968503952575 
+BRIAH	JJ 8.881558488638976 
+QLINQR	NNP 8.797246236703527 
+LHSTBK	VB 9.399968503952575 
+BRIAN	NNP 8.797246236703527 
+TXMWFT	NN 10.068662950495112 
+NJILT	NNT 8.948715833843691 
+DALAS	NNP 8.104099056143582 
+MEFIRIM	VB 9.399968503952575 
+PRWIQJ	NNT 7.562421472723801 NN 7.766077857501067 
+LIRWT	NN 10.068662950495112 VB 9.399968503952575 
+BMPWRF	RB 6.459591416340857 
+MRFIM	JJ 8.881558488638976 VB 8.70682132339263 
+QIBL	VB 7.002073231154205 
+TWLET	NNT 8.948715833843691 
+QPIJL	NNP 8.797246236703527 
+MCXIQN	NN 10.068662950495112 
+MDGRWT	NN 10.068662950495112 
+MCXIQH	JJ 8.881558488638976 
+FIBA	NNP 8.104099056143582 
+MSIKH	NN 10.068662950495112 
+GLED	NNP 8.797246236703527 
+JIRWNIM	NN 9.375515769935166 
+PNIMI	JJ 7.7829461999708665 
+EITWIH	NN 10.068662950495112 
+PNIMH	RB 8.069029328774958 MOD 7.518064181233078 
+SKSKWK	NN 10.068662950495112 
+LIBRLIM	NN 9.375515769935166 
+XFBTI	VB 7.608209034724521 
+MHIMN	JJ 8.881558488638976 
+HSLJIIN	NNP 8.797246236703527 
+LTRWM	VB 9.399968503952575 
+LIBRLIT	NN 10.068662950495112 JJ 8.881558488638976 
+FIBX	VB 8.70682132339263 
+HWXMCH	VB 9.399968503952575 
+QIBH	NN 10.068662950495112 
+EKBRI	NNT 8.948715833843691 
+RWXWT	NN 9.375515769935166 
+BRANDJ	NNP 7.187808324269427 
+QIDR	NNP 6.851336087648214 
+MTPREIM	NN 9.375515769935166 
+MSIRT	NNT 7.339277921409591 
+FIEI	JJ 8.881558488638976 
+QWLWNL	NN 10.068662950495112 
+TRMW	VB 8.70682132339263 
+FLWXWT	NN 10.068662950495112 
+FIER	NN 10.068662950495112 
+QWLWNIWT	NN 10.068662950495112 
+NWBLGIN	NNP 8.797246236703527 
+MHIRH	JJ 8.188411308079031 
+MHIRI	NNT 8.948715833843691 
+24.90	CD 7.564757012905729 
+LGLWT	VB 7.7905305915184755 
+SWRIT	JJ 8.881558488638976 
+LAFWRM	RB 8.069029328774958 
+SWKNIM	NN 8.276903481267057 
+TWLDH	NN 10.068662950495112 
+MILWA	NNP 7.187808324269427 
+QICN	NNP 7.698633948035417 
+SWRIM	NN 10.068662950495112 
+SIMWLCIH	NN 10.068662950495112 
+QWMWNIZM	NN 8.459225038061012 
+EWLMIT	JJ 7.7829461999708665 
+31.5	CD 7.564757012905729 
+MWKRXIM	VB 8.70682132339263 
+SWRIH	NNP 8.104099056143582 
+BEBWR	IN 8.648045999835 
+MSIRH	NN 9.375515769935166 
+EWLMIM	NN 10.068662950495112 
+MLAKWTI	JJ 8.881558488638976 
+BQBWQI	NNT 7.850103545175582 
+PSIKWLWGI	JJ 7.495264127519086 
+FIGR	VB 7.7905305915184755 
+RWWXIWTW	NN 10.068662950495112 
+PNIHM	NN 8.682368589375221 
+KXWF	JJ 8.188411308079031 
+PNIIH	NN 8.276903481267057 
+FIFH	CD 6.871609832345784 
+TTEWRR	VB 9.399968503952575 
+FIFI	NNP 6.717804695023691 NN 10.068662950495112 JJ 7.7829461999708665 
+CWRBT	JJ 8.881558488638976 
+GLIM	NN 10.068662950495112 
+GLIL	NNP 8.797246236703527 NN 7.178291192598947 
+GLIQ	NNP 8.797246236703527 
+HTIIXSWIWTIHM	NN 10.068662950495112 
+PJRIWJ	NN 10.068662950495112 
+MNPRDI	NNP 8.797246236703527 
+PNIIT	NNT 8.948715833843691 
+WWLGARI	JJ 8.881558488638976 
+EITWNIM	NN 8.122752801439798 
+FIIK	JJ 7.495264127519086 
+BFETW	RB 6.682734967655067 
+IICWB	NNT 8.948715833843691 
+IICWA	NN 9.375515769935166 
+FIIX	NNP 8.797246236703527 
+IICWR	NNT 7.1569563646156364 NN 7.360612749392902 
+QIIM	VB 8.013674142832684 JJ 5.44757128415383 
+KXWL	NN 8.970050661827003 JJ 8.881558488638976 
+5791	CD 7.564757012905729 
+ALWHIM	NNP 6.717804695023691 
+HKPFT	NNT 8.948715833843691 
+HRCXW	NN 9.375515769935166 
+MERIKIM	VB 7.7905305915184755 
+ALWHIT	JJ 8.188411308079031 
+SIIMW	VB 8.301356215284466 
+MHDRIN	NN 10.068662950495112 
+SIIMH	VB 7.7905305915184755 
+GILRDI	NNP 8.797246236703527 
+SBIBTN	NN 10.068662950495112 
+FIKL	VB 9.399968503952575 
+FBBIT	NN 7.503713593033575 
+IAMCW	VB 9.399968503952575 
+PNITI	VB 9.399968503952575 
+XSIDI	NNT 7.850103545175582 
+FGRTIIM	JJ 8.881558488638976 
+HWSIP	VB 6.760911174337317 
+QNCLR	NN 10.068662950495112 
+GWRWDNH	NNP 8.797246236703527 
+BRHUM	NNP 8.797246236703527 
+TPWCTH	NN 10.068662950495112 
+FWJPIM	JJ 7.7829461999708665 
+TXBWLH	NN 8.970050661827003 
+MILWI	NNT 7.850103545175582 NN 8.459225038061012 
+FILH	NNP 8.797246236703527 
+FIJH	NN 7.360612749392902 
+04833280	CD 7.564757012905729 
+SWKNWT	NNT 6.550820561045321 NN 7.871438373158893 
+FIJT	NNT 6.550820561045321 
+QIJF	NN 7.766077857501067 
+EWLMWT	NN 10.068662950495112 
+QIJL	NNP 8.104099056143582 
+IRTH	VB 9.399968503952575 
+TXBWRH	NN 8.122752801439798 
+QILW	NN 10.068662950495112 
+SJLMK	NNP 8.797246236703527 
+SWBSIDIWT	NN 8.682368589375221 
+RGILH	JJ 7.089799019410921 
+IRWD	JJ 8.881558488638976 
+LHDGIF	VB 8.301356215284466 
+FINH	VB 8.301356215284466 NN 9.375515769935166 
+FINI	NN 10.068662950495112 
+HIQLJWT	NN 10.068662950495112 
+SILBIH	NNP 7.005486767475472 
+FARIWT	NN 10.068662950495112 
+SMINRIM	NN 10.068662950495112 
+FILM	VB 8.301356215284466 
+EFIR	JJ 8.188411308079031 
+FILX	VB 7.7905305915184755 
+AFKWL	NNP 8.797246236703527 
+MQCTH	NN 10.068662950495112 
+ILMDW	VB 8.301356215284466 
+NXFBIM	VB 8.013674142832684 
+FIMF	VB 8.013674142832684 
+AWSJRLIIM	JJ 8.881558488638976 
+LHTPTWT	VB 9.399968503952575 
+RIFQWLNIQ	NNP 8.797246236703527 
+HZRIMW	VB 9.399968503952575 
+LEFWT	VB 5.789050591308351 
+NJIWT	NN 10.068662950495112 
+IXWDIIM	JJ 8.881558488638976 
+ARGWNI	NNT 7.562421472723801 
+MFWRIINT	JJ 8.881558488638976 
+HZRIMH	VB 9.399968503952575 
+FIPA	NNP 8.797246236703527 
+FIPC	VB 9.399968503952575 
+AWRLNDW	NNP 7.005486767475472 
+IRWQ	JJ 6.5789733956449306 
+IRWN	NNP 7.187808324269427 
+SBIBWT	NNT 8.948715833843691 
+HKPLT	NNT 8.948715833843691 
+HWBLWT	NN 9.375515769935166 
+AZEQT	NNT 8.948715833843691 
+QING	NNP 5.661752020774378 
+BLAQMN	NNP 8.797246236703527 
+QINI	NNP 7.4109518755836366 
+TZRZNH	VB 9.399968503952575 
+AZEQH	NN 10.068662950495112 
+HWSPH	NN 10.068662950495112 
+NISIWNW	NN 9.375515769935166 
+AIKWTW	NN 10.068662950495112 
+EITWNAI	NN 8.276903481267057 NNT 8.948715833843691 
+BHKRX	MOD 7.518064181233078 RB 6.970417040106848 
+TRZH	NNP 8.797246236703527 
+NISIWNH	NN 10.068662950495112 
+MSWRTIT	JJ 8.188411308079031 
+MTNGDI	NNT 8.948715833843691 
+AWSIFQIN	NNP 8.797246236703527 
+HTGLWT	NN 10.068662950495112 
+MMLKTI	JJ 8.881558488638976 
+FIRH	NN 10.068662950495112 
+FIRI	NNT 8.948715833843691 
+AIKWTI	JJ 8.881558488638976 
+MKWWNIM	VB 9.399968503952575 
+3,100	CD 7.564757012905729 
+FBWEIIM	NN 7.360612749392902 
+AIKWTM	NN 10.068662950495112 
+TXRWIWT	NNT 8.255568653283746 NN 9.375515769935166 
+FIBWCIM	NN 10.068662950495112 
+2.81	CD 7.564757012905729 
+HMLCWT	NNT 7.562421472723801 NN 9.375515769935166 
+FIPR	VB 9.399968503952575 
+LHPIL	VB 8.70682132339263 
+RWMANIM	NN 9.375515769935166 
+LHPIQ	VB 7.7905305915184755 
+QLWWIN	NNP 8.797246236703527 
+IRQWNI	NNP 8.797246236703527 
+FIWWQ	NN 8.459225038061012 NNT 8.948715833843691 
+XSIMH	NN 9.375515769935166 
+MKSIM	VB 9.399968503952575 
+BINWI	NN 7.766077857501067 
+LHPIC	VB 9.399968503952575 
+MXWZQWT	VB 9.399968503952575 
+AZKRWT	NN 9.375515769935166 
+MZDMNWT	JJ 8.188411308079031 
+MFBXIM	VB 9.399968503952575 
+MQCWE	NNT 8.948715833843691 NN 8.970050661827003 
+GLWB	NNP 8.104099056143582 
+QISR	NNP 7.187808324269427 
+SMWKIM	JJ 8.881558488638976 
+DWQRNI	JJ 8.881558488638976 
+5.11.90	CD 7.564757012905729 
+FIRT	VB 9.399968503952575 
+IWMIT	JJ 7.7829461999708665 
+LHSTPX	VB 9.399968503952575 
+IWMIN	NN 9.375515769935166 
+NMKRIM	VB 8.70682132339263 
+PIGWEIM	NN 8.682368589375221 
+MZMINIM	VB 8.70682132339263 
+EFRT	CDT 5.249652194566756 
+STIRH	NN 8.459225038061012 
+SIIRT	NNT 8.948715833843691 
+HWAILW	VB 9.399968503952575 
+PFRH	NN 8.276903481267057 
+2,734	CD 7.564757012905729 
+SIIRW	VB 9.399968503952575 
+MXMMIM	VB 8.70682132339263 
+TTAKSN	VB 9.399968503952575 
+FRIJWT	NN 9.375515769935166 
+EWWLWT	NN 10.068662950495112 
+PRNQPWRJ	NNP 8.797246236703527 
+ARNQW	NN 10.068662950495112 
+FITQ	VB 8.70682132339263 
+RWDPIM	NN 10.068662950495112 VB 9.399968503952575 
+GLWT	NN 10.068662950495112 
+PNIWT	NN 9.375515769935166 
+TRGILI	NNT 8.948715833843691 
+HWXLPH	VB 9.399968503952575 
+FWQDIM	VB 9.399968503952575 
+MTMFK	JJ 8.881558488638976 
+IIWWTRW	VB 9.399968503952575 
+HIJLR	NNP 7.005486767475472 
+EFRH	CD 6.466144724237619 
+AITWT	NN 9.375515769935166 
+ARJILRI	JJ 8.881558488638976 
+AGRWPW	NN 10.068662950495112 
+QIWM	NNT 7.339277921409591 NN 7.989221408815276 
+MTXDFT	VB 8.70682132339263 
+MATIIM	CD 7.564757012905729 
+LHSTKN	VB 8.301356215284466 
+FIXH	NN 8.122752801439798 
+FIXI	NNT 8.255568653283746 
+FIXQ	VB 8.301356215284466 
+QIWW	VB 9.399968503952575 
+MSWGLT	VB 7.608209034724521 
+FRPWT	NN 9.375515769935166 
+XSINWT	NN 10.068662950495112 
+MTMDT	JJ 7.272120576204876 
+EFTH	VB 7.608209034724521 
+MCBIEI	NNT 8.255568653283746 
+LHSTMK	VB 9.399968503952575 
+MGIEWT	VB 8.70682132339263 
+GLZR	NNP 7.698633948035417 
+FIWR	NNT 8.948715833843691 NN 10.068662950495112 
+DPWSI	NNT 8.948715833843691 
+TICWR	VB 9.399968503952575 
+LHSTIR	VB 8.70682132339263 
+EFWI	VB 6.835019146491039 JJ 7.089799019410921 
+HGDIR	VB 7.7905305915184755 
+IAMRW	VB 9.399968503952575 
+ZREWNIM	NN 10.068662950495112 
+EFWR	NN 9.375515769935166 NNT 8.948715833843691 
+NWPLT	VB 8.301356215284466 
+HGDIL	VB 9.399968503952575 
+QLINIT	JJ 8.188411308079031 
+HFTDLW	VB 9.399968503952575 
+CRPTIIM	JJ 8.188411308079031 
+KWABT	JJ 8.881558488638976 
+DRMJIWT	JJ 8.881558488638976 
+SWSIIDAD	NNP 8.797246236703527 
+QPTMWNH1	ZVL 4.3694478524670215 
+MERKWT	NNT 7.562421472723801 NN 9.375515769935166 
+LWXIWT	NNT 8.948715833843691 
+MERKWN	NN 9.375515769935166 
+AWBSSIWWIT	JJ 8.881558488638976 
+MJPLT	VB 9.399968503952575 
+MTMID	JJ 8.881558488638976 RB 6.970417040106848 
+HPCT	NNT 8.948715833843691 
+ECWBIM	JJ 8.881558488638976 
+FIEWRIM	NN 8.682368589375221 
+HRXIQH	VB 9.399968503952575 
+NWPIT	JJ 8.881558488638976 
+HTPFJH	VB 9.399968503952575 
+XILWT	NNT 8.255568653283746 
+IIDIF	NN 10.068662950495112 
+XILWL	NNT 8.948715833843691 
+PFWJ	JJ 8.188411308079031 RB 6.970417040106848 
+HTPFJW	VB 9.399968503952575 
+MNGNWNI	NNT 8.255568653283746 
+XILWP	NN 10.068662950495112 NNT 8.948715833843691 
+NWPIM	NN 9.375515769935166 
+HGDLT	NNT 7.339277921409591 
+MHWTIIM	JJ 8.188411308079031 
+EMLWTIHN	NN 10.068662950495112 
+MPIQIM	VB 9.399968503952575 
+HMLCTW	NN 10.068662950495112 
+HTPTXWT	NN 8.970050661827003 NNT 8.948715833843691 
+QRSWLIHN	NN 10.068662950495112 
+MQDFT	VB 8.70682132339263 
+AIWWLIN	NNP 8.797246236703527 
+HPEM	RB 5.429971999159699 
+HWLIDW	VB 8.70682132339263 
+IXPWC	VB 9.399968503952575 
+HWZRMW	VB 8.70682132339263 
+ZCUL	JJ 8.881558488638976 
+XDIFWT	JJ 8.881558488638976 
+QWBLSQI	NNP 8.797246236703527 
+LTSWS	VB 9.399968503952575 
+XILWPIM	NN 10.068662950495112 
+IEZBW	VB 9.399968503952575 
+MAWRGN	JJ 6.935648339583663 
+ARNHM	NNP 8.797246236703527 
+LGMRI	MOD 6.824917000673133 RB 8.069029328774958 
+MRGIF	VB 8.70682132339263 
+MRGIE	VB 9.399968503952575 
+EGWMH	JJ 8.881558488638976 
+NIGFH	VB 9.399968503952575 
+NMSRH	VB 9.399968503952575 
+RAPIDIH	NNP 7.698633948035417 
+EITWNI	NNT 7.1569563646156364 
+LIRJWT	NN 8.682368589375221 
+NMSRW	VB 7.608209034724521 
+SPGH	VB 9.399968503952575 
+NMSRT	VB 9.399968503952575 
+EITWNW	NN 9.375515769935166 
+MINHLI	JJ 8.188411308079031 
+QLINGR	NNP 7.4109518755836366 
+MMMNIM	JJ 8.881558488638976 
+LHSTDR	VB 8.301356215284466 
+HTQIIM	VB 7.4540583548972625 
+TSRIJIM	NN 9.375515769935166 
+GMCI	NNP 7.698633948035417 
+HTQIIR	VB 9.399968503952575 
+XWBBIM	NN 10.068662950495112 
+HXWCH	RB 6.682734967655067 
+IXWDIT	JJ 8.881558488638976 
+HAWJWN	NNP 8.104099056143582 
+ALWMINIWM	NN 8.122752801439798 
+HPIC	VB 8.70682132339263 
+NICWLT	NN 10.068662950495112 JJT 4.564348191467836 
+QARPIW	NNP 8.797246236703527 
+BHMFK	IN 9.053511107943164 
+HSIXH	VB 9.399968503952575 
+GRWNDMN	NNP 8.104099056143582 
+WEIDH	NN 9.375515769935166 
+IEILIM	JJ 8.188411308079031 
+QDIMH	RB 6.970417040106848 
+AWLIMPIWT	JJ 8.188411308079031 
+AQDMIT	JJ 7.089799019410921 
+ISKL	VB 9.399968503952575 
+LFLWJ	VB 8.013674142832684 
+SPGW	VB 9.399968503952575 
+LQLWJ	VB 8.013674142832684 
+AGPIM	NN 8.682368589375221 
+ITPRSMW	VB 8.70682132339263 
+ECMAI	JJ 7.7829461999708665 
+LFLWX	VB 8.013674142832684 
+HWDRKH	VB 9.399968503952575 
+HMWCET	JJ 8.881558488638976 
+HPKH	AUX 4.53617731450114 VB 8.013674142832684 
+TWKNIWT	NNT 7.1569563646156364 NN 7.503713593033575 
+LWXMIM	VB 9.399968503952575 
+HTNCLWT	NN 8.970050661827003 
+NTINI	NNT 8.948715833843691 
+NFENIM	VB 9.399968503952575 
+RFIMH	NN 7.989221408815276 
+HPKW	AUX 5.634789603169249 VB 8.70682132339263 
+IIFWB	NN 7.766077857501067 
+QJEI	NNT 7.562421472723801 
+AFMIM	NN 10.068662950495112 JJ 8.881558488638976 
+RFIMT	NNT 7.850103545175582 
+4500	CD 7.564757012905729 
+IIFWM	NN 9.375515769935166 NNT 7.1569563646156364 
+MXZIQIM	VB 8.70682132339263 
+KNISH	NN 7.583756300707112 
+SPIR	NNP 8.797246236703527 
+TKLIT	NN 10.068662950495112 
+KNIST	NNT 8.255568653283746 
+TSLX	VB 9.399968503952575 
+GINWNI	NNT 8.948715833843691 
+MIWZIQL	NN 10.068662950495112 
+LHFTKNE	VB 9.399968503952575 
+RGLIW	NN 8.682368589375221 
+MQFRT	VB 8.70682132339263 
+RGLIT	RB 8.069029328774958 
+ISPQ	VB 9.399968503952575 
+FLILIT	JJ 8.881558488638976 
+HFTDLNW	VB 9.399968503952575 
+SPRDIT	NN 9.375515769935166 JJ 8.881558488638976 
+AINDWQJRINCIH	NN 10.068662950495112 
+SPRDIM	NN 10.068662950495112 
+GWLIANW	NNP 8.797246236703527 
+ECMAWT	NNT 8.255568653283746 NN 7.989221408815276 
+ANRGIH	NN 7.583756300707112 
+ELIWNWT	NN 9.375515769935166 
+TIFAR	VB 8.70682132339263 
+IIFWT	NN 9.375515769935166 
+THLIKIM	NN 8.970050661827003 
+GMII	NNP 7.187808324269427 
+MBJIXH	VB 7.608209034724521 
+HWMWRISJ	NN 10.068662950495112 
+HGBIRW	VB 9.399968503952575 
+HPLT	NNT 8.255568653283746 
+HPLW	VB 9.399968503952575 
+MMFLTIWT	JJ 5.837036050915553 
+MWXFIIM	JJ 8.881558488638976 
+MHWLLT	JJ 8.881558488638976 
+FIERTI	VB 9.399968503952575 
+LHIZHR	VB 8.70682132339263 
+GMLH	VB 8.70682132339263 
+QWNWWQJWRIM	NN 10.068662950495112 
+HFKIRH	VB 8.70682132339263 
+PGEW	VB 8.70682132339263 
+NCXWNW	NN 10.068662950495112 
+MECMT	NNT 8.948715833843691 
+RMLH	NNP 8.104099056143582 
+HRCLIH	NNP 6.717804695023691 
+ALIZBT	NNP 8.797246236703527 
+MQFQF	JJ 8.188411308079031 VB 8.70682132339263 
+BJWXIM	VB 9.399968503952575 
+MSLWL	NNT 7.850103545175582 NN 7.670767677696742 
+HGBIRH	VB 9.399968503952575 
+HSTXRR	VB 9.399968503952575 
+MECMH	NN 10.068662950495112 
+QJIN	NN 10.068662950495112 
+5891	CD 6.871609832345784 
+TSPR	VB 8.70682132339263 
+EDKWNI	NNT 8.948715833843691 
+TSPQ	VB 9.399968503952575 
+MWMXIM	NN 7.583756300707112 
+EWFRW	NN 10.068662950495112 
+HPNR	NNP 8.797246236703527 
+ZHWIWT	NN 10.068662950495112 
+JWNIACI	NNP 8.104099056143582 
+AIXWDH	NN 10.068662950495112 
+ISRB	VB 9.399968503952575 
+HTGLEW	VB 9.399968503952575 
+PGEH	VB 8.301356215284466 
+IXSIT	RB 6.1231191797196445 MOD 6.131769820113187 
+MKIRIM	VB 7.608209034724521 
+IXSIM	NN 7.429605620879854 
+AJWMIM	JJ 8.881558488638976 
+TIFME	VB 9.399968503952575 
+HPQT	NNT 6.869274292163856 
+TAILND	NNP 7.698633948035417 
+MWFBWT	NNT 8.948715833843691 NN 9.375515769935166 
+EBWDWT	NN 7.766077857501067 NNT 7.562421472723801 
+QDWMIM	NN 8.970050661827003 JJ 8.881558488638976 
+EMITW	NN 8.970050661827003 
+ELIAWP	NNP 8.797246236703527 
+SPQN	NN 10.068662950495112 JJ 8.881558488638976 
+HPRF	NN 8.970050661827003 NNT 8.255568653283746 
+MQFWT	VB 9.399968503952575 
+BJWXWT	JJ 8.188411308079031 
+IXSIW	NN 10.068662950495112 
+CACA	NN 10.068662950495112 
+MIEWJIM	NN 8.970050661827003 
+MWKRIM	NN 10.068662950495112 VB 8.70682132339263 JJ 7.7829461999708665 
+IAPFR	VB 9.399968503952575 
+MINSWJIM	NN 10.068662950495112 
+CEQNIT	JJ 8.881558488638976 
+PWFRT	JJ 8.881558488638976 
+MCWIIN	JJ 8.188411308079031 
+MCWIIM	VB 8.70682132339263 JJ 7.7829461999708665 
+MTRPSIM	VB 9.399968503952575 
+BQFWT	NN 8.970050661827003 
+IWCQIM	VB 9.399968503952575 
+GWBANI	NNP 8.797246236703527 
+HPQH	NN 8.970050661827003 
+4591	CD 7.564757012905729 
+BRAFWNH	RB 8.069029328774958 
+QJLW	VB 9.399968503952575 
+XLXWL	NNT 8.948715833843691 NNP 8.104099056143582 
+SPRW	NN 7.989221408815276 
+NACR	NNP 8.797246236703527 
+XRIGH	NN 9.375515769935166 JJ 8.881558488638976 
+PWMBIWT	JJ 7.495264127519086 
+SPSL	NN 8.682368589375221 
+IWPIE	VB 8.70682132339263 
+34,028	CD 7.564757012905729 
+ISWD	NN 8.276903481267057 NNT 8.255568653283746 
+RMPH	NN 10.068662950495112 
+BQFTN	NN 10.068662950495112 
+BRIWN	NN 9.375515769935166 
+BQFTW	NN 9.375515769935166 
+LHXDIR	VB 9.399968503952575 
+BRIXH	NN 9.375515769935166 
+XGIGH	NN 9.375515769935166 
+TXRWT	NN 8.122752801439798 NNT 8.948715833843691 
+XGIGI	JJ 7.7829461999708665 
+EBIRT	NNT 8.948715833843691 
+SPRD	NNP 7.698633948035417 
+EBIRH	NN 8.682368589375221 
+HPRT	NNT 7.850103545175582 
+PMGWSJH	NNP 8.104099056143582 
+MECRW	NN 10.068662950495112 
+3271	CD 7.564757012905729 
+CADQ	NNP 8.797246236703527 
+SPRH	NN 10.068662950495112 
+HPSD	NN 7.670767677696742 NNT 7.850103545175582 
+FIPWCNIQ	NN 10.068662950495112 
+MECRM	NN 8.970050661827003 
+NACI	JJ 8.881558488638976 
+BRIXT	NNT 8.948715833843691 
+87591	CDT 5.942799375126701 
+IXSMW	VB 9.399968503952575 
+HPTIEW	VB 8.013674142832684 
+KNSIIT	NNT 8.948715833843691 
+IIGBH	VB 9.399968503952575 
+LHSIR	VB 8.013674142832684 
+MCWINT	JJ 8.881558488638976 
+EBWDTI	NN 10.068662950495112 
+EBWDTH	NN 9.375515769935166 
+TWKNIWTIW	NN 8.970050661827003 
+MWSIPIM	VB 8.70682132339263 
+NAFM	NN 7.072930676941121 
+MWQDMIM	VB 9.399968503952575 
+LHBDIL	VB 8.301356215284466 
+EBWDTW	NN 8.122752801439798 
+GRWZINIM	NN 10.068662950495112 
+BIJXWN	NNT 7.1569563646156364 NN 5.941528565450021 
+MFJRTI	JJ 8.188411308079031 
+KNSIIH	NN 8.122752801439798 
+HLWIIT	NNT 8.948715833843691 
+QJNH	JJ 6.80211694695914 
+MILWAIM	NN 10.068662950495112 
+PWRMLIT	JJ 8.881558488638976 
+QLPIWT	NN 9.375515769935166 
+MXBRIM	NN 10.068662950495112 
+BIWGRPIIM	JJ 8.881558488638976 
+RMTM	NN 8.970050661827003 
+RMTW	NN 10.068662950495112 
+BRISL	NNP 7.698633948035417 
+FJRI	NNT 8.948715833843691 
+MTXIIB	NN 10.068662950495112 
+NWSDH	VB 8.70682132339263 
+SPWR	NN 9.375515769935166 
+FWABT	JJ 8.881558488638976 VB 9.399968503952575 
+HTRKZW	VB 9.399968503952575 
+MFLXWT	NNT 8.948715833843691 
+WEIDT	NNT 8.948715833843691 
+DWEKWT	VB 9.399968503952575 
+HRGFH	NN 9.375515769935166 
+LHSIG	VB 9.399968503952575 
+BRITH	NN 10.068662950495112 
+MTPRQT	JJ 8.881558488638976 
+IDIDWTIT	JJ 8.188411308079031 
+MTBIIF	VB 9.399968503952575 
+FJPW	VB 9.399968503952575 
+SILQW	VB 9.399968503952575 
+LHSIQ	VB 8.301356215284466 
+GRMNI	JJ 6.6843339113027564 NN 10.068662950495112 
+BITURI	JJ 8.881558488638976 
+RMSW	VB 9.399968503952575 
+QANCLR	NN 9.375515769935166 
+BWXNIM	VB 9.399968503952575 
+XTWNWT	NN 10.068662950495112 
+EWFIM	VB 7.09738341095853 
+LHCHIR	VB 8.301356215284466 
+WWTIQWT	JJ 8.881558488638976 
+FIXZR	VB 9.399968503952575 
+MXZIQWT	NNT 7.850103545175582 
+ZKINW	VB 9.399968503952575 
+HRGFT	NNT 8.255568653283746 
+NAJS	NNP 8.797246236703527 
+GMWL	NN 9.375515769935166 NNT 8.948715833843691 
+FGRTI	JJ 8.188411308079031 
+LHNHIG	VB 8.70682132339263 
+FJRN	NNP 7.4109518755836366 
+HPXT	NNT 8.948715833843691 
+HTMNH	VB 8.301356215284466 
+BRIRH	NN 7.670767677696742 
+NAIM	JJ 8.881558488638976 
+XRIPH	JJ 6.935648339583663 
+MECBWT	JJ 8.881558488638976 
+LHZKIR	VB 7.002073231154205 
+HRGIF	VB 9.399968503952575 
+PGRH	NN 8.970050661827003 
+MIPGF	NNT 8.255568653283746 
+CIINI	NNP 8.104099056143582 
+HCHRWT	NN 8.459225038061012 
+NALC	VB 7.09738341095853 
+MKXIFIM	VB 9.399968503952575 
+NRCXW	VB 7.7905305915184755 
+CIINH	VB 8.301356215284466 
+TMWNWT	NN 8.122752801439798 
+JRIISI	NNP 8.797246236703527 
+NIGWDIM	NN 9.375515769935166 
+IWPQD	VB 9.399968503952575 
+NRCXH	VB 9.399968503952575 
+MXWIBIM	VB 9.399968503952575 
+RAFWTW	NN 10.068662950495112 
+CWRWT	NN 10.068662950495112 
+ITGFM	VB 9.399968503952575 
+MTPFJ	VB 9.399968503952575 JJ 8.881558488638976 
+LJINIT	JJ 8.881558488638976 
+FIXWT	NNT 7.339277921409591 NN 7.871438373158893 
+ZWLTW	NN 10.068662950495112 
+MTPFR	JJ 8.188411308079031 
+JWBH	NN 10.068662950495112 RB 8.069029328774958 JJ 5.746064272709826 
+MSTLQIM	VB 9.399968503952575 
+JWBE	VB 9.399968503952575 
+RMWN	NNP 8.104099056143582 
+CALX	NNP 8.797246236703527 
+JWBI	NNT 8.948715833843691 
+MTXILH	JJ 8.881558488638976 VB 7.7905305915184755 
+HGIWNIT	JJ 8.881558488638976 
+CIINT	VB 9.399968503952575 
+MMFLTIIM	JJ 8.188411308079031 
+MWDRNIIM	JJ 8.188411308079031 
+JWBT	NNT 8.948715833843691 
+RMWT	NN 10.068662950495112 
+CIINW	VB 7.4540583548972625 
+PZIZIM	JJ 8.881558488638976 
+098891	CD 7.564757012905729 
+RFIWN	NNT 7.850103545175582 NN 10.068662950495112 
+CWRTH	NN 10.068662950495112 
+ITBE	VB 9.399968503952575 
+FQRIWT	JJ 8.881558488638976 
+HDGIFW	VB 8.70682132339263 
+JWEN	VB 7.09738341095853 
+FJXH	NN 10.068662950495112 
+FJXI	NNT 7.1569563646156364 
+MGWRIW	NN 9.375515769935166 
+AHRWN	NNP 8.797246236703527 
+HMCIAW	VB 9.399968503952575 
+HADRTW	NN 10.068662950495112 
+HDGIFH	VB 9.399968503952575 
+SPJMBR	NNP 5.852807257537087 
+HWJBEH	VB 9.399968503952575 
+HQDIM	VB 8.013674142832684 
+HMCIAH	VB 9.399968503952575 
+MTPLL	VB 9.399968503952575 
+NAMD	VB 9.399968503952575 
+MGWRIM	NN 8.682368589375221 
+NAMN	NNP 8.104099056143582 JJ 7.272120576204876 
+MQWPXIM	VB 9.399968503952575 
+HBNIIH	NN 10.068662950495112 
+CWRTW	NN 10.068662950495112 
+ZKITI	VB 9.399968503952575 
+NAMR	VB 6.509596746056411 
+APILW	RB 5.296440606535176 MOD 4.299188356364877 
+SILWN	NN 10.068662950495112 
+KPLIIM	NN 10.068662950495112 
+DIRQJWR	NN 10.068662950495112 
+FIXTW	NN 10.068662950495112 
+LHENIF	VB 8.70682132339263 
+FWRFIM	NN 9.375515769935166 
+LHENIQ	VB 6.56675515989636 
+NAPH	VB 9.399968503952575 
+FWRFIW	NN 10.068662950495112 
+ZWLWT	JJ 8.188411308079031 
+HCHRTI	JJ 8.881558488638976 
+NISIWNWT	NNT 7.850103545175582 NN 8.276903481267057 
+NQSWNH	NNP 8.797246236703527 
+SIJWNI	JJ 8.881558488638976 
+MWRFEI	NNT 8.948715833843691 
+TIMHWN	NN 10.068662950495112 
+IEILWT	NNT 8.255568653283746 NN 10.068662950495112 JJ 8.881558488638976 
+TTBE	VB 9.399968503952575 
+MFJRIM	NN 10.068662950495112 
+BRIKT	NNT 8.255568653283746 
+LNDAW	NNP 6.089196035601317 
+AQDMAIIM	JJ 8.881558488638976 
+WMWNJH	NNP 8.797246236703527 
+PWRNWGRPI	JJ 8.881558488638976 
+MQRIWT	NN 10.068662950495112 
+JJRSJN	NNP 7.005486767475472 
+TIPQWD	NN 10.068662950495112 
+NJXNIM	JJ 8.881558488638976 
+FIXRR	VB 9.399968503952575 
+XFFWT	NN 10.068662950495112 
+ZWLIM	JJ 8.881558488638976 
+MWKRXH	VB 9.399968503952575 
+NKPPW	VB 9.399968503952575 
+TBIETM	NN 9.375515769935166 
+JJRINPWRM	NNP 8.797246236703527 
+FWALT	VB 8.301356215284466 
+MGALWMANIT	JJ 8.881558488638976 
+MTPRC	JJ 8.881558488638976 
+EMIDR	NNP 7.005486767475472 
+FIXQW	VB 8.70682132339263 
+ITGLW	VB 9.399968503952575 
+MWSIPH	VB 8.301356215284466 
+MDWBRT	JJ 8.881558488638976 
+MFGIM	NN 10.068662950495112 
+BRIJI	JJ 7.272120576204876 
+FIXQH	VB 9.399968503952575 
+TAPFR	VB 8.013674142832684 
+JWHR	NNT 8.948715833843691 
+CWRPW	VB 8.70682132339263 
+QHILTI	JJ 8.881558488638976 
+ZKIIH	NN 10.068662950495112 
+NWSPW	VB 9.399968503952575 
+CATN	NN 10.068662950495112 
+CATM	NN 10.068662950495112 
+MRJIN	NNP 8.104099056143582 
+SAQRMNJW	NNP 8.797246236703527 
+EITWNWT	NNT 8.948715833843691 NN 7.072930676941121 
+MSMLT	VB 8.70682132339263 
+FSWEH	JJ 8.881558488638976 
+GNBH	NNP 8.797246236703527 
+ICWAN	NN 8.970050661827003 
+TWPET	NNT 7.339277921409591 
+TWPEH	NN 7.670767677696742 
+RAFWNH	NN 10.068662950495112 JJ 5.4803611069768206 
+RAFWNI	JJ 7.7829461999708665 
+GNBW	VB 9.399968503952575 
+NWSPT	JJ 5.937119509472535 
+HQDMT	NNT 8.948715833843691 
+HIMWR	NN 10.068662950495112 
+NASRH	VB 9.399968503952575 
+FGRIR	NN 9.375515769935166 NNT 8.948715833843691 
+PWGFT	VB 9.399968503952575 
+APLIIT	NNT 8.948715833843691 
+HIRLAP	NNP 8.797246236703527 
+LHFQIE	VB 7.4540583548972625 
+LHFQIP	VB 9.399968503952575 
+AGWDLIHM	NN 10.068662950495112 
+HTMXH	VB 9.399968503952575 
+ZWLLI	JJT 4.564348191467836 
+HGBILW	VB 9.399968503952575 
+NASR	NNP 8.797246236703527 VB 8.70682132339263 
+GNAQ	NNP 8.797246236703527 
+JWJW	NN 9.375515769935166 
+MWKRWT	JJ 8.188411308079031 
+TBIEWT	NNT 8.255568653283746 NN 8.970050661827003 
+JLWWIZIWNIIM	JJ 8.881558488638976 
+EMIAL	NNP 8.797246236703527 
+EMWDIM	NN 10.068662950495112 
+DIKPIN	NN 10.068662950495112 
+SWBLWT	VB 8.301356215284466 
+HFKILH	VB 8.70682132339263 
+HCJRPWT	NN 10.068662950495112 
+QHILWT	NN 9.375515769935166 
+MSTKMWT	VB 9.399968503952575 
+NKPTH	VB 9.399968503952575 
+AIMWNIT	NN 10.068662950495112 
+AIMWNIM	NN 8.682368589375221 
+MEDIP	VB 7.7905305915184755 
+TTIR	VB 8.70682132339263 
+RWBINSWN	NNP 7.4109518755836366 
+FMALNIM	NN 10.068662950495112 
+AFLIH	NN 8.970050661827003 
+MXWIBWT	NN 10.068662950495112 
+FWAPT	VB 8.70682132339263 
+RWDIAW	NNP 8.797246236703527 
+LWWIWT	NN 10.068662950495112 
+PTRWNW	NN 10.068662950495112 
+WWALIWM	NNP 8.797246236703527 
+AMNWIWT	NN 10.068662950495112 
+MTPTX	VB 9.399968503952575 
+INWAR	NNP 6.717804695023691 
+HITRIM	NN 8.970050661827003 
+HSJWN	NNP 8.797246236703527 
+HQFR	NN 8.970050661827003 
+NSGIR	VB 9.399968503952575 
+HFKILW	VB 9.399968503952575 
+MWSIQH	NN 8.682368589375221 
+ATNXTA	NN 10.068662950495112 
+HQIM	VB 8.301356215284466 
+SPWGIWT	NN 10.068662950495112 
+MSBIRIM	VB 9.399968503952575 
+BWXRI	NNT 8.948715833843691 
+NAXZ	VB 9.399968503952575 
+IIFLXW	VB 9.399968503952575 
+GNFR	NNP 8.104099056143582 
+NIJLW	VB 9.399968503952575 
+NHGIM	NN 9.375515769935166 
+QWLANWBIC	NNP 8.797246236703527 
+3,247	CD 7.564757012905729 
+CWRKI	NNT 8.255568653283746 
+HTKWWC	VB 9.399968503952575 
+JWNH	NN 10.068662950495112 
+RNDI	NNP 8.797246236703527 
+NAWR	JJ 8.188411308079031 NNP 8.104099056143582 
+FKBH	VB 9.399968503952575 NN 9.375515769935166 
+BGIDH	NN 9.375515769935166 
+HXZIR	VB 9.399968503952575 
+HXZIQ	VB 9.399968503952575 
+NAWM	NN 9.375515769935166 
+MTPRS	VB 9.399968503952575 
+NAWN	NN 10.068662950495112 
+DALDH	NNP 8.797246236703527 
+HTKWWN	VB 8.70682132339263 
+NAWT	NNP 8.797246236703527 NNT 7.850103545175582 
+NINWXH	JJ 8.881558488638976 
+PWLNSQI	NNP 7.4109518755836366 
+AQLIM	NN 10.068662950495112 
+PTLTLIM	JJ 8.881558488638976 
+INWDH	VB 9.399968503952575 
+ITERB	VB 9.399968503952575 
+AWPRJIWWIM	JJ 8.881558488638976 
+NICXNW	VB 9.399968503952575 
+SWTRT	VB 9.399968503952575 
+HGETI	VB 7.7905305915184755 
+MEBIR	VB 9.399968503952575 
+PRWZH	NN 9.375515769935166 
+MMWNIM	VB 9.399968503952575 NN 9.375515769935166 
+ITNW	VB 8.70682132339263 
+TKKIM	NN 10.068662950495112 
+LFKTW	NN 10.068662950495112 
+HMXFT	NNT 8.255568653283746 
+MFWBCWT	JJ 8.188411308079031 
+BKWRH	JJ 8.881558488638976 NN 8.122752801439798 
+DBQIT	NN 10.068662950495112 
+EBDALLH	NNP 8.797246236703527 
+AWFWWIC	NNP 7.698633948035417 
+NKNSH	VB 9.399968503952575 
+DBQIM	NN 8.970050661827003 
+JWPL	VB 8.70682132339263 
+MFEMM	JJ 8.881558488638976 
+JWPZ	NNP 8.104099056143582 
+IIERK	VB 8.70682132339263 
+MWDRNIWT	JJ 8.881558488638976 
+NKNSW	VB 8.70682132339263 
+NKNST	VB 9.399968503952575 
+BMRWKZ	RB 8.069029328774958 
+MTPWRRT	VB 8.70682132339263 
+SIKLH	VB 9.399968503952575 
+NIHLH	VB 9.399968503952575 
+XLWMH	NN 8.970050661827003 
+LHTPNWT	VB 9.399968503952575 
+PRIFTW	NN 8.970050661827003 
+HQMT	NNT 5.690619295822209 
+NIHLW	VB 9.399968503952575 
+HBXIN	VB 9.399968503952575 
+WILIAMS	NNP 7.698633948035417 
+ITQE	VB 9.399968503952575 
+MITWLWGIH	NN 10.068662950495112 
+LWBLIN	NNP 8.797246236703527 
+HQLH	NN 8.682368589375221 VB 8.70682132339263 
+GNIM	NN 9.375515769935166 
+DANDI	NNP 8.104099056143582 
+JWRS	NNP 8.797246236703527 
+SMNKUL	NNT 7.339277921409591 NN 10.068662950495112 
+GNIN	NNP 8.104099056143582 
+IIFMEW	VB 9.399968503952575 
+HFBTH	NN 9.375515769935166 
+PRIFTM	NN 10.068662950495112 
+JWRX	VB 9.399968503952575 
+NIIJLIIN	NNP 8.797246236703527 
+MHLKIW	NN 10.068662950495112 
+PRJIWT	JJ 8.188411308079031 
+MINTH	VB 9.399968503952575 
+MTBJAT	VB 9.399968503952575 
+ITRH	JJ 8.881558488638976 RB 7.3758821482150125 NN 10.068662950495112 MOD 7.518064181233078 
+LHELWT	VB 6.509596746056411 
+HKRET	NNT 8.948715833843691 
+XFDWT	NN 8.459225038061012 
+HKREH	NN 8.682368589375221 
+FKIR	NN 9.375515769935166 
+NELIIM	NN 8.122752801439798 
+FKIX	JJ 8.881558488638976 
+20.1	CD 7.564757012905729 
+IIEWC	NN 8.682368589375221 
+EFWIH	VB 7.7905305915184755 JJ 7.495264127519086 
+BIJWLW	NN 10.068662950495112 
+BNIINIM	NN 9.375515769935166 
+ASTJI	JJ 8.881558488638976 
+IIEWL	NN 9.375515769935166 
+PRJIZN	NNP 7.698633948035417 
+CBWRIIM	JJ 8.881558488638976 
+SIRNWT	NN 10.068662950495112 
+TQRIWT	NN 8.970050661827003 
+QRIIRISJIT	JJ 8.881558488638976 
+2000	CD 7.564757012905729 
+PRWWH	NN 9.375515769935166 
+6.6.82	CD 7.564757012905729 
+SBWRH	VB 8.70682132339263 
+AIWMM	NN 10.068662950495112 
+AIWMH	JJ 8.881558488638976 
+AIWMI	NNT 8.255568653283746 
+MTNWT	NN 10.068662950495112 
+HFBWE	RB 4.701733498788483 
+QIWWI	NN 10.068662950495112 
+LABIANW	NNP 8.797246236703527 
+QIWWH	VB 8.70682132339263 
+ZMNIM	NN 8.682368589375221 
+JWWX	NNT 8.948715833843691 NN 7.989221408815276 
+MAPIINIM	NN 9.375515769935166 VB 9.399968503952575 
+HBXNH	NN 8.682368589375221 
+MFENT	NN 10.068662950495112 
+AWRLANDW	NNP 7.698633948035417 
+CBAI	JJ 5.70350465829103 
+MINWI	NN 8.970050661827003 NNT 7.562421472723801 
+LFKWT	NN 10.068662950495112 
+LFKWR	VB 9.399968503952575 
+TQFWRTIT	JJ 8.881558488638976 
+ALMNJIM	NN 8.970050661827003 
+CRWRWT	NN 10.068662950495112 
+BIQFH	VB 7.608209034724521 
+MIWEDT	VB 8.013674142832684 
+MIGWWN	NN 10.068662950495112 
+NLQXH	VB 8.70682132339263 
+FKJR	NNP 8.797246236703527 
+MKHNIM	VB 8.301356215284466 
+SXWRH	NN 10.068662950495112 
+SJRWISQI	NNP 7.698633948035417 
+AWPRJIWWIT	JJ 8.881558488638976 
+JWWH	VB 9.399968503952575 
+NLQXW	VB 8.70682132339263 
+LFKWX	VB 8.70682132339263 
+TXQIR	NN 8.970050661827003 
+ZMNIT	RB 8.069029328774958 JJ 7.495264127519086 
+BIQFW	VB 7.202743926616356 
+AWZNIIM	NN 10.068662950495112 
+HWBJXH	VB 8.70682132339263 
+BIJWXI	NNT 8.948715833843691 
+4691	CD 7.564757012905729 
+ISBWL	VB 9.399968503952575 
+XINWKI	JJ 8.881558488638976 
+XINWKM	NN 9.375515769935166 
+FKMW	NN 10.068662950495112 
+XQLAIM	NN 10.068662950495112 
+BDRNINW	NN 10.068662950495112 
+NBDL	VB 9.399968503952575 
+XQLAIT	JJ 8.881558488638976 
+MLXIM	NN 10.068662950495112 
+FKNH	NN 9.375515769935166 
+TXQWR	NNT 8.948715833843691 
+FKLI	JJ 8.188411308079031 
+MDWBRIM	JJ 8.881558488638976 
+LWWIIT	NNT 8.948715833843691 
+CLSIWS	NNP 8.797246236703527 
+MEBRT	NNT 8.948715833843691 
+SQRI	NNT 8.255568653283746 
+XINWKW	NN 10.068662950495112 
+HKRIZ	VB 7.4540583548972625 
+QPDNWT	NN 10.068662950495112 
+SQRN	JJ 8.881558488638976 
+FEMWM	NN 9.375515769935166 
+GNRL	NN 8.122752801439798 
+MIWXDWT	JJ 7.7829461999708665 
+EZIQRI	NNP 7.698633948035417 
+EQWBH	JJ 8.881558488638976 
+NQBEIM	VB 9.399968503952575 
+CBEW	NN 10.068662950495112 
+MFTNIM	JJ 8.188411308079031 
+XWWIH	NN 8.970050661827003 
+LIPFIC	NNP 7.698633948035417 
+XWWIM	VB 9.399968503952575 
+CBEI	NNT 7.850103545175582 
+CBEH	VB 8.70682132339263 
+LHMCIA	VB 9.399968503952575 
+MSKWT	NN 10.068662950495112 
+ITWM	JJ 8.188411308079031 
+NADIRH	NNP 8.797246236703527 
+NBDQ	VB 8.301356215284466 
+ECMWT	NNT 8.948715833843691 
+MTWGBR	VB 9.399968503952575 
+AWFPZW	VB 9.399968503952575 
+FKNW	NN 10.068662950495112 
+NBEH	VB 8.013674142832684 
+QPKWT	ZVL 2.423537703411708 
+AWFPZH	VB 9.399968503952575 
+BWLJIM	JJ 7.7829461999708665 NN 10.068662950495112 
+IWCRIM	NN 9.375515769935166 VB 9.399968503952575 
+DEIM	NN 10.068662950495112 
+MBWGRIM	NN 10.068662950495112 
+LHTHWWT	VB 9.399968503952575 
+MBIEIM	VB 9.399968503952575 
+NBEJ	VB 9.399968503952575 
+QRQWB	NNP 7.187808324269427 
+DEKH	VB 9.399968503952575 
+MHLKIM	NN 8.122752801439798 
+KRJISIM	NN 9.375515769935166 
+ANDRW	NNP 8.797246236703527 
+MWXLJ	JJ 7.089799019410921 
+XTNIM	NN 10.068662950495112 
+SIKNW	VB 9.399968503952575 
+DWMWT	JJ 7.7829461999708665 
+LHNFIM	VB 9.399968503952575 
+MMWRMRIM	JJ 8.881558488638976 
+MLXMH	NN 6.355090883790805 
+PWELI	NNT 7.339277921409591 
+HTRXQWT	NN 10.068662950495112 
+LHRIC	VB 9.399968503952575 
+HKRNW	VB 9.399968503952575 
+CIJWJ	NNT 8.948715833843691 NN 10.068662950495112 
+NICXIT	JJ 8.881558488638976 
+CMWDH	JJ 8.881558488638976 
+PWELW	NN 10.068662950495112 
+HTLHB	VB 8.70682132339263 
+LIIBWBIC	NNP 6.024657514463746 
+PRIFMN	NNP 8.104099056143582 
+PWELT	VB 7.608209034724521 
+CMWDT	JJT 3.871201010907891 
+LHRIM	VB 8.70682132339263 
+AWZNINW	NN 10.068662950495112 
+LHRHR	VB 9.399968503952575 
+AIPSWWIC	NNP 8.797246236703527 
+EISQWT	NNT 8.948715833843691 NN 10.068662950495112 
+TZWZH	NN 9.375515769935166 
+TDWWX	VB 9.399968503952575 
+ZEIR	JJ 8.881558488638976 
+XLWQT	NNT 7.339277921409591 
+XLWQI	NNT 8.948715833843691 
+XLWQH	NN 9.375515769935166 
+NCXIT	JJ 8.881558488638976 
+BDIQWT	NNT 8.255568653283746 NN 9.375515769935166 
+ECMTI	VB 9.399968503952575 
+IAKJWT	NN 10.068662950495112 
+FKRM	NN 9.375515769935166 
+XLWPH	NN 10.068662950495112 
+RIQWD	NN 10.068662950495112 
+NWRAH	JJ 8.881558488638976 
+NSETI	VB 9.399968503952575 
+XLWPI	JJ 8.881558488638976 
+NBIA	NN 9.375515769935166 
+QJIGWRIWT	NN 10.068662950495112 
+FKRW	NN 8.682368589375221 
+XICWNI	JJ 7.089799019410921 
+NIHWL	NNT 6.383766476382155 NN 7.670767677696742 
+IIFAR	VB 7.4540583548972625 
+ALMNJRI	JJ 8.881558488638976 
+TIEFH	VB 8.70682132339263 
+ELWLIM	VB 7.09738341095853 
+LCBWE	VB 8.70682132339263 
+MWXIM	VB 9.399968503952575 
+KFRIM	JJ 8.881558488638976 
+MFEWL	NN 10.068662950495112 
+MSTWRIN	NN 10.068662950495112 
+HQLJWT	NNT 8.948715833843691 
+MINIMWM	NN 9.375515769935166 NNT 8.948715833843691 
+WLDIMIR	NNP 8.797246236703527 
+HSTWBB	VB 9.399968503952575 
+IFRALI	JJ 5.217996842509329 NN 8.970050661827003 
+MGALWMANI	JJ 8.881558488638976 
+HQCAH	NN 10.068662950495112 
+HFTLBWT	NN 10.068662950495112 
+AJRQCIH	NN 9.375515769935166 
+MAXRI	IN 9.74665828850311 
+ZEMM	NN 10.068662950495112 
+QAWBWIIM	NN 10.068662950495112 
+AWNIBRSIJAWT	NN 9.375515769935166 
+MAXWRI	IN 7.181708931041572 NNT 8.948715833843691 
+KNIET	NNT 8.948715833843691 
+DWRSNI	JJ 8.188411308079031 
+RCIWNALIZM	NN 10.068662950495112 
+NBKI	NNT 8.948715833843691 
+MWRGFT	VB 9.399968503952575 
+ZEMW	NN 10.068662950495112 
+LHIENWT	VB 9.399968503952575 
+NBNH	VB 8.70682132339263 
+LHRIX	VB 9.399968503952575 
+TTEQF	VB 9.399968503952575 
+AIRWPIT	JJ 7.495264127519086 
+MLXMT	NNT 6.115502489787476 
+MWXMD	NNP 8.104099056143582 
+MJRIM	NN 7.871438373158893 
+PERIM	NN 10.068662950495112 
+TIERK	VB 9.399968503952575 
+HTAWFFWT	NNT 8.948715833843691 NN 10.068662950495112 
+HKRTW	NN 9.375515769935166 
+GIRWF	NNT 7.850103545175582 
+APJUA	NNP 8.797246236703527 
+MWCLXIM	JJ 8.188411308079031 
+FILFWM	RB 8.069029328774958 
+AMITIT	JJ 7.7829461999708665 
+MGIEH	VB 7.4540583548972625 
+HRAH	VB 8.301356215284466 
+RFWIWT	NNT 7.850103545175582 NN 7.871438373158893 
+ECMNW	PRP 6.539874931201244 
+NIIDT	NNT 8.255568653283746 
+CRKNWT	NN 10.068662950495112 
+HRAL	NNP 6.3123395869155265 
+BNGQWQ	NNP 7.698633948035417 
+DETM	NN 9.375515769935166 
+DETI	NN 8.682368589375221 
+DETH	NN 9.375515769935166 
+AWPWRJWNISJI	JJ 8.881558488638976 
+MGIFH	VB 9.399968503952575 
+REIFWT	NN 10.068662950495112 
+HWDPSW	VB 9.399968503952575 
+AWMNSQI	NNP 8.797246236703527 
+JWJNHAM	NNP 7.4109518755836366 
+HRFIM	VB 9.399968503952575 
+NITWXIM	NN 8.459225038061012 
+ZETR	NN 10.068662950495112 
+TSBIK	NNT 8.948715833843691 
+AJLNJH	NNP 8.797246236703527 
+PLIJIM	NN 7.503713593033575 
+HFTAWT	NN 10.068662950495112 
+FLJWNWT	NN 7.871438373158893 NNT 7.1569563646156364 
+DETW	NN 8.276903481267057 
+IIFMRW	VB 9.399968503952575 
+DIMWNH	NNP 8.797246236703527 
+MGMTIT	JJ 8.881558488638976 
+RFAIWT	VB 8.70682132339263 
+IHWDIM	NN 6.262000460724792 JJ 7.7829461999708665 
+RIBWIN	NN 10.068662950495112 
+HRAW	VB 9.399968503952575 
+IHWDIT	JJ 5.885826215084985 NNP 8.104099056143582 
+MDENIM	NN 10.068662950495112 
+NWRIT	NNP 8.797246236703527 
+MRIBH	NN 10.068662950495112 
+ASIPWT	NN 10.068662950495112 
+JRGDIH	NN 9.375515769935166 
+NWRIC	NNP 7.4109518755836366 
+HRBH	DT 3.3334792076072044 RB 6.1231191797196445 VB 8.301356215284466 MOD 5.1201689084347075 
+WITWR	NN 8.970050661827003 
+ADWQIM	JJ 8.881558488638976 
+MTPRCWT	NN 10.068662950495112 
+SIKWI	NN 8.122752801439798 
+IJILW	VB 9.399968503952575 
+AFMTM	NN 9.375515769935166 
+SIKWM	NNT 8.255568653283746 NN 8.122752801439798 
+LHEMID	VB 6.835019146491039 
+HKRXI	JJ 8.881558488638976 
+IHWDIH	JJ 8.881558488638976 
+HRBW	VB 8.70682132339263 
+SIKWN	NNT 8.948715833843691 NN 8.682368589375221 
+DEWT	NN 7.583756300707112 
+WWIKWX	NN 8.682368589375221 
+RCIWNLISJIM	JJ 8.881558488638976 
+HKRZH	NN 10.068662950495112 
+KWLSJRWL	NN 8.970050661827003 
+MIWXDIM	JJ 7.495264127519086 
+DWRSWN	NNP 8.797246236703527 
+IIFLX	VB 9.399968503952575 
+MIKAIL	NNP 7.4109518755836366 
+XWLWNIM	NN 9.375515769935166 
+ASJRJGI	JJ 7.495264127519086 
+NEDRWT	VB 9.399968503952575 
+LHFPIE	VB 8.301356215284466 
+HWPSQH	VB 9.399968503952575 
+HGFNW	VB 8.70682132339263 
+DWMIW	NN 8.682368589375221 
+MWSJRL	NNP 8.797246236703527 
+MWXWT	NN 10.068662950495112 
+KFRWN	NN 9.375515769935166 
+NCXWN	NN 8.682368589375221 NNT 8.948715833843691 
+HKRZT	NNT 7.850103545175582 
+ECMIT	JJ 6.935648339583663 
+LPIKK	RB 5.766444235780912 
+APFRIWT	JJ 8.881558488638976 NN 10.068662950495112 
+HWPSQW	VB 9.399968503952575 
+ECMIM	NN 9.375515769935166 
+MTPRCIM	VB 9.399968503952575 
+LHQPID	VB 8.70682132339263 
+IBRXW	VB 8.70682132339263 
+TXRIP	VB 8.70682132339263 
+LHQPIA	VB 9.399968503952575 
+MAXWR	MOD 7.518064181233078 
+MJRPT	JJ 8.881558488638976 
+MERKWNIHM	NN 10.068662950495112 
+QRWBIHM	NN 10.068662950495112 
+ZWKIM	NN 9.375515769935166 VB 9.399968503952575 
+HRGL	NN 9.375515769935166 
+HPSDIM	NN 8.276903481267057 
+BEQBWTI	IN 9.74665828850311 
+DWMIM	JJ 7.7829461999708665 
+LEIIN	VB 8.70682132339263 
+HRGW	VB 9.399968503952575 
+DWMIH	NN 9.375515769935166 
+MECBT	VB 8.70682132339263 
+MHLKW	NN 8.970050661827003 
+MWSJPA	NNP 8.797246236703527 
+IIFMH	VB 9.399968503952575 
+TNAIHN	NN 10.068662950495112 
+MEWRBWTW	NN 9.375515769935166 
+MWSJPH	NNP 8.797246236703527 
+HRFH	VB 8.301356215284466 
+MHLKM	NN 10.068662950495112 
+MECBI	NNT 8.255568653283746 
+DIBWRW	NN 10.068662950495112 
+CBWE	JJ 8.881558488638976 
+NAMNWTW	NN 8.970050661827003 
+IIFMW	VB 9.399968503952575 
+MMWMNT	VB 9.399968503952575 
+NICXWN	NNT 6.383766476382155 NN 6.667465568832957 
+NWRMN	NNP 8.797246236703527 
+HRFW	VB 9.399968503952575 
+MFIMWT	NN 8.459225038061012 NNT 8.948715833843691 
+LPIIS	VB 9.399968503952575 
+GIBSWN	NNP 8.104099056143582 
+IIFPK	VB 9.399968503952575 
+HQCNH	NN 10.068662950495112 
+NBXR	VB 6.760911174337317 
+RIMWNI	NNT 8.948715833843691 
+MEWJRWT	VB 9.399968503952575 
+HRIM	NN 10.068662950495112 
+PRWPIL	NN 8.682368589375221 
+ALKSNDRWNI	NNP 8.797246236703527 
+ZMNNW	NN 8.459225038061012 
+TWFBIH	NN 9.375515769935166 
+MBWCEIM	VB 8.70682132339263 
+TWFBIM	NN 6.849787125626912 
+SRGL	NN 10.068662950495112 
+PIGWEI	NNT 8.948715833843691 
+PRIMAQWB	NNP 8.797246236703527 
+NBWK	VB 9.399968503952575 
+MJRWT	NN 7.989221408815276 NNT 7.850103545175582 
+FLBI	NNT 7.562421472723801 
+NBWN	JJ 8.881558488638976 
+XWDFIM	NN 6.330993332211744 
+MDAIGIM	VB 9.399968503952575 
+XWDFIT	JJ 8.881558488638976 
+HSITW	VB 9.399968503952575 
+FKIRWT	NN 9.375515769935166 
+HRKB	NNT 7.339277921409591 NN 8.276903481267057 
+ILIDIM	NN 8.682368589375221 
+LAWJMN	NNP 8.797246236703527 
+SRJN	NN 8.682368589375221 
+MWQDMWT	JJ 7.495264127519086 
+MJRTW	NN 10.068662950495112 
+SRJW	NN 8.682368589375221 
+HGFTI	VB 9.399968503952575 
+DRMAJI	JJ 8.881558488638976 
+MJRTN	NN 9.375515769935166 
+JWLSJWI	NNP 8.797246236703527 
+MJRTM	NN 9.375515769935166 
+MJRTH	NN 10.068662950495112 
+HXMCWT	NN 10.068662950495112 
+TWKNITW	NN 8.970050661827003 
+PIRWFW	NN 10.068662950495112 
+BEQBWT	IN 6.45082142249878 
+MGILT	NNT 8.948715833843691 
+XINWK	NN 7.429605620879854 
+PIRWFM	NN 10.068662950495112 
+PIRWFH	NN 9.375515769935166 
+MWQDMT	JJ 7.272120576204876 
+LHRWG	VB 7.608209034724521 
+SRJI	NNT 7.1569563646156364 
+NBHLIM	VB 9.399968503952575 
+LAWMIM	NN 10.068662950495112 
+MWULWT	NN 8.970050661827003 
+IGBRW	VB 9.399968503952575 
+EIDN	NNT 8.948715833843691 NNP 8.104099056143582 
+FLIJIM	NN 9.375515769935166 
+HRMT	NNT 8.948715833843691 
+HIDRDRWT	NN 8.682368589375221 
+TWQPNWT	NN 8.970050661827003 
+QWBET	VB 8.70682132339263 
+MWJLWT	VB 9.399968503952575 
+GDWLIM	JJ 5.70350465829103 NN 8.682368589375221 
+GIBRIL	NNP 8.104099056143582 
+LAWMIT	JJ 5.44757128415383 
+DBRIW	NN 7.178291192598947 
+ADIDS	NNP 7.4109518755836366 
+SWLIDARIWT	NN 10.068662950495112 
+QLEW	VB 9.399968503952575 
+MGWWNWT	JJ 8.881558488638976 
+PIBW	NNP 8.797246236703527 
+SINNW	VB 9.399968503952575 
+BIRWRIM	NN 10.068662950495112 
+MNWSBIC	NNP 8.104099056143582 
+PRSJIGQWSMJIQS	NNP 8.797246236703527 
+MWTIRH	VB 9.399968503952575 
+FLIF	NN 8.970050661827003 
+IWRDI	NNT 8.948715833843691 
+FLIH	NN 10.068662950495112 
+FLIJ	NN 8.970050661827003 
+NIKRH	VB 9.399968503952575 
+FMEWN	NNP 7.4109518755836366 
+AIXWD	NNT 8.255568653283746 
+LQNWT	VB 7.7905305915184755 
+QLIE	NN 10.068662950495112 
+GNBWT	NN 9.375515769935166 
+FLIX	NN 8.970050661827003 NNT 8.948715833843691 
+XRIPIM	JJ 8.188411308079031 
+MFTQWT	VB 9.399968503952575 
+APLIM	JJ 8.881558488638976 
+GALAJASRI	NNP 8.797246236703527 
+IWRDT	JJ 8.188411308079031 
+QLIM	JJ 7.7829461999708665 
+CILCL	VB 9.399968503952575 
+21.9	CD 7.564757012905729 
+NIKRT	VB 9.399968503952575 JJ 7.272120576204876 
+FBEWT	NNT 8.948715833843691 
+TWQPM	NN 10.068662950495112 
+PIDL	NNP 8.797246236703527 
+DBRIM	NN 6.30746283480155 
+APLIH	NN 10.068662950495112 
+FLHI	NNT 8.255568653283746 
+DBRII	NN 9.375515769935166 
+MMWQMT	VB 9.399968503952575 
+DBRIH	NN 8.122752801439798 
+HWXLJ	VB 6.760911174337317 
+HWXLH	VB 9.399968503952575 
+AIILWT	NNP 8.797246236703527 
+TWQPW	NN 9.375515769935166 
+BELWTW	NN 8.970050661827003 
+PIGR	VB 9.399968503952575 
+MTKWNNT	VB 9.399968503952575 
+IARGN	VB 9.399968503952575 
+HTPIISWT	NN 9.375515769935166 
+BZBWZ	NNT 8.948715833843691 NN 10.068662950495112 
+DISQRCIH	NN 9.375515769935166 
+ZEZWE	NN 10.068662950495112 
+IWRFH	VB 9.399968503952575 NN 10.068662950495112 
+QLJW	VB 8.70682132339263 
+IWRFE	VB 9.399968503952575 
+LZHWT	VB 8.301356215284466 
+MRKZI	JJ 6.173508287536766 NNT 8.255568653283746 
+MRKZH	NN 9.375515769935166 
+IWRFW	VB 9.399968503952575 
+HIEDRM	NN 10.068662950495112 
+MRKZM	NN 10.068662950495112 
+PIHM	NN 8.682368589375221 
+NCBE	VB 9.399968503952575 
+ASIRIM	NN 8.682368589375221 
+TWQNH	VB 9.399968503952575 
+MIRBI	JJ 8.188411308079031 
+FLJH	VB 8.70682132339263 
+NIKWR	NN 9.375515769935166 
+HDRGTI	JJ 7.7829461999708665 
+HIEDRW	NN 9.375515769935166 
+FMETI	VB 8.013674142832684 
+NIKWI	NNT 7.850103545175582 
+FLJT	JJ 7.7829461999708665 
+HJRID	VB 9.399968503952575 
+MDBQT	NNT 8.948715833843691 
+FLJW	VB 9.399968503952575 
+CWWXWT	NN 10.068662950495112 
+MSCWSJS	NNP 8.797246236703527 
+TCWRP	VB 9.399968503952575 
+JXWB	JJ 8.881558488638976 
+MQWBLIM	JJ 7.7829461999708665 
+FLMH	JJ 7.272120576204876 NNP 7.005486767475472 
+MRKWS	NNP 8.104099056143582 
+JLWWIZIWNI	JJ 8.188411308079031 
+QANARI	NNP 8.104099056143582 
+AIXRH	VB 9.399968503952575 
+TNWRI	NNT 7.562421472723801 
+TKNIH	NN 10.068662950495112 
+PIQRIH	NNP 7.4109518755836366 
+TKNIM	NN 10.068662950495112 
+EIKB	VB 8.70682132339263 
+HTMQDWTW	NN 10.068662950495112 
+HRTH	NNP 8.797246236703527 
+TKNIT	NN 8.459225038061012 NNT 7.850103545175582 
+NCBR	VB 9.399968503952575 
+HLWWIWT	NNT 8.948715833843691 
+NTWNIM	VB 8.013674142832684 NN 7.503713593033575 
+HGIBW	VB 8.70682132339263 
+EIIP	JJ 8.188411308079031 
+RIIKMN	NNP 7.187808324269427 
+AZWRIM	NN 8.122752801439798 
+AINJWNCIH	NN 10.068662950495112 
+HZHIRH	VB 8.70682132339263 
+PJRIARKLIT	JJ 8.881558488638976 
+IRWFLMIIM	JJ 8.881558488638976 
+EILH	NN 9.375515769935166 
+FIJTIIM	JJ 8.881558488638976 
+HTBJAWIWTIH	NN 10.068662950495112 
+IARKW	VB 9.399968503952575 
+CMXIM	NN 8.970050661827003 
+MAWREWT	NN 10.068662950495112 
+2151	CD 7.564757012905729 
+TKNWN	NNT 7.850103545175582 NN 7.360612749392902 
+EILT	NNT 8.948715833843691 
+HIDRDRNW	VB 9.399968503952575 
+ILDWTN	NN 10.068662950495112 
+TGBWRT	NN 8.682368589375221 
+IWRKB	VB 9.399968503952575 
+LBWFWT	VB 9.399968503952575 
+ILDWTW	NN 9.375515769935166 
+CMXIH	NN 10.068662950495112 
+HXZIRW	VB 8.70682132339263 
+MTABLIM	VB 8.70682132339263 NN 10.068662950495112 
+LBBWT	NN 10.068662950495112 
+PIJR	NNP 8.104099056143582 
+HIFGIM	NN 8.459225038061012 
+IWRIM	VB 9.399968503952575 
+NFBRH	VB 9.399968503952575 
+MJENIM	NN 9.375515769935166 
+HXMCNW	VB 9.399968503952575 
+KPRIM	NN 8.459225038061012 
+MFTQPT	VB 9.399968503952575 
+KPRIT	JJ 8.881558488638976 
+HRUI	NNP 7.698633948035417 
+MMWQDT	JJ 8.881558488638976 
+HFTATH	VB 9.399968503952575 
+RIBWNWT	NN 7.503713593033575 NNT 8.948715833843691 
+SRWG	JJ 8.881558488638976 
+HGIEW	NN 10.068662950495112 VB 6.104131637948247 
+EINW	NN 10.068662950495112 
+MWRXBWT	JJ 8.881558488638976 
+RLWWNJI	JJ 7.272120576204876 
+PINI	NNP 8.797246236703527 
+PINH	NN 10.068662950495112 
+AWPNWE	NN 9.375515769935166 
+HGIEH	VB 6.835019146491039 
+PINT	NNT 8.255568653283746 
+XIDWFW	NN 10.068662950495112 
+KDLQMN	RB 8.069029328774958 
+KFRWNM	NN 10.068662950495112 
+HGIFW	VB 8.013674142832684 
+HRIEW	VB 8.70682132339263 
+XWQIWT	JJ 8.188411308079031 NNT 8.255568653283746 
+BLWNIM	NN 10.068662950495112 
+XWPFTM	NN 9.375515769935166 
+MKXIF	VB 8.70682132339263 
+HRWF	NNP 8.797246236703527 
+IPRGNW	VB 9.399968503952575 
+HGIFH	VB 7.608209034724521 
+HRWG	NN 9.375515769935166 
+PJRARQH	NNP 8.797246236703527 
+EINH	VB 9.399968503952575 
+CWWXIM	VB 9.399968503952575 
+EINI	NNT 6.869274292163856 NN 8.276903481267057 
+HQFBH	NN 10.068662950495112 
+NCIT	JJ 8.881558488638976 
+HTQFRW	VB 8.70682132339263 
+LHACIL	VB 9.399968503952575 
+QBENW	VB 9.399968503952575 
+GWRLIWT	JJ 8.881558488638976 
+HSTGLWT	NN 10.068662950495112 
+XWZQH	NN 10.068662950495112 
+FLBIW	NN 10.068662950495112 
+PEILWTW	NN 8.459225038061012 
+CCIM	VB 8.70682132339263 
+FLBIM	NN 8.682368589375221 
+MLWWIM	NN 9.375515769935166 
+DRIFWTIHM	NN 10.068662950495112 
+HRXQ	RB 6.970417040106848 
+AQZWJIT	JJ 8.881558488638976 
+HKNSTM	NN 8.970050661827003 
+59.90	CD 7.564757012905729 
+ISWDIT	JJ 8.188411308079031 
+HKNSTW	NN 9.375515769935166 
+NCIB	NNT 8.948715833843691 
+HFTQPWT	NNT 8.948715833843691 NN 10.068662950495112 
+TIHNH	VB 9.399968503952575 
+TQIPWT	NN 9.375515769935166 
+LHWCIA	VB 7.09738341095853 
+1.73	CD 6.871609832345784 
+QIBWCNIQ	NN 10.068662950495112 
+HRIGT	NNT 8.948715833843691 
+HTGWRRW	VB 9.399968503952575 
+XSKWNWT	NN 10.068662950495112 
+ETIQWT	NN 10.068662950495112 
+NCIG	NNT 6.751491256507472 
+HRIGH	NN 8.970050661827003 
+XWZRT	VB 8.70682132339263 
+TIKWNISJIT	NN 10.068662950495112 
+RPPWRJ	NNP 7.698633948035417 
+HKNSWT	NN 8.122752801439798 NNT 8.255568653283746 
+BRIAIM	JJ 7.7829461999708665 
+XIFWQIM	NN 10.068662950495112 
+XWPFWT	NNT 8.948715833843691 
+NIDXIM	JJ 8.881558488638976 
+BRKWT	NN 10.068662950495112 
+DMWIWTIW	NN 9.375515769935166 
+MTRGM	NNT 8.948715833843691 
+QIDWMM	NN 10.068662950495112 
+EISH	NN 10.068662950495112 
+HZKRTI	VB 9.399968503952575 
+TIQWNM	NN 10.068662950495112 
+HSLMH	NN 10.068662950495112 
+PEILWTM	NN 10.068662950495112 
+MAWXDT	JJ 7.7829461999708665 
+EIQR	NN 9.375515769935166 NNT 7.1569563646156364 
+PEILWTH	NN 9.375515769935166 
+TXTWM	VB 9.399968503952575 
+TXTWN	JJ 7.7829461999708665 
+AWPNTI	JJ 8.881558488638976 
+HPCCT	NNT 8.255568653283746 
+XFMLIIM	JJ 7.7829461999708665 
+MDAIGWT	VB 9.399968503952575 
+SRZW	NNP 7.4109518755836366 
+ZDWNI	JJ 8.188411308079031 
+EIRK	NN 9.375515769935166 
+NBXRW	VB 9.399968503952575 
+XWWIWTIH	NN 10.068662950495112 
+NBXRT	NN 7.871438373158893 NNT 6.869274292163856 JJ 8.881558488638976 
+MHNDSIM	NN 7.766077857501067 
+QLWF	JJ 8.881558488638976 
+FBEIM	CD 6.871609832345784 
+XWWIWTIW	NN 9.375515769935166 
+FLXH	VB 9.399968503952575 
+JPXWT	NNP 8.797246236703527 
+AZHRH	NN 10.068662950495112 
+QLWT	NN 9.375515769935166 JJ 8.881558488638976 RB 8.069029328774958 
+PISI	JJ 8.881558488638976 
+KBIFI	NNT 8.948715833843691 
+HQFIB	VB 9.399968503952575 
+DWGMAWT	NN 10.068662950495112 
+NBXRH	VB 8.013674142832684 
+FLWF	CD 4.569024739351738 CDT 3.457892725338701 
+KMIHT	NNT 8.948715833843691 
+yyEXCL	yyEXCL 0.0 
+XWPFIT	JJ 7.7829461999708665 
+PINIQS	NNP 8.104099056143582 
+FLWM	NN 6.602927047695386 NNT 7.850103545175582 NNP 6.717804695023691 
+HWXZR	VB 8.301356215284466 
+PLIAH	NN 10.068662950495112 
+PIST	NNT 8.948715833843691 
+MRHIBWT	JJ 8.881558488638976 
+TAWWTW	NN 10.068662950495112 
+NCPH	VB 9.399968503952575 
+HTECMW	VB 9.399968503952575 
+GWRNAL	NNP 7.698633948035417 
+ZWNWT	NN 8.682368589375221 
+MIQWMH	NN 10.068662950495112 
+HWBILH	VB 8.70682132339263 
+QFRIM	NN 7.989221408815276 
+MTEWRRT	VB 9.399968503952575 
+EIWN	NN 7.989221408815276 
+MIQWMW	NN 10.068662950495112 
+FLXW	VB 8.013674142832684 
+HWBILW	VB 8.70682132339263 
+MWSIQLI	JJ 8.881558488638976 
+HRIMW	VB 9.399968503952575 
+BRKTW	NN 10.068662950495112 
+HIEDRWTW	NN 10.068662950495112 
+BRKTI	VB 9.399968503952575 
+BIQWR	NN 7.1242239713286715 
+KLFHI	JJ 7.089799019410921 
+ERKAWT	NN 9.375515769935166 
+FIKTBTI	VB 9.399968503952575 
+TQDIMIM	NN 10.068662950495112 
+PRJIIM	JJ 6.80211694695914 
+KLFHM	JJ 7.7829461999708665 
+KLFHN	JJ 8.881558488638976 
+KLFHW	JJ 6.483663215840606 
+DWNQL	NNP 8.797246236703527 
+NCRT	NNP 8.797246236703527 
+CRIKWT	VB 9.399968503952575 
+IARXW	VB 9.399968503952575 
+NHIGH	NN 9.375515769935166 
+MFWKNEIM	VB 8.013674142832684 
+MFKWRT	NN 8.682368589375221 NNT 8.255568653283746 
+SPRWTIWT	JJ 7.7829461999708665 
+HLWWIIH	NN 8.970050661827003 
+200,000	CD 7.564757012905729 
+LINDAW	NNP 8.797246236703527 
+PIWS	NN 8.970050661827003 
+HSBH	VB 9.399968503952575 
+ZIKRWNWT	NN 10.068662950495112 
+HLWWIIT	NNT 7.850103545175582 
+NSIEH	NN 7.871438373158893 
+EWCMTW	NN 8.682368589375221 
+LBNWNIT	JJ 8.881558488638976 
+HSBR	NN 8.459225038061012 
+AKZRIT	JJ 8.188411308079031 
+FMLWTIHN	NN 10.068662950495112 
+HPCIR	VB 9.399968503952575 
+PIZH	NNP 8.797246236703527 
+LHZMIN	VB 9.399968503952575 
+MGLIM	VB 8.70682132339263 
+AWLIMPI	JJ 7.495264127519086 
+HSPIQH	VB 9.399968503952575 
+RPAL	NNP 7.4109518755836366 
+NSTIIMH	VB 8.70682132339263 
+MGWWNIM	JJ 8.188411308079031 
+GILWIIM	NN 10.068662950495112 
+EKBRIM	NN 9.375515769935166 
+HSEIRH	VB 9.399968503952575 
+AWRWWLIANI	JJ 8.881558488638976 
+IRIBWTIH	NN 10.068662950495112 
+SWTBIS	NNP 7.4109518755836366 
+LTXWM	VB 8.70682132339263 
+HKNSNW	VB 9.399968503952575 
+HGIRH	NN 9.375515769935166 
+HSDR	NN 7.583756300707112 NNT 7.339277921409591 
+GIRWFIM	NN 9.375515769935166 
+GIRWFIN	NN 9.375515769935166 
+BIQWF	NN 8.970050661827003 
+HSPIQW	VB 8.70682132339263 
+BRIAWT	NN 7.296074228255331 NNT 8.948715833843691 
+MEFIW	NN 9.375515769935166 
+LGRWR	VB 9.399968503952575 
+MEFIT	JJ 8.188411308079031 
+HTGIIS	VB 9.399968503952575 
+HRISH	NN 10.068662950495112 
+SGIDH	NN 8.682368589375221 
+MEFIM	NN 7.670767677696742 
+SWXRI	NNT 7.850103545175582 
+FMAL	NN 7.429605620879854 
+MBWQFT	JJ 8.881558488638976 
+HSGR	NN 10.068662950495112 
+FPNIM	NN 10.068662950495112 
+LGRWM	VB 6.835019146491039 
+MMSDIM	NN 9.375515769935166 
+REIDT	NNT 7.850103545175582 
+MAZNIIM	NN 10.068662950495112 
+RPIDH	NN 10.068662950495112 
+MFIMT	NNT 8.255568653283746 
+HZDMNWIWT	NN 8.459225038061012 
+ANDWQRINWLWGI	JJ 8.881558488638976 
+MFIMH	NN 8.682368589375221 
+23.90	CD 7.564757012905729 
+PLIJH	NN 10.068662950495112 
+NCXI	JJ 8.881558488638976 
+QMBL	NNP 7.005486767475472 
+PLIJI	NNT 8.948715833843691 
+HSIE	VB 9.399968503952575 
+MGLMT	VB 9.399968503952575 
+MBWSSWT	VB 8.301356215284466 JJ 8.881558488638976 
+HSIR	VB 9.399968503952575 
+NTWNWT	VB 9.399968503952575 
+ENNIM	NN 10.068662950495112 
+TWRIM	NN 8.970050661827003 
+PLIJT	NNT 8.255568653283746 
+LMCER	RB 7.3758821482150125 
+MEFHW	NN 10.068662950495112 
+MFIKT	NNT 8.948715833843691 
+HTBWNNH	VB 9.399968503952575 
+GDWLTH	NN 10.068662950495112 
+LAWMNI	JJ 8.188411308079031 NN 10.068662950495112 
+MQIIM	VB 8.70682132339263 
+MFIKH	NN 9.375515769935166 
+QNIIH	NN 7.989221408815276 
+HTBWNNW	VB 9.399968503952575 
+NSIGH	NN 7.989221408815276 
+GDWLTW	NN 10.068662950495112 
+LIBRIWM	NNP 8.797246236703527 
+SJRIJ	NNP 7.698633948035417 
+HRIWN	NN 10.068662950495112 
+TGBWR	NN 9.375515769935166 NNT 8.255568653283746 
+HSKM	NN 6.542302425878951 NNT 6.751491256507472 
+BRKIH	NN 10.068662950495112 
+AIDIAWLWG	NN 9.375515769935166 
+HTRIEW	VB 9.399968503952575 
+FMEW	VB 8.013674142832684 
+DWNIH	NNP 7.4109518755836366 
+TWRGM	VB 9.399968503952575 
+XWQIIM	JJ 7.272120576204876 
+TINWQWT	NN 8.682368589375221 
+FMALNI	JJ 8.881558488638976 
+PRDWQSLI	JJ 8.188411308079031 
+TRBWT	NN 7.2354496064388965 
+MQWWIM	VB 8.013674142832684 
+HWERKW	VB 9.399968503952575 
+QMCW	VB 9.399968503952575 
+HWRXQW	VB 9.399968503952575 
+RIBWNIT	JJ 8.881558488638976 
+MILIWNI	CDT 3.5449041023283305 
+MCIIRIM	VB 9.399968503952575 
+MCIAWT	NN 7.1242239713286715 
+35.5	CD 7.564757012905729 
+PGIFWT	NN 8.970050661827003 
+MQIPH	JJ 8.188411308079031 
+GDWLWT	NN 10.068662950495112 JJ 6.483663215840606 
+PLIFH	NN 8.682368589375221 
+MHWMWT	NN 9.375515769935166 
+RPIX	NNP 6.717804695023691 
+LXCIM	NN 9.375515769935166 
+PLIFT	NNT 8.255568653283746 
+MIRWN	NNP 8.797246236703527 
+MQIPIM	VB 8.70682132339263 
+IIZHRW	VB 9.399968503952575 
+MWRDIM	NN 10.068662950495112 
+BWRMZIM	JJ 7.7829461999708665 
+TARIM	NN 8.970050661827003 
+TARIK	NN 9.375515769935166 
+MTRXF	NN 8.970050661827003 VB 8.70682132339263 
+MIRWC	NNT 8.255568653283746 NN 10.068662950495112 
+ISWDWT	NN 8.459225038061012 NNT 7.850103545175582 
+AXBAR	NNP 8.797246236703527 
+AIKRIM	NN 9.375515769935166 
+MTRWEE	VB 9.399968503952575 
+MILIWNIM	CD 6.871609832345784 
+EQWMH	NN 10.068662950495112 
+SJRIQ	NNP 8.797246236703527 
+ETIQIM	JJ 8.881558488638976 
+SIMNI	NNT 7.339277921409591 
+TTGFM	VB 9.399968503952575 
+FMIM	NN 8.970050661827003 
+FMIR	NNP 6.3123395869155265 NN 10.068662950495112 
+22.5	CD 7.564757012905729 
+MFWLBWT	VB 9.399968503952575 
+MFTPWT	VB 9.399968503952575 
+MKWBD	JJ 8.881558488638976 
+AJRQJIWWIT	JJ 7.7829461999708665 
+HDGFTI	VB 8.301356215284466 
+ZDWNIWT	JJ 8.881558488638976 NN 10.068662950495112 
+AIWWAN	NNP 8.797246236703527 
+INWEW	VB 9.399968503952575 
+AJRQJIWWIM	JJ 8.881558488638976 
+ARSNL	NNP 7.4109518755836366 
+ABA	NN 10.068662950495112 
+ELWIWT	NNT 8.948715833843691 
+SRGIW	NNP 8.797246236703527 
+ARWGNJIT	JJ 8.881558488638976 
+ICWIN	VB 8.301356215284466 
+ABI	NNP 7.005486767475472 NNT 8.948715833843691 
+AILWCI	NNT 8.948715833843691 
+ABL	CC 3.2635089526931496 NN 9.375515769935166 
+ABN	NN 8.276903481267057 
+CRIKIM	VB 7.32052696227274 
+HSQT	NNT 8.948715833843691 
+HWMWRISJIM	JJ 8.881558488638976 
+MFTKRIM	VB 9.399968503952575 
+ABQ	NN 10.068662950495112 
+ABR	NNT 8.948715833843691 
+MEDKN	VB 9.399968503952575 
+NWSXT	NNT 8.948715833843691 
+ABW	NNP 7.4109518755836366 
+HWWIH	NN 10.068662950495112 
+FMWNIM	CD 6.871609832345784 
+NDBK	NN 9.375515769935166 
+QTWLIM	NN 9.375515769935166 
+SRGII	NNP 7.005486767475472 
+LFMWR	VB 7.002073231154205 
+QTWLIT	JJ 8.188411308079031 
+QMIM	VB 9.399968503952575 
+PRJNRIM	NN 10.068662950495112 
+NWSXH	NN 7.989221408815276 VB 9.399968503952575 
+SPRWTIIM	JJ 8.188411308079031 
+ACL	IN 6.414453778327905 
+XIPFW	VB 8.301356215284466 
+LFMWE	VB 8.301356215284466 
+QWLQJIWWIWT	NN 10.068662950495112 JJ 8.881558488638976 
+SIMNW	VB 9.399968503952575 
+MDAIG	VB 9.399968503952575 
+RISWN	NNT 8.948715833843691 NN 10.068662950495112 
+MAKZBIM	VB 9.399968503952575 
+NGDIT	JJ 8.188411308079031 
+GIDWLM	NN 9.375515769935166 
+FMFWT	NN 10.068662950495112 
+FBIEWT	NNT 7.850103545175582 
+CIMCM	VB 9.399968503952575 
+4891	CD 5.772997543677674 
+IHDWT	NN 9.375515769935166 
+MKWER	JJ 7.7829461999708665 
+ADI	NNP 8.104099056143582 NNT 8.948715833843691 
+NXWCH	VB 8.70682132339263 
+MRDNIWT	JJ 8.881558488638976 
+FMFWN	NNP 7.698633948035417 
+RISRC	NNP 8.797246236703527 
+ADM	NN 5.546874373446072 
+NAFMIM	NN 7.670767677696742 
+RIAQCIH	NN 10.068662950495112 
+MPWXDIM	JJ 8.881558488638976 
+NSGRT	VB 9.399968503952575 
+INWKW	VB 8.70682132339263 
+PIIBWRIJIT	JJ 8.881558488638976 
+EJIH	NNP 8.104099056143582 
+EWZRIW	NN 10.068662950495112 
+HSRT	NNT 8.948715833843691 
+KDWRSL	NN 8.276903481267057 
+FMLT	NNT 8.948715833843691 
+MAZIN	NN 10.068662950495112 
+RISQI	NNP 8.797246236703527 
+EJIW	NN 10.068662950495112 
+HTNCL	VB 9.399968503952575 
+TKFIJIM	NN 10.068662950495112 
+PCWEIM	NN 7.871438373158893 
+HIGIWN	NN 8.970050661827003 
+IWQCW	VB 8.301356215284466 
+NFALT	VB 9.399968503952575 
+EWZRIM	NN 10.068662950495112 
+HFAIRW	VB 8.70682132339263 
+MABQ	NNT 7.850103545175582 NN 7.1242239713286715 
+IRIBTH	NN 9.375515769935166 
+AFF	NNP 8.797246236703527 
+LEJWT	VB 9.399968503952575 
+GPRI	NNP 8.797246236703527 
+AFH	NN 7.024140512771689 
+RISSW	VB 9.399968503952575 
+LEJWP	VB 9.399968503952575 
+AFM	JJ 8.881558488638976 
+AFP	NNT 8.948715833843691 
+AFR	NNP 8.104099056143582 IN 9.053511107943164 REL 3.9786426927695415 
+AFT	NNT 8.948715833843691 
+AWNIWT	NN 10.068662950495112 
+MFGRI	NNT 8.948715833843691 
+TWPIM	NN 10.068662950495112 
+MMTINIM	VB 9.399968503952575 
+AGB	RB 6.682734967655067 
+MIWFNWT	JJ 8.881558488638976 
+JIWJWT	NN 10.068662950495112 
+ELIZH	NNP 8.797246236703527 
+FNIWT	NN 8.459225038061012 
+MEWGLIM	JJ 8.881558488638976 
+SPWRJAI	NNT 8.948715833843691 NN 10.068662950495112 
+AGP	NNT 6.550820561045321 NN 8.459225038061012 
+FMFTH	NN 10.068662950495112 
+FJWJGRJ	NNP 8.104099056143582 
+KIFLWNWT	NNT 8.948715833843691 
+HTNER	VB 9.399968503952575 
+HXZQT	NNT 8.948715833843691 
+PIINBRG	NNP 8.797246236703527 
+MFRDIHM	NN 10.068662950495112 
+129.90	CD 7.564757012905729 
+KDWRSLNI	NNT 8.948715833843691 
+AHB	VB 8.301356215284466 
+HXZQH	NN 10.068662950495112 
+AHH	NN 10.068662950495112 
+HTNGD	VB 8.301356215284466 
+97125480	CD 7.564757012905729 
+MTRWPP	VB 9.399968503952575 
+PQWDT	NNT 8.948715833843691 
+AMWCIWNLIT	JJ 8.881558488638976 
+HIPLJWTM	NN 10.068662950495112 
+BADR	NNP 8.797246236703527 
+HXZRT	NNT 8.255568653283746 
+PJNJ	NN 10.068662950495112 
+NFARH	VB 8.301356215284466 
+HKTMH	NN 10.068662950495112 
+ZKIWN	NN 10.068662950495112 
+SSJRI	NNP 8.797246236703527 
+LHPNWT	VB 8.301356215284466 
+LNDWD	VB 9.399968503952575 
+FMRH	VB 8.301356215284466 
+AIF	NN 5.974318388273011 NNT 5.813221617914541 NNP 7.698633948035417 
+DWMARS	NNP 8.797246236703527 
+AIG	NNP 8.797246236703527 
+PRNSTW	NN 10.068662950495112 
+AII	NNP 7.005486767475472 
+TAPWP	VB 9.399968503952575 
+AIK	QW 3.206491765668479 
+AIN	MOD 7.518064181233078 VB 4.343722698604267 RB 4.061696143542487 NN 10.068662950495112 
+PRNSTM	NN 10.068662950495112 
+MACW	NN 10.068662950495112 
+MPSIQIM	VB 9.399968503952575 
+MTQBL	VB 8.70682132339263 
+ELIWT	NN 7.989221408815276 NNT 7.562421472723801 
+PJMH	NNP 8.797246236703527 
+MSMNIM	VB 9.399968503952575 
+MWZKR	VB 9.399968503952575 
+FBIEIT	JJ 8.881558488638976 
+MBWSSIM	JJ 7.7829461999708665 VB 9.399968503952575 
+ELIWN	JJ 6.5789733956449306 
+MPDUL	NNP 7.698633948035417 NN 10.068662950495112 
+ATIAIZM	NN 10.068662950495112 
+DGMI	NNT 8.948715833843691 
+IXTMW	VB 9.399968503952575 
+MAFR	IN 7.038608087400899 
+FMFWNIM	NN 9.375515769935166 
+JNQIM	NN 9.375515769935166 
+MARGNT	VB 8.70682132339263 
+DGLW	VB 9.399968503952575 
+BAFR	NNP 7.4109518755836366 IN 7.348763015704739 
+FIRWTW	NN 10.068662950495112 
+ARSIT	JJ 8.188411308079031 
+CARLJWN	NNP 8.797246236703527 
+CDIM	VB 9.399968503952575 
+HTNHL	VB 7.608209034724521 
+MAGR	NNT 8.255568653283746 
+ICWRP	VB 8.70682132339263 
+AKN	RB 4.933535112845808 
+LHWBIL	VB 8.70682132339263 
+NWSXAWT	NN 9.375515769935166 
+KRWKH	VB 8.301356215284466 
+FMRW	VB 8.70682132339263 
+MTGWRR	VB 8.013674142832684 
+EMLWT	NN 8.122752801439798 NNT 8.255568653283746 
+MASJRS	NNP 8.797246236703527 
+NRDPT	JJ 8.881558488638976 
+ALA	MOD 5.572154032177765 CC 4.066799712351521 
+NDIR	JJ 8.881558488638976 
+ALH	JJ 4.306847510135593 PRP 3.858853402486953 
+SIMWN	NN 8.122752801439798 NNP 7.698633948035417 
+HPTEWT	NN 9.375515769935166 
+ALI	IN 5.814832655778783 NNP 6.494661143709481 
+ALN	NNP 7.4109518755836366 
+ALP	NNP 8.797246236703527 CD 3.9271708531793434 
+TWPST	VB 9.399968503952575 
+IRIBIW	NN 9.375515769935166 
+ALW	PRP 6.069871301955509 JJ 5.937119509472535 WDT 2.803360380906535 
+EIIRWT	NNT 6.646130740849646 
+IRIBIM	NN 9.375515769935166 
+MKWNH	NN 10.068662950495112 VB 9.399968503952575 
+AMA	NN 8.122752801439798 
+AMF	RB 5.073297055220967 
+MAIR	NNP 5.501409370699198 VB 9.399968503952575 
+MKWNT	NNT 8.255568653283746 
+AML	NNP 8.797246236703527 
+AMN	NN 9.375515769935166 NNT 8.948715833843691 
+LXLWJIN	MOD 5.572154032177765 RB 6.970417040106848 
+AMR	VB 4.532434053496993 
+AMT	NN 7.429605620879854 
+MTQFH	VB 8.301356215284466 
+AMW	NN 8.682368589375221 
+SMJAWT	NNT 8.948715833843691 
+MLWNAWT	NN 9.375515769935166 
+AND	NNP 7.698633948035417 
+NMWKH	JJ 8.881558488638976 
+BAIN	IN 9.053511107943164 
+ANG	NNP 8.797246236703527 
+PMLIITW	NN 10.068662950495112 
+EJRH	NNP 8.797246236703527 
+SKSWK	NNT 8.948715833843691 NN 7.583756300707112 
+MAHL	NN 8.970050661827003 NNT 8.948715833843691 
+ANI	PRP 2.831192849791128 
+MHNDS	NNT 8.255568653283746 NN 9.375515769935166 
+BAIM	VB 7.002073231154205 JJ 7.495264127519086 
+FWIICR	NNP 8.104099056143582 
+KDWRIW	NN 10.068662950495112 
+JEWTI	NN 10.068662950495112 
+FMWT	NN 8.122752801439798 
+ANS	VB 9.399968503952575 
+TWAM	VB 8.301356215284466 
+MAKZBWT	JJ 8.881558488638976 
+ANW	PRP 4.622952319019183 
+JEWTW	NN 9.375515769935166 
+KRWNI	JJ 8.881558488638976 
+IWBA	VB 9.399968503952575 
+LHTIR	VB 8.70682132339263 
+TWAR	VB 8.70682132339263 
