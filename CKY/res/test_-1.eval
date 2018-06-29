@@ -1,0 +1,4 @@
+  Sent.                        Matched  Bracket   Cross        Correct Tag
+ ID  Len.  Stat. Recal  Prec.  Bracket gold test Bracket Words  Tags Accracy
+============================================================================
+   1   20    0   60.87  66.67    14     23   21      3     20    18    90.00
